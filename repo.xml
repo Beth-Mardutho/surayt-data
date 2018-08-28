@@ -2,12 +2,12 @@
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>Surayt Corpus: Data</description>
     <author></author>
-    <website>http://surayt.org/</website>
+    <website>https://surayt.bethmardutho.org/</website>
     <status>alpha</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>surayt-data</target>
+    <target>e-surayt-data</target>
     <prepare>pre-install.xql</prepare>
     <prepare>post-install.xql</prepare>
     <finish/>
