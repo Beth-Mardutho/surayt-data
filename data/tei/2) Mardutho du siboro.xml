@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ܐܺܝ ܡܰܪܕܘܬܼܳܐ ܕܽܘ ܣܺܝܒܳܪܳܐ ܒܛܘܪܥܰܒܕܝܢ</title>
+                <title xml:lang="syr">ܐܺܝ ܡܰܪܕܘܬܼܳܐ ܕܽܘ ܣܺܝܒܳܪܳܐ ܒܛܘܪܥܰܒܕܝܢ</title>
                 <author>KawmePC</author>
             </titleStmt>
             <editionStmt>
@@ -35,7 +35,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body xml:lang="syr">
             <p>ܐܺܝ ܡܰܪܕܘܬܼܳܐ ܕܽܘ ܣܺܝܒܳܪܳܐ ܒܛܘܪܥܰܒܕܝܢ</p>
             <p>ܒܛܘܪܥܰܒܕܝܢ ܐܝ ܡܰܪܕܘܬܼܐ ܘܺܐܝ ܗܰܝܡܳܢܘܬܐ ܡܰܣܪܶܐ ܢܶܐ ܒܷܚܕ݂ܳܕ݂ܶܐ ܘܐܰܡ ܡܰܪܕܘܳܬܼܐ (ܐܰܥ ܥܰܕܰܬ) ܒܝ ܗܰܝܡܳܢܘܬܼܐ ܟܳܚܳܙܷܢ ܣܘܟܳܠܐ. ܒܰܥ ܥܰܕܕܰܬ ܟܘܠܠܶܗ ܕܠܳܐ ܫܘܐܳܠܐ<note place="foot" xml:id="ftn1" n="1">
                     <p rend="footnote text"> ܡܶܐ ܕܰܪܒܶܗ ܕܠܐ ܫܘܐܳܠܳܐ ܚܰܐ ܟܺܝܒܶܗ ܕܡܷܣܬܰܥܡܷܠ (ܡܶܢ ܟܠ ܦܪܘܣ) ܣܬܶܐ.</p>

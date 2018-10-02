@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ܥܷܣܪܝ ܡܰܬܼܠܶܐ ܡܷܐ ܕܟܳܢܦܘܫ̰ܝܘܣ</title>
+                <title xml:lang="syr">ܥܷܣܪܝ ܡܰܬܼܠܶܐ ܡܷܐ ܕܟܳܢܦܘܫ̰ܝܘܣ</title>
                 <author>KawmePC</author>
             </titleStmt>
             <editionStmt>
@@ -35,7 +35,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body xml:lang="syr">
             <p>ܥܷܣܪܝ ܡܰܬܼܠܶܐ ܡܷܐ ܕܟܳܢܦܘܫ̰ܝܘܣ</p>
             <p>ܟܳܢܦܘܫ̰ܝܘܣ(Konfüçyüs B.C. 551-479)</p>
             <p>ܐ- ܡܶܐ ܕܰܪܒܶܗ ܕܷܡܨܰܥܪܰܬ ܠܝ ܥܘܬܡܐ، ܡܰܩܷܬܼ ܫܰܡܥܐ.</p>
