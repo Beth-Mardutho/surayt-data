@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">
+          <foreign xml:lang="tru">
+            <!-- Insert Syriac title -->ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܣܰܣ ܣܘܪܝܳܝܶܐ
+          </foreign> / <!-- Insert transliterated title -->I Musiqi w u Zmoro sas Suryoye
+        </title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->Abrohom Laḥdo
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-BerlinTeam </name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/1001</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2019</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2019-11-12">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܣܰܣ ܣܘܪܝܳܝܶܐ‬‬‬‬‬‬‬‬‬‬‬‬‬
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
+          ܐܝ ܡܘܣܝܩܝ ܕܰܣ ܣܘܪܝܳܝܶܐ ܟܳܡܷܦܠܳܓ݂ܐ ܠܷܬܪܶܐ ܦܰܠܩܶܐ (ܩܷܣܡܰܬ)܃ ܐܘ ܦܰܠܩܐ ܩܰܡܳܝܐ ܕܟܷܬܝܐ ܡܶܩܷܡ ܡܶܐ ܡܫܝـܚܐ ܘܐܘ ܦܰܠܩܐ ܕܰܬ ܬܪܶܐ ܕܟܷܬܝܐ ܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝـܚܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
+          1: ܐܝ ܡܘܣܝܩܝ ܕܰܣ ܣܘܪܝܳܝܶܐ ܡܶܩܷܡ ܡܘ ܡܰܘܠܳܕܐ ܕܷܡܫܝܚܐ܃
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
+          ܐܝ ܐܝܕ݂ܰܥܬ݂ܐ ܕܥܰܠ ܐܝ ܡܘܣܝܩܝ ܕܡܶܩܷܡ ܡܶܐ ܡܫܝـܚܐ ܡܰܛܝܳܠܰܢ ܒܰܕ ܕܰܪܒܰܢܝ܃
+          1: ܒܘ ܡܶܕܶܐ ܕܷܟܬ݂ܘܘܶܗ ܐܰܡ ܡܒܰܚܢܳܢܶܐ ܕܘ ܡܰܟ݂ܬܰܒܙܰܒܢܐ، ܝܰܥܢܝ ܐܰܢ ܐܰܪܟ݂ܝـܝܳܠܳܓ݂ܳܝܶܐ
+          2: ܒܰܡ ܡܳܢܶܐ ܡܘܣܝܩܳܝܶܐ ܕܷܚܙܰܢܢܶܗ ܬܰܚܬܰܗ ܕܝ ܐܰܪܥܐ، ܟ݂ܷܕ ܩܝܬ݂ܳܪܶܐ، ܙܳܪܢܰܬ، ܣܰܙܰܬ، ܛܰܒܠܶܐ ܘܰܣܛܰܪ
+          3: ܒܰܨ ܨܷܪܬܳܬ݂ܶܐ ܕܰܡ ܡܳܢܶܐ ܕܝ ܡܘܣܝܩܝ ܘܪܘܫܡܶܐ ܚܪܶܢܶܐ ܕܘ ܙܡܳܪܐ ܘܕܘ ܪܰܩܕ݂ܐ ܕܷܚܙܷܢ ܒܰܩ ܩܰܘܪܶܐ ܕܰܡ ܡܰܠܟܶܐ ܘܒܰܩ ܩܘܨܪܶܐ
+          4: ܒܘ ܡܶܕܶܐ ܕܷܚܙܶܐ ܟܬ݂ܝܘܐ ܒܰܠ ܠܘܚܶܐ ܕܘ ܛܝܢܐ
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
+          ܐܝ ܐܝܕ݂ܰܥܬ݂ܐ ܕܥܰܠ ܐܝ ܡܘܣܝܩܝ ܕܡܶܩܷܡ ܡܶܐ ܡܫܝـܚܐ ܡܰܛܝܳܠܰܢ ܒܰܕ ܕܰܪܒܰܢܝ܃ܡܫܰܪܶܠܰܗ ܐܝ ܡܘܣܝܩܝ ܣܰܫ ܫܘܡܶܪܳܝܶܐ، ܬܰܩܪܝܒܰܢ ܒܝ ܫܰܬܐ 2800 ܡ.ܡ. ܟܷܬܘܰܠܠܶܗ ܡܳܢܶܐ ܡܘܣܝܩܳܝܶܐ ܓ݂ܱܠܱܒܶܐ ܟ݂ܷܕ܃ ܩܝܬ݂ܳܪܐ ܪܰܒܐ ܘܢܰܥܝܡܐ، ܩܝܬ݂ܳܪܶܐ ܩܝܡܶܐ ܘܩܝܬ݂ܳܪܶܐ ܫܛܝـܚܶܐ ܠܘ ܛܥܳܢܐ ܠܰܫܰܢ ܐܘ ܢܩܳܫܐ ܕܒܰܕ ܕܰܪܒܶܐ. ܕܝܣ ܟܷܬܘܰܠܠܶܗ، ܛܰܒܠܶܐ ܪܰܒܶܐ ܘܢܰܥܝܡܶܐ، ܕܰܪܒܰܟܟܰܬ، ܕܰܦ، ܥܘܕ، ܣܰܐܙ، ܡܰܫܪܘܩܶܐ، ܙܳܪܢܰܝܰܬ ܘܰܣܛܰܪ.
+          ܐܰܡ ܡܳܢܰܢܝ ܚܙܷܢ ܒܝ ܡܰܩܒܰܪܰܐ ܕܐܘܪ ܕܰܡ ܡܰܠܟܶܐ ܫܘܡܶܪܳܝܶܐ ܕܟܳܕܳܥܰܪ ܐܘ ܙܰܒܢܰܬ݂ܬ݂ܶܗ ܠܝ ܫܰܬܐ 2450 ܡ.ܡ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
+          ܒܷܬ݂ܷܪ، ܟܳܡܝܟܰܡܠܐ ܘܟܳܡܝܛܰܘܪܐ ܐܝ ܡܘܣܝܩܝ ܣܰܢ ܐܰܟܟܰܕܳܝܶܐ، ܣܰܒ ܒܷܒܠܳܝܶܐ ܘܣܰܢ ܐܳܬ݂ܘܪܳܝܶܐ.
+          ܐܘ ܣܬܰܥܡܰܠ ܕܝ ܡܘܣܝܩܝ ܗܳܘܶܘܰܐ ܒܰܚ ܚܰܓܶܐ ܘܒܰܫ ܫܰܗܪܶܐ ܕܰܡ ܡܰܠܟܶܐ، ܒܰܚ ܚܰܓܶܐ ܕܝ ܡܰܡܠܰܟ݂ܬܐ، ܒܰܚ ܚܰܓܶܐ ܘܒܰܫ ܫܰܗܪܶܐ ܕܝܠܳܢܳܝܶܐ ܕܘ ܥܰܡܐ، ܒܚܰܐ ܢܝܣܷܢ، ܒܰܩ ܩܪܳܒܶܐ ܘܒܰܡ ܡܷܫܬܰܘܳܬ݂ܶܐ ܕܝܠܳܢܳܝܶܐ ܕܘ ܥܰܡܐ ܘܰܣܛܰܪ
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
+          ܗܶܫ ܡܘ ܙܰܒܢܐ ܕܰܫ ܫܘܡܶܪܳܝܶܐ ܐܷܕ݂ܥܝܘܰܐ ܐܰܡ ܡܩܳܡܶܐ ܡܘܣܝܩܳܝܶܐ (Music Scales)، ܐܰܟ݂ ܡܰܬ݂ܠܶܐ܃ ܐܝܫܰܬܐ، ܟܝܬܡܐ ܐܰܡܒܘܒܐ ... ܝܰܥܢܝ، ܟ݂ܷܕ ܟܷܐܕ݂ܥܝܢܰܢܢܶܗ ܐܰܕܝܰܘܡܰܐ܃ ܩܰܕ݂ܡܳܝܐ، ܬܪܰܝܳܢܐ، ܬܠܝܬ݂ܳܝܐ، ܘܰܣܛܰܪ.
+          ܒܷܬ݂ܷܪ ܡܝ ܢܦܰܠܬܐ ܕܢܝܢܘܶܐ ܒܝ ܫܰܬܐ ܕܰܫ 612 ܡ.ܡ. ܘܕܒܳܒܷܠ ܒܰܚ 539 ܡ.ܡ. ܡܷܕܕܶܗ ܐܰܦ ܦܷܪܣܳܝܶܐ ܐܝ ܡܰܪܕܘܬ݂ܐ ܕܒܶܝܬ݂ܢܰܗܪܝܢ ܘܐܰܥܡܰܗ ܐܝ ܡܘܣܝܩܝ ܣܬܶܐ. ܗܰܘܟ݂ܰܐ ܟܳܥܳܝܰܫ ܐܘ ܥܰܡܐ ܕܒܶܝܬ݂ܢܰܗܪܝܢ ܬܰܚܬ ܐܝ ܡܷܫܬܰܥܷܡܪܳܢܘܬ݂ܐ ܕܰܦ ܦܷܪܣܳܝܶܐ ܠܡܳܘܰܬ ܕܐܷܫܢܶܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
+          2: ܐܝ ܡܘܣܝܩܝ ܣܘܪܝܰܝܬܐ ܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝܚܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
+          ܐܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܡܷܕܠܶܗ ܐܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܐܰܟ݂ ܬܰܘܕܝܬ݂ܐ ܚܰܬ݂ܬܐ ܘܦܪܝܣܳܠܶܗ ܒܟܘܠ ܕܘܟܬ݂ܐ. ܐܘ ܡܰܟ݂ܬܰܒܙܰܒܢܐ ܟܳܡܬ݂ܰܒܰܬ ܕܐܰܣ ܣܘܪܝܳܝܶܐ ܡܰܥܒܰܪܪܶܗ ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܒܕܘܡܝܐ ܕܓܘܕܶܐ ܕܓܰܒܪܶܐ ܘܢܶܫܶܐ ܠܝ ܥܝܬܐ ܘܗܰܢܐ ܗܰܘܝ ܒܘ ܙܰܒܢܐ ܕܡܳܪܝ ܐܰܦܪܶܝܡ (306‐373 ܒ.ܡ.). ܡܳܪܝ ܐܰܦܪܶܝܡ ܡܷܕܠܶܗ ܐܰܩ ܩܝܢܳܬ݂ܶܐ ܕܒܰܪܕܰܝܨܰܢ ܘܡܰܚܰܬܠܶܗ ܐܰܥܠܰܝـܝܶܗ ܡܶܠܶܐ ܬܰܘܕܝܬ݂ܳܢܳܝܶܐ، ܐܰܘܟܝܬ݂ ܡܶܠܶܐ ܕܰܨ ܨܠܰܘܳܬ݂ܶܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
+          ܒܰܪܕܰܝܨܰܢ ܥܰܝܷܫ ܡܶܐ 154 ܗܘܠ 222 ܒ.ܡ. ܓܰܒܪܐ ܐܘܪܗܳܝܐ، ܣܘܪܝܳـܝܐ، ܡܘܣܝܩܳܪܐ، ܦܝܠܳܣܘܦܐ ܘܐܳܡܘܪܐ ܘܰܐ ܣܬܶܐ. ܗܰܘܝܘܰܐ ܡܫܝܚܳܝܐ ܘܟܷܐܡܡܝ ܗܰܘܝܘܰܐ ܩܰܫܐ ܣܬܶܐ. ܦܳܗܰܡܘܰܐ ܒܘ ܝܘܠܦܳܢܐ ܕܘ ܦܱܠܰܟ (ܡܰܘܙܰܠܬܐ). ܣܷܡܘܰܝܠܶܗ 150 ܙܡܰܪܝܳܬ݂ܶܐ (ܒܘ ܕܘܡܝܐ ܕܰܡ ܡܰܙܡܘܪܶܐ ܕܕܰܘܝܕ݂ ܐܘ ܡܰܠܟܐ)، ܓ݂ܱܠܱܒܶܐ ܒܰܣܝܡܶܐ ܘܰܝܢܶܐ ܘܡܷܙܡܳܪܝܘܰܐ ܒܐܘܪܗܳܝ ܘܚـܝܕ݂ܳܪܰܗ ܒܷܦܨܝـܚܘܬ݂ܐ. ܗܰܢܐ ܒܘ ܙܰܒܢܐ ܕܟܷܬܘܰܐ ܗܶܫ ܐܝ ܡܰܡܠܰܟ݂ܬܐ ܣܘܪܝܰܝܬܐ ܕܐܘܪܗܳܝ ܩܷܡܬܐ (127 ܡ.ܡ. ܗܘܠ 243 ܒ.ܡ.)
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
+          ܐܰܝ ܝܰܕܘܥܬ݂ܳܢܶܐ ܕܘ ܡܰܟ݂ܬܰܒܙܰܒܢܐ ܕܝ ܡܘܣܝܩܝ، ܐܰܓ݂ܠܰܒ ܕܷܬ݂ܬ݂ܶܗ ܟܷܐܡܡܝ ܕܐܝ ܡܘܣܝܩܝ ܕܥܰܒܝܪܐ ܠܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܟܳܕܳܥܰܪ ܐܘ ܫܷܪܫܰܝܕ݂ܰܗ ܠܝ ܡܘܣܝܩܝ ܕܡܶܩܷܡ ܡܶܐ ܡܫܝܚܐ
+          ܐܰܘܟܝܬ݂ ܠܘ ܙܰܒܢܐ ܕܰܢ ܐܳܬ݂ܘܪܳܝܶܐ، ܕܰܢ ܐܰܟܟܰܕܳܝܶܐ ܘܕܰܫ ܫܘܡܶܪܳܝܶܐ.
+          ܐܘ ܦܘܚܳܡܐ ܕܒܰܝܢܶܗ ܕܰܡ ܡܩܳܡܶܐ ܟܳܡܬ݂ܰܒܰܬ ܐܘ ܡܶܕܰܢܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
+          ܐܝ ܡܘܣܝܩܝ ܕܝ ܥܝܬܐ ܣܘܪܝܰܝܬܐ ܝܘܠܦܳܢܐ ܡܘܣܝܩܳܝܐ ܟܰܡܝܠܐ ܝܐ. ܐܶܢ ܒܰܡ ܡܩܳܡܶܐ، ܒܘ ܫܷܟܷܠ ܕܘ ܙܡܳܪܐ، ܒܰܡ ܡܝܡܪܶܐ ܡܟܰܝܠܶܐ، ܒܰܪ ܪܷܟܢܶܐ ܘܰܐܟ ܟܰܝܠܶܐ. ܠܟܘܠ ܡܘܢܰܣܱܒܶܐ ܟܷܬܠܰܗ ܬܰܚܪܰܙܬܐ ܕܝܠܳܢܰܝܬܐ ܕܘ ܙܡܳܪܐ، ܐܰܟ݂ ܡܰܬ݂ܠܶܐ܃ ܐܰܩ ܩܘܪܳܒܶܐ ܐܰܠܳܗܳܝܶܐ، ܐܰܟ ܟܠܝܠܶܐ، ܐܰܥ ܥܡܳܕ݂ܶܐ، ܐܰܥ ܥܘܦܳܝܶܐ، ܐܘ ܐܘܫܰܥܢܐ ܘܐܰܢ ܢܰܗܝܪܶܐ ܘܰܣܛܰܪ. ܐܳܢܐ ܦܰܪܨܘܦܳܐܝܬ݂ ܟܳܐܡܰܪܢܐ ܠܟܘܠ ܬܰܚܪܰܙܬܐ ܕܝ ܡܘܣܝܩܝ܃ ܟܳܢܣܶܪܬ ܥܝܬܳܢܳܝܐ ܒܕܘܡܝܐ ܕܟܳܢܣܶܪܬ ܥܷܠܡܳܝܐ.
+          ܟܝܒܰܢ ܕܐܷܡܡܝܢܰܐ ܣܬܶܐ ܕܐܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܐܝ ܩܰܡܰܝܬܐ ܕܟܘܠܠܶܗ ܐܰܥ ܥܝܬܰܘܳܬ݂ܶܐ ܘܰܐ ܕܡܰܥܒܰܪܠܰܗ ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܠܝ ܥܝܬܐ.
+          ܐܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܟܷܬܠܰܗ ܬܡܰܢܝܐ ܡܩܳܡܶܐ ܡܘܣܝܩܳܝܶܐ. ܟܘܠ ܚܘܫܰܒܐ ܟܳܡܨܰܠܷܢ ܡܩܳܡܐ ܚܪܶܢܐ ܘܗܰܘܟ݂ܰܐ ܡܘ ܚܰܐ ܗܘܠ ܠܰܬ ܬܡܰܢܝܐ ܚܶܕ݂ܷܪ ܕܝ ܫܰܬܐ ܟܘܠܰܗ.
+          ܟܷܬܠܰܗ 37 ܫܷܟܠܰܬ ܕܘ ܙܡܳܪܐ ܐܰܟ݂، ܬܰܟ݂ܫܶܦܬܐ، ܡܰܕ݂ܪܳܫܐ، ܣܘܓܝܬ݂ܐ، ܥܘܢܝܬ݂ܐ، ܗܘܠܳܠܐ، ܙܘܡܳܪܐ، ܡܰܙܷܥܩܳܢܘܬ݂ܐ ܘܰܣܛܰܪ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
+          ܒܘ ܕܳܪܐ ܬܡܝܢܳܝܐ ܒ.ܡ. ܡܩܰܪܰܪܠܰܗ ܐܝ ܣܘܢܢܰܕܳܣ ܕܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܬܪܶܐ ܡܶܕܳܢܶܐ ܐܘܠܨܳܝܶܐ ܓ݂ܱܠܱܒܶܐ ܘܗܷܢܢܶܐ܃
+          1: ܗܰܪܟܶܐ ܟܳܟܳܡܰܠ ܐܘ ܛܘܟܣܐ ܡܘܣܝܩܳܝܐ ܕܝ ܥܝܬܐ ܘܠܰܘ ܟܳܘܶܐ ܕܥܳܒܰܪ ܡܝܡܪܶܐ ܘܠܐ ܩܝܢܳܬ݂ܶܐ ܚܰܬ݂ܶܐ ܠܝ ܥܝܬܐ
+          2: ܐܷܫܡܰܗ ܕܝ ܣܶܒܷܠܬܐ ܕܝ ܡܘܣܝܩܝ܃ ܐܰܟܰܐܕܝ̈ܐܣ
+          )ܟܳܬ݂ܘܒܐ܃ ܦܰܛܷܪܝܰܪܟ݂ܐ ܡܳܪܝ ܐܰܦܪܶܝܡ ܒܰܪܨܰܘܡ܃ ܒܶܪܘܠܶܐ ܒܕ݂ܝܪܶܐ)
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
+          ܐܰܣ ܣܘܪܝܳܝܶܐ ܟܳܡܨܰܠܷܢ ܬܠܷܬ݂ ܕܰܢܰܬ ܒܘ ܝܰܘܡܐ ܘܟܘܠ ܝܰܘܡܶܗ ܕܚܘܫܰܒܐ ܩܘܪܳܒܐ ܐܰܠܳܗܳܝܐ ܘܟܷܬܬܶܗ ܚܶܕ݂ܷܪ 20 ܥܶܕ݂ܶܐ ܡܳܪܳܢܳܝܶܐ ܣܬܶܐ. ܘܗܰܢܝ ܟܘܠܠܶܗ ܥܰܡ ܙܡܳܪܐ ܢܶܐ.
+          ܢܩܝܠܐ (ܡܝܰܒܠܐ) ܐܝ ܡܘܣܝܩܝ ܡܶܐ ܕܳܪܐ ܠܕܳܪܐ ܡܘ ܦܶܡܐ ܠܝ ܐܰܕ݂ܢܐ ܒܘ ܕܰܪܒܐ ܕܰܕ ܕܰܝܪܶܐ ܘܕܰܥ ܥܝܬܰܘܳܬ݂ܶܐ ܘܕܰܡ ܡܰܕܪܰܫܝܳܬ݂ܶܐ ܘܕܝܣ ܒܘ ܕܰܪܒܐ ܕܰܡ ܡܰܠܦܳܢܶܐ ܕܝܠܳܢܳܝܶܐ ܕܘ ܒܶܝܬ݂ܓܰܙܐ، ܗܘܠ ܕܡܰܛܝܳܠܰܢܝܐ ܠܐܰܕܝܰܘܡܰܐ. ܡܣܰܟܰܪ ܩܝܢܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ، ܐܶܠܐ ܐܘ ܡܶܕܶܐ ܕܦܰܝܷܫ ܘܕܡܰܛܝܠܰܢ ܟܳܡܰܟܦܶܐ ܕܐܷܡܡܝܢܰܐ ܕܟܷܬܝܐ ܡܘܣܝܩܝ ܕܥܰܡܐ ܚܰـܝܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
+          ܡܶܐ ܕܳܪܶܐ ܓ݂ܱܠܱܒܶܐ، ܠܰܘ ܙܡܷܪܘܰܠܠܶܗ ܐܰܣ ܣܘܪܝܳܝܶܐ ܙܡܰܪܝܳܬ݂ܶܐ ܥܰܡܳܝܶܐ ܘܥܰܠ ܐܝ ܚܘܒܐ، ܡܶܐ ܣܱܒܰܒܶܐ ܡܫܰܚܷܠܦܶܐ، ܗܘܠ ܕܐܰܬ݂ܷܢ ܐܰܥ ܥܠܰܝܡܶܐ ܕܝ ܡܛܰܟܰܣܬܐ ܐܳܬ݂ܘܪܰܝܬܐ (ADO) ܒܝ ܩܰܡܷܫܠܐ ܕܡܰܕܥܰܪܪܶܗ ܘܦܪܷܣܣܶܗ ܐܘ ܙܡܳܪܐ ܥܰܡܳܝܐ ܒܝ ܫܰܬܐ 1967 ܢܰܩܠܰܐ ܚܪܶܬܐ.
+          ܥܰܠ ܕܟܷܬܝܐ ܐܝ ܡܘܣܝܩܝ ܕܝ ܥܝܬܐ ܣܘܪܝܰܝܬܐ ܥܰܬܷܩܬܷܪ ܡܝ ܡܘܣܝܩܝ ܕܘ ܡܰܕܷܢܚܐ ܘܕܘ ܡܰܥܷܪܒܐ ܣܬܶܐ ܕܡܰܛܝܳܠܰܢ ܡܘ ܕܳܪܐ ܪܒܝܥܳܝܐ ܗܘܠ ܐܘܥܕܐ ܕܠܐ ܩܘܛܳܥܐ، ܐܶܠܝ ܟܳܦܰܝܫܐ ܗܰܬ݂ܶܐ ܐܝ ܡܘܣܝܩܝ ܐܝ ܫܶܬܷܣܬܐ ܕܟܘܠ ܡܘܣܝܩܝ ܘܕܟܘܠ ܙܡܷܪܬܐ ܣܘܪܝܰـܝܬܐ ܘܡܰܕܷܢܚܰـܝܬܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.16" corresp="test.latn.16"/>
+          ܢܘܗܳܪܐ܃
+          ܡ.ܡ. = ܡܶܩܷܡ ܡܶܐ ܡܫܝـܚܐ
+          ܒ.ܡ. = ܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝـܚܐ
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
+          ܐܳܣܝܐ ܐܰܒܪܳܗܳܡ ܠܰܚܕܐ
+          ܘܝܣܒܰܕܷܢ ܒܢܝܣܷܢ 2017
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+          I Musiqi w u Zmoro sas Suryoye
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+          I musiqi das Suryoye komëfloġo lë tre falqe (qësmat): u falqo qamoyo d këtyo meqëm me Mšiḥo w u falqo dat tre d këtyo bëṯër me Mšiḥo.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+          1- I musiqi das Suryoye meqëm mu mawlodo dë Mšiḥo:
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+          1- I iḏacṯo d cal i musiqi d meqëm me Mšiḥo maṭyolan bad darbani:
+          1.	1. Bu mede dë kṯuwe am mbaḥnone du maxtabzabno, yacni an arxiyoloġoye
+          2.	2. Bam mone musiqoye dë ḥzanne taḥta di arco, xëd qiṯore, zornat, sazat, ṭable wasṭar
+          3.	3. Baṣ ṣërtoṯe dam mone di musiqi w rušme ḥrene du zmoro w du raqḏo dë ḥzën baq qawre dam malke w baq quṣre
+          4.	4. Bu mede dë ḥze kṯiwo bal luḥe du ṭino
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+          Mšarela i musiqi saš Šumeroye, taqriban bi šato 2800 m.M. Këtwalle mone musiqoye ġäläbe xëd: qiṯoro rabo w nacimo, qiṯore qime w qiṯore šṭiḥe lu ṭcono lašan u nqošo d bad darbe. Dis këtwalle, ṭable rabe u nacime, darbakkat, daf, cud, saz, mašruqe, zornayat wasṭar.
+          Am monani ḥzën bi maqbara d Ur dam malke Šumeroye d kodocar u zabnaṯṯe li šato 2450 m.M.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+          Bëṯër, komikamlo w komiṭawro i musiqi san Akkadoye, sab Bëbloye w san Oṯuroye.
+          U stacmal di musiqi howewa baḥ ḥage w baš šahre dam malke, baḥ ḥage di mamlaxto, baḥ ḥage w baš šahre dilonoye du camo, b Ḥa-Nisën, baq qrobe w bam mëštawoṯe dilonoye du camo wasṭar.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+          Heš mu zabno daš Šumeroye ëḏciwa am mqome musiqoye (Music Scales), ax maṯle: Išato, Kitmo Ambubo… yacni, xëd këḏcinanne adyawma: qaḏmoyo, trayono, tliṯoyo, wasṭar.
+          Bëṭër mi nfalto d Ninwe bi šato daš 612 m.M. w d Bobël baḥ 539 m.M mëdde af Fërsoye i marduṯo d Beṯ-Nahrin w acma i musiqi ste. Hawxa kocoyaš u camo d Beṯ-Nahrin taḥt i mëštacëmronuṯo daf Fërsoye l mowat d ëšne.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+          2. I musiqi Suryayto bëṯër me Mšiḥo:
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+          U camo Suryoyo mëdle i Mšiḥoyuṯo ax tawdiṯo ḥaṯto w frisole b kul dukṯo. U maxtabzabno komṯabat d as Suryoye macbarre i musiqi w u zmoro b dumyo d gude d gabre w neše li cito w hano hawi bu zabno d Mor Afrem (306-373 b.M.). Mor Afrem mëdle aq qinoṯe d Bar-Dayṣan u maḥatle aclayye mele tawdiṯonoye, awkiṯ mele daṣ ṣlawoṯe.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
+          Bar-Dayṣan cayëš me 154 hul 222 b.M. Gabro Urhoyo, Suryoyo, musiqoro, filosufo w omuro wa ste. Hawiwa mšiḥoyo u këmmi hawiwa qašo ste. Fohamwa bu yulfono du fälak (mawzalto). Sëmwayle 150 zmaryoṯe (bu dumyo dam mazmure d Dawiḏ u malko), ġäläbe basime wayne w mëzmoriwa b Urhoy w ḥiḏora bë fṣiḥuṯo. Hano bu zabno d këtwa heš i mamlaxto Suryayto d Urhoy qëmto (127 m.M. hul 243 b.M.).
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
+          Ay yaducṯone du maxtabzabno di musiqi, aġlab dëṯṯe këmmi d i musiqi d cabiro li Cito Suryayto kodocar u šëršayḏa li musiqi d meqëm me Mšiḥo awkiṯ lu zabno dan Oṯuroye, dan Akkadoye w daš Šumeroye.
+          U fuḥomo d bayne dam mqome komṯabat u medano.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
+          I musiqi di Cito Suryayto yulfono musiqoyo kamilo yo. En bam mqome, bu šëkël du zmoro, bam mimre mkayle, bar rëkne wak kayle. L kul munasäbe këtla taḥrazto dilonayto du zmoro, ax maṯle: aq qurobe alohoye, ak klile, ac cmoḏe, ac cufoye, u ušacno w an nahire wasṭar. Ono farṣufoyiṯ komarno l kul taḥrazto di musiqi: konsert citonoyo b dumyo d konsert cëlmoyo.
+          Kiban d ëmmina ste d i Cito Suryayto i qamayto d kulle ac citawoṯe wa d macbarla i musiqi w u zmoro li cito.
+          I Cito Suryayto këtla tmanyo mqome musiqoye. Kul ḥušabo komṣalën mqomo ḥreno w hawxa mu ḥa hul lat tmanyo ḥeḏër di šato kula.
+          Këtla 37 šëklat du zmoro ax, taxšefto, maḏrošo, sugiṯo, cuniṯo, hulolo, zumoro, mazëcqonuṯo wasṭar.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
+          Bu doro tminoyo b.M. mqararla i sunnados di Cito Suryayto tre medone ulṣoye ġäläbe w hënne:
+          1.	1: „Harke kokomal u ṭukso musiqoyo di Cito w law kowe d cobar mimre w lo qinoṯe ḥaṯe li Cito.”
+          2.	2: „Ëšma di sebëlto di musiqi: Oktoechos“.
+          (Koṯubo: Faṭëryarxo Mor Afrem Barṣawm: Berule Bḏire).
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
+          As Suryoye komṣalën tlëṯ danat bu yawmo w kul yawme d ḥušabo qurobo alohoyo w këtte ḥeḏër 20 ceḏe moronoye ste. U hani kulle cam zmoro ne.
+          Nqilo (myablo) i musiqi me doro l doro mu femo li aḏno bu darbo dad dayre w dac citawoṯe w dam madrašyoṯe w dis bu darbo dam malfone dilonoye du Beṯ-Gazo, hul d maṭyolanyo l adyawma. Msakar qinoṯe ġäläbe, elo u mede d fayëš w d maṭilan komakfe d ëmmina d këtyo musiqi d camo ḥayo.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
+          Me dore ġäläbe, law zmërwalle as Suryoye zmaryoṯe camoye w cal i ḥubo, me säbabe mšaḥëlfe, hul d aṯën ac clayme di Mṭakasto Oṯurayto (ADO) bi Qamëšlo d madcarre w frësse u zmoro camoyo bi šato 1967 naqla ḥreto.
+          Cal d këtyo i musiqi di Cito Suryayto catëqtër mi musiqi du Madënḥo w du Macërbo ste d maṭyolan mu doro rbicoyo hul ucdo dlo quṭoco, eli kofayšo haṯe i musiqi i šetësto d kul musiqi w d kul zmërto Suryayto w Madënḥayto.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
+          Nuhoro:
+          m.M.= meqëm me Mšiḥo
+          b.M. = bëṯër me Mšiḥo
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
+          Osyo Abrohom Laḥdo
+          Wiesbaden b Nisën 2017
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
