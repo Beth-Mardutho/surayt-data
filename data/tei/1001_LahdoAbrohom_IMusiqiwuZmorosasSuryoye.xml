@@ -3,11 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en">
-          <foreign xml:lang="tru">
-            <!-- Insert Syriac title -->ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܣܰܣ ܣܘܪܝܳܝܶܐ
-          </foreign> / <!-- Insert transliterated title -->I Musiqi w u Zmoro sas Suryoye
-        </title>
+        <title xml:lang="en"><foreign xml:lang="tru">ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܣܰܣ ܣܘܪܝܳܝܶܐ </foreign> / I Musiqi w u Zmoro sas Suryoye</title>
         <title level="s">Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Abrohom Laḥdo
