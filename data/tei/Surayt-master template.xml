@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܒܘܚܪܢܐ</foreign> - <!-- Insert transliterated title -->buḥrono</title>
+                <title level="s">Syrayt Corpus</title>
+                <author><!-- Insert name of author of this text -->Abrohom Laḥdo</author>
+                <sponsor>Erasmus+ Programme of the European Union</sponsor>
+                <sponsor>Freie Universität Berlin</sponsor>
+                <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+                <sponsor>Stockholm University</sponsor>
+                <sponsor>Syrisch-Orhodoxe Kerk van Antiochie</sponsor>
+                <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+                <funder/><!-- You can list funders seperate from sponsors -->
+
+                <editor role="editor"><!-- Insert name of editor -->George A. Kiraz</editor>
+                <!-- Repeat editor role for each individual editor -->
+                
+                <respStmt>
+                    <resp>TEI XML encoding by</resp>
+                    <name><!-- Insert the name of the person responsible for this conversion -->George A. Kiraz</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name><!--Insert name of the person who edits this document (if applicable) --></name>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.1"/>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>
+                    <placeName><!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+						Beth Mardutho: The Syriac Institute
+					</placeName>
+                </distributor>
+                <authority>Surayt Corpus</authority>
+                <idno type="URI">https://surayt.bethmardutho.org/0</idno><!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+                <availability><!-- Are these texts Open Access? If so, you can just leave this section as is -->
+                    <p/>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+                        <p>https://creativecommons.org/licenses/by/4.0/</p>
+                    </licence>
+                    <ab><note><!-- You may want to add a note here explaining the open access policy --></note></ab>
+                </availability>
+                <date calendar="Gregorian"><!-- Our date of publication of this XML document--></date>
+            </publicationStmt>
+            <sourceDesc xml:id="sourceDesc1">
+                    <bibl>
+                        <title><!-- Insert title of the work here --></title>
+                        <author><!-- Insert author of the work here --></author>
+                        <note><p><!-- Add any necessary notes about the original publication --></p></note>
+                    </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p><!-- Insert brief description of the Surayt Project -->
+					Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+				</p>
+            </editorialDecl>
+        </encodingDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="tru">Surayt/Turyoyo dialect of Neo-Aramaic</language>
+                </langUsage>
+            </profileDesc>
+            <revisionDesc>
+                <change when="YYYY-MM-DD">Created: file</change><!-- Insert date of file creation -->
+                <change><!-- Repeat the change element as often as necessary when the files are updated --></change>
+            </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><!-- Text goes here -->
+            <div type="surayt">
+                <p xml:lang="tru">
+                    <anchor xml:id="test.text.1" corresp="test.trans.1"/>
+                    <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+                    <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+                    <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+					‫ܐܝ ܡܘܣܝܩܝ ܘܐܘ ܙܡܳܪܐ ܣܰܣ ܣܘܪܝܳܝܶܐ‬‬‬‬‬‬‬
+                </p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.text.2" corresp="test.trans.2"/>
+					ܐܝ ܡܘܣܝܩܝ ܕܰܣ ܣܘܪܝܳܝܶܐ ܟܳܡܷܦܠܳܓ݂ܐ ܠܷܬܪܶܐ ܦܰܠܩܶܐ (ܩܷܣܡܰܬ)܃ ܐܘ ܦܰܠܩܐ ܩܰܡܳܝܐ ܕܟܷܬܝܐ ܡܶܩܷܡ ܡܶܐ ܡܫܝـܚܐ ܘܐܘ ܦܰܠܩܐ ܕܰܬ ܬܪܶܐ ܕܟܷܬܝܐ ܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝـܚܐ.
+                </p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.text.3" corresp="test.trans.3"/>
+					1: ܐܝ ܡܘܣܝܩܝ ܕܰܣ ܣܘܪܝܳܝܶܐ ܡܶܩܷܡ ܡܘ ܡܰܘܠܳܕܐ ܕܷܡܫܝܚܐ܃
+                </p>
+                <!-- Repeat the <p> element as needed -->
+            </div>
+            
+            <div type="transcription">
+                <p xml:lang="en">
+                    <anchor xml:id="test.trans.1" corresp="test.text.1"/>
+                    <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+					I Musiqi w u Zmoro sas Suryoye
+                </p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.trans.2" corresp="test.text.2"/>
+					I musiqi das Suryoye komëfloġo lë tre falqe (qësmat): u falqo qamoyo d këtyo meqëm me Mšiḥo w u falqo dat tre d këtyo bëṯër me Mšiḥo.
+                </p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.trans.3" corresp="test.text.3"/>
+					1- I musiqi das Suryoye meqëm mu mawlodo dë Mšiḥo:
+                </p>
+                <!-- Repeat the <p> element as needed -->
+            </div>
+        </body>
+    </text>
+</TEI>
