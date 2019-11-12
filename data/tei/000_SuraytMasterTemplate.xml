@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܒܘܚܪܢܐ</foreign> - <!-- Insert transliterated title -->buḥrono</title>
+                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܒܘܚܪܢܐ</foreign> / <!-- Insert transliterated title -->buḥrono</title>
                 <title level="s">Syrayt Corpus</title>
                 <author><!-- Insert name of author of this text -->Abrohom Laḥdo</author>
                 <sponsor>Erasmus+ Programme of the European Union</sponsor>
