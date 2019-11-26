@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en"><foreign xml:lang="tru">ܣܝܳܡܐ ܕܐܰܦ݁ܪܰܟ݂ </foreign> / Syomo d aprax</title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->AkfidanTuranAtiya
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-BerlinTeam </name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/1302</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2019</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2019-11-26">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܣܝܳܡܐ ܕܐܰܦ݁ܪܰܟ݂‬‬‬‬‬‬‬‬‬‬‬‬‬
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
+          ܐܰܦ݁ܪܰܟ݂ ܡܘܟܠܐ ܝܐ ܥܰܡܳܝܐ ܡܘ ܡܰܕܷܢܚܐ ܡܷܨܥܳܝܐ. ܐܘ ܐܰܦ݁ܪܰܟ݂ ܟܳܡܝܣܰܡ ܓ݂ܱܠܱܒܶܐ ܒܰܝܢ ܕܰܢ ܢܝܫܶܐ ܣܘܪܝܳܝܶܐ. ܥܰܡ ܐܰܟ ܟܘܬܠܶܐ ܘܫܰܡܒܳܪܰܟܰܬ، ܐܘ ܐܰܦ݁ܪܰܟ݂ ܟܳܡܷܚܫܰܘ ܚܰܐ ܡܰܡ ܡܘܟܠܳܢܶܐ ܕܝ ܡܰܪܕܘܬ݂ܰܝܕ݂ܰܢ. ܡܘܟܠܐ ܥܰܕܝ ܝܐ ܐܶܠܰܢ. ܐܝ ܥܰܕܰܬ݂ܶܐ ܡܷܬܝܳܠܰܢ ܐܰܥܡܰܢ ܡܘ ܐܰܬ݂ܪܐ. ܐܘ ܣܝܳܡܐ ܕܘ ܐܰܦ݁ܪܰܟ݂ ܠܐ ܟܳܚܷܙܝܰܠܠܶܗ ܫܘܓ݂ܠܐ ܕܘ ܙܠܰܐܡ (ܓܰܘܪܐ)، ܐܶܠܐ ܕܝ ܐܰܬ݂ܬܐ. ܐܘ ܣܝܳܡܰܝܕ݂ܶܗ ܥܰܣܩܐ ܝܐ. ܟܳܐܒܰܥܠܶܗ ܬܰܥܒܐ (ܫܘܓ݂ܠܐ) ܓ݂ܱܠܱܒܶܐ ܘܟܳܐܒܰܥܠܶܗ ܨܱܒܷܪ ܗܘܠ ܕܡܝܬܰܠܷܦ. ܐܰܢ ܢܝܫܶܐ ܐܝܕ݂ܰܝـܝܶܗ ܟ݂ܰܝܷܦܬܷܪ ܝܐ ܒܘ ܠܝܳܦܐ ܕܰܛ ܛܰܪܦܶܐ. ܒܛܘܪܥܰܒܕܝܢ ܟܷܬܘܰܝܠܰܢ ܟܰܪܡܶܐ. ܗܰܪܟܶܐ ܒܐܰܘܪܘܦ݁ܰܐ ܟܷܬܠܰܢ ܓܰܢܳܬ݂ܶܐ ܚܶܕ݂ܷܪ ܐܰܒ ܒܳܬܰܝܕ݂ܰܢ. ܚܫܰܘ ܗܰܪܟܶܐ ܕܟܘܠ ܐܝܩܰܪܬ݂ܐ ܣܘܪܝܰـܝܬܐ ܟܷܬܠܰܗ ܣܰܬܐ ܒܝ ܓܰܢܬ݂ܐ. ܐܝ ܣܰܬܐ ܟܳܐܒܐ ܒܘ ܩܰܝܛܐ ܛܰܪܦܶܐ ܘܥܷܢܘܶܐ. ܐܝܢܰܩܠܰܐ ܕܐܰܛ ܛܰܪܦܶܐ ܟܳܡܷܫܠܳܚـܝ ܡܝ ܣܰܬܐ، ܟܝܬ ܗܷܢ ܡܰܢ ܢܝܫܶܐ ܟܳܟܘܣܕܷܢܢܶܗ ܒܰܡ ܡܰܝܶܐ ܘܒܝ ܡܰܠܚܐ. ܒܷܬ݂ܷܪ ܟܳܡܰܚܬܷܢܢܶܗ ܒܝ ܫܘܫܰܝܶܐ. ܐܰܛ ܛܰܪܦܶܐ ܟܣܝܕܶܐ ܟܳܘܷܢ ܡܰܠܘܚܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܗܷܢ ܢܝܫܶܐ ܟܳܬܳܠܰܢܢܶܗ ܪܰܓ݂ܝܶܐ ܒܘ ܡܰܓܷܠܕ݂ܳܢܐ (ܒܘܙܕܘܠܰܒܝ) ܕܠܐ ܡܰܠܚܐ. 
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
+          ܒܘ ܪܷܢܝܰـܝܕ݂ܝ ܐܘ ܐܰܦ݁ܪܰܟ݂ ܟܳܘܶܐ ܥܷܠܬ݂ܐ ܕܰܢ ܢܝܫܶܐ ܗܳܘܰܠܠܶܗ ܐܰܣܝܪܘܬ݂ܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܩܰܝ ܟܷܐܡܡܳܢܐ ܐܘ ܡܶܕܰܢܐ؟ 
+ܐܘ ܐܰܦ݁ܪܰܟ݂ ܠܐ ܟܳܡܝܬܰܠܷܦ ܟ݂ܰܝـܝܦܐ. ܐܘ ܠܝܳܦܰܝܕ݂ܶܗ ܠܰܬܝܐ ܦܫܝܛܐ. ܟܳܐܒܰܥܠܶܗ ܬܰܥܒܐ، ܟ݂ܷܕ ܡܷܪܠܝ، ܘܠܶܒܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܝ ܐܰܬ݂ܬܐ ܟܳܟܘܪܟ݂ܐ ܠܚܰܘܪܳܢܶܐ ܐܰܘ ܠܐܰܚܘܳܬ݂ܶܐ ܠܰܫܰܢ ܡܥܰܘܢܝܠܰܗ ܒܘ ܠܝܳܦܐ ܕܰܛ ܛܰܪܦܶܐ. ܟܳܠܷܬܡܝ ܐܰܢ ܢܝܫܶܐ ܠܷܚܕ݂ܳܕ݂ܶܐ. ܒܘ ܫܷܟܠܰܢܐ ܟܳܐܒܷܢ ܡܥܰܕܪܳܢܘܬ݂ܐ ܠܷܚܕ݂ܳܕ݂ܶܐ ܒܘ ܣܝܳܡܐ ܕܘ ܡܘܟܠܐ. ܟܳܡܰܫܷܦ݁ܥܝ ܔܷܒ݂ܰܬܶܐ ܒܰܣܷܡܬܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܐܘ ܡܘܟܠܐ ܟܳܟܳܡܷܠ ܟ݂ܰܝـܝܦܐ! ܓ݂ܱܠܱܒܶܐ ܢܰܩܠܰܬ ܟܐܘܟ݂ܠܝ ܬܰܪܬܶܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܐܝ ܚܫܰܡܬܐ ܕܘ ܐܰܦ݁ܪܰܟ݂ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܐܝ ܚܘܒܰܬ݂ܬ݂ܶܗ ܘܐܰܢ ܐܶܣܳܪܰܬ݂ܬ݂ܶܗ ܟܳܙܰܝܕܝ ܗܰܘܟ݂ܰܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
+          ܐܰܣ ܣܢܝܩܘܳܬ݂ܶܐ ܕܟܳܠܷܙܡܝ ܠܘ ܣܝܳܡܐ ܕܘ ܐܰܦ݁ܪܰܟ݂ ܗܰܢܝ ܢܶܐ܃ ܛܰܪܦܶܐ ܕܰܣ ܣܰܬܶ، ܪܶܙܐ، ܩܝܡܰܐ، ܬܠܳܬ݂ܐ ܬܰܪܘܳܕ݂ܶܐ ܕܡܰܝܶܐ ܕܒܱܔܰܢܰܬ، ܠܝܡܳܢ، ܬܘܡܐ، ܡܰܠܚܐ، ܕܰܪܡܳܢܶܐ ܕܝ ܩܝܡܰܐ، ܚܰܪܘܦܐ، ܡܷܫܚܐ، ܒܰܣܪܐ ܕܰܥ ܥܘܳܢܶܐ.
+ܐܘ ܐܰܦ݁ܪܰܟ݂ ܕܘ ܨܰܘܡܐ ܡܶܢ ܟܘܠ ܦܪܘܣ ܟܳܡܝܣܰܡ ܕܠܐ ܩܝܡܰܐ ܐܰܘ ܒܰܣܪܐ. ܐܳܢܐ ܟܳܪܷܚܡܳܢܐ ܐܘ ܐܰܦ݁ܪܰܟ݂ ܕܘ ܨܰܘܡܐ ܗܶܫ ܙܷܕܬܷܪ ܡܘ ܐܰܦ݁ܪܰܟ݂ ܕܠܐ ܨܰܘܡܐ. ܕܠܐ ܗܳܘܶܐ ܨܰܘܡܐ، ܥܰܕܶܐ ܝܐ ܕܰܢ ܢܝܫܶܐ ܡܰܚܬܝ ܒܰܣܪܐ ܕܰܥ ܥܘܳܢܶܐ ܬܰܚܬܶܗ ܕܘ ܐܰܦ݁ܪܰܟ݂. ܓ݂ܱܠܱܒܶܐ ܢܝܫܶܐ ܟܳܣܰܝܡܝ ܐܘ ܐܰܦ݁ܪܰܟ݂ ܒܘ ܢܳܩܘܨܐ ܚܕ݂ܐ ܢܰܩܠܰܐ ܒܝ ܫܰܒܬ݂ܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
+          ܐܰܝܕܰܪܒܐ ܟܳܡܝܣܰܡ ܐܘ ܐܰܦ݁ܪܰܟ݂؟ 
+ܒܝ ܩܰܡܰܝܬܐ ܟܳܡܝܬܰܪܬ݂ܰܚ ܐܘ ܒܰܣܪܐ ܒܒܰܪܕܷܫ ܚܪܶܬܐ. ܓܷܕ ܡܰܚܬܰܬ ܡܰܠܚܐ ܐܶܒܰܗ. ܟܳܠܳܙܰܡ ܪܳܬ݂ܰܚ ܐܘ ܒܰܣܪܐ ܚܕ݂ܐ ܫܳܥܬ݂ܐ ܟܰܡܷܠܬܐ. ܒܷܬ݂ܷܪ ܓܷܕ ܡܝܬܰܚܷܬ ܐܘ ܒܰܣܪܐ ܒܝ ܒܰܪܕܷܫ ܕܘ ܐܰܦ݁ܪܰܟ݂. ܐܰܡ ܡܰܝܶܐ ܕܘ ܒܰܣܪܐ ܠܐ ܟܳܡܝܒܳܙܝ. ܓܷܕ ܡܷܬܠܳܝـܝ ܠܘ ܐܰܦ݁ܪܰܟ݂. ܓܷܕ ܡܰܚܬܰܬ ܡܷܫܚܐ ܒܝ ܢܘܩܪܐ. ܐܝ ܩܝܡܰܐ ܓܷܕ ܡܰܚܬܰܬܠܰܗ ܒܝ ܢܘܩܪܐ ܥܰܠ ܐܝ ܢܘܪܐ. ܒܷܬ݂ܷܪ ܓܷܕ ܡܰܫܝܓ݂ܰܬ ܐܝ ܪܶܙܐ. ܐܝܢܰܩܠܰܐ ܕܡܝܩܰܠܝܐ ܐܝ ܩܝܡܰܐ، ܓܷܕ ܡܰܚܬܰܬ ܐܝ ܪܶܙܐ ܣܬܶܐ ܒܝ ܢܘܩܪܐ. ܡܟ݂ܰܠܶܛܷܢ ܒܷܚܕ݂ܳܕ݂ܶܐ. ܓܷܕ ܡܰܚܬܰܬ ܒܷܬ݂ܷܪ ܐܰܣ ܣܢܝܩܘܳܬ݂ܶܐ ܚܪܶܢܶܐ ܣܬܶܐ ܒܝ ܢܘܩܪܐ. ܓܷܕ ܡܟ݂ܰܠܛܰܬ ܟܘܠ ܡܶܕܶܐ. ܗܰܢܐ ܟܳܡܷܩܪܶܐ ܐܘ ܚܰܫܘܐ ܕܘ ܐܰܦ݁ܪܰܟ݂. ܡܰܚܰܬ ܐܷܫܡܐ ܕܡܰܝܶܐ ܣܬܶܐ ܥܰܠ ܐܘ ܚܰܫܘܐ، ܕܠܐ ܝܘܩܕ݂ܐ ܐܝ ܪܶܙܐ. ܠܐ ܛܷܪܝܰܬ ܐܝ ܪܶܙܐ ܕܪܘܟܟ݂ܐ ܓ݂ܱܠܱܒܶܐ. ܟܝܬ ܢܳܫܶܐ ܟܳܡܰܚܬܝ ܓ݂ܱܠܱܒܶܐ ܡܰܝܶܐ ܕܒܱܔܰܢܰܬ ܒܘ ܐܰܦ݁ܪܰܟ݂. ܟܝܬ ܢܳܫܶܐ ܣܬܶܐ ܟܳܡܰܚܬܝ ܝܰܪܝܩܘܬ݂ܐ ܚܪܶܬܐ ܒܘ ܚܰܫܘܐ. ܟ݂ܷܕ ܡܰܔܢܘܢܶܐ (ܦܠܶܦܠܶܐ) ܐܰܘ ܦܰܬܷܪܝܳܬ݂ܶܐ ܐܰܘ ܒܰܨܠܶܐ ܘܫܰܪܟܐ. ܗܰܝܐ ܟܳܦܰܝܫܐ ܥܰܠ ܐܘ ܛܰܥܡܐ ܕܘ ܒܰܪܢܳܫܐ ܐܰܝܕܰܪܒܐ ܟܳܪܳܚܷܡ ܐܳܟ݂ܰܠ ܐܘ ܐܰܦ݁ܪܰܟ݂.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
+          ܓܷܕ ܟ݂ܘܠܛܰܬ ܟ݂ܷܕ ܡܷܪܠܝ ܐܘ ܚܰܫܘܐ ܥܰܠ ܐܝ ܢܘܪܐ. ܒܷܬ݂ܷܪ ܓܷܕ ܡܰܛܦܰܬ ܐܝ ܢܘܪܐ. ܐܘ ܚܰܫܘܐ ܟܳܠܳܙܰܡ ܩܳܝܰܪ، ܡܶܩܷܡ ܡܶܐ ܕܠܰܝܦܰܬ ܐܘ ܐܰܦ݁ܪܰܟ݂. ܒܷܬ݂ܷܪ ܡܶܐ ܕܩܰܝܷܪ ܐܘ ܚܰܫܘܐ، ܓܷܕ ܦܷܬܚܰܬ ܐܝ ܛܰܪܦܐ ܕܝ ܣܰܬܐ. ܓܷܕ ܡܷܠܝܰܬܠܰܗ ܚܰܫܘܐ. ܓܷܕ ܡܰܒܷܪܡܰܬܠܰܗ ܟ݂ܕܝ ܔܷܓ݂ܰܪܰܐ. ܒܘ ܫܷܟܠܰܢܐ ܓܷܕ ܠܰܝܦܰܬ ܐܰܛ ܛܰܪܦܶܐ ܕܝ ܣܰܬܐ ܟܘܠܠܶܗ ܗܘܠ ܕܗܳܘܷܢ ܐܰܦ݁ܪܰܟ݂. ܓܷܕ ܡܰܚܬܰܬ ܐܘ ܐܰܦ݁ܪܰܟ݂ ܠܰܠܥܰܠ ܡܘ ܒܰܣܪܐ ܒܝ ܒܰܪܕܷܫ. ܟܝܬ ܢܳܫܶܐ ܟܳܦܷܬܚـܝ ܡܰܔܢܘܢܶܐ ܐܰܘ ܒܱܔܰܢܶܐ ܟܷܡܬܐ ܐܰܘ ܩܰܪܥܐ. ܟܳܡܰܚܬܝ ܚܰܫܘܐ ܐܶܒܰܗ. ܗܰܢܷܟ ܣܬܶܐ ܓ݂ܱܠܱܒܶܐ ܒܰܣܝܡܶܐ ܟܳܘܷܢ ܥܰܡ ܐܘ ܐܰܦ݁ܪܰܟ݂.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
+          ܒܷܬ݂ܷܪ ܓܷܕ ܡܰܚܬܰܬ ܡܰܝܶܐ ܕܘ ܒܰܣܪܐ ܥܰܠ ܐܘ ܐܰܦ݁ܪܰܟ݂. ܐܘ ܐܰܦ݁ܪܰܟ݂ ܟܳܠܳܙܰܡ ܪܳܬ݂ܰܚ ܚܕܐ ܫܳܥܬ݂ܐ. ܐܝܢܰܩܠܰܐ ܕܟܳܡܷܠ، ܓܷܕ ܡܝܬܰܚܰܬ ܐܘ ܐܰܦ݁ܪܰܟ݂ ܒܷܬ݂ܷܪ ܒܝ ܛܰܘܰܐ ܘܓܷܕ ܡܝܬܰܚܷܬ ܥܰܠ ܐܝ ܛܷܒܠܝܬ݂ܐ. ܐܘ ܩܰܛܝܪܐ ܣܬܶܐ ܒܰܣܝܡܐ ܝܐ ܕܡܷܬܟ݂ܰܠ ܥܰܡ ܐܘ ܐܰܦ݁ܪܰܟ݂. ܐܘ ܩܰܛܝܪܐ ܓܷܕ ܡܝܬܰܚܰܬ ܒܘ ܣܶܦܳܩܐ ܠܪܘܚܶܗ ܥܰܠ ܐܝ ܛܷܒܠܝܬ݂ܐ. ܐܘ ܚܰܐ ܕܪܳܚܷܡ ܟܝܒܶܗ ܛܳܝܰܫ ܡܶܢܶܗ. ܡܶܢ ܟܘܠ ܦܪܘܣ ܐܘ ܩܰܛܝܪܐ ܠܐ ܟܳܡܷܬܟ݂ܰܠ ܒܘ ܨܰܘܡܐ ܥܰܡ ܐܘ ܐܰܦ݁ܪܰܟ݂. ܗܳܘܶܐ ܐܘ ܡܘܟܠܐ ܗܰܢܝـܝܶܐ!
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+          Syomo d aprax
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+          Aprax muklo yo camoyo mu Madënḥo Mëṣcoyo. U aprax komisam ġäläbe bayn dan niše Suryoye. Cam ak kutle w šamborakat, u aprax komëḥšaw ḥa mam muklone di marduṯayḏan. Muklo cadi yo elan. I cadaṯe mëtyolan acman mu aṯro. U syomo du aprax lo koḥëzyalle šuġlo du zlam (gawro), elo di aṯto. U syomayḏe casqo yo. Kobacle tacbo (šuġlo) ġäläbe w kobacle ṣäbër hul d mitalëf. An niše iḏayye xayëftër yo bu lyofo daṭ ṭarfe. B Ṭurcabdin këtwaylan karme. Harke b Awrupa këtlan ganoṯe ḥeḏër ab botayḏan. Ḥšaw harke d kul iqarṯo Suryayto këtla sato bi ganṯo. I sato kobo bu qayṭo ṭarfe w cënwe. Inaqla d aṭ ṭarfe komëšloḥi mi sato, kit hën man niše kokusdënne bam maye w bi malḥo. Bëṯër komaḥtënne bi šušaye. Aṭ ṭarfe kside kowën maluḥe. Cal hawxa hën niše kotolanne raġye bu magëlḏono (buzdulabi) dlo malḥo.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+          Bu rënyayḏi u aprax kowe cëlṯo dan niše howalle asiruṯo cam ḥḏoḏe. Qay këmmono u medano? 
+U aprax lo komitalëf xayifo. U lyofayḏe latyo fšiṭo. Kobacle tacbo, xëd mërli, w lebo. Cal hawxa naqlawoṯe i aṯto kokurxo l ḥawrone aw l aḥwoṯe lašan mcawnila bu lyofo daṭ ṭarfe. Kolëtmi an niše lë ḥḏoḏe. Bu šëklano kobën mcadronuṯo lë ḥḏoḏe bu syomo du muklo. Komašëpci jëvate basëmto cam ḥḏoḏe. U muklo kokomël xayifo! Ġäläbe naqlat kuxli tarte iqaryoṯe i ḥšamto du aprax cam ḥḏoḏe. I ḥubaṯṯe w an esoraṯṯe kozaydi hawxa.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+          As sniqwoṯe d kolëzmi lu syomo du aprax hani ne: ṭarfe das sate, rezo, qima, tloṯo tarwoḏe d maye d bäjanat, limon, tumo, malḥo, darmone di qima, ḥarufo, mëšḥo, basro dac cwone.
+U aprax du ṣawmo men kul frus komisam dlo qima aw basro. Ono korëḥmono u aprax du ṣawmo heš zëdtër mu aprax dlo ṣawmo. Dlo howe ṣawmo, cade yo dan niše maḥti basro dac cwone taḥte du aprax. Ġäläbe niše kosaymi u aprax bu noquṣo ḥḏo naqla bi šabṯo.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+          Aydarbo komisam u aprax? 
+Bi qamayto komitarṯaḥ u basro b bardëš ḥreto. Gëd maḥtat malḥo eba. Kolozam roṯaḥ u basro ḥḏo šocṯo kamëlto. Bëṯër gëd mitaḥët u basro bi bardëš du aprax. Am maye du basro lo komibozi. Gëd mëtloyi lu aprax. Gëd maḥtat mëšḥo bi nuqro. I qima gëd maḥtatla bi nuqro cal i nuro. Bëṯër gëd mašiġat i rezo. Inaqla d miqalyo i qima, gëd maḥtat i rezo ste bi nuqro. Mxaleṭën bë ḥḏoḏe. Gëd maḥtat bëṯër as sniqwoṯe ḥrene ste bi nuqro. Gëd mxalṭat kul mede. Hano komëqre u ḥašwo du aprax. Maḥat ëšmo d maye ste cal u ḥašwo, d lo yuqḏo i rezo. Lo ṭëryat i rezo d rukxo ġäläbe. Kit noše komaḥti ġäläbe maye d bäjanat bu aprax. Kit noše ste komaḥti yariquṯo ḥreto bu ḥašwo. Xëd majnune (flefle) aw fatëryoṯe aw baṣle w šarko. Hayo kofayšo cal u ṭacmo du barnošo aydarbo koroḥëm oxal u aprax.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+          Gëd xulṭat xëd mërli u ḥašwo cal i nuro. Bëṯër gëd maṭfat i nuro. U ḥašwo kolozam qoyar, meqëm me d layfat u aprax. Bëṯër me d qayër u ḥašwo, gëd fëtḥat i ṭarfo di sato. Gëd mëlyatla ḥašwo. Gëd mabërmatla xdi jëġara. Bu šëklano gëd layfat aṭ ṭarfe di sato kulle hul d howën aprax. Gëd maḥtat u aprax lalcal mu basro bi bardëš. Kit noše kofëtḥi majnune aw bäjane këmto aw qarco. Komaḥti ḥašwo eba. Hanëk ste ġäläbe basime kowën cam u aprax.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+          Bëṯër gëd maḥtat maye du basro cal u aprax. U aprax kolozam roṯaḥ ḥdo šocṯo. Inaqla d komël, gëd mitaḥat u aprax bëṯër bi ṭawa w gëd mitaḥët cal i ṭëbliṯo. U qaṭiro ste basimo yo d mëtxal cam u aprax. U qaṭiro gëd mitaḥat bu sefoqo l ruḥe cal i ṭëbliṯo. U ḥa d roḥëm kibe ṭoyaš mene. Men kul frus u qaṭiro lo komëtxal bu ṣawmo cam u aprax. Howe u muklo haniye!
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml version="1.0" encoding="utf-8"?>
