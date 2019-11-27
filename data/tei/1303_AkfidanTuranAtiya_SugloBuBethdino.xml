@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en"><foreign xml:lang="tru">ܫܘܓ݂ܠܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ (ܒܝ ܡܰܚܟܱܡܰܐ) </foreign> / Šuġlo bu beṯdino (bi maḥkäma) </title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->Atiya Akfidan Turan
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-BerlinTeam </name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/1303</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2019</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2019-11-27">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܫܘܓ݂ܠܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ (ܒܝ ܡܰܚܟܱܡܰܐ)‬‬‬‬‬‬‬‬‬‬‬‬‬
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
+          ܒܝ ܫܰܬܐ ܕܰܬ 2002 ܒܕܶܠܝ (ܡܫܰܪܶܠܝ) ܕܫܘܓ݂ܠܳܢܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ ܒܝ ܡܕ݂ܝܬܐ ܕܐܰܠܡܶܠܐ ܒܗܳܠܰܢܕܰܐ. ܐܘ ܫܘܓ݂ܠܰܝܕ݂ܝ ܥܰܠ ܐܝ ܨܒܘܬ݂ܐ ܕܰܓ ܓܰܠܘܳܝܶܐ ܝܐ. ܟܳܕܷܪܫܝܢܰܐ ܐܰܒ ܒܷܥܘܳܬ݂ܶܐ ܕܰܓ ܓܰܠܘܳܝܶܐ ܚܰܬ݂ܶܐ ܕܟܳܐܬ݂ܷܢ ܠܗܳܠܰܢܕܰܐ ܒܶܐ ܟܳܚܳـܝܰܩܩܶܗ ܕܡܝܬܰܩܷܒܠܝ ܘܦܰܝܫܝ ܒܗܳܠܰܢܕܰܐ ܐܰܘ ܠܐ. ܒܝ ܒܱܕܰܝܶܐ (ܒܘ ܫܘܪܳܝܐ) ܚܙܶܠܝ ܥܰܣܩܘܬ݂ܐ ܒܘ ܫܘܓ݂ܠܰܢܐ، ܥܰܠ ܕܒܷܬ݂ܷܪ ܡܶܐ ܕܷܡܟܰܡܶܠܝ ܐܘ ܝܘܠܦܳܢܰܝܕ݂ܝ ܒܘ ܒܶܝܬ݂ܨܰܘܒܐ ܥܰܠ ܐܰܩ ܩܳܢܘܢܶܐ، ܠܐ ܫܓ݂ܝܠܝ ܚܰܡܡܷܫ ܐܷܫܢܶܐ ܟܰܡܝܠܶܐ، ܡܝܕ݂ܶܗ ܕܗܰܘܷܢܘܰܐ ܐܰܬ ܬܠܳܬ݂ܐ ܢܰܥܝܡܰܝܕ݂ܝ ܘܗܘܝܳܘܰܝܢܐ ܐܰܠܠܶܗ ܡܳܪܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܝܰܪܝܘܝ، ܚܙܶܠܝܠܝ ܫܘܓ݂ܠܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ. ܒܘ ܨܰܒܒܷܪ (ܗܶܕܝ ܗܶܕܝ/ܐܷܫܡܐ ܐܷܫܡܐ) ܝܰܠܝܦܳܢܐ ܐܰܢ ܢܳܡܘܣܶܐ ܘܐܰܩ ܩܳܢܘܢܶܐ ܕܥܰܠ ܐܰܓ ܓܰܠܘܳܝܶܐ.       </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
+          ܒܝ ܫܰܒܬ݂ܐ ܚܕ݂ܐ ܢܰܩܠܰܐ ܟܳܘܶܠܝ ܐܝܬܰܘܬܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ. ܒܝ ܐܝܬܰܘܬܰܬ݂ܶܐ، ܟܳܠܰܘܫܳܢܐ ܔܘܠܶܐ ܕܝܠܳܢܳܝܶܐ ܕܰܣ ܣܢܝܓ݂ܪܶܐ. ܬܠܳܬ݂ܐ ܓܰܒܶܐ ܟܳܘܷܢ ܚܰܕ݂ܝܪܶܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ. ܐܰܓ ܓܰܒܶܐ ܕܝ ܐܝܬܰܘܬܐ ܗܰܢܝ ܢܶܐ܃ ܐܰܓ ܓܰܠܘܳܝܶܐ ܥܰܡ ܐܘ ܣܢܝܓ݂ܪܐ (ܐܰܒܘܩܰܐܬ)، ܐܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܘܐܳܢܐ ܥܰܡ ܐܘ ܕܰܝܳܢܐ (ܚܰܟܷܡ). ܐܳܢܐ ܟܳܟܷܬ݂ܘܳܢܐ ܟܘܠ ܡܶܕܶܐ ܕܐܰܓ ܓܰܒܶܐ ܟܳܡܰܚܟܷܢ. ܐܰܓ ܓܰܠܘܳܝܶܐ ܟܳܡܰܚܟܷܢ ܐܰܝܕܰܪܒܐ ܡܓܰܠܘܰܠܠܶܗ ܠܗܳܠܰܢܕܰܐ. ܩܰܝ ܡܰܗܙܰܡܡܶܗ ܡܘ ܐܰܬ݂ܪܰܬ݂ܬ݂ܶܗ. ܡܷܢ ܝܐ ܐܝ ܥܷܠܬ݂ܐ ܕܝ ܓܳܠܘܬ݂ܰܬ݂ܬ݂ܶܗ. ܒܝ ܐܝܬܰܘܬܰܬ݂ܶܐ ܟܳܘܶܐ ܣܬܶܐ ܚܰܐ ܡܬܰܪܔܡܳܢܐ ܚܰܕ݂ܝܪܐ، ܟܳܡܬܰܪܔܰܡ ܡܘ ܗܳܠܰܢܕܳܝܐ ܠܘ ܠܝܫܳܢܐ ܕܰܓ ܓܰܠܘܳܝܶܐ. ܐܘ ܘܰܙܝܪܐ ܠܐ ܟܳܡܷܬܝܰܩܰܢ ܠܘ ܡܰܡܠܐ ܕܰܓ ܓܰܠܘܳܝܶܐ، ܐܝܕ݂ܰܐ ܕܡܷܬܝܰܩܰܢܘܰܐ ܡܷܢ ܡܰܚܟܰܠܠܶܗ، ܠܐ ܟܳܡܷܛܝܳܘܰܐ ܐܝ ܨܒܘܬ݂ܰܬ݂ܬ݂ܶܗ ܠܘ ܒܶܝܬ݂ܕܝܢܐ. ܐܘ ܕܰܝܳܢܐ ܟܳܚܳܟܰܡ ܥܰܠ ܐܰܓ ܓܰܠܘܳܝܶܐ. ܟܳܐܒܶܐ ܐܘ ܪܷܢܝܰـܝܕ݂ܶܗ، ܝܰܐ ܡܪܝܡܳܢܐ (ܢܶܓܰܬܝܦ) ܝܰܐ ܡܣܝܡܳܢܐ (ܦ݁ܳܣܝܬܝܦ). ܒܷܬ݂ܷܪ ܡܝ ܐܝܬܰܘܬܐ، ܟܳܟܷܬ݂ܘܳܢܐ ܐܘ ܪܷܢܝܐ ܕܘ ܕܰܝܳܢܐ ܒܘܰܪܩܐ. ܐܘ ܪܷܢܝܰܢܐ ܟܳܡܷܚܫܰܘ ܦܘܣܩܳܢܐ ܠܰܓ ܓܰܠܘܳܝܶܐ. ܒܓܰܘܶܗ ܕܫܶܬ݂ ܫܰܒܶܐ ܟܳܡܷܛܝܰܠܠܶܗ ܐܝ ܘܰܪܩܰܬ݂ܶܐ. ܐܝ ܣܰܓܝـܝܘܬ݂ܐ ܕܰܓ ܓܰܠܘܳܝܶܐ ܟܷܬܬܶܗ ܣܢܝܓ݂ܪܐ ܕܟܳܡܕܰܦܰܥ ܥܰܠ ܐܰܙ ܙܷܕܩܰܬ݂ܬ݂ܬ݂ܶܗ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
+          ܐܝܢܰܩܠܰܐ ܕܐܷܕ݂ܥܳܢܐ ܠܗܷܢ ܡܰܓ ܓܰܠܘܳܝܶܐ، ܠܐ ܟܳܚܷܕ݂ܪܳܢܐ ܒܝ ܨܒܘܬ݂ܰܬ݂ܬ݂ܶܗ ܒܘ ܒܶܝܬ݂ܕܝܢܐ. ܟܳܐܬ݂ܶܐ ܚܪܶܢܐ ܠܕܘܟܬ݂ܝ.ܡܶܩܷܡ ܕܚܷܙܝܳܘܰܝܢܐ ܐܰܢ ܢܳܫܰܢܝ، ܠܶܒܝ ܕܳܠܰܩܘܰܐ ܐܰܥܠܰܝـܝܶܗ. ܐܰܪ ܪܶܓ݂ܫܰܝܕ݂ܝ ܫܘܚܢܝܘܰܐ ܓ݂ܱܠܱܒܶܐ. ܡܷܦܬܰܟܪܳܘܰܝܢܐ ܐܶܡܰܐ ܓܷܕ ܩܳܝܰܬ݂ܬ݂ܶܗ ܡܰܦܣܳܢܘܬ݂ܐ ܠܷܦܝܳܫܐ. ܐܶܠܐ ܐܘ ܕܰܝܳܢܐ ܐܳܡܰܪܘܰܐ، ܠܐ، ܗܰܢܝ ܟܳܡܕܰܓܠܝ. ܠܰܬܝܐ ܫܪܳܪܐ ܐܘ ܡܶܕܶܐ ܕܟܳܡܰܚܟܷܢ ܥܰܠ ܐܘ ܐܰܬ݂ܪܐ ܐܰܘ ܥܰܠ ܪܘܚܰـܝـܝܶܗ. ܐܳܢܐ ܦܰܝܫܳܘܰܝܢܐ ܡܕܰܡܰܪܬܐ ܕܐܘ ܕܰܝܳܢܐ ܗܰܘܟ݂ܰܐ ܟܳܡܷܦܬܰܟܰܪ. ܐܳܒܶܘܰܐ ܡܶܢ ܟܘܠ ܦܪܘܣ ܬܰܚܘܝܳܬ݂ܶܐ ܘܡܰܒܘܥܶܐ ܠܘ ܪܷܢܝܰـܝܕ݂ܶܗ. ܒܷܬ݂ܷܪ ܝܰܠܝܦܳܢܐ ܐܘ ܦܘܪܫܳܢܐ ܕܒܰܝܢ ܐܝ ܕܘܓܠܐ ܘܐܘ ܫܪܳܪܐ. ܦܷܪܩܳܘܰܝܢܐ ܕܗܷܢ ܡܰܓ ܓܰܠܘܳܝܶܐ ܟܳܡܕܰܓܠܝ، ܟܳܡܰܒܷܪܡܝ ܐܘ ܫܪܳܪܐ. ܒܰܕ ܕܘܓܠܶܐ ܟܷܐܒܥܝ ܡܰܝܕܝ ܡܰܦܣܳܢܘܬ݂ܐ ܕܦܰܝܫܝ ܘܥܰܝܫܝ ܒܗܳܠܰܢܕܰܐ. ܐܘ ܕܰܝܳܢܐ ܡܶܢ ܟܘܠ ܦܪܘܣ ܟܳܦܳܪܰܩ ܒܝ ܕܘܓܠܐ ܟ݂ܰܝـܝܦܐ.
+		  </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
+         ܟܳܠܳܙܰܡ ܗܷܪܓܰܬ ܓ݂ܱܠܱܒܶܐ ܥܰܠ ܐܝ ܨܒܘܬ݂ܐ ܕܘ ܐܰܬ݂ܪܐ ܕܟܳܐܬ݂ܷܢ ܐܰܓ ܓܰܠܘܳܝܶܐ ܡܝܢܶܗ. ܐܰܝܕܰܪܒܐ ܝܐ ܐܘ ܣܝܣܬܰܡ ܕܝ ܦ݁ܳܠܝܛܝܩܰܐ ܕܘ ܐܰܬ݂ܪܐ؟ ܒܶܐ ܟܝܬ ܛܪܘܢܘܬ݂ܐ (ܕܝܟܬܰܬܳܪܝـܝܶܐ) ܐܰܘ ܚـܝܪܘܬ݂ܐ ܠܘ ܥܰܡܐ؟ ܒܶܐ ܡܷܢ ܫܘܓ݂ܠܐ ܣܷܡܡܶܗ ܒܘ ܐܰܬ݂ܪܐ؟ ܦܰܝـܝܫܝ ܒܘ ܚܒܘܫܝܐ ܐܰܘ ܠܐ؟ ܡܘ ܝܘܠܦܳܢܐ ܕܥܰܠ ܐܘ ܐܰܬ݂ܪܐ، ܟܝܒܶܗ ܚܰܐ ܦܳܪܰܫ ܒܰܝܢ ܠܝ ܕܘܓܠܐ ܘܠܘ ܫܪܳܪܐ ܕܰܓ ܓܰܠܘܳܝܶܐ. ܟܳܝܷܠܦܰܬ ܐܰܝܕܰܪܒܐ ܐܘ ܕܰܝܳܢܐ ܟܳܐܒܶܐ ܐܘ ܪܷܢܝܐ ܫܰܪܝܪܐ. 
+ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ ܒܐܰܝܢܰܐ ܠܝܫܳܢܐ ܟܳܡܷܔܓ݂ܳܠܝ. ܐܘ ܠܝܫܳܢܐ ܟܳܡܳܠܰܦܠܰܢ ܡܐܰܝܢܰܐ ܐܰܬ݂ܪܐ ܡܰܗܙܰܡܡܶܗ. ܐܰܓ ܓܰܠܘܳܝܶܐ ܟܳܣܰܝܡܝ ܒܘܚܪܳܢܐ ܒܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ. ܐܘ ܒܘܚܪܳܢܐ ܟܳܡܝܣܰܡ ܡܶܩܷܡ ܡܶܐ ܕܐܳܬ݂ܷܢ ܠܘ ܒܶܝܬ݂ܕܝܢܐ. ܒܷܬ݂ܷܪ ܡܘ ܒܘܚܪܳܢܐ، ܐܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܟܳܡܳܦܰܩ ܬܰܫܪܳܪܐ ܥܰܠ ܐܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ. ܒܘ ܬܰܫܪܳܪܐ ܟܳܡܷܟܬ݂ܰܘ ܡܐܰܝܢܰܐ ܐܰܬ݂ܪܐ ܐܰܬ݂ܷܢ. ܐܘ ܬܰܫܪܳܪܐ ܡܶܕܶܐ ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܶܡܡܝܘܰܐ ܟܳܐܬ݂ܝܢܰܐ ܡܶܐ ܦܠܰܐܢ ܐܰܬ݂ܪܐ، ܐܶܠܐ ܒܘ ܬܰܫܪܳܪܐ ܡܰܚܘܶܘܰܐ ܕܡܶܐ ܐܰܬ݂ܪܐ ܚܪܶܢܐ ܟܳܐܬ݂ܷܢ. ܠܷܐܒܥܝܘܰܐ ܕܐܷܡܡܝ ܐܘ ܫܪܳܪܐ، ܡܝܕ݂ܶܗ ܕܝ ܨܒܘܬ݂ܐ ܕܘ ܐܰܬ݂ܪܰܬ݂ܬ݂ܶܗ ܠܰܬܘܰܐ ܚܰܪܒܐ. ܐܝܢܰܩܠܰܝܐ ܡܰܔܒܘܪ ܕܘܥܪܝܘܰܐ ܠܘ ܐܰܬ݂ܪܰܬ݂ܬ݂ܶܗ، ܒܨܷܒܝܳܢܐ ܐܰܘ ܕܠܐ ܒܨܷܒܝܳܢܐ. ܐܝܢܰܩܠܰܐ ܕܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܠܐ ܡܷܬܝܰܩܰܢ ܠܰܡ ܡܶܕܳܢܶܐ ܕܐܰܓ ܓܰܠܘܳܝܶܐ ܟܳܡܰܚܟܷܢ، ܟܳܡܳܦܰܩ ܦܘܣܩܳܢܐ ܕܢܷܦܩܝ ܡܘ ܐܰܬ݂ܪܐ ܕܗܳܠܰܢܕܰܐ.
+		</p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
+         ܟܳܠܳܙܰܡ ܗܷܪܓܰܬ ܓ݂ܱܠܱܒܶܐ ܥܰܠ ܐܝ ܨܒܘܬ݂ܐ ܕܘ ܐܰܬ݂ܪܐ ܕܟܳܐܬ݂ܷܢ ܐܰܓ ܓܰܠܘܳܝܶܐ ܡܝܢܶܗ. ܐܰܝܕܰܪܒܐ ܝܐ ܐܘ ܣܝܣܬܰܡ ܕܝ ܦ݁ܳܠܝܛܝܩܰܐ ܕܘ ܐܰܬ݂ܪܐ؟ ܒܶܐ ܟܝܬ ܛܪܘܢܘܬ݂ܐ (ܕܝܟܬܰܬܳܪܝـܝܶܐ) ܐܰܘ ܚـܝܪܘܬ݂ܐ ܠܘ ܥܰܡܐ؟ ܒܶܐ ܡܷܢ ܫܘܓ݂ܠܐ ܣܷܡܡܶܗ ܒܘ ܐܰܬ݂ܪܐ؟ ܦܰܝـܝܫܝ ܒܘ ܚܒܘܫܝܐ ܐܰܘ ܠܐ؟ ܡܘ ܝܘܠܦܳܢܐ ܕܥܰܠ ܐܘ ܐܰܬ݂ܪܐ، ܟܝܒܶܗ ܚܰܐ ܦܳܪܰܫ ܒܰܝܢ ܠܝ ܕܘܓܠܐ ܘܠܘ ܫܪܳܪܐ ܕܰܓ ܓܰܠܘܳܝܶܐ. ܟܳܝܷܠܦܰܬ ܐܰܝܕܰܪܒܐ ܐܘ ܕܰܝܳܢܐ ܟܳܐܒܶܐ ܐܘ ܪܷܢܝܐ ܫܰܪܝܪܐ. 
+ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ ܒܐܰܝܢܰܐ ܠܝܫܳܢܐ ܟܳܡܷܔܓ݂ܳܠܝ. ܐܘ ܠܝܫܳܢܐ ܟܳܡܳܠܰܦܠܰܢ ܡܐܰܝܢܰܐ ܐܰܬ݂ܪܐ ܡܰܗܙܰܡܡܶܗ. ܐܰܓ ܓܰܠܘܳܝܶܐ ܟܳܣܰܝܡܝ ܒܘܚܪܳܢܐ ܒܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ. ܐܘ ܒܘܚܪܳܢܐ ܟܳܡܝܣܰܡ ܡܶܩܷܡ ܡܶܐ ܕܐܳܬ݂ܷܢ ܠܘ ܒܶܝܬ݂ܕܝܢܐ. ܒܷܬ݂ܷܪ ܡܘ ܒܘܚܪܳܢܐ، ܐܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܟܳܡܳܦܰܩ ܬܰܫܪܳܪܐ ܥܰܠ ܐܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ. ܒܘ ܬܰܫܪܳܪܐ ܟܳܡܷܟܬ݂ܰܘ ܡܐܰܝܢܰܐ ܐܰܬ݂ܪܐ ܐܰܬ݂ܷܢ. ܐܘ ܬܰܫܪܳܪܐ ܡܶܕܶܐ ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܶܡܡܝܘܰܐ ܟܳܐܬ݂ܝܢܰܐ ܡܶܐ ܦܠܰܐܢ ܐܰܬ݂ܪܐ، ܐܶܠܐ ܒܘ ܬܰܫܪܳܪܐ ܡܰܚܘܶܘܰܐ ܕܡܶܐ ܐܰܬ݂ܪܐ ܚܪܶܢܐ ܟܳܐܬ݂ܷܢ. ܠܷܐܒܥܝܘܰܐ ܕܐܷܡܡܝ ܐܘ ܫܪܳܪܐ، ܡܝܕ݂ܶܗ ܕܝ ܨܒܘܬ݂ܐ ܕܘ ܐܰܬ݂ܪܰܬ݂ܬ݂ܶܗ ܠܰܬܘܰܐ ܚܰܪܒܐ. ܐܝܢܰܩܠܰܝܐ ܡܰܔܒܘܪ ܕܘܥܪܝܘܰܐ ܠܘ ܐܰܬ݂ܪܰܬ݂ܬ݂ܶܗ، ܒܨܷܒܝܳܢܐ ܐܰܘ ܕܠܐ ܒܨܷܒܝܳܢܐ. ܐܝܢܰܩܠܰܐ ܕܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܠܐ ܡܷܬܝܰܩܰܢ ܠܰܡ ܡܶܕܳܢܶܐ ܕܐܰܓ ܓܰܠܘܳܝܶܐ ܟܳܡܰܚܟܷܢ، ܟܳܡܳܦܰܩ ܦܘܣܩܳܢܐ ܕܢܷܦܩܝ ܡܘ ܐܰܬ݂ܪܐ ܕܗܳܠܰܢܕܰܐ.
+		</p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
+          ܐܳܬ݂ܶܘܰܐ ܣܬܶܐ ܓ݂ܱܠܱܒܶܐ ܥܰܡܐ ܡܘ ܐܝܪܰܐܢ. ܡܰܚܟܷܢܘܰܐ ܥܰܠ ܐܝ ܨܒܘܬ݂ܐ ܕܘ ܬܷܗܙܝܡܰܬ݂ܬ݂ܶܗ. ܗܷܢ ܡܰܢܢܶܗ ܩܘܠܒܝܘܰܐ ܡܝ ܛܰܝܘܬ݂ܐ ܠܝ ܡܫܝـܚܳـܝܘܬ݂ܐ. ܡܰܘܟ݂ܰܐ ܡܶܩܷܡ ܕܐܳܬ݂ܷܢ ܠܘ ܒܶܝܬ݂ܕܝܢܐ، ܟܳܣܰܝܡܝ ܒܘܚܪܳܢܐ ܥܰܠ ܐܘ ܝܘܠܦܳܢܐ ܡܫܝـܚܳـܝܐ. ܐܰܫ ܫܘܳܠܶܐ ܟܘܠܠܶܗ ܥܰܠ ܐܝ ܬܰܘܕܝܬ݂ܐ ܡܫܝـܚܰـܝܬܐ ܢܶܐ. ܐܘ ܘܰܙܝܪܐ ܕܝ ܟܝܢܘܬ݂ܐ ܟܳܐܒܶܐ ܐܰܫ ܫܘܳܠܶܐ، ܒܷܬ݂ܷܪ ܟܳܡܳܦܰܩ ܬܰܫܪܳܪܐ ܡܰܦ ܦܘܢܳܝܶܐ ܕܗܝܘܝ. ܡܘ ܬܰܫܪܳܪܰܢܐ، ܐܘ ܕܰܝܳܢܐ ܟܳܦܳܪܰܩ ܒܶܐ ܫܪܳܪܐ ܐܘ ܓܰܠܘܳܝܐ ܩܰܠܷܒ ܠܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܐܰܘ ܠܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
+          ܐܝ ܡܰܠܟܘܬ݂ܐ (ܐܝ ܚܟܘܡܶܐ) ܕܗܳܠܰܢܕܰܐ ܟܷܬܠܰܗ ܩܳܢܘܢܶܐ ܥܰܠ ܐܰܩ ܩܪܳܒܶܐ ܩܰܫܝܶܐ ܕܟܳܘܷܢ ܒܷܒܪܝܬ݂ܐ. ܐܰܩ ܩܳܢܘܢܰܢܝ ܟܳܣܰܝܡܝ ܐܝ ܨܒܘܬ݂ܐ ܕܰܓ ܓܰܠܘܳܝܶܐ ܦܫܷܛܬܷܪ ܕܡܝܬܰܩܰܒܠܝ ܒܗܳܠܰܢܕܰܐ. ܐܰܓ ܓܰܠܘܳܝܶܐ ܕܟܳܡܰܗܷܙܡܝ ܡܘ ܩܪܳܒܐ، ܟܳܚܳـܝܰܩܩܶܗ ܕܦܰܝܫܝ ܒܗܳܠܰܢܕܰܐ. ܟܝܒܝ ܕܐܳܒܳܢܐ ܡܰܬ݂ܠܐ܃ ܐܘܥܕܐ ܒܣܘܪܝـܝܰܐ ܘܒܘ ܥܷܪܰܐܩ ܐܘ ܩܪܳܒܐ ܟܳܡܕܰܘܰܡ ܗܰܢܝ ܟܡܐ ܐܷܫܢܶܐ. ܟܘܠ ܓܰܠܘܳܝܐ ܕܐܰܬ݂ܝ ܡܶܐ ܬܰܡܐ، ܩܰܝܷܬ݂ܠܶܗ ܡܰܦܣܳܢܘܬ݂ܐ ܕܦܳܝܷܫ ܒܗܳܠܰܢܕܰܐ. ܠܐ ܟܳܡܝܬܰܕܥܰܪ ܠܘ ܐܰܬ݂ܪܰܝܕ݂ܶܗ.
+        </p>
+		<p xml:lang="tru">
+          <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
+ܪܷܚܡܳܘܰܝܢܐ ܓ݂ܱܠܱܒܶܐ ܐܘ ܫܘܓ݂ܠܰܢܐ، ܐܶܠܐ ܒܰܬ 2013 ܡܒܰܛܶܠܝ. ܩܰܝܷܬ݂ܠܝ ܫܘܓܠܐ ܚܪܶܢܐ ܕܝܣܰܐ ܒܘ ܒܶܝܬ݂ܕܝܢܐ ܕܐܰܠܡܶܠܐ.
+		</p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+          Šuġlo bu beṯdino (bi maḥkäma)
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+           Bi šato dat 2002 bdeli (mšareli) d šuġlono bu beṯdino bi mḏito d Almelo b Holanda. U šuġlayḏi cal i ṣbuṯo dag galwoye yo. Kodëršina ab bëcwoṯe dag galwoye ḥaṯe d koṯën l Holanda be koḥoyaqqe d mitaqëbli w fayši b Holanda aw lo. Bi bädaye (bu šuroyo) ḥzeli casquṯo bu šuġlano, cal d bëṯër me dë mkameli u yulfonayḏi bu beṯṣawbo cal aq qonune, lo šġili ḥammëš ëšne kamile, miḏe d hawënwa at tloṯo nacimayḏi w huyowayno alle moro. Bëṯër më d yariwi, ḥzelili šuġlo bu beṯdino. Bu ṣabbër (hedi hedi/ëšmo ëšmo) yalifono an nomuse w aq qonune d cal ag galwoye. 
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+          Bi šabṯo ḥḏo naqla koweli itawto bu beṯdino. Bi itawtaṯe, kolawšono jule dilonoye das sniġre. Tloṯo gabe kowën ḥaḏire bu beṯdino. Ag gabe di itawto hani ne: ag galwoye cam u sniġro (abuqat), u waziro di kinuṯo w ono cam u dayono (ḥakëm). Ono kokëṯwono kul mede d ag gabe komaḥkën. Ag galwoye komaḥkën aydarbo mgalwalle l Holanda. Qay mahzamme mu aṯraṯṯe. Mën yo i cëlṯo di goluṯaṯṯe. Bi itawtaṯe kowe ste ḥa mtarjmono ḥaḏiro, komtarjam mu Holandoyo lu lišono dag galwoye. U waziro lo komëtyaqan lu mamlo dag galwoye, iḏa d mëtyaqanwa mën maḥkalle, lo komëṭyowa i ṣbuṯaṯṯe lu beṯdino. U dayono koḥokam cal ag galwoye. Kobe u rënyayḏe, ya mrimono (negatif) ya msimono (positif). Bëṯër mi itawto, kokëṯwono u rënyo du dayono b warqo. U rënyano komëḥšaw fusqono lag galwoye. B gawe d šeṯ šabe komëṭyalle i warqaṯe. I sagiyuṯo dag galwoye këtte sniġro d komdafac cal az zëdqaṯṯe. 
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+          Inaqla d ëḏcono l hën mag galwoye, lo koḥëḏrono bi ṣbuṯaṯṯe bu beṯdino. Koṯe ḥreno l dukṯi. 
+		  Meqëm d ḥëzyowayno an nošani, lebi dolaqwa aclayye. Ar reġšayḏi šuḥniwa ġäläbe. Mëftakrowayno ema gëd qoyaṯṯe mafsonuṯo lë fyošo. Elo u dayono omarwa, lo, hani komdagli. Latyo šroro u mede d komaḥkën cal u aṯro aw cal ruḥayye. Ono fayšowayno mdamarto d u dayono hawxa komëftakar. Obewa men kul frus taḥuyoṯe w mabuce lu rënyayḏe. Bëṯër yalifono u furšono d bayn i duglo w u šroro. Fërqowayno d hën mag galwoye komdagli, komabërmi u šroro. Bad dugle këbci maydi mafsonuṯo d fayši w cayši b Holanda. U dayono men kul frus koforaq bi duglo xayifo.
+		  </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+          I gudayḏan qamayto wa b Awrupa. Hawiwayna mšamhe b Awrupa kula. Bu Madënḥo Mëṣcoyo šamiciwa b ëšmayna. U Faṭëryarxo w aḥ ḥasye këtwalle šubhoro eban. Hawiwayna ṭufso lac citawoṯe ḥrene. Hënne ste bëṯër maqëmwalle gude dë mzamrënyoṯe. U ḥasyo hawiwa cëlṯo elan d ḥozina ġäläbe aṯrawoṯe d Awrupa! U malfonayḏan cam Mor Yulyus Yešuc Čiček, mawbelelan l kul dukṯo d këtwa esore cam cito: mu qedošo dac citawoṯe, lu tësriḥo dak kohne hul lu zmoro daq qole d mašëmciwayna lu camo d Iṭalya. Ḥzelan dukoṯe mšaḥëlfe b Holanda, b Almanya, b Balčiqa w b Iṭalya. Moran Faṭëryarxo Mor Iġnaṭyus Yacqub tliṯoyo aṯi l Holanda ban 1984. Mqadašle i dayro d Mor Afrem bë Glane. I gudayḏan d Hengelo ḥaḏiro tamo w zmërlan qole basime. Ban 1994 u qedošo di cito d Yoldaṯ Aloho bi dayro d Mor Afrem, disa i gudayḏan ḥaḏërto wa tamo. Heš këtli ṣërtoṯe du zabnawo. Kul naqla d u ḥasyo d ëzzewa lu Hënd, motewaylan dëšne acme. Ġäläbe këtwayle ḥubo elan w li citayḏe. U zabnawo sox soxin lo komëṭce!
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+          Kolozam hërgat ġäläbe cal i ṣbuṯo du aṯro d koṯën ag galwoye mine. Aydarbo yo u sistam di poliṭiqa du aṯro? Be kit ṭrunuṯo (diktatoriye) aw ḥiruṯo lu camo? Be mën šuġlo sëmme bu aṯro? Fayiši bu ḥbušyo aw lo? Mu yulfono d cal u aṯro, kibe ḥa foraš bayn li duglo w lu šroro dag galwoye. Koyëlfat aydarbo u dayono kobe u rënyo šariro. 
+		  Ġäläbe ulṣoyo yo b ayna lišono komëjġoli. U lišono komolaflan m ayna aṯro mahzamme. Ag galwoye kosaymi buḥrono bu lišonaṯṯe. U buḥrono komisam meqëm me d oṯën lu beṯdino. Bëṯër mu buḥrono, u waziro di kinuṯo komofaq tašroro cal u lišonaṯṯe. Bu tašroro komëkṯaw m ayna aṯro aṯën. U tašroro mede ġäläbe ulṣoyo yo. Naqlawoṯe ëmmiwa koṯina me flan aṯro, elo bu tašroro maḥwewa d me aṯro ḥreno koṯën. Lëbciwa d ëmmi u šroro, miḏe d i ṣbuṯo du aṯraṯṯe latwa ḥarbo. Inaqlayo majbur ducriwa lu aṯraṯṯe, b ṣëbyono aw dlo b ṣëbyono. Inaqla du waziro di kinuṯo lo mëtyaqan lam medone d ag galwoye komaḥkën, komofaq fusqono d nëfqi mu aṯro d Holanda.
+		  </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+          Oṯewa ste ġäläbe camo mu Iran. Maḥkënwa cal i ṣbuṯo du tëhzimaṯṯe. Hën manne qulbiwa mi ṭayuṯo li mšiḥoyuṯo. Mawxa meqëm d oṯën lu beṯdino, kosaymi buḥrono cal u yulfono Mšiḥoyo. Aš šwole kulle cal i tawdiṯo mšiḥayto ne. U waziro di kinuṯo kobe aš šwole, bëṯër komofaq tašroro maf funoye d hiwi. Mu tašrorano, u dayono koforaq be šroro u galwoyo qalëb li Mšiḥoyuṯo aw lo.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+          I malkuṯo (i ḥkume) d Holanda këtla qonune cal aq qrobe qašye d kowën bë briṯo. Aq qonunani kosaymi i ṣbuṯo dag galwoye fšëṭtër d mitaqabli b Holanda. Ag galwoye d komahëzmi mu qrobo, koḥoyaqqe d fayši b Holanda. Kibi d obono maṯlo: ucdo b Suriya w bu Cëraq u qrobo komdawam hani kmo ëšne. Kul galwoyo d aṯi me tamo, qayëṯle mafsonuṯo d foyëš b Holanda. Lo komitadcar lu aṯrayḏe. 
+        </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+		  Rëḥmowayno ġäläbe u šuġlano, elo bat 2013 mbaṭeli. Qayëṯli šuglo ḥreno disa bu beṯdino d Almelo.
+		  </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml version="1.0" encoding="utf-8"?>
