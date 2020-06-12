@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en"><foreign xml:lang="tru">ܕܥܳܪܐ ܡܶܐ ܐܰܡܶܪܝܟܰܐ ܒܷܬ݂ܷܪ ܡܘ ܣܰܝܦܐ</foreign>Dcoro me Amerika bëṯër mu Sayfo</title>
+        <title xml:lang="en"><foreign xml:lang="tru">ܕܥܳܪܐ ܡܶܐ ܐܰܡܶܪܝܟܰܐ ܒܷܬ݂ܷܪ ܡܘ ܣܰܝܦܐ</foreign> / <!-- Insert transliterated title -->Dcoro me Amerika bëṯër mu Sayfo</title>
         <title level="s">Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Nëjme Aḥo
@@ -93,7 +93,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc>
-      <change when="2019-11-27">Created: file</change>
+      <change when="2020-06-12">Created: file</change>
       <!-- Insert date of file creation YYYY-MM-DD format-->
       <change>
         <!-- Repeat the change element as often as necessary when the files are updated -->
