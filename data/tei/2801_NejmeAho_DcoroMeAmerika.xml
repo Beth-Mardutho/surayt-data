@@ -189,10 +189,12 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-Meqëm mu Sayfo babi azzewa l Amerika, l New York. Inaqlayo b Ṭurcabdin latwa šuġlone ġäläbe, këtwa zqoro dag gumoṯe. An noše zuqriwa šuqo w zuqriwa maršat. Latwalle ḥaylo d fëtḥi šuġlone l ruḥayye, cawdiwa harke w tamo bad dukane.        </p>
+Meqëm mu Sayfo babi azzewa l Amerika, l New York. Inaqlayo b Ṭurcabdin latwa šuġlone ġäläbe, këtwa zqoro dag gumoṯe. An noše zuqriwa šuqo w zuqriwa maršat. Latwalle ḥaylo d fëtḥi šuġlone l ruḥayye, cawdiwa harke w tamo bad dukane.
+        </p>
         <p xml:lang="en">
           <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
-Aḥ ḥawrone d babi ëmmi: “Alo, gëd ëzzano li Ädäne lu cwodo.” Azzën li Ädäne. Tamo malimiwa u ketono w ḥëljiwayle. Babi cwëdle cal u ketono tarte ëšne bi Ädäne. Bëṯër aḥ ḥawronayḏe ëmmi: “Alo, koṯe noše l harke w këzzën kofayti l Amerika, aḥna ste qay lo këzzano?”         </p>
+Aḥ ḥawrone d babi ëmmi: “Alo, gëd ëzzano li Ädäne lu cwodo.” Azzën li Ädäne. Tamo malimiwa u ketono w ḥëljiwayle. Babi cwëdle cal u ketono tarte ëšne bi Ädäne. Bëṯër aḥ ḥawronayḏe ëmmi: “Alo, koṯe noše l harke w këzzën kofayti l Amerika, aḥna ste qay lo këzzano?”
+         </p>
         <p xml:lang="en">
           <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
 Qayëm babi mšayacle xabro lu babo b maktub, omër: “Babo! Kalën ḥawroni kulle gëd ëzzën l Amerika, kobacno ono ste d ëzzino.” U babo madcarle: “Lo kowe d ëzzux! Ono w emux sowe na w hat këtlux arbco nacime harke, aydarbo gëd ṭorat an nacimani w aḥna w gëd ëzzux l Amerika?”        </p>
