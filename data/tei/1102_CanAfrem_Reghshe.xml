@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܐܰܚ ܚܰܡܫܐ ܪܷܓ݂ܫܶܐ ܕܘ ܒܰܪܢܳܫܐ</foreign> / <!-- Insert transliterated title -->Aḥ ḥamšo rëġše du barnošo</title>
-                <title level="s">Syrayt Corpus</title>
+                <title level="s">Surayt Corpus</title>
                 <author><!-- Insert name of author of this text -->Afrem Can</author>
                 <sponsor>Erasmus+ Programme of the European Union</sponsor>
                 <sponsor>Freie Universität Berlin</sponsor>
@@ -50,8 +50,8 @@
             </publicationStmt>
             <sourceDesc xml:id="sourceDesc1">
                     <bibl>
-                        <title><!-- Insert title of the work here -->Aḥ ḥamšo rëġše du barnošo ܐܰܚ ܚܰܡܫܐ ܪܷܓ݂ܫܶܐ ܕܘ ܒܰܪܢܳܫܐ</title>
-                        <author><!-- Insert author of the work here -->Afrem Can</author>
+                        <title><!-- Insert title of the work here --></title>
+                        <author><!-- Insert author of the work here --></author>
                         <note><p><!-- Add any necessary notes about the original publication --></p></note>
                     </bibl>
             </sourceDesc>
