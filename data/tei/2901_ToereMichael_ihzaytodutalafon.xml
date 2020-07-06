@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܬܐܝ ܚܙܰܝܬܐ ܕܘ ܬܰܠܰܦܘܢ</foreign> / <!-- Insert transliterated title -->I ḥzayto du täläfon</title>
+                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܐܝ ܚܙܰܝܬܐ ܕܘ ܬܱܠܱܦܳܢ</foreign> / <!-- Insert transliterated title -->I ḥzayto du täläfon</title>
                 <title level="s">Surayt Corpus</title>
                 <author><!-- Insert name of author of this text -->Michael Töre</author>
                 <sponsor>Freie Universität Berlin</sponsor>
