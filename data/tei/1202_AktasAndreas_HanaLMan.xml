@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܚܰܢܰܐ ܠܡܰܢ ܡܷܢܢܶܗ ܓܷܕ ܗܘܝܐ؟</foreign> / <!-- Insert transliterated title -->Ḥana l man mënne gëd huyo?</title>
+                <title level="s">Surayt Corpus</title>
+                <author>Andreas Aktas</author>
+                <sponsor>Freie Universität Berlin</sponsor>
+                <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+                <sponsor>Stockholm University</sponsor>
+                <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+                <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+                <funder/><!-- You can list funders seperate from sponsors -->
+				<funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+                <funder>Freie Universität Berlin</funder>
+
+                <editor role="editor"><!-- Insert name of editor -->Prof. Dr. Shabo Talay</editor>
+                <!-- Repeat editor role for each individual editor -->
+                
+                <respStmt>
+                    <resp>TEI XML encoding by</resp>
+                    <name><!-- Insert the name of the person responsible for this conversion -->Nicolas Atas</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Nicolas Atas</name>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.1"/>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>
+                    <placeName><!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+						Beth Mardutho: The Syriac Institute
+					</placeName>
+                </distributor>
+                <authority>Surayt Corpus</authority>
+                <idno type="URI">https://surayt.bethmardutho.org/1202</idno><!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+                <availability><!-- Are these texts Open Access? If so, you can just leave this section as is -->
+                    <p/>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+                        <p>https://creativecommons.org/licenses/by/4.0/</p>
+                    </licence>
+                    <ab><note><!-- You may want to add a note here explaining the open access policy --></note></ab>
+                </availability>
+                <date calendar="Gregorian">2020</date>
+            </publicationStmt>
+            <sourceDesc xml:id="sourceDesc1">
+                    <bibl>
+                        <title><!-- Insert title of the work here --></title>
+                        <author><!-- Insert author of the work here --></author>
+                        <note><p><!-- Add any necessary notes about the original publication --></p></note>
+                    </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p><!-- Insert brief description of the Surayt Project -->
+					Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+				</p>
+            </editorialDecl>
+        </encodingDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+                </langUsage>
+            </profileDesc>
+            <revisionDesc>
+                <change when="2020-06-23">Created: file</change><!-- Insert date of file creation YYYY-MM-DD format-->
+                <change><!-- Repeat the change element as often as necessary when the files are updated --></change>
+            </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><!-- Text goes here -->
+            <div type="surayt">
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+                    <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+                    <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+                    <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+ܡܰܚܟܶܘܰܝܠܰܢ ܚܳܠܐ ܠܰܚܕܐ ܒܚܰܐ ܡܰܠ ܠܰܠܝܶܐ ܕܘ ܣܰܬ݂ܘܐ، ܐܳܡܰܪܘܰܐ: ܡܰܚܟܷܢܘܰܐ ܐܰܣ ܣܳܘܰܝܕ݂ܰܢ ܕܟܷܬܘܰܐ ܬܪܶܐ ܫܒܳܒܶܐ ܕܥܰܝܫܝܘܰܐ ܒܒܶܩܘܣܝܳܢܶܐ. ܚܰܐ ܡܰܫ ܫܒܳܒܰܢܝ ܐܷܫܡܶܗ ܓܰܘܪܝـܝܶܐ ܘܰܐ ܘܟܷܬܘܰܝܠܶܗ ܬܠܳܬ݂ܐ ܐܰܒܢܶܐ: ܫܰܒܐ ܐܘ ܐܰܒܪܐ ܪܰܒܐ، ܥܝܣܰܐ ܐܘ ܐܰܒܪܐ ܕܘ ܦܰܠܓܐ ܘܝܰܘܣܶܦ ܣܬܶܐ ܐܘ ܢܰܥܝܡܐ ܕܟܘܠܠܶܗ ܘܰܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܙܰܒܢܐ ܝܰܪܝܟ݂ܐ، ܡܰܝܷܬ݂ ܓܰܘܪܝـܝܶܐ ܐܘ ܒܰܒܐ ܕܰܬ ܬܠܳܬ݂ܐ ܥܠܰܝܡܰܢܝ ܘܛܪܶܠܰܠܠܶܗ ܡܰܐܠ ܓ݂ܱܠܱܒܶܐ ܡܝ ܬܰܓܳܪܘܬ݂ܰܝܕ݂ܶܗ. ܐܘ ܫܒܳܒܐ ܚܪܶܢܐ ܣܬܶܐ ܐܷܡܡܝܘܰܝܠܶܗ ܡܰܠܟܶܐ، ܟܷܬܘܰܝܠܶܗ ܒܰܪܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܚܠܝܬ݂ܐ ܘܫܰܦܷܪܬܐ ܐܷܫܡܰܗ ܚܰܢܰܐ. ܐܰܥ ܥܠܰܝܡܶܐ ܕܒܶܩܘܣܝܳܢܶܐ ܟܘܠܠܶܗ ܪܘܚܡܝܘܰܐ ܠܚܰܢܰܐ ܥܰܠ ܕܓ݂ܱܠܱܒܶܐ ܫܰܦܷܪܬܐ ܘܛܰܘܬܐ ܘܰܐ ܣܬܶܐ. ܚܰܢܰܐ ܝܰܬܷܡܬܐ ܕܠܐ ܐܶܡܐ ܘܰܐ، ܐܶܠܐ ܐܘ ܒܰܒܐ ܓ݂ܱܠܱܒܶܐ ܥܰܬܝܪܐ ܘܰܐ، ܘܪܳܚܰܡܘܰܐ ܠܚܰܢܰܐ. ܐܰܬ ܬܠܳܬ݂ܐ ܥܠܰܝܡܰܢܝ: ܫܰܒܐ، ܥܝܣܰܐ ܘܝܰܘܣܶܦ، ܓ݂ܱܠܱܒܶܐ ܪܘܚܡܝܘܰܐ ܠܚܰܢܰܐ. ܟܘܠ ܚܰܐ ܡܷܢܢܶܗ ܐܳܒܰܥܘܰܐ ܕܚܰܢܰܐ ܗܘܝܳܠܶܗ ܐܰܬ݂ܬܐ ܘܚܰܐ ܡܷܢܢܶܗ ܠܳܐܡܰܪܘܰܐ ܠܘ ܚܪܶܢܐ ܕܟܳܪܳܚܰܡ ܠܚܰܢܰܐ. ܟܘܠ ܚܰܐ ܟܳܠܶܘܰܐ ܠܘ ܝܰܘܡܐ ܕܝ ܡܶܫܬܘܬ݂ܰܝܕ݂ܶܗ ܕܓܳܘܰܪ ܐܰܥܡܰܗ ܘܕܗܳܘܰܠܠܶܗ ܚܰܝܶܐ ܒܰܣܝܡܶܐ. ܚܰܢܰܐ ܣܬܶܐ ܐܷܕ݂ܥܳܘܰܐ ܕܐܰܥ ܥܠܰܝܡܰܢܝ ܟܳܪܘܚܡܝܠܰܗ ܐܶܠܐ ܗܝـܝܰܐ ܠܢܳܫܶܐ ܠܷܐܡܡܳܘܰܐ.
+
+ 
+ܒܚܰܐ ܡܰܠ ܠܰܠܝܶܐ ܕܘ ܩܰܝܛܐ ܡܷܪܠܶܗ ܐܘ ܐܰܚܘܢܐ ܪܰܒܐ ܕܐܷܫܡܶܗ ܫܰܒܐ ܠܰܢ ܐܰܚܘܢܳܢܶܐ: ܟܳܠܳܙܰܡ ܕܐܷܙܙܝܢܐ ܠܕܘܟܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܪܰܚܷܩܬܐ ܒܝ ܣܷܒܒܶܐ ܕܝ ܬܰܓܳܪܘܬ݂ܰܝܕ݂ܰܢ. ܡܷܪܠܰܠܠܶܗ: ܦܘܫܘ ܒܷܫܠܳܡܐ، ܘܰܐܙܙܶܗ. ܐܶܠܐ ܒܘ ܝܰܘܡܰܘܐ ܠܰܐܙܙܶܗ ܠܕܘܟܬܐ ܪܰܚܷܩܬܐ ܟ݂ܘܕ ܡܷܪܘܰܝܠܶܗ ܠܰܢ ܐܰܚܘܢܳܢܰܝܕ݂ܶܗ. ܐܰܙܙܶܗ ܠܘ ܒܰܝܬܐ ܕܘ ܫܒܳܒܰܝܕ݂ܶܗ، ܓܰܒ ܐܘ ܒܰܒܐ ܕܚܰܢܰܐ. 
+
+ܫܰܒܐ ܥܰܒܷܪ ܠܘ ܒܰܝܬܐ ܘܝܰܬܘ ܩܰܪܝܘܐ ܠܘ ܒܰܒܐ ܕܚܰܢܰܐ، ܡܷܪܠܶܠܶܗ: ܟܳܪܳܚܰܡܢܐ ܠܚܰܢܰܐ ܡܶܐ ܟܘܠܶܗ ܠܶܒܝ ܘܟܳܐܒܰܥܢܐ ܕܓܳܘܰܪܢܐ ܐܰܥܡܰܗ ܘܕܗܘܝܳܠܝ ܐܰܬ݂ܬܐ. ܐܝܢܰܩܩܰܐ ܕܡܷܪܠܶܗ ܗܰܘܟ݂ܰܐ ܚܷܪܠܶܗ ܒܡܰܠܟܶܐ ܦܳܬ݂ܳܬ݂ܶܗ ܣܰܡܝܩܝ ܘܟܳܠܶܘܰܐ ܕܡܰܠܟܶܐ ܕܐܳܡܰܪܠܶܗ ܡܶܕܶܐ. ܡܰܠܟܶܐ ܩܪܶܠܶܗ ܠܚܰܢܰܐ ܐܝ ܒܰܪܬ݂ܰܝܕ݂ܶܗ ܘܡܷܪܠܶܠܰܗ: ܡܚܰܕ݂ܰܪ ܩܰܚܘܰܐ ܠܘ ܫܒܳܒܰܝܕ݂ܰܢ ܕܫܳܬܝܢܰܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܚܰܢܰܐ ܡܛܶܠܰܗ ܐܝ ܩܰܚܘܰܐ ܝܰܬܝܘܐ ܡܩܰܒܷܠ ܕܫܰܒܐ، ܐܘ ܫܘܦܪܰܝܕ݂ܰܗ ܣܬܶܐ ܫܳܒܰܗܘܰܐ ܠܝ ܫܷܡܫܐ. ܡܷܪܠܶܠܰܗ ܐܘ ܒܰܒܐ: ܗܰܢܐ ܫܰܒܐ ܐܘ ܫܒܳܒܰܝܕ݂ܰܢ ܟܳܪܳܚܰܡܠܰܟ݂ ܓ݂ܱܠܱܒܶܐ ܘܟܳܐܒܰܥ ܕܡܳܟ݂ܰܪܠܰܟ݂ ܘܕܗܘܝܰܬܠܶܗ ܐܰܬ݂ܬܐ. ܡܰܕܥܰܪܠܰܗ ܚܰܢܰܐ: ܐܘ ܟ݂ܰܒܪܐ ܚܰܪܳܝܐ ܕܝܕ݂ܘܟ݂ ܝܐ، ܝܰܐ ܒܰܒܰܐ. ܡܒܶܠܰܗ ܠܘ ܨܰܚܢܐ ܘܠܰܟ ܟܳܣܶܐ ܒܷܬ݂ܷܪ ܡܶܐ ܕܷܫܬܰܠܠܶܗ ܘܰܐܙܙܰܝܐ. ܡܰܠܟܶܐ ܣܬܶܐ ܚܷܪܠܶܗ ܒܫܰܒܐ، ܡܷܪܠܶܠܶܗ: ܚܰܐ ܫܰܪܛ ܬܱܢܶܐ ܟܷܬܠܝ. ܟܳܠܳܙܰܡ ܡܰܝܬܰܬܠܝ ܡܶܕܶܐ ܕܠܰܝܬ ܟ݂ܳܬ݂ܶܗ ܒܝ ܕܘܟܬ݂ܰܬ݂ܶܐ ܟܘܠܰܗ.
+
+
+ܫܰܒܐ ܣܬܶܐ ܡܰܩܒܶܠܶܗ ܐܘ ܫܰܪܛܰܢܐ. ܡܰܠܰܟ݂ܠܶܗ ܘܰܐܙܙܶܗ ܠܕܘܟܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܪܰܚܷܩܬܐ، ܡܰܛܝ ܠܘ ܥܝܪܰܐܩ. ܟܳܪܰܟ݂ܘܰܐ ܡܶܐ ܕܘܟܬ݂ܐ ܠܕܘܟܬ݂ܐ، ܡܶܐ ܘܱܠܰܝܶܐ ܠܘܱܠܰܝܶܐ ܗܘܠ ܕܡܰܛܝ ܠܡܰܘܨܰܠ، ܟܷܬܘܰܐ ܡܰܪܫܰܬ ܬܰܡܐ ܕܠܐ ܡܷܚܙܷܢܘܰܐ ܒܟܘܠ ܕܘܟܬ݂ܐ. ܡܚܶܠܶܗ ܐܰܫ ܫܘܩܳܢܶܐ ܕܝ ܕܘܟܬ݂ܰܝܐ ܟܘܠܠܶܗ ܒܷܚܕ݂ܳܕ݂ܶܐ، ܡܫܰܝܰܠܘܰܐ ܡܝ ܕܘܟܰܢܰܬ݂ܶܐ ܘܕܳܥܰܪܘܰܐ ܠܝ ܚܪܶܬܐ، ܡܫܰܝܰܠܘܰܐ ܥܰܠ ܐܘ ܛܝܡܰܬ݂ܬ݂ܶܗ ܣܬܶܐ. ܡܰܕܥܰܪܠܶܗ ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܡܷܪܠܶܗ: ܗܰܬ݂ܶܐ ܒܐܰܠܦܐ، ܘܗܰܬ݂ܶܐ ܒܚܰܡܫܐ ܐܰܠܦܐ، ܐܝ ܚܪܶܬܐ ܒܥܷܣܪܐ ܐܰܠܦܐ. ܗܰܘܟ݂ܰܐ ܡܫܰܝܰܠܘܰܐ ܚܕ݂ܐ ܒܷܚܕ݂ܐ، ܗܘܠ ܕܷܚܙܶܠܶܗ ܚܕ݂ܐ ܓ݂ܱܠܱܒܶܐ ܓ݂ܱܠܱܒܶܐ ܫܰܦܷܪܬܐ. ܡܫܰܝܶܠܶܗ ܥܰܠ ܐܘ ܛܝܡܰܝܕ݂ܰܗ. ܡܰܕܥܰܪܠܶܗ ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܡܷܪܠܶܗ: ܛܝܡܰܗ ܚܰܐ ܡܷܠܝܘܢܐ ܕܕܝܢܳܪܶܐ ܝܐ. ܡܕܰܘܡܰܪ ܫܰܒܐ ܥܰܠ ܐܘ ܛܝܡܰܝܕ݂ܰܗ، ܕܗܶܫ ܒܰܚ ܚܰܝܰـܝܕ݂ܶܗ ܠܐ ܚܙܶܠܶܗ ܡܰܪܫܶܐ ܒܡܷܠܝܘܢܐ! ܡܷܪܠܶܠܶܗ ܡܳܪܶܗ ܕܰܡ ܡܰܪܫܰܬ: ܗܰܬ݂ܶܐ ܛܰܝܰܣܬܐ ܝܐ، ܐܝܬܰܘ ܥܰܠ ܐܝ ܡܰܪܫܰܬ݂ܶܗ ܓܷܕ ܡܷܒܠܳܠܘܟ݂ ܠܰܝܟܐ ܕܐܷܒܥܰܬ! ܫܰܒܐ ܡܷܦܬܰܟܰܪܘܰܐ ܠܪܘܚܶܗ ܐܳܡܰܪܘܰܐ: ܐܳܢܐ ܟܳܐܡܰܪܢܐ ܕܠܰܝܬ ܟ݂ܕܝ ܡܰܪܫܰܬ݂ܶܐ ܒܘ ܥܘܠܡܐ ܟܘܠܶܗ. ܡܰܘܟ݂ܰܐ ܓܷܕ ܡܳܒܰܠܢܳܠܰܗ ܠܘ ܒܰܒܐ ܕܚܰܢܰܐ ܠܱܔܰܢ ܕܡܷܦܨܰܚ ܐܶܒܰܗ ܓ݂ܱܠܱܒܶܐ ܘܕܐܳܒܶܠܝ ܚܰܢܰܐ ܐܝ ܒܰܪܬ݂ܐ. ܪܰܘܷܟ݂ ܥܰܠ ܐܝ ܡܰܪܫܶܐ ܕܷܡܔܰܪܰܒܠܰܗ، ܕܰܪܚܰܠ ܒܕܶܠܰܗ ܕܦܰܝܪܐ. ܦܨܝـܚ ܓ݂ܱܠܱܒܶܐ ܐܝܢܰܩܩܰܐ ܕܷܚܙܶܠܶܗ ܕܟܳܦܰܝܪܐ. ܡܳܦܰܩܠܶܗ ܐܰܕ ܕܝܢܳܪܶܐ ܡܶܐ ܥܶܒܶܗ ܗܝܘܝܠܶܗ ܠܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܚܰܩ ܕܝ ܡܰܪܫܶܐ. ܡܰܚܰܬܠܶܗ ܐܝ ܡܰܪܫܶܐ ܒܓܰܘܶܗ ܕܣܰܢܕܘܩܐ ܒܕܶܠܶܗ ܕܕܳܥܰܪ ܠܒܶܩܘܣܝܳܢܶܐ.
+
+
+ 
+ܐܘ ܐܰܒܪܐ ܕܘ ܦܰܠܓܐ ܕܟܷܬܝܐ ܐܷܫܡܶܗ ܥܝܣܰܐ، ܐܝܢܰܩܩܰܐ ܕܷܚܙܶܠܶܗ ܐܘ ܐܰܚܘܢܐ ܕܐܰܙܙܶܗ ܒܝ ܣܷܒܒܶܐ ܕܝ ܬܰܓܳܪܘܬ݂ܐ. ܡܷܦܬܰܟܰܪܠܶܗ ܠܪܽܘܚܶܗ ܘܡܷܪܠܶܗ: ܗܰܬ݂ܶܐ ܦܷܪܨܰܐ ܪܰܒܬ݂ܐ ܝܐ ܠܱܫܰܢ ܕܐܷܙܙܝܢܐ ܠܘ ܒܰܝܬܐ ܕܘ ܫܒܳܒܰܝܕ݂ܰܢ ܡܰܠܟܶܐ ܘܛܳܠܰܒܢܐ ܠܚܰܢܰܐ ܐܝ ܫܰܦܷܪܬܐ ܘܚܰܐ ܡܰܢ ܐܰܚܘܢܳܢܰܝܕ݂ܝ ܠܐ ܟܳܐܕ݂ܰܥ. ܪܰܗܷܛ ܠܘ ܒܰܝܬܐ ܕܡܰܠܟܶܐ. ܗܘܠܶܗ ܐܰܠܠܶܗ ܫܠܳܡܐ ܘܡܷܪܠܶܗ: ܚܳܠܐ ܡܰܠܟܶܐ، ܠܐ ܟܳܐܕ݂ܰܥܢܐ ܐܰܝܕܰܪܒܐ ܕܐܳܡܰܪܢܳܠܳܟ݂ ܥܰܠ ܐܝ ܚܘܒܰܝܕ݂ܝ ܕܠܰܦ ܚܰܢܰܐ. ܗܰܟܟܰܐ ܕܚܳܙܰܬܠܰܗ ܠܰܝܷܩ، ܟܳܐܒܰܥܢܐ ܕܗܘܝܐ ܐܶܠܝ ܐܰܬ݂ܬܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܷܔܓ݂ܝܠܝ ܡܰܪܟܶܐ ܘܡܶܐ ܬܰܡܐ، ܡܰܠܟܶܐ ܡܫܰܝܶܠܶܗ ܠܚܰܢܰܐ ܐܝ ܒܰܪܬ݂ܐ ܡܷܪܠܶܠܰܗ: ܒܰܪܬ݂ܝ، ܐܰܬ݂ܝ ܥܝܣܰܐ ܟܳܐܡܰܪ: ܟܳܪܳܚܰܡܢܐ ܚܰܢܰܐ ܓ݂ܱܠܱܒܶܐ ܟܳܐܒܰܥܢܐ ܕܗܘܝܐ ܐܶܠܝ ܐܰܬ݂ܬܐ. ܡܰܕܥܰܪܠܰܗ ܚܰܢܰܐ ܟ݂ܘܕ ܟܘܠ ܢܰܩܠܰܐ: ܒܰܒܰܐ ܐܘ ܟ݂ܰܒܪܐ ܚܰܪܳܝܐ ܕܝܕ݂ܘܟ݂ ܝܐ، ܛܪܳܘܶܐ ܟ݂ܕܘ ܨܷܒܝܳܢܰܝܕ݂ܘܟ݂. ܡܰܠܟܶܐ ܕܰܥܷܪ ܠܰܦ ܥܝܣܰܐ ܘܡܷܪܠܶܠܶܗ: ܚܰܐ ܫܰܪܛ ܬܱܢܶܐ ܓܷܕ ܣܳܝܰܡܢܐ ܐܰܥܡܘܟ݂، ܓܷܕ ܡܰܝܬܰܬܠܝ ܡܶܕܶܐ ܕܠܰܝܬ ܟ݂ܳܬ݂ܶܗ ܚܪܶܢܐ ܒܝ ܕܘܟܬ݂ܰܬ݂ܶܐ ܟܘܠܰܗ. ܒܷܬ݂ܷܪ ܓܷܕ ܐܳܒܶܢܳܠܳܟ݂ ܚܰܢܰܐ ܐܝ ܒܰܪܬ݂ܰܝܕ݂ܝ ܕܗܘܝܐ ܐܶܠܳܟ݂ ܐܰܬ݂ܬܐ. 
+
+
+ܥܝܣܰܐ ܡܰܩܒܶܠܶܗ ܐܘ ܫܰܪܛ ܕܘ ܒܰܒܐ ܕܚܰܢܰܐ، ܐܰܙܙܶܗ ܠܕܘܟܬ݂ܐ ܪܰܚܷܩܬܐ ܘܡܰܛܝ ܗܘܠ ܠܘ ܗܷܢܕ. ܫܳܦܰܥܘܰܐ ܒܘ ܫܘܩܰܢܐ ܕܳܥܰܪܘܰܐ ܠܘ ܚܪܶܢܐ، ܚܳـܝܰܪܘܰܐ ܗܰܪܟܶܐ ܘܬܰܡܐ، ܗܘܠ ܕܷܚܙܶܠܶܗ ܡܶܕܶܐ ܡܚܰܠܦܐ ܘܫܰܦܝܪܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܐܷܫܡܐ ܚܙܶܠܶܗ ܥܰܝܢܟܰܬ ܓ݂ܱܠܱܒܶܐ ܫܰܦܝܪܶܐ، ܡܫܰܝܰܠܘܰܐ ܥܰܠ ܐܘ ܛܝܡܰܬ݂ܬ݂ܶܗ. ܐܘ ܡܳܪܐ ܕܝ ܕܘܟܰܢܐ ܐܳܡܰܪ: ܗܰܬ݂ܶܐ ܒܚܰܡܡܷܫܡܐ ܕܝܢܳܪܶܐ، ܗܰܬ݂ܶܐ ܒܐܰܠܦܐ ܕܝܢܳܪܶܐ. ܒܝ ܚܰܪܰܝܬܐ ܚܙܶܠܶܗ ܚܕ݂ܐ ܕܡܰܒܰܪܩܳܘܰܐ ܟ݂ܕܝ ܫܷܡܫܐ، ܡܫܰܝܶܠܶܗ ܥܰܠ ܐܘ ܛܝܡܰܝܕ݂ܰܗ. ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܡܷܪܠܶܗ: ܛܝܡܶܗ ܕܝ ܥܰܝܢܟܰܬ݂ܶܐ ܛܳܘܶܐ ܡܷܠܝܘܢܐ! ܥܝܣܰܐ ܡܥܰܔܰܒ ܘܡܷܪܠܶܗ: ܩܰܝ ܗܰܩܩܰܐ ܒܛܝܡܐ ܝܐ؟ ܡܰܕܥܰܪܠܶܗ ܡܳܪܶܗ ܕܝ ܥܰܝܢܟܶܐ ܐܳܡܰܪ: ܒܝ ܥܰܝܢܟܰܬ݂ܶܗ ܟܝܒܘܟ݂ ܚܳܙܰܬ ܐܰܝܟܐ ܕܘܟܬ݂ܐ ܕܐܷܒܥܰܬ ܒܝ ܒܪܝܬ݂ܐ. ܡܳܪܶܗ ܕܝ ܥܰܝܢܟܶܐ ܐܰܒܷܥ ܕܷܡܔܰܪܰܒܠܰܗ، ܗܘܠܶܗ ܦܳܬ݂ܰܗ ܠܰܦ ܒܶܩܘܣܝܳܢܶܐ. ܡܕܰܘܡܰܪ ܥܝܣܰܐ ܐܝܢܰܩܠܰܐ ܕܷܚܙܶܠܶܗ ܠܒܶܩܘܣܝܳܢܶܐ ܘܠܘ ܒܰܝܬܐ ܕܚܰܢܰܐ ܒܝ ܥܰܝܢܟܶܐ! ܥܝܣܰܐ ܕܰܪܚܰܠ ܡܳܦܰܩܠܶܗ ܡܷܠܝܘܢܐ ܕܕܝܢܳܪܶܐ ܗܘܠܶܗ ܠܡܳܪܶܗ ܕܝ ܥܰܝܢܟܶܐ. ܡܰܚܬܳܠܶܗ ܒܓܰܘܶܗ ܕܘ ܣܰܢܕܘܩܐ، ܒܕܶܠܶܗ ܕܕܳܥܰܪ ܡܘ ܗܷܢܕ ܠܒܶܩܘܣܝܳܢܶܐ، ܡܷܦܬܰܟܰܪܘܰܐ ܒܰܝܢ ܐܶܠܶܗ ܘܠܪܘܚܶܗ ܘܐܳܡܰܪܘܰܐ: ܒܒܪܝܬ݂ܐ ܟܘܠܰܗ ܠܰܝܬ ܕܷܫܢܐ ܟ݂ܕܝ ܥܰܝܢܟܰܬ݂ܶܐ. ܐܰܢܢܰܩܠܰܐ ܚܰܢܰܐ ܒܰܡ ܡܐ ܡܐ ܐܶܠܝ ܓܷܕ ܗܘܝܐ.
+
+
+
+ܐܘ ܐܰܒܪܐ ܕܰܬ ܬܠܳܬ݂ܐ، ܕܟܷܬܝܐ ܐܘ ܢܰܥܝܡܐ ܕܰܬ ܬܪܶܐ ܐܰܚܘܢܳܢܰܝܕ݂ܶܗ ܐܷܫܡܶܗ ܝܰܘܣܶܦ، ܒܷܬ݂ܷܪ ܡܶܐ ܕܐܰܕ݂ܷܥ ܫܰܒܐ ܘܥܝܣܰܐ ܐܰܙܙܷܢ ܠܕܘܟܬ݂ܐ ܪܰܚܷܩܬܐ، ܡܷܪܠܶܗ ܠܪܘܚܶܗ: ܟܰܠܶܗ ܐܰܬ ܬܪܶܐ ܐܰܚܘܢܳܢܰܝܕ݂ܝ ܐܰܙܙܷܢ ܠܰܪܘܰܠ ܒܝ ܣܷܒܒܶܐ ܕܘ ܫܘܓ݂ܠܐ ܕܝ ܬܰܓܳܪܘܬ݂ܐ. ܝܰܘܣܶܦ ܡܷܪܠܶܗ: ܐܰܢܢܰܩܠܰܐ ܐܘܥܕܐ ܟܷܬܠܝ ܦܷܪܨܰܐ ܕܐܷܙܙܝܢܐ ܠܘ ܒܰܝܬܐ ܕܡܰܠܟܶܐ، ܐܘ ܒܰܒܐ ܕܚܰܢܰܐ، ܕܛܳܠܰܒܢܐ ܡܝܢܶܗ ܐܝ ܒܰܪܬ݂ܰܝܕ݂ܶܗ. ܡܰܠܷܙܠܶܗ ܐܰܙܙܶܗ ܠܘ ܒܰܝܬܐ ܕܡܰܠܟܶܐ، ܥܰܘܘܷܠ ܕܡܰܛܝ ܕܷܩܠܶܗ ܒܘ ܬܰܪܥܐ، ܚܷܪܠܶܗ ܠܚܰܢܰܐ ܦܬܷܚܠܰܗ ܐܘ ܬܰܪܥܐ، ܐܝܢܰܩܠܰܐ ܕܚܷܙܝܳܠܶܗ ܓ݂ܱܠܱܒܶܐ ܦܨܝـܚ ܘܒܘ ܙܰܒܢܰܘܐ ܚܷܙܝܳܠܶܗ ܟ݂ܕܝ ܡܰܠܰܟܬ݂ܐ ܕܘ ܫܘܦܪܐ. ܝܰܘܣܶܦ ܡܷܔܓ݂ܰܠܘܰܐ ܥܰܠ ܐܝ ܬܰܓܳܪܘܬܐ ܘܥܰܠ ܐܰܚ ܚܰܝܰـܝܕ݂ܶܗ. ܒܷܬ݂ܷܪ ܐܰܒܷܥ ܡܶܐ ܡܰܠܟܶܐ، ܚܰܢܰܐ ܕܗܘܝܐ ܐܶܠܶܗ ܐܰܬ݂ܬܐ. ܡܰܕܥܰܪܠܶܗ ܡܰܠܟܶܐ ܘܡܷܪܠܶܗ: ܡܫܰܝܠܝܢܰܐ ܡܶܐ ܚܰܢܰܐ ܘܚܳܙܝܢܰܐ ܗܝـܝܰܐ ܡܷܢ ܓܷܕ ܐܷܡܡܐ. ܚܰܢܰܐ ܟ݂ܘܕ ܟܘܠ ܢܰܩܠܰܐ ܡܷܪܠܰܗ: ܒܰܒܰܐ، ܛܪܳܘܶܐ ܟ݂ܕܘ ܟ݂ܰܒܪܰܝܕ݂ܘܟ݂. ܡܰܠܟܶܐ ܡܷܪܠܶܗ ܠܝܰܘܣܶܦ: ܟܷܬܠܝ ܚܰܐ ܫܰܪܛ ܕܐܳܡܰܪܢܘܟ݂، ܟܳܠܳܙܰܡ ܡܰܡܛܰܬܠܝ ܡܶܕܶܐ ܟ݂ܘܕ ܕܷܫܢܐ ܕܠܰܝܬ ܚܪܶܢܐ ܟ݂ܳܬ݂ܶܗ ܒܝ ܕܘܟܬ݂ܰܬ݂ܶܐ ܘܒܷܬ݂ܷܪ ܓܷܕ ܐܳܒܶܢܳܠܳܟ݂ ܚܰܢܰܐ. ܡܰܩܒܶܠܶܗ ܝܰܘܣܶܦ ܐܘ ܫܰܪܛܰܢܐ، ܡܷܪܠܶܗ ܠܪܘܚܶܗ: ܓܷܕ ܡܰܚܰܬܢܐ ܟܘܠܶܗ ܐܘ ܚܰـܝܠܰܝܕ݂ܝ ܠܱܫܰܢ ܕܙܳܘܰܢܢܐ ܡܶܕܶܐ ܕܠܰܝܬ ܟ݂ܳܬ݂ܶܗ ܒܝ ܕܘܟܬ݂ܰܬ݂ܶܐ. ܡܷܪܠܰܠܠܶܗ: ܦܘܫܘ ܒܷܫܠܳܡܐ، ܘܰܐܙܙܶܗ ܗܘܠ ܠܷܒܢܳܢ. 
+
+
+ܬܰܡܐ ܟܳܪܰܟ݂ܘܰܐ ܒܰܫ ܫܘܩܳܢܶܐ. ܫܳܦܰܥܘܰܐ ܒܫܘܩܐ ܚܰܐ ܓ݂ܱܠܱܒܶܐ ܪܰܒܐ ܕܰܦ ܦܝܪܶܐ. ܡܰܠܰܟ݂ܘܰܐ ܚܳـܝܰܪܘܰܐ ܗܰܪܟܶܐ ܘܬܰܡܐ، ܚܳـܝܰܪܘܰܐ ܒܝ ܕܘܟܰܢܰܬ݂ܶܐ ܕܳܥܰܪܘܰܐ ܠܝ ܚܪܶܬܐ، ܚܙܶܠܶܗ ܦܷ݁ܪܬܰܩܰܢܰܬ، ܚܰܒܘܫܶܐ، ܟ݂ܰܘܟ݂ܶܐ، ܥܷܢܔܰܨܰܬ ܘܠܰܝܡܘܢܶܐ. ܡܫܰܝܶܠܶܗ ܥܰܠ ܐܘ ܛܝܡܰܬ݂ܬ݂ܶܗ، ܡܷܪܠܶܠܶܗ ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܕܘ ܟܝܠܐ ܕܰܦ݁ ܦܷ݁ܪܬܰܩܰܢܰܬ ܒܗܰܩܩܰܐ ܝܐ ܘܕܰܟ݂ ܟ݂ܰܘܟ݂ܶܐ ܒܗܰܩܩܰܐ ܝܐ. ܒܰܣ ܗܰܢܐ ܝܰܘܣܶܦ ܪܚܷܡܘܰܝܠܶܗ ܐܘ ܠܰܝܡܘܢܐ ܙܷܕܬܷܪ. ܡܫܰܝܶܠܶܗ ܥܰܠ ܐܘ ܛܝܡܰܝܕ݂ܶܗ. ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ ܡܷܪܠܶܗ: ܐܘ ܠܰܝܡܘܢܐ ܕܠܰܠܬܰܚ ܒܥܷܣܪܝ ܕܝܢܳܪܶܐ. ܐܶܠܐ ܐܘ ܠܰܝܡܘܢܐ ܕܠܰܠܥܰܠ ܒܡܷܠܝܘܢܐ ܕܕܝܢܳܪܶܐ ܝܐ. ܝܰܘܣܶܦ ܡܕܰܘܡܰܪ ܘܟܐܡܰܪ: ܐܰܝܕܰܪܒܐ ܓܷܕ ܗܳܘܶܐ ܗܰܘܟ݂ܰܐ؟ ܚܰܐ ܟܝܠܐ ܕܠܰܝܡܘܢܐ ܒܡܷܠܝܘܢܐ! ܩܰܛܥܝ‍ـ‍ܝܰܢ ܠܐ ܫܰܡܷܥܢܐ ܒܰܚ ܚܰܝܰـܝܕ݂ܝ ܕܚܰܐ ܟܝܠܐ ܕܠܰܝܡܘܢܐ ܒܡܷܠܝܘܢܐ ܕܕܝܢܳܪܶܐ ܝܐ! ܡܫܰܝܶܠܶܗ ܝܰܘܣܶܦ: ܩܰܝ ܒܡܷܠܝܘܢܐ؟ ܡܰܕܥܰܪܠܶܗ ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ: ܗܰܢܐ ܠܰܝܡܘܢܐ ܕܰܚ ܚܰܝܶܐ ܟܷܐܡܡܝܠܶܗ. ܐܝܕ݂ܰܐ ܕܥܘܨܪܰܬܠܶܗ ܒܦܶܡܶܗ ܕܚܰܐ ܡܝܬ݂ܐ ܕܗܶܫ ܠܐ ܫܰܦܷܥ ܐܰܪܒܰܥ ܘܥܷܣܪܝ ܣܰܥܰܝܰܬ ܥܰܠ ܐܘ ܡܰܘܬܰܝܕ݂ܶܗ، ܕܰܪܚܰܠ ܓܦܳܬܰܚ ܥܰܝܢܳܬ݂ܶܗ ܘܓܷܕ ܩܳܝܰܡ. ܗܰܢܐ ܝܐ ܐܘ ܪܳܙܐ ܕܘ ܠܰܝܡܘܢܐ. ܝܰܘܣܶܦ ܡܕܰܘܡܰܪ ܒܘ ܡܶܕܶܐ ܕܡܷܪܠܶܗ ܡܳܪܶܗ ܕܝ ܕܘܟܰܢܐ! ܟܳܡܷܦܬܰܟܰܪ ܠܪܘܚܶܗ ܘܟܳܐܡܰܪ: ܒܒܪܝܬ݂ܐ ܟܘܠܰܗ ܠܰܝܬ ܕܷܫܢܐ ܪܰܒܬܷܪ ܡܘ ܠܰܝܡܘܢܰܢܐ. ܠܰܝܡܘܢܐ ܕܟܳܡܰܩܷܡ ܐܰܡ ܡܝܬ݂ܶܐ. ܝܰܘܣܶܦ ܡܳܦܰܩܠܶܗ ܗܘܠܶܠܶܗ ܡܷܠܝܘܢܐ ܕܕܝܢܳܪܶܐ. ܡܰܚܰܬܠܶܗ ܐܘ ܠܰܝܡܘܢܐ ܒܓܰܘܶܗ ܕܣܰܢܕܘܩܐ ܘܒܕܶܠܶܗ ܕܕܳܥܰܪ ܠܒܶܩܘܣܝܳܢܶܐ.
+
+
+
+
+
+ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ ܡܰܠܝܙܝܘܰܐ ܕܕܘܥܪܝ ܠܒܶܩܘܣܝܳܢܶܐ، ܚܰܐ ܡܷܢܢܶܗ ܠܳܐܕ݂ܰܥܘܰܐ ܡܶܕܶܐ ܥܰܠ ܐܘ ܚܪܶܢܐ. ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ ܠܰܬܝܡܝ ܒܷܚܕ݂ܐ ܕܘܟܬ݂ܐ. ܚܰܡܫܐ ܟܝܠܳܡܰܬܪܶܐ ܡܶܩܷܡ ܡܶܐ ܕܡܳܛܷܢ ܠܝ ܩܪܝܬ݂ܐ. ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ ܒܶܐ ܐܰܝܕܰܪܒܐ ܗܰܘܝ ܚܙܰܠܠܶܗ ܚܕ݂ܳܕ݂ܶܐ ܒܝ ܕܘܟܬ݂ܰܝܐ. ܡܫܰܝܶܠܶܗ ܟܘܠ ܚܰܐ ܡܘ ܚܪܶܢܐ: ܡܰܝܟܐ ܟܳܐܬ݂ܰܬ ܒܨܰܦܪܶܗ ܕܝܰܘܡܶܗ ܕܷܬܪܶܐ؟ ܝܰܬܝܘܝ ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ، ܡܷܪܪܶܗ ܠܷܚܕ݂ܳܕ݂ܶܐ ܒܶܐ ܟܘܠ ܚܰܐ ܡܷܢ ܔܰܪܝ ܐܰܥܡܶܗ. ܒܶܐ ܐܰܝܕܰܪܒܐ ܟܘܠ ܚܰܐ ܡܷܢܢܶܗ ܠܰܙܷܡ ܕܙܳܘܰܢ ܡܶܕܶܐ ܠܐ ܒܰܣ ܒܝ ܕܘܟܬ݂ܰܝܐ ܬܱܢܶܐ ܐܶܠܐ ܒܷܒܪܝܬ݂ܐ ܟܘܠܰܗ ܕܠܳܘܶܐ ܟ݂ܳܬ݂ܶܗ. ܡܷܪܠܶܗ ܫܰܒܐ، ܐܘ ܐܰܚܘܢܐ ܪܰܒܐ: ܐܳܢܐ ܐܰܙܙܝܢܐ ܠܘ ܥܷܪܰܐܩ ܙܘܷܢܠܝ ܡܰܪܫܶܐ ܕܟܳܦܰܝܪܐ ܒܝ ܫܡܰܝܐ ܘܟܳܡܘܒܠܳܠܝ ܠܝ ܕܘܟܬ݂ܐ ܕܟܳܐܒܰܥܢܐ. ܡܷܪܠܶܗ ܐܘ ܐܰܚܘܢܐ ܕܘ ܦܰܠܓܐ ܥܝܣܰܐ: ܐܳܢܐ ܐܰܙܙܝܢܐ ܠܘ ܗܷܢܕ ܙܘܷܢܠܝ ܥܰܝܢܟܶܐ ܕܠܰܝܬܐ ܟ݂ܳܬ݂ܰܗ ܒܷܒܪܝܬ݂ܐ ܟܘܠܰܗ ܘܟܝܒܰܢ ܚܳܙܝܢܰܐ ܐܝ ܕܘܟܬ݂ܐ ܕܐܷܒܥܝܢܰܐ ܐܶܒܰܗ. ܥܝܣܰܐ ܡܰܒܪܰܡܠܶܗ ܦܳܬ݂ܰܗ ܕܝ ܥܰܝܢܟܶܐ ܠܘ ܓܰܒܰܢܐ ܘܠܰܢܐ، ܠܘ ܡܰܕܷܢܚܐ، ܠܘ ܡܰܥܷܪܒܐ، ܠܘ ܓܰܪܒܝܐ ܘܠܘ ܬܰܝܡܢܐ. ܐܝܢܰܩܠܰܐ ܕܡܰܕܥܰܪܠܶܗ ܦܳܬ݂ܰܗ ܠܰܦ ܒܶܩܘܣܝܳܢܶܐ، ܡܥܰܔܒܝ ܘܡܕܰܘܡܪܝ ܐܝܢܰܩܠܰܐ ܕܷܚܙܰܠܠܶܗ ܟܘܠܠܶܗ ܐܰܢ ܢܳܫܶܐ ܠܰܬܝܡܝ ܒܝ ܕܷܪܬܐ ܕܒܶܐ ܡܰܠܟܶܐ ܐܘ ܫܒܳܒܰܬ݂ܬ݂ܶܗ، ܟܳܒܳܟ݂ܷܢ ܘܡܠܰܘܷܢ ܠܚܰܢܰܐ ܕܩܰܘܪܝܠܰܗ، ܗܰܬ݂ܶܐ ܚܰܢܰܐ ܡܰܝـܝܬ݂ܳܘܰܐ. 
+
+
+ܫܰܒܐ ܕܰܪܚܰܠ ܡܳܦܰܩܠܶܗ ܐܝ ܡܰܪܫܰܝܕ݂ܶܗ ܕܟܳܫܷܒܗܐ ܠܝ ܛܰܝܰܣܬܐ. ܡܰܠܷܙܙܶܗ ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ ܪܰܘܝܟ݂ܝ ܐܰܥܠܰܗ ܘܡܰܛܷܢ ܠܒܶܩܘܣܝܳܢܶܐ ܡܶܩܷܡ ܡܶܐ ܕܡܰܚܬܝܠܰܗ ܒܘ ܩܰܘܪܐ. ܝܰܘܣܶܦ ܣܬܶܐ ܟ݂ܰܝـܝܦܐ ܦܬܷܚܠܶܗ ܠܘ ܣܰܢܕܘܩܐ ܕܟܷܬܘܰܐ ܐܰܥܡܶܗ، ܡܳܦܰܩܠܶܗ ܐܘ ܠܰܝܡܘܢܐ ܘܥܨܷܪܠܶܗ ܒܦܶܡܰܗ ܕܚܰܢܰܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܩܰܛܷܢܬܐ، ܦܬܷܚܠܰܗ ܥܰܝܢܳܬ݂ܰܗ ܘܟܷܐܡܡܐ: ܐܰܝܟܐ ܢܐ؟ ܗܰܘܝ ܦܨܝـܚܘܬ݂ܐ ܪܰܒܬ݂ܐ ܒܰܝܢ ܐܰܓ ܓܰܒܪܶܐ ܘܢܶܫܶܐ ܕܟܷܬܘܰܝܢܶܐ ܬܰܡܐ ܘܐܷܡܡܝܘܰܐ: ܗܰܬ݂ܶܐ ܡܰܝـܝܬ݂ܳܘܰܐ ܐܰܝܕܰܪܒܐ ܩܰܝـܝܡܐ؟ 
+
+ܒܷܬ݂ܷܪ ܡܘ ܡܶܕܰܢܐ ܕܔܰܪܝ، ܟܘܠ ܚܰܐ ܡܰܢ ܐܰܚܘܢܳܢܶܐ ܐܳܒܰܥܘܰܐ ܕܚܰܢܰܐ ܗܘܝܳܠܶܗ ܐܰܬ݂ܬܐ ܘܠܳܐܬ݂ܷܢܘܰܐ ܠܷܚܕ݂ܳܕ݂ܶܐ. ܫܰܒܐ ܡܷܪܠܶܗ: ܚܰܢܰܐ ܐܶܠܝ ܝܐ ܘܕܝܕ݂ܝ ܝܐ ܡܝܕ݂ܶܗ ܕܠܳܘܶܘܰܐ ܡܝ ܡܰܪܫܰܝܕ݂ܝ ܐܝ ܛܰܝܰܣܬܐ، ܢܳܫܶܐ ܡܷܢܟ݂ܘ ܠܷܓ ܩܳܕܰܪܘܰܐ ܡܳܛܶܐ ܠܒܶܩܘܣܝܳܢܶܐ ܗܰܘܟ݂ܰܐ ܟ݂ܰܝـܝܦܐ. ܐܝܕ݂ܰܐ ܥܝܣܰܐ ܚܙܶܠܶܗ ܠܘ ܡܰܘܬܐ ܕܚܰܢܰܐ ܒܝ ܥܰܝܢܟܰܝܕ݂ܶܗ، ܒܝ ܥܰܝܢܟܰܝܕ݂ܶܗ ܡܷܢ ܓܷܕ ܩܳܕܰܪ ܣܳܝܰܡ؟ ܒܘ ܫܷܟܠܰܢܐ ܥܰܝܢܝ ܡܶܕܶܐ ܝܰܘܣܶܦ ܣܬܶܐ، ܡܷܢ ܓܷܕ ܩܳܕܰܪܘܰܐ ܣܳܝܰܡ ܒܘ ܠܰܝܡܘܢܰܝܕ݂ܶܗ ܒܷܬ݂ܷܪ ܡܶܐ ܐܰܪܒܰܥ ܘܥܷܣܪܝ ܫܳܥܶܐ ܡܘ ܡܰܘܬܐ ܕܚܰܢܰܐ؟ ܘܠܐ ܬܷܡܶܕܶܐ. ܥܰܠ ܕܘ ܠܰܝܡܘܢܐ ܒܷܬ݂ܷܪ ܡܶܐ ܐܰܪܒܰܥ ܘܥܷܣܪܝ ܫܳܥܶܐ ܕܘ ܡܰܘܬܐ، ܠܷܓ ܡܰܢܦܰܥ ܠܬܷܡܶܕܶܐ. ܥܝܣܰܐ ܣܬܶܐ ܡܥܰܟܰܣ ܘܡܷܪܠܶܗ: ܚܰܢܰܐ ܕܝܕ݂ܝ ܝܐ. ܥܰܠ ܕܠܳܘܶܘܰܐ ܡܝ ܥܰܝܢܟܰܝܕ݂ܝ ܢܳܫܶܐ ܡܷܢܟ݂ܘ ܠܷܓ ܦܳܪܰܩܘܰܐ ܘܠܐ ܟܳܐܕ݂ܰܥܘܰܐ ܒܘ ܡܰܘܬܐ ܕܚܰܢܰܐ. ܡܷܢ ܓܷܕ ܩܘܕܪܐ ܣܰܝܡܐ ܐܝ ܡܰܪܫܶܐ ܒܷܬ݂ܷܪ ܡܶܐ ܕܚܰܢܰܐ ܡܰܝـܝܬ݂ܐ؟ ܠܐ ܐܝ ܡܰܪܫܶܐ ܘܠܐ ܐܘ ܠܰܝܡܘܢܐ ܠܐ ܓܷܕ ܡܰܢܦܥܝܘܰܐ ܒܷܬ݂ܷܪ ܡܘ ܡܰܘܬܰܝܕ݂ܰܗ. ܐܝ ܥܰܝܢܟܶܐ ܗܝܝܰܐ ܝܐ ܕܷܛܪܶܠܰܗ ܕܚܳܙܝܢܰܐ ܐܘ ܡܰܘܬܐ ܕܚܰܢܰܐ ܡܶܩܷܡ ܐܰܪܒܰܥ ܘܥܷܣܪܝ ܫܳܥܶܐ. ܝܰܘܣܶܦ ܕܰܥܷܪ ܠܰܦ ܐܰܢ ܐܰܚܘܢܳܢܶܐ ܫܰܒܐ ܘܥܝܣܰܐ ܡܷܪܠܰܠܠܶܗ: ܕܠܳܘܶܘܰܐ ܡܘ ܠܰܝܡܘܢܰܝܕ݂ܝ ܐܘܥܕܐ ܚܰܢܰܐ ܠܐ ܟܘܝܳܘܰܐ ܒܰܚ ܚܰܝܶܐ. ܐܘ ܠܰܝܡܘܢܰܝܕ݂ܝ ܠܰܬܝܐ ܟ݂ܘܕ ܐܰܡ ܡܶܕܳܢܰܬ݂ܟ݂ܘ، ܗܝܝܶܐ ܡܰܩܷܡܠܶܗ ܠܚܰܢܰܐ ܡܘ ܡܰܘܬܐ. ܡܰܘܟ݂ܰܐ ܚܰܢܰܐ ܐܶܠܝ ܓܷܕ ܬܘܝܐ. 
+
+
+
+
+ܐܰܬ ܬܠܳܬ݂ܐ ܐܰܚܘܢܳܢܶܐ ܡܥܰܟܣܝ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ ܘܡܩܰܬܰܠܠܶܗ ܒܶܐ ܚܰܢܰܐ ܠܡܰܢ ܓܷܕ ܬܘܝܐ. ܝܰܬܝܘܝ ܐܰܚ ܚܰܟܝܡܶܐ ܘܐܰܣ ܣܳܘܶܐ ܒܰܝܢܳܬ݂ܰܝـܝܶܗ ܠܱܫܰܢ ܕܐܳܒܷܢ ܩܱܪܰܐܪ ܒܶܐ ܚܰܢܰܐ ܠܡܰܢ ܟܳܠܳܙܰܡ ܕܗܘܝܐ. ܐܰܚ ܚܰܟܝܡܶܐ ܡܷܦܬܰܟܪܝܘܰܐ ܗܰܘܟ݂ܰܐ ܠܪܘܚܰܝـܝܶܗ، ܩܰܝܷܡ ܚܰܐ ܡܷܢܢܶܗ ܘܟܳܐܡܰܪ: ܟܳܠܳܙܰܡ ܕܗܘܝܐ ܠܡܳܪܶܗ ܕܝ ܡܰܪܫܶܐ. ܩܰܝܷܡ ܕܰܬ ܬܪܶܐ ܡܷܪܠܶܗ: ܠܡܳܪܶܗ ܕܝ ܥܰܝܢܟܶܐ. ܩܰܝܷܡ ܚܪܶܢܐ ܕܰܬ ܬܠܳܬ݂ܐ ܟܳܐܡܰܪ: ܠܡܳܪܶܗ ܕܘ ܠܰܝܡܘܢܐ ܟܳܠܳܙܰܡ ܕܗܘܝܐ. ܩܰܝܷܡ ܚܰܐ ܡܰܣ ܣܳܘܶܐ ܚܪܶܢܶܐ ܘܟܳܐܡܰܪ: ܚܰܢܰܐ ܕܝܰܘܣܶܦ ܝܐ، ܥܰܠ ܕܐܰܬ ܬܪܶܐ ܐܰܚܘܢܳܢܰܝܕ݂ܶܗ ܡܔܰܪܰܒܒܶܗ ܐܘ ܚܰـܝܠܰܬ݂ܬ݂ܶܗ ܟܘܠܶܗ ܠܱܫܰܢ ܕܡܰܩܝܡܝ ܚܰܢܰܐ ܡܘ ܡܰܘܬܐ، ܐܶܠܐ ܠܐ ܩܰܕܝܪܝ. ܐܰܬ ܬܠܳܬ݂ܐ ܣܬܶܐ ܪܘܚܡܝܘܰܐ ܠܚܰܢܰܐ ܓ݂ܱܠܱܒܶܐ، ܐܶܠܐ ܡܳܪܶܗ ܕܝ ܡܰܪܫܶܐ ܠܐ ܟ݂ܰܨܷܪ ܐܝ ܡܰܪܫܰܝܕ݂ܶܗ ܘܡܳܪܶܗ ܕܝ ܥܰܝܢܟܶܐ، ܥܰܝܢܝ ܡܶܕܶܐ ܠܐ ܟ݂ܰܨܷܪ ܐܝ ܥܰܝܢܟܰܝܕ݂ܶܗ. ܐܶܠܐ ܡܳܪܶܗ ܕܘ ܠܰܝܡܘܢܐ، ܥܨܷܪܠܶܗ ܐܘ ܠܰܝܡܘܢܰܝܕ݂ܶܗ ܒܦܶܡܰܗ ܕܚܰܢܰܐ ܘܟ݂ܰܨܷܪܠܶܗ. ܕܠܳܐܒܶܘܰܝܠܶܗ ܠܚܰܢܰܐ، ܠܷܓ ܩܰܝܡܳܘܰܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܷܥܨܷܪܠܶܗ ܐܘ ܠܰܝܡܘܢܰܝܕ݂ܶܗ، ܠܰܘ ܟܳܡܰܢܦܰܥ ܠܡܶܕܶܐ. 
+ܐܰܚ ܚܰܟܝܡܶܐ ܟܘܠܠܶܗ ܡܷܪܪܶܗ: ܗܰܢܐ ܝܐ ܐܘ ܕܝܢܐ ܟܝܢܐ. ܒܝ ܚܰܪܰܝܬܐ ܗܰܘܝܐ ܚܰܢܰܐ ܠܝܰܘܣܶܦ ܘܦܨܝـܚـܝ ܐܰܬ ܬܪܶܐ ܓ݂ܱܠܱܒܶܐ ܘܓܰܘܝܪܝ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܣܷܡܡܰܢܢܶܗ ܣܬܶܐ ܡܷܫܬܘܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܪܰܒܬ݂ܐ. ܟܘܠܠܶܗ ܐܰܢ ܢܳܫܶܐ ܕܒܶܩܘܣܝܳܢܶܐ ܚܰܕ݂ܝܪܝ ܒܝ ܡܷܫܬܘܬ݂ܰܬ݂ܬ݂ܶܗ ܘܦܨܝـܚـܝ ܐܰܥܡܰܝـܝܶܗ. ܗܰܘܷܠܠܶܗ ܐܰܒܢܶܐ ܘܒܢܳܬܶܐ. ܡܰܫܦܰܥܥܶܗ ܚܰܝܶܐ ܒܰܣܝܡܶܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ.
+
+				</p>
+                
+			 <!-- Repeat the <p> element as needed -->
+            </div>
+            
+            <div type="transcription">
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+                    <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+Maḥkewaylan Ḥolo Laḥdo b ḥa mal lalye du saṯwo, omarwa: Maḥkënwa as sowayḏan d këtwa tre šbobe d cayšiwa b Bequsyone. Ḥa maš šbobani ëšme Gawriye wa w këtwayle tloṯo abne Šabo, u abro rabo, Cisa u abro du falgo w Yawsef ste u nacimo d kulle wa. Bëṯër me zabno yarixo, mayëṯ Gawriye u babo dat tloṯo claymani w ṭrelalle mal ġäläbe mi tagoruṯayḏe. U šbobo ḥreno ste ëmmiwayle Malke, këtwayle barṯo ġäläbe ḥliṯo w šafërto ëšma Ḥana. Ac clayme d Bequsyone kulle ruḥmiwa l Ḥana cal d ġäläbe šafërto w ṭawto wa ste. Ḥana yatëmto dlo emo wa, elo u babo ġäläbe catiro wa, w roḥamwa l Ḥana. At tloṯo claymani Šabo, Cisa w Yawsef, ġäläbe ruḥmiwa l Ḥana. Kul ḥa mënne obacwa d Ḥana huyole aṯto w ḥa mënne lomarwa lu ḥreno d koroḥam l Ḥana. Kul ḥa kolewa lu yawmo di meštuṯayḏe d gowar acma w d howalle ḥaye basime. Ḥana ste ëḏcowa d ac claymani koruḥmila elo hiya l noše lëmmowa. 
+B ḥa mal lalye du qayṭo mërle u aḥuno rabo d ëšme Šabo lan aḥunone kolozam d ëzzino l dukṯo ġäläbe raḥëqto bi sëbbe di tagoruṯayḏan. Mërlalle: “Fušu bë šlomo”, w azze. Elo bu yawmawo lazze l dukto raḥëqto xud mërwayle lan aḥunonayḏe. Azze lu bayto du šbobayḏe, gab u babo d Ḥana. 
+Šabo cabër lu bayto w yatu qariwo lu babo d Ḥana, mërlele: “Koroḥamno l Ḥana me kule lebi w kobacno d gowarno acma w d huyoli aṯto.” Inaqqa d mërle hawxa ḥërle b Malke foṯoṯe samiqi w kolewa d Malke d omarle mede. Malke qrele l Ḥana i barṯayḏe w mërlela: “Mḥaḏar qaḥwa lu šbobayḏan d šotina cam ḥḏoḏe.” Ḥana mṭela i qaḥwa yatiwo mqabël d Šabo, u šufrayḏa ste šobahwa li šëmšo. Mërlela u babo: “Hano Šabo u šbobayḏan koroḥamlax ġäläbe w kobac d moxarlax w d huyatle aṯto.” Madcarla Ḥana: “U xabro ḥaroyo diḏux yo, ya baba.” Mbela lu ṣaḥno w lak kose bëṯër me dë štalle w azzayo. Malke ste ḥërle b Šabo, mërlele: “Ḥa šarṭ täne këtli. Kolozam maytatli mede d layt xoṯe bi dukṯaṯe kula.”
+Šabo ste maqbele u šarṭano. Malaxle w azze l dukṯo ġäläbe raḥëqto, maṭi lu Ciraq. Koraxwa me dukṯo  l dukṯo, me wälaye l wälaye hul d maṭi l Mawṣal, këtwa maršat tamo d lo mëḥzënwa b kul dukṯo. Mḥele aš šuqone di dukṯayo kulle bë ḥḏoḏe, mšayalwa mi dukanaṯe w docarwa li ḥreto, mšayalwa cal u ṭimaṯṯe ste. Madcarle more di dukano mërle: “Haṯe b alfo, w haṯe b ḥamšo alfo, i ḥreto b cësro alfo.” Hawxa mšayalwa ḥḏo bë ḥḏo, hul dë ḥzele ḥḏo ġäläbe ġäläbe šafërto. Mšayele cal u ṭimayḏa. Madcarle more di dukano mërle: “Ṭima ḥa mëlyuno d dinore yo.” Mdawmar Šabo cal u ṭimayḏa, d heš baḥ ḥayayḏe lo ḥzele marše b mëlyuno! Mërlele more dam maršat: “Haṯe ṭayasto yo, itaw cal i maršaṯe gëd mëblolux layko d ëbcat!” Šabo mëftakarwa l ruḥe omarwa: “Ono komarno d layt xdi maršaṯe bu culmo kule. Mawxa gëd mobalnola lu babo d Ḥana läjan d mëfṣaḥ eba ġäläbe w d obeli Ḥana i barṯo.” Rawëx cal i marše dë mjarabla, darḥal bdela d fayro. Fṣiḥ ġäläbe inaqqa dë ḥzele d kofayro. Mofaqle ad dinore me cebe hiwile l more di dukano ḥaq di marše. Maḥatle i marše b gawe d sanduqo bdele d docar l Bequsyone. 
+U abro du falgo d këtyo ëšme Cisa, inaqqa dë ḥzele u aḥuno d azze bi sëbbe di tagoruṯo. Mëftakarle l ruḥe w mërle: “Haṯe fërṣa rabṯo yo läšan d ëzzino lu bayto du šbobayḏan Malke w ṭolabno l Ḥana i šafërto w ḥa man aḥunonayḏi lo koḏac.” Rahëṭ lu bayto d Malke. Hule alle šlomo w mërle: “Ḥolo Malke, lo koḏacno aydarbo d omarnolox cal i ḥubayḏi d laf Ḥana. Hakka d ḥozatla layëq, kobacno d huyo eli aṯto.” Bëṯër me dë jġili marke w me tamo, Malke mšayele l Ḥana i barṯo mërlela: “Barṯi, aṯi Cisa komar koroḥamno Ḥana ġäläbe kobacno d huyo eli aṯto.” Madcarla Ḥana xud kul naqla: “Baba u xabro ḥaroyo diḏux yo, ṭrowe xdu ṣëbyonayḏux.” Malke dacër laf Cisa w mërlele: “Ḥa šarṭ täne gëd soyamno acmux, gëd maytatli mede d layt xoṯe ḥreno bi dukṯaṯe kula. Bëṯër gëd obenolox Ḥana i barṯayḏi d huyo elox aṯto.” 
+Cisa maqbele u šarṭ du babo d Ḥana, azze l dukṯo raḥëqto w maṭi hul lu Hënd. Šofacwa bu šuqano docarwa lu ḥreno,  ḥoyarwa harke w tamo, hul dë ḥzele mede mḥalfo w šafiro. Bëṯër me ëšmo ḥzele caynkat ġäläbe šafire, mšayalwa cal u ṭimaṯṯe. U moro di dukano omar: “Haṯe b ḥammëšmo dinore, haṯe b alfo dinore.” Bi ḥarayto ḥzele ḥḏo d mabarqowa xdi šëmšo, mšayele cal u ṭimayḏa. More di dukano mërle: “Ṭime di caynkaṯe ṭowe mëlyuno!” Cisa mcajab w mërle: “Qay haqqa b ṭimo yo?” Madcarle more di caynke omar: “Bi caynkaṯe kibux ḥozat ayko dukṯo d ëbcat bi briṯo.” More di caynke abëc dë mjarabla, hule foṯa laf Bequsyone. Mdawmar Cisa inaqla dë ḥzele l Bequsyone w lu bayto d Ḥana bi caynke! Cisa darḥal mofaqle mëlyuno d dinore hule l more di caynke. Maḥtole b gawe du sanduqo, bdele d docar mu Hënd l Bequsyone, mëftakarwa bayn ele w l ruḥe w omarwa: “B briṯo kula layt dëšno xdi caynkaṯe. Annaqla Ḥana bam mo mo eli gëd huyo.”
+U abro dat tloṯo, d këtyo u nacimo dat tre aḥunonayḏe ëšme Yawsef, bëṯër me d aḏëc Šabo w Cisa azzën l dukṯo raḥëqto, mërle l ruḥe: “Kale at tre aḥunonayḏi azzën larwal bi sëbbe du šuġlo di tagoruṯo.” Yawsef mërle: “Annaqla ucdo këtli fërṣa d ëzzino lu bayto d Malke, u babo d Ḥana, d ṭolabno mine i barṯayḏe.” Malëzle azze lu bayto d Malke, cawwël d maṭi dëqle bu tarco, ḥërle l Ḥana ftëḥla u tarco, inaqla d ḥëzyole ġäläbe fṣiḥ w bu zabnawo ḥëzyole xdi malakṯo du šufro. Yawsef mëjġalwa cal i tagoruto w cal aḥ ḥayayḏe. Bëṯër abëc me Malke, Ḥana d huyo ele aṯto. Madcarle Malke w mërle: “Mšaylina me Ḥana w ḥozina hiya mën gëd ëmmo.” Ḥana xud kul naqla mërla: “Baba, ṭrowe xdu xabrayḏux.” Malke mërle l Yawsef: “Këtli ḥa šarṭ d omarnux, kolozam mamṭatli mede xud dëšno d layt ḥreno xoṯe bi dukṯaṯe w bëṯër gëd obenolox Ḥana.” Maqbele Yawsef u šarṭano, mërle l ruḥe: “Gëd maḥatno kule u ḥaylayḏi läšan d zowanno mede d layt xoṯe bi dukṯaṯe. Mërlalle: “Fušu bë šlomo”, w azze hul Lëbnon. 
+Tamo koraxwa baš šuqone. Šofacwa b šuqo ḥa ġäläbe rabo daf fire. Malaxwa ḥoyarwa harke w tamo, ḥoyarwa bi dukanaṯe docarwa li ḥreto, ḥzele përtaqanat, ḥabuše, xawxe, cënjaṣat w laymune. Mšayele cal u ṭimaṯṯe, mërlele more di dukano d u kilo dap përtaqanat b haqqa yo w dax xawxe b haqqa yo. Bas hano Yawsef rḥëmwayle u laymuno zëdtër. Mšayele cal u ṭimayḏe. More di dukano mërle: “U laymuno d laltaḥ b cësri dinore. Elo u laymuno d lalcal b mëlyuno d dinore yo.” Yawsef mdawmar w komar: “Aydarbo gëd howe hawxa? Ḥa kilo d laymuno b mëlyuno! Qaṭciyan lo šamëcno baḥ ḥayayḏi d ḥa kilo d laymuno b mëlyuno d dinore yo!” Mšayele Yawsef: “Qay b mëlyuno?” Madcarle more di dukano: “Hano laymuno daḥ ḥaye këmmile. Iḏa d cuṣratle b feme d ḥa miṯo d heš lo šafëc arbac w cësri sacayat cal u mawtayḏe, darḥal gëd fotaḥ caynoṯe w gëd qoyam. Hano yo u rozo du laymuno.” Yawsef mdawmar bu mede d mërle more di dukano! Komëftakar l ruḥe w komar: “B briṯo kula layt dëšno rabtër mu laymunano. Laymuno d komaqëm am miṯe.” Yawsef mofaqle hulele mëlyuno d dinore. Maḥatle u laymuno b gawe d sanduqo w bdele d docar l Bequsyone. 
+At tloṯo aḥunone maliziwa d ducri l Bequsyone, ḥa mënne loḏacwa mede cal u ḥreno. At tloṯo aḥunone latimi bë ḥḏo dukṯo. Ḥamšo kilomatre meqëm me d moṭën li qriṯo. At tloṯo aḥunone be aydarbo hawi ḥzalle ḥḏoḏe bi dukṯayo. Mšayele kul ḥa mu ḥreno: “Mayko koṯat b ṣafre d yawme dë tre?” Yatiwi at tloṯo aḥunone, mërre lë ḥḏoḏe be kul ḥa mën jari acme. Be aydarbo kul ḥa mënne lazëm d zowan mede lo bas bi dukṯayo täne elo bë briṯo kula d lowe xoṯe. Mërle Šabo, u aḥuno rabo: “Ono azzino lu Ciraq zwënli marše d kofayro bi šmayo w komubloli li dukṯo d kobacno.” Mërle u aḥuno du falgo Cisa: “Ono azzino lu Hënd zwënli caynke d layto xoṯa bë briṯo kula w kiban ḥozina i dukṯo d ëbcina eba.” Cisa mabramle foṯa di caynke lu gabano w lano, lu madënḥo, lu macërbo, lu garbyo w lu taymno. Inaqla d madcarle foṯa laf Bequsyone, mcajbi w mdawmri inaqla dë ḥzalle kulle an noše latimi bi dërto d be Malke u šbobaṯṯe, koboxën w mlawën l Ḥana d qawrila, haṯe Ḥana mayiṯowa. 
+Šabo darḥal mofaqle i maršayḏe d košëbho li ṭayasto. Malëzze at tloṯo aḥunone rawixi acla w maṭën l Bequsyone meqëm me d maḥtila bu qawro. Yawsef ste xayifo ftëḥle lu sanduqo d këtwa acme, mofaqle u laymuno w cṣërle b fema d Ḥana. Bëṯër me qaṭënto, ftëḥla caynoṯa w këmmo: “Ayko no?” Hawi fṣiḥuṯo rabṯo bayn ag gabre w neše d këtwayne tamo w ëmmiwa: “Haṯe mayiṯowa aydarbo qayimo?” 
+Bëṯër mu medano d jari, kul ḥa man aḥunone obacwa d Ḥana huyole aṯto w loṯënwa lë ḥḏoḏe. Šabo mërle: “Ḥana eli yo w diḏi yo miḏe d lowewa mi maršayḏi i ṭayasto, noše mënxu lëg qodarwa moṭe l Bequsyone hawxa xayifo. Iḏa Cisa ḥzele lu mawto d Ḥana bi caynkayḏe, bi caynkayḏe mën gëd qodar soyam?” Bu šëklano cayni mede Yawsef ste: “Mën gëd qodarwa soyam bu laymunayḏe bëṯër me arbac w cësri šoce mu mawto d Ḥana? W lo tëmede. Cal du laymuno bëṯër me arbac w cësri šoce du mawto, lëg manfac l tëmede.” Cisa ste mcakas w mërle: “Ḥana diḏi yo. Cal d lowewa mi caynkayḏi noše mënxu lëg foraqwa w lo koḏacwa bu mawto d Ḥana. Mën gëd qudro saymo i marše bëṯër me d Ḥana mayiṯo? Lo i marše w lo u laymuno lo gëd manfciwa bëṯër mu mawtayḏa. I caynke hiya yo dë ṭrela d ḥozina u mawto d Ḥana meqëm arbac w cësri šoce.” Yawsef dacër laf an aḥunone Šabo w Cisa mërlalle: “D lowewa mu laymunayḏi ucdo Ḥana lo kuyowa baḥ ḥaye. U laymunayḏi latyo xud am medonaṯxu, hiye maqëmle l Ḥana mu mawto. Mawxa Ḥana eli gëd tuyo.” 
+At tloṯo aḥunone mcaksi cam ḥḏoḏe w mqatalle be Ḥana l man gëd tuyo. Yatiwi aḥ ḥakime w as sowe baynoṯayye läšan d obën qärar be Ḥana l man kolozam d huyo. Aḥ ḥakime mëftakriwa hawxa l ruḥayye, qayëm ḥa mënne w komar: “Kolozam d huyo l more di marše.” Qayëm dat tre mërle: “L more di caynke.” Qayëm ḥreno dat tloto komar: “L more du laymuno kolozam d huyo.” Qayëm ḥa mas sowe ḥrene w komar: “Ḥana d Yawsef yo, cal d at tre aḥunonayḏe mjarabbe u ḥaylaṯṯe kule läšan d maqimi Ḥana mu mawto, elo lo qadiri. At tloṯo ste ruḥmiwa l Ḥana ġäläbe, elo more di marše lo xaṣër i maršayḏe w more di caynke, cayni mede lo xaṣër i caynkayḏe. Elo more du laymuno, cṣërle u laymunayḏe b fema d Ḥana w xaṣërle. D lobewayle l Ḥana, lëg qaymowa. Bëṯër me dë cṣërle u laymunayḏe, law komanfac l mede.” Aḥ ḥakime kulle mërre: “Hano yo u dino kino”. Bi ḥarayto hawyo Ḥana l Yawsef w fṣiḥi at tre ġäläbe w gawiri cam ḥḏoḏe. Sëmmanne ste mëštuṯo ġäläbe rabṯo. Kulle an noše d Bequsyone ḥaḏiri bi mëštuṯaṯṯe w fṣiḥi acmayye. Hawëlle abne w bnote. Mašfacce ḥaye basime cam ḥḏoḏe.
+				</p>
+              	<!-- Repeat the <p> element as needed -->
+            </div>
+        </body>
+    </text>
+</TEI>

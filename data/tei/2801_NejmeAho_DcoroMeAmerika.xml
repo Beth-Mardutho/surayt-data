@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en"><foreign xml:lang="tru">ܕܥܳܪܐ ܡܶܐ ܐܰܡܶܪܝܟܰܐ ܒܷܬ݂ܷܪ ܡܘ ܣܰܝܦܐ</foreign> / <!-- Insert transliterated title -->Dcoro me Amerika bëṯër mu Sayfo</title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->Nëjme Aḥo
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Nicolas Atas
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-BerlinTeam</name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/2801</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2020</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Ṭuroyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-06-12">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܡܶܩܷܡ ܡܘ ܣܰܝܦܐ ܒܰܒܝ ܐܰܙܙܶܘܰܐ ܠܐܰܡܶܪܝܟܰܐ، ܠܢܶܘ ܝܳܪܟ. ܐܝܢܰܩܠܰܝܐ ܒܛܘܪܥܰܒܕܝܢ ܠܰܬܘܰܐ ܫܘܓ݂ܠܳܢܶܐ ܓ݂ܱܠܱܒܶܐ، ܟܷܬܘܰܐ ܙܩܳܪܐ ܕܰܓ ܓܘܡܳܬ݂ܶܐ. ܐܰܢ ܢܳܫܶܐ ܙܘܩܪܝܘܰܐ ܫܘܩܐ ܘܙܘܩܪܝܘܰܐ ܡܰܪܫܰܬ. ܠܰܬܘܰܠܠܶܗ ܚܰܝܠܐ ܕܦܷܬܚـܝ ܫܘܓ݂ܠܳܢܶܐ ܠܪܘܚܰـܝـܝܶܗ، ܥܰܘܕܝܘܰܐ ܗܰܪܟܶܐ ܘܬܰܡܐ ܒܰܕ ܕܘܟܰܢܶܐ.
+        </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
+		  ܐܰܚ ܚܰܘܪܳܢܶܐ ܕܒܰܒܝ ܐܷܡܡܝ: ܐܰܠܐ، ܓܷܕ ܐܷܙܙܰܢܐ ܠܝ ܐܱܕܱܢܶܐ ܠܘ ܥܘܳܕܐ. ܐܰܙܙܷܢ ܠܝ ܐܱܕܱܢܶܐ. ܬܰܡܐ ܡܰܠܝܡܝܘܰܐ ܐܘ ܟܶܬܳܢܐ ܘܚܷܠܔܝܘܰܝܠܶܗ. ܒܰܒܝ ܥܘܷܕܠܶܗ ܥܰܠ ‌ܐܘ ܟܶܬܳܢܐ ܬܰܪܬܶܐ ܐܷܫܢܶܐ ܒܝ ܐܱܕܱܢܶܐ. ܒܷܬ݂ܷܪ ܐܰܚ ܚܰܘܪܳܢܰܝܕ݂ܶܗ ܐܷܡܡܝ: ܐܰܠܐ، ܟܳܐܬ݂ܶܐ ܢܳܫܶܐ ܠܗܰܪܟܶܐ ܘܟܷܐܙܙܷܢ ܟܳܦܰܝܬܝ ܠܐܰܡܶܪܝܟܰܐ، ܐܰܚܢܰܐ ܣܬܶܐ ܩܰܝ ܠܐ ܟܷܐܙܙܰܢܐ؟ 
+		  </p><p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
+ܩܰܝܷܡ ܒܰܒܝ ܡܫܰܝܰܥܠܶܗ ܟ݂ܰܒܪܐ ܠܘ ܒܰܒܐ ܒܡܰܟܬܘܒ، ܐܳܡܷܪ: ܒܰܒܐ! ܟܰܠܷܢ ܚܰܘܪܳܢܝ ܟܘܠܠܶܗ ܓܷܕ ܐܷܙܙܷܢ ܠܐܰܡܶܪܝܟܰܐ، ܟܳܐܒܰܥܢܐ ܐܳܢܐ ܣܬܶܐ ܕܐܷܙܙܝܢܐ. ܐܘ ܒܰܒܐ ܡܰܕܥܰܪܠܶܗ: ܠܐ ܟܳܘܶܐ ܕܐܷܙܙܘܟ݂! ܐܳܢܐ ܘܐܶܡܘܟ݂ ܣܳܘܶܐ ܢܰܐ ܘܗܰܬ ܟܷܬܠܘܟ݂ ܐܰܪܒܥܐ ܢܰܥܝܡܶܐ ܗܰܪܟܶܐ، ܐܰܝܕܰܪܒܐ ܓܷܕ ܛܳܪܰܬ ܐܰܢ ܢܰܥܝܡܰܢܝ ܘܐܰܚܢܰܐ ܘܓܷܕ ܐܷܙܙܘܟ݂ ܠܐܰܡܶܪܝܟܰܐ؟
+		  </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
+		  ܐܳܡܷܪ: ܒܰܒܐ! ܗܱܡܰܐ ܓܷܕ ܥܰܘܕܝܢܰܐ ܫܰܬܐ، ܬܰܪܬܶܐ ܐܷܫܢܶܐ ܘܓܷܕ ܐܳܬ݂ܝܢܰܐ. ܗܶܕܝ ܕܰܬ ܬܰܪܬܶܐ ܟܳܪܶܐ ܡܫܰܝܰܥܠܶܗ ܡܰܟܬܘܒ، ܕܝܣܰܐ ܐܳܡܷܪ: ܠܐ ܟܳܘܶܐ ܕܐܷܙܙܘܟ݂! ܗܶܕܝ ܡܷܪܠܶܠܶܗ ܐܳܡܷܪ: ܒܰܒܐ! ܟܳܐܒܰܥܢܐ ܡܶܐ ܠܶܒܘܟ݂ ܕܐܳܒܰܬܠܝ ܕܰܣܬܷܪ ܘܓܷܕ ܐܷܙܙܝܢܐ. ܡܰܕܰܐܡ ܚܰܘܪܳܢܝ ܓܷܕ ܐܷܙܙܷܢ، ܐܳܢܐ ܣܬܶܐ ܓܷܕ ܐܷܙܙܝܢܐ.
+		  </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
+ܐܝܢܰܩܠܰܐ ܕܐܰܙܙܷܢ، ܠܐ ܡܰܥܷܒܪܷܢܢܶܗ ܗܘܠ ܕܠܐ ܡܥܰܝܢܷܢܢܶܗ. ܣܝܡܷܢܢܶܗ ܡܥܰܝܱܢܰܐ ܡܘ ܟܶܘܐ، ܡܰܥ ܥܰܝܢܶܐ، ܡܰܢ ܐܰܕ݂ܢܶܐ، ܡܶܐ ܟܘܠ ܡܶܕܶܐ. ܐܘ ܚܰܐ ܕܗܳܘܶܘܰܐ ܩܘܨܘܪ ܡܶܕܶܐ ܐܶܒܶܗ، ܡܰܕܷܥܪܝܘܰܝܠܶܗ. ܘܐܷܡܡܝܘܰܐ: ܢܳܫܶܐ ܟܰܝـܝܘܶܐ ܠܐ ܟܳܘܶܐ ܕܥܳܒܷܪ ܠܐܰܡܶܪܝܟܰܐ.
+		</p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
+ܗܶܕܝ ܬܪܶܐ ܬܠܳܬ݂ܐ ܡܶܢܰܝـܝܶܗ ܡܰܕܷܥܪܷܢܢܶܗ. ܟܷܬܘܰܐ ܚܰܐ، ܐܘ ܔܷܪܔܐ ܕܒܰܨܡܰܐ، ܐܘ ܚܳܠܐ ܕܘ ܣܟܰܢܕܰܪ، ܐܘ ܚܰܬ݂ܢܰܝܕ݂ܰܢ، ܗܰܘܐ ܡܰܕܥܰܪܘܰܠܠܶܗ. ܟܷܬܘܰܝܠܶܗ ܟܶܘܐ ܕܰܥ ܥܰܝܢܶܐ، ܠܐ ܚܳܙܶܘܰܐ ܛܰܘܘܐ. ܡܰܕܥܰܪܘܰܠܠܶܗ ܟܡܐ ܚܪܶܢܶܐ ܣܬܶܐ، ܕܦܰܝـܝܫܝ ܡܰܦܝܬܷܢܢܶܗ. 
+		  </p>
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
+ܐܰܢܢܰܩܠܰܐ ܐܰܙܙܷܢ، ܠܷܐܕ݂ܥܝܘܰܐ ܠܝܫܳܢܐ، ܠܐ ܐܷܢܓܠܝܙܝ، ܠܐ ܥܱܪܱܒܝ، ܠܐ ܬܷܪܟܝ، ܓ݂ܶܝܪ ܡܘ ܣܘܪܝܳـܝܐ ܠܷܐܕ݂ܥܝܘܰܐ. ܐܰܚܢܰܐ ܒܷܬ݂ܷܪ ܡܫܰܝܠܝܘܰܝܢܰܐ ܡܶܐ ܒܰܒܝ ܘܐܷܡܡܝܘܰܝܢܰܠܶܗ: ܒܰܐ، ܐܰܝܕܰܪܒܐ ܣܰܝܡܝܬܘܘܰܐ؟ ܐܳܡܷܪ: ܐܰܙܙܰܢܐ ܠܘ ܥܘܳܕܐ، ܡܰܘܒܰܠܠܰܠܠܰܢ ܠܝ ܦܰܒܪܝܩܰܐ، ܙܘܩܪܝܘܰܝܢܰܐ ܚܱܪܝܪ. ܐܰܡ ܡܳܪܶܐ ܕܝ ܦܰܒܪܝܩܰܐ ܐܳܬ݂ܷܢܘܰܐ ܘܡܷܒܠܝܘܰܝܠܰܢ ܠܘ ܥܘܳܕܐ. ܗܷܢܢܶܐ ܘܐܘ ܐܳܙ̰ܕܰܐܢ ܕܷܬ݂ܬ݂ܶܗ، ܐܳܒܷܢܘܰܝܠܰܢ ܐܘ ܡܶܕܶܐ ܕܢܳܦܰܠܘܰܝܠܰܢ. 
+		  </p>
+		<p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
+ܐܰܢܢܰܩܠܐ ܒܰܒܝ ܬܰܪܬܶܐ ܐܷܫܢܶܐ ܡܫܰܝܰܥܠܶܗ ܠܘ ܒܰܒܐ ܟܰܠܠܰܘܰܬ. ܒܷܬ݂ܷܪ ܬܰܪܬܶܐ ܟܳܪܶܐ ܡܫܰܝܰܥܠܶܗ، ܘܐܰܟ ܟܰܠܠܰܘܰܬ ܕܰܥܝܪܝ ܐܰܥܠܶܗ. ܠܐ ܫܰܡܷܥܘܰܐ ܘܠܰܐܕ݂ܷܥܘܰܐ ܕܗܰܘܝ ܣܰܝܦܐ ܥܰܠ ‌ܐܝ ܣܘܪܝܳـܝܘܬ݂ܐ. 
+		</p>
+				<p xml:lang="tru">
+          <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
+ܩܰܝ ܝܐ، ܡܷܢ ܗܰܘܝ؟ ܐܷܡܡܝܘܰܐ: ܒܬܘܪܟܝـܝܰܐ ܗܰܘܝ ܣܰܝܦܐ ܥܰܠ ‌ܐܰܣ ܣܘܪܝܳـܝܶܐ. ܒܰܣ ܠܐ ܟܷܐܕ݂ܥܝܢܰܐ ܐܰܝܢܰܐ ܕܘܟܬ݂ܐ ܒܬܘܪܟܝـܝܰܐ. ܠܰܐܕ݂ܝܥܝ ܐܰܝܟܐ، ܒܡܷܕ݂ܝܰܕ݂، ܒܐܰܢܚܷܠ، ܒܡܷܪܕܶܐ ܐܰܘ ܒܷܕܝܰܐܪܒܱܟܷܪ، ܠܰܐܕ݂ܝܥܝ ܐܰܝܟܐ ܗܰܘܝ ܐܘ ܣܰܝܦܐ.
+		</p>
+				<p xml:lang="tru">
+          <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
+ܗܶܕܝ ܒܰܒܝ ܘܰܐܚ ܚܰܘܪܳܢܰܝܕ݂ܶܗ ܡܰܠܷܡܡܶܗ ܚܕ݂ܳܕ݂ܶܐ، ܐܷܡܡܝ: ܕܦܰܝܫܝܢܰܐ ܗܰܪܟܶܐ ܓܷܕ ܛܳܪܝܢܰܐ ܐܰܢ ܢܰܥܝܡܰܝܕ݂ܰܢ ܘܰܐܥ ܥܰܝܠܰܝܕ݂ܰܢ ܬܰܡܐ ܟ݂ܘܕ ܐܰܝ ܝܰܬܘܡܶܐ. ܒܰܠܟܝ ܦܰܝܷܫܠܰܢ ܢܰܥܝܡܶܐ، ܒܰܠܟܝ ܠܐ ܦܰܝܷܫܠܰܢ، ܠܐ ܟܷܐܕ݂ܥܝܢܰܐ. ܗܶܕܝ ܐܰܬ݂ܷܢ، ܗܘܠ ܕܡܰܛܷܢ ܠܡܰܪܕܶܐ ܘܡܷܕ݂ܝܰܕ݂. ܡܶܐ ܚܰܬ݂ܐ ܐܰܕ݂ܝܥܝ ܟܰܘܝ ܐܘ ܣܰܝܦܐ ܒܡܷܕ݂ܝܰܕ݂ ܘܩܛܝܠ ܡܘ ܥܰܡܐ ܣܘܪܝܳـܝܐ ܓ݂ܱܠܱܒܶܐ.
+		</p>
+				<p xml:lang="tru">
+          <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
+ܒܰܒܝ ܡܰܚܟܶܘܰܐ: ܐܰܬ݂ܝܢܰܐ ܒܝ ܩܰܡܰܝܬܐ ܠܚܱܠܰܒ. ܫܩܝܠܰܢܠܰܢ ܡܶܕܳܢܶܐ ܘܡܝܕܝܠܰܢ ܥܰܡ ܪܘܚܰـܝـܢܰܐ. ܟܷܬܘܰܝܠܰܢ ܟܰܠܠܰܘܰܬ، ܡܷܪܠܰܢ: ܡܰܐ ܓܷܕ ܡܷܒܠܝܢܰܐ ܐܰܟ ܟܰܠܠܰܘܰܬ ܐܰܥܡܰܢ ܠܡܷܢ؟ ܫܩܝܠܰܢ ܨܷܦܷܪ، ܫܩܝܠܰܢ ܔܘܠܶܐ، ܫܩܝܠܰܢ ܐܰܠܦܐ ܡܱܣܰܝܷܠ، ܡܰܟ݂ܪܰܔܠܰܢ ܐܰܟ ܟܰܠܠܰܘܰܬ ܕܝܕ݂ܰܢ ܒܝ ܫܘܩܐ ܕܚܱܠܰܒ، ܘܐܰܬ݂ܝܢܰܐ ܠܘ ܛܘܪܐ.
+		</p>
+				<p xml:lang="tru">
+          <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
+ܒܰܒܝ ܒܷܬ݂ܷܪ ܡܶܐ ܕܠܐ ܚܙܶܠܶܗ ܢܳܫܶܐ ܒܡܷܕ݂ܝܰܕ݂، ܐܰܙܙܶܗ ܠܐܰܢܚܷܠ ܣܰܒ ܒܶܐ ܚܳܠܶܗ. ܐܰܒ ܒܶܐ ܚܳܠܶܗ ܢܷܚܠܳܝܶܐ ܘܰܝܢܶܐ. ܡܫܰܝܠܝܠܶܗ: ܡܰܐ ܡܰܢ ܢܳܫܰܝܕ݂ܝ ܡܘ ܣܰܝܦܐ ܠܐ ܦܰܠܷܬ؟ ܐܷܡܡܝ: ܐܰܠܐ، ܩܛܷܠܠܶܗ ܟܘܠܠܶܗ، ܒܰܣ ܟܷܐܕ݂ܥܝܢܰܐ ܕܦܰܠܷܬܠܘܟ݂ ܟܰܫ̰ܫ̰ܷܟܶܐ. ܐܝ ܐܰܬ݂ܬܰܝܕ݂ܘܟ݂ ܘܐܶܡܘܟ݂ ܘܒܰܒܘܟ݂ ܘܐܰܢ ܢܰܥܝܡܶܐ ܚܪܶܢܶܐ ܩܛܝܠܷܢܢܶܗ. ܐܝ ܟܰܫ̰ܫ̰ܷܟܶܐ ܣܬܶܐ ܪܰܒܬ݂ܐ ܘܰܐ، ܡܰܘܟ݂ܰܐ ܠܐ ܩܛܝܠܰܠܠܶܗ. ܡܷܪܪܶܗ: ܕܶܐ ܗܱܡܰܐ ܓܷܕ ܡܷܒܠܝܢܰܠܰܗ ܐܶܠܰܢ، ܓܷܕ ܓܰܘܪܝܢܰܐ ܐܰܥܡܰܗ ܕܗܳܘܶܠܰܢ ܢܰܥܝܡܶܐ.
+		</p>
+				<p xml:lang="tru">
+          <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
+ܐܝܢܰܩܠܰܐ ܕܫܰܡܷܥ ܥܰܠ‌ ܐܝ ܟܰܫ̰ܫ̰ܷܟܰܝܕ݂ܶܗ، ܡܷܪܠܶܗ ܠܰܡ ܡܳܪܰܝܕ݂ܶܗ ܐܳܡܷܪ: ܐܰܕܠܰܠܝܐ ܓܷܕ ܐܷܙܙܳܟ݂ܘ ܡܰܡܛܝܬܘܠܠܰܗ!
+		</p>
+						<p xml:lang="tru">
+          <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
+ܐܷܡܡܝ: ܠܰܝܒܰܢ ܐܷܙܙܰܢܐ ܒܰܝܢ ܐܰܛ ܛܰܝܶܐ ܐܰܕܠܰܠܝܐ ܘܐܷܡܡܝܢܰܐ، ܗܰܘܘܠܠܰܢ ܐܝ ܟܰܫ̰ܫ̰ܷܟܶܐ. ܐܰܠܐ ܓܷܕ ܩܘܛܠܝ ܐܰܚܢܰܐ ܣܬܶܐ! ܪܰܡܚܷܠ ܓܷܕ ܡܩܰܦܝܢܰܐ ܢܳܫܶܐ ܗܶܫ ܘܓܷܕ ܐܳܒܝܢܰܐ ܟ݂ܰܒܪܐ ܠܝ ܚܟܘܡܶܐ. ܓܷܕ ܐܷܡܡܝܢܰܢܢܶܗ، ܕܟܷܬܠܰܢ ܟܰܫ̰ܫ̰ܷܟܶܐ، ܓܷܕ ܐܷܙܙܰܢܐ ܡܰܡܛܝܢܰܠܰܗ.
+		</p>
+						<p xml:lang="tru">
+          <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
+ܡܰܘܒܰܠܠܶܗ ܐܘ ܡܘܟ݂ܬܰܐܪ ܘܚܰܐ ܛܰܝܐ ܣܬܶܐ ܐܰܥܡܰܝـܝܶܗ ܘܐܰܙܙܷܢ ܣܶܐ ܗܰܢܝ ܕܟܷܬܘܰܐ ܐܝ ܟܰܫ̰ܫ̰ܷܟܶܐ ܓܰܒܰܝـܝܶܗ. 
+		</p>
+						<p xml:lang="tru">
+          <anchor xml:id="test.syr.16" corresp="test.latn.16"/>
+ܡܷܪܪܰܢܢܶܗ: ܐܰܠܐ، ܐܰܬ݂ܝܢܰܐ ܘܐܰܬ݂ܝ ܐܘ ܙܠܰܡܰܢܐ ܡܐܰܡܶܪܝܟܰܐ ܘܟܷܬܠܶܗ ܟܰܫ̰ܫ̰ܷܟܶܐ ܣܝܕܰܝܟ݂ܘ، ܟܷܐܒܥܝܢܰܐ ܕܐܳܒܝܬܘܠܶܗ ܝܐ. ܐܷܡܡܝ: ܐܳܗ، ܐܶܡܰܐ ܟܳܐܒܝܢܰܠܰܗ، ܐܝ ܟܰܫ̰ܫ̰ܷܟܶܐ ܗܰܘܝܐ ܐܰܬ݂ܬܐ، ܠܐ ܟܳܐܒܝܢܰܠܰܗ. 
+		</p>
+						<p xml:lang="tru">
+          <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
+ܐܘ ܛܰܝܐ ܕܐܰܥܡܰܝـܝܶܗ ܐܳܡܷܪ: ܗܰܘܘܠܠܶܗ ܐܝ ܟܰܫ̰ܫ̰ܷܟܰܝܕ݂ܶܗ، ܐܰܬ݂ܝ ܡܐܰܡܶܪܝܟܰܐ، ܓܷܕ ܐܳܒܰܠܟ݂ܘ ܐܘ ܡܶܕܶܐ ܕܐܷܒܥܝܬܘ. ܗܷܢܢܶܐ ܡܷܪܪܶܗ: ܐܝ ܟܰܫ̰ܫ̰ܷܟܶܐ ܠܐ ܟܳܡܰܪܦܝܢܰܠܰܗ، ܗܰܢܝ ܟܡܐ ܐܷܫܢܶܐ ܟܳܣܰܝܡܝܢܰܠܰܗ ܒܡܳܪܶܐ.
+		</p>
+								<p xml:lang="tru">
+          <anchor xml:id="test.syr.18" corresp="test.latn.18"/>
+ܒܝ ܚܰܪܰܝܬܐ ܐܰܛ ܛܰܝܶܐ ܡܰܩܒܰܠܠܶܗ ܘܡܷܪܪܶܗ: ܙܳܟ݂ܘ، ܐܰܚܢܰܐ ܓܷܕ ܡܰܡܛܝܢܰܠܰܗ. ܗܶܕܝ ܐܰܬ݂ܷܢ ܘܡܰܡܛܝܰܠܠܶܗ. ܒܰܒܝ ܡܰܘܦܰܩܠܶܗ ܐܘ ܡܶܕܶܐ ܕܡܰܡܛܶܘܰܝܠܶܗ ܡܶܐ ܚܱܠܰܒ ܘܗܘܠܰܠܠܶܗ ܝܐ. ܐܳܡܷܪ: ܡܰܟ݂ܠܰܨܟ݂ܘܠܠܝ ܐܝ ܟܰܫ̰ܫ̰ܷܟܰܬ݂ܶܐ، ܥܳܡܷܪ ܒܰܝܬܰܝܟ݂ܘ. 
+		</p>
+								<p xml:lang="tru">
+          <anchor xml:id="test.syr.19" corresp="test.latn.19"/>
+ܒܷܬ݂ܷܪ ܒܙܰܒܢܐ ܬܦܝܩ ܥܰܠ‌ ܐܶܡܝ، ܓܰܘܷܪ ܐܰܥܡܰܗ ܘܗܰܘܷܠܠܶܗ ܐܰܪܒܥܐ ܢܰܥܝܡܶܐ.
+		</p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+Meqëm mu Sayfo babi azzewa l Amerika, l New York. Inaqlayo b Ṭurcabdin latwa šuġlone ġäläbe, këtwa zqoro dag gumoṯe. An noše zuqriwa šuqo w zuqriwa maršat. Latwalle ḥaylo d fëtḥi šuġlone l ruḥayye, cawdiwa harke w tamo bad dukane.
+        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+Aḥ ḥawrone d babi ëmmi: “Alo, gëd ëzzano li Ädäne lu cwodo.” Azzën li Ädäne. Tamo malimiwa u ketono w ḥëljiwayle. Babi cwëdle cal u ketono tarte ëšne bi Ädäne. Bëṯër aḥ ḥawronayḏe ëmmi: “Alo, koṯe noše l harke w këzzën kofayti l Amerika, aḥna ste qay lo këzzano?”
+         </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Qayëm babi mšayacle xabro lu babo b maktub, omër: “Babo! Kalën ḥawroni kulle gëd ëzzën l Amerika, kobacno ono ste d ëzzino.” U babo madcarle: “Lo kowe d ëzzux! Ono w emux sowe na w hat këtlux arbco nacime harke, aydarbo gëd ṭorat an nacimani w aḥna w gëd ëzzux l Amerika?”        </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+Omër: “Babo! Häma gëd cawdina šato, tarte ëšne w gëd oṯina.” Hedi dat tarte kore mšayacle maktub, disa omër: “Lo kowe d ëzzux!” Mërlele omër: “Babo! Kobacno me lebux d obatli dastër w gëd ëzzino. Madam ḥawroni gëd ëzzën, ono ste gëd ëzzino.”		  </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+Inaqla d azzën, lo macëbrënne hul d lo mcaynënne. Simënne mcayäna mu kewo, mac cayne, man aḏne, me kul mede. U ḥa d howewa quṣur mede ebe, madëcriwayle. Ëmmiwa: “Noše kayiwe lo kowe d cobër l Amerika.” 		  </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+Hedi tre tloṯo menayye madëcrënne. Këtwa ḥa, u Jërjo d Baṣma, u ḥolo du Skandar u ḥaṯnayḏan, hawo madcarwalle. Këtwayle kewo dac cayne, lo ḥozewa ṭawwo. Madcarwalle kmo ḥrene ste, d fayiši mafitënne.         </p>
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+Annaqla azzën, lëḏciwa lišono, lo Ënglizi, lo Cäräbi, lo Tërki, ġer mu Suryoyo lëḏciwa. Aḥna bëṯër mšayliwayna me babi w ëmmiwaynale: “Ba, aydarbo saymituwa?” Omër: “Azzano lu cwodo, mawballallan li fabriqa, zuqriwayna ḥärir. Am more di fabriqa oṯënwa w mëbliwaylan lu cwodo. Hënne w u oždan dëṯṯe, obënwaylan u mede d nofalwaylan.”         </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+Annaqla babi tarte ëšne mšayacle lu babo kallawat. Bëṯër tarte kore mšayacle, w ak kallawat daciri acle. Lo šamëcwa w laḏëcwa d hawi Sayfo cal i Suryoyuṯo.
+ 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+Qay yo, mën hawi? Ëmmiwa: “B Turkiya hawi Sayfo cal as Suryoye. Bas lo këḏcina ayna dukṯo b Turkiya.” Laḏici ayko, b Mëḏyaḏ, b Anḥël, b Mërde aw bë Dyarbäkër, laḏici ayko hawi u Sayfo. 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
+Hedi babi w aḥ ḥawronayḏe malëmme ḥḏoḏe, ëmmi: “D fayšina harke gëd ṭorina an nacimayḏan w ac caylayḏan tamo xud ay yatume. Balki fayëšlan nacime, balki lo fayëšlan, lo këḏcina.” Hedi aṯën, hul d maṭën l Marde w Mëḏyaḏ. Me ḥaṯo aḏici kawi u Sayfo b Mëḏyaḏ w qṭil mu camo Suryoyo ġäläbe. 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
+Babi maḥkewa: “Aṯina bi qamayto l Ḥälab. Šqilanlan medone w midilan cam ruḥayna. Këtwaylan kallawat, mërlan, ma gëd mëblina ak kallawat acman lmën? Šqilan ṣëfër, šqilan jule, šqilan alfo mäsayël, maxrajlan ak kallawat diḏan bi šuqo d Ḥälab, w aṯina lu Ṭuro.”  		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
+Babi bëṯër me d lo ḥzele noše b Mëḏyaḏ, azze l Anḥël sab be ḥole. Ab be ḥole Nëḥloye wayne. Mšaylile: “Ma man nošayḏi mu Sayfo lo falët?” Ëmmi: “Alo, qṭëlle kulle, bas këḏcina d falëtlux kaččëke. I aṯtayḏux w emux w babux w an nacime ḥrene qṭilënne. I kaččëke ste rabṯo wa, mawxa lo qṭilalle. Mërre: De häma gëd mëblinala elan, gëd gawrina acma d howelan nacime.” 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
+Inaqla d šamëc cal i kaččëkayḏe, mërle lam morayḏe, omër: “Adlalyo gëd ëzzoxu mamṭitulla!”
+ 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
+Ëmmi: “Layban ëzzano bayn aṭ ṭaye adlalyo w ëmmina, hawullan i kaččëke. Alo gëd quṭli aḥna ste! Ramḥël gëd mqafina noše heš w gëd obina xabro li ḥkume. Gëd ëmmina, këtlan kaččëke gëd ëzzano mamṭinala.”  		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
+Mawballe u muxtar w ḥa ṭayo ste acmayye w azzën se hani d këtwa i kaččëke gabayye. 
+ 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
+Mërranne: “Alo, aṯina w aṯi u zlamano m Amerika w këtle kaččëke sidayxu, këbcina d obitule yo.” Ëmmi: “Oh, ema kobinala, i kaččëke hawyo aṯto, lo kobinala.” 
+ 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
+U ṭayo d acmayye omër: “Hawulle i kaččëkayḏe, aṯi m Amerika, gëd obalxu u mede d ëbcitu.” Hënne mërre: “I kaččëke lo komarfinala, hani kmo ëšne kosayminala b more.”
+ 		  </p>
+		<p xml:lang="en">
+          <anchor xml:id="test.latn.18" corresp="test.syr.18"/>
+Bi ḥarayto aṭ ṭaye maqballe w mërre: “Zoxu, aḥna gëd mamṭinala.” Hedi aṯën w mamṭyalle. Babi mawfaqle u mede d mamṭewayle me Ḥälab kule w hulalle yo. Omër: “Maxlaṣxulli i kaččëkaṯe, comër baytayxu.” 		  </p>
+		  		<p xml:lang="en">
+          <anchor xml:id="test.latn.19" corresp="test.syr.19"/>
+Bëṯër b zabno tfiq cal emi, gawër acma w hawëlle arbco nacime.
+ 		  </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
+
