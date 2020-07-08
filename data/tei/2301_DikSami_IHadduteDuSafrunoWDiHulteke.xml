@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en"><foreign xml:lang="tru">ܥܐܝ ܚܰܕܕܘܬ݂ܶܐ ܕܘ ܨܰܦܪܘܢܐ ܘܕܝ ܚܘܠܬܷܟܶܐ</foreign> / I ḥadduṯe du safruno w di ḥultëke</title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->Sami Qawme Dik 
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-Team</name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/2301</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2020</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-07-08">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܟܷܬܘܰܐ  ܘܠܰܬܘܰܐ  ܛܰܘܬܷܪ ܡܰܐܠܳܗܳܐ ܠܰܬܘܰܐ. ܚܰܩ!
+ܟܶܬܘܰܐ ܒܙܰܒܢܳܐ ܚܘܠܬܷܟܶܐ   ܘܨܰܦܪܽܘܢܳܐ. ܐܺܝ ܚܘܠܬܷܟܶܐ  ܪܰܒܒܰܢܶܐ (ܡܷܣܟܝܢܬܐ) ܟܷܬܘܰܝܠܰܗ ܚܰܒܬܼܐ  (ܩܡܳܨܐ) ܕܩܰܡܚܳܐ ܒܘ ܨܰܢܕܘܩܳܐ. ܡܷܕܠܰܗ  ܟܼܪܷܛܠܰܗ ܐܘ  ܩܰܡܚܳܐ  ܘܠܷܫܠܰܗ. ܒܷܬܷܪ ܡܷܐ ܕܚܰܡܷܥ ܐܽܘ ܠܰܝܫܳܐ ܐܰܙܙܰܗ ܐܺܝ ܚܘܠܬܝܟܶܐ ܠܘ ܥܳܒܐ  ܕܽܘ ܪܳܗܳܡ (ܗܰܪܟܶܐ ܐܺܝ ܕܘܟܬܼܳܐ ܚܰܐ ܟܺܝܒܶܗ ܕܷܡܫܰܚܠܰܦܠܰܗ) ܕܩܘܛܥܳܠܰܗ  ܐܷܫܡܐ ܕܩܰܝܣܽܘܣܶܐ ܢܰܫܝܦܶܐ . ܒܷܬܷܪ ܡܷܐ ܕܕܰܥܝܼܪܳܐ، ܐܰܒܺܝܥܳܐ ܕܡܰܕܷܠܩܳܐ ܐܽܘ ܬܰܢܘܪܳܐ. ܐܶܠܳܐ ܣܷܡܠܰܗ ܘܠܳܐ ܣܷܡܠܰܗ ܠܳܐ ܕܰܠܷܩ.
+ܒܘ ܙܰܒܢܰܘܳܐ ܣܬܶܐ ܟܷܬܘܰܐ ܚܰܐ ܨܰܦܪܘܢܳܐ ܟܰܠܝܳܐ ܓܰܒ ܐܺܝ ܚܘܠܬܷܻܟܶܐ . ܟܳܐܡܪ ܠܰܗܗ: ܡܬܰܟܼܷܪ ܚܘܠܬܷܟܶܐ  ܡܬܰܟܼܷܪ ، ܐܳܢܳܐ ܓܷܕܡܰܕܠܰܩܢܳܐ ܐܽܘ ܬܰܢܘܪܳܐ.  ܟܐܷܡܡܐ ܠܶܗ ܐܰܒܪܺܝ ܓܷܕܝܘܩܕܼܰܬ! ܗܺܝܼܝܶܐ ܟܳܐܡܰܪ ܠܰܗܗ ܠܳܐ ܠܳܐ، ܡܬܰܟܼܷܪ ܡܬܰܟܼܷܪ. ܡܷܕܠܶܗ ܟܽܘܒܳܐ ܢܰܫܝܼܦܳܐ ܡܶܐ ܬܰܚܬܗ  ܪܰܓܼܠܶܗ  ܘܡܚܶܠܶܗ ܒܺܝ ܥܰܝܢܳܐ ܕܽܘ ܬܰܢܘܪܐ، ܐܽܘ ܬܰܢܘܪܳܐ ܡܷܪܠܶܗ ܓܽܘܦܿ  ܘܕܰܠܷܩ. ܐܺܝ ܚܘܠܬܷܟܶܐ  ܒܷܬܼܷܪ ܡܷܐ ܕܷܔܓ݂ܷܪܠܰܗܗ ܐܽܘ ܬܰܢܘܪܐ، ܐܙܙܰܗܗ ܡܛܶܠܰܗܗ ܐܽܘ ܠܰܝܫܳܐ ܕܘܷܩܠܰܗܗ  ܘܣܷܡܠܰܗܗ ܫܘܰܥ ܛܰܠܡܶܐ  ܘܚܕܳܐ  ܩܘܪܨܷܟܶܐ.
+ܒܽܘ ܙܰܒܢܰܘܳܐ ܕܺܝ ܚܘܠܬܝܟܶܐ  ܣܰܝܡܳܘܰܐ ܐܽܘ ܠܰܚܡܳܐ، ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܝܰܬܺܝܘܳܘܰܐ ܥܰܠ  ܐܝ ܕܷܟܟܶܐ ܕܽܘ ܬܰܢܘܪܳܐ. ܐܺܝ ܚܘܠܬܝܟܶܐ  ܒܷܬܼܷܪ ܡܷܐ ܕܷܡܟܰܡܶܠܰܗܗ ܐܽܘ ܕܘܳܩܳܐ ܕܽܘ ܠܰܚܡܳܐ ܩܪܶܠܰܗܗ ܠܽܘ ܨܰܦܪܽܘܢܳܐ ܘܡܷܪܠܰܗ: ܬܽܘܟܼ ܨܰܦܪܽܘܢܳܐ ܩܘܺܝܪܳܐ ܡܷܕܠܘܟܼ  ܩܘܪܨܷܟܶܐ. ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܠܳܐ ܡܬܰܢܶܠܶܗ. ܐܺܝ ܚܘܠܬܷܟܶܐ  ܢܰܩܠܰܐ ܚܪܶܬܳܐ ܡܷܪܠܰܗ ܠܶܗ: ܨܰܦܪܽܘܢܳܐ ܬܽܘܟܼ ܩܰܦܺܝܼܠܳܢܳܐ ܓܷܕ ܐܷܙܙܺܝ ܠܽܘ ܒܰܝܬܳܐ. ܐܶܠܐ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܕܺܝܣ ܠܳܐ ܡܬܰܢܶܠܶܗ. ܐܺܝ ܚܘܠܬܷܟܶܐ  ܡܷܪܠܰܗܗ ܠܶܗ: ܐܳܢܳܐ ܟܐܷܡܡܳܢܐ ܟܰܪܪܳܐ ܗܰܬ! ܡܰܕܥܰܪܠܶܗ ܠܘ ܨܰܦܪܽܘܢܳܐ  ܘܡܷܪܠܶܗ: ܠܳܐ، ܠܰܬܢܳܐ ܠܳܐ ܟܰܪܪܳܐ  ܘܠܳܐ ܠܰܠܳܐ. ܕܠܳܒܰܬ ܠܺܝ ܐܰܫ ܫܘܰܥ ܛܰܠܡܶܐ ܘܺܐܝ ܩܘܪܨܷܟܶܐ ܠܕܽܘܟܬܼܐ ܠܳܐ ܟܐܷܙܙܝܢܐ .  ܩܰܝـܝܡܐ ܐܺܝ ܚܘܠܬܝܟܶܐ  ܡܷܪܠܰܗ ܠܶܗ ܐܰܒܪܺܝ ܠܳܐ ܣܰܝܡܰܬ ܗܰܘܟܼܰܐ ܓܷܕ ܡܰܝܬܼܳܢܳܐ ܡܽܘ ܟܰܦܢܳܐ. ܐܳܡܰܪ ܗܰܘܟܼܰܐ ܝܳܐ. ܩܰܝܷܡ ܫܩܺܝܼܠܶܗ ܐܰܫ ܫܘܰܥ ܛܰܠܡܶܐ ܘܺܐܝ ܩܘܪܨܷܟܶܐ  ܡܰܚܬܺܝܠܶܗ ܒܽܘ ܩܽܘܪܥܳܐ   ܘܡܷܒܠܺܝܠܶܗ.
+ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܒܶܬܼܶܪ ܡܷܐ ܕܷܦܪܺܝܫ ܡܶܐ ܓܰܒ ܐܝ  ܚܘܠܬܝܟܶܐ  ، ܒܽܘ ܕܰܪܒܳܐ ܠܰܩܺܝ ܒܚܰܐ ܪܘܥܝܐ . ܡܷܪܠܶܗ ܘܰܐ  ܪܘܥܝܐ! ܐܽܘ ܪܘܥܝܐ  ܐܳܡܰܪ ܗܶܐ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܡܷܪܠܶܗ: ܬܽܘܟܼ ܣܰܝܡ݀ܺܝܢܰܐ ܒܰܙܰܪ. ܡܷܢ ܒܰܙܰܪ؟ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܡܷܪܠܶܗ ܠܽܘ ܪܘܥܝܐ :  ܕܷܚܠܰܘ ܚܠܰܘ  ܘܡܠܰܝ ܐܽܘ ܕܰܠܰܦ ܚܰܠܘܳܐ  ܘܦܪܰܟܼ ܐܰܫ ܫܘܰܥ ܛܰܠܡܶܐ ܘܺܐܝ ܩܘܪܨܷܟܶܐ ܒܘ ܚܰܠܘܐ . ܐܺܝܕܼܰܐ ܕܽܐܘܟܼܠܰܬ  ܘܕܷܡܟܰܡܠܰܬ ܟܽܘܠܠܗ، ܐܰܙܙܷܢ ܡܶܐ ܟܺܝܣܺܝ. ܘܺܐܝܕܼܰܐ ܠܳܐ، ܓܷܕ ܡܰܓܼܪܰܡܢܳܐ ܡܶܢܽܘܟܼ ܫܰܘܥܳܐ ܒܰܪܰܢܶܐ  ܘܒܰܪܟܼܷܟܶܐ. ܩܰܝܷܡ ܐܽܘ ܪܘܥܝܐ  ܚܠܽܘܠܶܗ ܐܽܘ ܚܰܠܘܳܐ  ܘܦܪܷܟܼܠܶܗ ܐܰܫ ܫܘܰܥ ܛܰܠܡܶܐ ܘܺܐܝ ܩܘܪܨܷܟܶܐ . ܐܽܘ ܪܘܥܝܐ   ܘܟܰܠܒܰܝܕܶܗ  ܘܨܰܦܪܽܘܢܳܐ، ܟܽܘܠܠܶܗ  ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ ܒܕܰܠܠܶܗ ܒܽܘ ܡܽܘܟܠܳܐ ܐܶܠܳܐ ܐܽܘ ܡܽܘܟܠܳܐ ܦܰܝܶܫ ܒܽܘ ܦܰܠܓܳܐ ܠܳܐ ܬܰܝܷܡ. ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܒܷܬܼܷܪ ܡܷܐ ܕܷܚܙܶܠܶܗ ܕܠܳܐ ܬܰܝܷܡ ܐܽܘ ܡܽܘܟܠܳܐ ܩܰܝܷܡ ܡܷܕܠܶܗ ܡܷܚܠܰܦ  ܐܰܫ ܫܘܰܥ ܛܰܠܡܶܐ ܫܰܘܥܳܐ ܒܰܪܰܢܶܐ  ܘܡܷܚܠܰܦ  ܐܝ ܩܘܪܨܷܟܶܐ ܣܬܶܐ ܡܷܕܠܶܗ ܚܕܼܳܐ ܒܰܪܟܼܷܟܶܐ  ܘܡܷܒܠܺܝܠܶܗ.
+ܒܷܬܼܷܪ ܡܷܐ ܕܡܷܕܠܶܗ ܐܰܫ ܫܰܘܥܳܐ ܒܰܪܰܢܶܐ ܘܺܐܝ ܒܰܪܟܼܷܟܶܐ، ܠܰܩܺܝ ܒܢܳܫܶܐ ܕܟܷܬܬܶܗ ܡܶܫܬܽܘܬܼܳܐ. ܐܠܳܐ ܡܽܘܟܠܳܐ ܠܰܬܘܰܠܠܶܗ ܕܐܘܟܼܠܺܝ. ܚܷܪܠܶܗ ܟܰܠܷܢ ܟܳܢܘܚܪܝ ܩܰܡܨܶܐ ܘܨܽܘܪܽܘܨܪܶܐ. ܡܷܪܠܶܗ ܒܘܙܘ ܒܘܙܘ   ܘܡܰܫܶܓܼܽܘ ܐܰܣ ܣܶܦܳܩܶܐ ܢܰܕܼܺܝܼܦܳܐ. ܗܰܢܳܐ ܡܷܢ ܡܽܘܟܠܳܐ ܣܰܪܝܳܐ ܝܳܐ؟ ܟܷܬܠܺܝܼ ܫܰܒܥܳܐ ܒܰܪܰܢܶܐ  ܘܚܕܼܳܐ ܒܰܪܟܼܷܟܶܐ ܡܘܕܘ  ܢܚܰܪܽܘܢܢܶܐ  ܘܣܘܡܘ ܡܽܘܟܠܳܐ ܒܰܣܺܝܼܡܳܐ ܘܐܰܟ݂ܘܠܘ . ܐܰܡ ܡܳܪܶܐ ܕܺܝ ܡܶܫܬܽܘܬܼܳܐ ܡܷܪܪܶܗ ܠܽܘ ܨܰܦܪܽܘܢܳܐ ܚܽܘܪ ܒܷܬܼܷܪ ܕܷܡܕܰܥܰܬ ܡܶܕܶܐ ܐܶܒܰܢ، ܐܰܚܢܳܐ ܠܰܬܠܰܢ ܡܶܕܶܐ ܕܐܒܺܝܼܢܰܐ ܠܽܘܟܼ ܗܰ! ܐܳܡܷܪ ܠܳܐ ܠܳܐ، ܠܳܐ  ܟܳܡܕܰܥܶܢܳܐ.
+ܒܷܬܼܷܪ ܡܷܐ ܕܣܷܡܡܶܗ ܐܽܘ ܡܽܘܟܠܳܐ، ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܡܷܪܠܶܗ ܐܺܝܢܰܩܠܰܐ ܕܷܐܙܙܳܟܼܽܘ ܠܺܝ ܟܰܠܳܐ ܡܰܚܶܣܽܘ  ܘܡܰܫܡܶܥܽܘ ܠܺܝ. ܐܰܡ ܡܳܪܶܐ ܕܺܝ ܡܶܫܬܽܘܬܼܳܐ ܡܷܪܪܶܗ ܛܪܳܘܶܐ . ܡܷܕܕܶܗ ܠܺܝ ܟܰܠܳܐ  ܘܡܰܠܘܰܫܫܰܠܠܰܗܗ ܟܠܺܝܠܳܐ. ܒܷܬܼܶܪ ܡܷܐ ܕܡܷܦܩܰܠܠܶܗ  ܠܩܽܘܡܶܗ ܕܽܘ ܬܰܪܥܳܐ، ܡܷܪܪܶܗ: ܐܶܫ، ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܐܰܝܟܳܐ ܝܳܐ ܠܳܐ ܟܳܡܝܒܰܝܰܢ . ܐܳܡܷܪ ܟܰܠܺܝ ܟܰܠܺܝ. ܡܦܰܟܰܪܠܶܗ (ܡܰܣܷܪܠܶܗ) ܪܽܘܚܶܗ ܡܺܝ ܟܼܰܣܪܰܝܳܐ  ܘܠܰܝܐ  ܒܰܕ ܕܰܦܶܐ ܕܽܘ ܬܰܪܥܳܐ. ܡܷܪܠܗ ܐܺܝ ܟܰܠܳܐ ܐܶܠܺܝܼ ܝܳܐ. ܐܰܡ ܡܳܪܶܐ ܕܺܝ ܡܶܫܬܽܘܬܼܳܐ ܡܷܪܪܶܗ: ܨܰܦܪܽܘܢܳܐ ܩܘܺܝܪܳܐ، ܡܰܐ ܐܰܚܢܰܐ ܠܳܐ ܡܷܪܠܰܢ ܠܽܘܟܼ ܡܶܕܶܐ ܕܠܳܐ ܡܕܰܥܰܬ ܐܶܒܰܢ  ܘܠܰܬܠܰܢ ܡܶܕܶܐ ܕܐܒܺܝܼܢܰܐ ܠܽܘܟܼ؟ ܐܰܚܢܰܐ ܗܰܘܟܼܰܐ ܣܬܶܐ ܟܷܦܿܘܰܝܠܰܢ ܕܣܰܝܡܺܝܼܘܰܝܢܰܐ ܐܺܝܡܶܫܬܽܘܬܼܰܝܕܼܰܢ ܐܶܠܐ ܗܰܬ ܠܳܐ ܛܪܶܠܽܘܟܼ ܡܶܢܰܢ. ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܐܳܡܷܪ ܫ̰ܰܪܰܐ  ܠܰܝܬ  ܓܷܕ ܐܳܒܺܝܬܽܘܠܺܝ ܐܺܝ ܟܰܠܳܐ. ܩܰܝܷܡ ܚܷܪܪܶܗ  ܫ̰ܰܪܰܐ ܠܰܝܬܳ، ܗܽܘܘܰܠܠܶܗ ܐܺܝ ܟܰܠܳܐ  ܘܡܷܒܠܳܠܶܗ. ܡ.
+ܒܷܬܼܷܪ ܡܷܐ ܕܡܷܕܠܶܗ ܐܺܝ ܟܰܠܳܐ، ܐܰܙܙܶܗ ܠܛܽܘܪܳܐ  ܘܚܙܶܠܶܗ ܚܰܐ ܪܘܥܝܐ   ܘܡܷܪܠܶܗ: ܘܰܐ ܪܘܥܝܐ ! ܐܽܘ ܪܘܥܝܐ  ܐܳܡܷܪ ܗܶܐ؟ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܡܷܪܠܶܗ ܠܽܘ ܪܘܥܝܐ: ܬܽܘܟܼ ܣܰܝܡܺܝܼܢܰܐ ܒܰܙܰܪ. ܒܰܙܰܪ ܕܡܷܢ؟ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܒܷܬܼܷܪ ܡܷܐ ܕܡܰܚܟܶܠܶܠܶܗ ܐܺܝ ܡܰܣܰܠܶܐ، ܐܽܘ ܪܘܥܝܐ ܐܳܡܷܪ ܣܷܡ ܚܰܢܰܟ ܕܺܝܕܼܽܘܟܼ ܒܪܽܘܚܽܘܟܼ! ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܐܳܡܷܪ: ܡܷܢ ܚܰܢܰܟܶܐ؟ ܗܰܘܳܐ ܕܠܳܐ ܣܳܝܰܡ ܗܳܘܶܐ ܡܕܰܓܠܳܢܐ ! ܒܷܬܷܪ ܡܷܐ ܕܣܷܡܡܶܗ ܐܽܘ ܒܰܙܰܪ، ܐܽܘ ܪܘܥܝܐ  ܗܽܘܠܶܗ ܐܺܝ ܟܰܠܳܐ ܒܡܰܫܪܽܘܩܳܐ. ܩܰܝܷܡ ܐܽܘ ܨܰܦܪܽܘܢܳܐ ܡܷܕܠܶܗ ܐܽܘ ܡܰܫܪܽܘܩܳܐ ܘܐܰܙܙܶܗ ܟܰܠܝ ܥܰܠ ܫܩܝܦܐ  ܘܡܰܫܪܰܩܠܶܗ ܘܡܰܫܪܰܩܠܶܗ ܘܡܷܪܠܶܗ: ܒܚܰܐ ܟܽܘܒܳܐ ܡܷܕܠܺܝ ܫܘܰܥ ܛܰܠܡܶܐ ܘܩܘܪܨܷܟܶܐ   ܒܰܫܘܰܥ ܛܰܠܡܶܐ  ܘܩܘܪܨܷܟܶܐ  ܡܷܕܠܝ ܫܰܘܥܳܐ ܒܰܪܰܢܶܐ  ܘܒܰܪܟܼܷܟܶܐ،  ܒܰܫ ܫܰܘܥܳܐ ܒܰܪܰܢܶܐ ܘܒܰܪܟܼܷܟܶܐ ܡܶܕܠܺܝ ܟܰܠܳܐ،  ܘܒܺܝ ܟܰܠܳܐ ܡܶܕܠܺܝ ܡܰܫܪܽܘܩܳܐ. ܐܶܠܳܐ ܟܳܡܰܚܘܶܐ ܕܠܰܝܬ ܚܰܐ ܓܰܘܪܳܐ ܕܩܳܕܷܪ ܕܳܝܷܫ ܥܠ ܩܰܪܥܺܝ. ܒܷܬܼܷܪ ܡܷܐ ܕܡܷܪܠܶܗ ܗܰܘܟܼܐ ܩܰܝܷܡ  ܐܘ ܫܩܝܦܐ (ܫܶܢܳܐ) ܗܺܝܙ  ܬܰܚܬܶܗ  ܘܢܰܦܷܠ. ܒܷܬܼܷܪ ܡܷܐ ܕܢܰܦܷܠ ܡܘ ܫܩܝܦܐ ، ܢܰܦܝܠܐ  ܡܰܕܪܽܘܢܶܐ ܐܰܥܠܶܗ  ܦܿܫ̰ܷܩܠܰܗ  ܘܡܰܝܷܬܼ.
+ܩܰܘܡܶܐ (ܨܰܐܡܺܝ) ܕܺܝܟ ܕܒܶܐ ܩܰܘܡܶܐ ܐܰܪܟܰܚܳܝܐ
+ܛܘܪܥܰܒܕܝܢ
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+I ḥadduṯe du safruno w di ḥultëke
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->    
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
