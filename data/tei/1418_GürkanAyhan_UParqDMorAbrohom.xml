@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en"><foreign xml:lang="tru">ܕܘܟܬ݂ܐ ܚܰܐ ܕܡܷܬ݂ܢܰܚ: ܐܘ ܦ݁ܰܪܩ ܕܡܳܪܝ̱ ܗܳܒܷܠ ܘܡܳܪܝ̱ ܐܰܒܪܳܗܷܡ</foreign> / U parq d mor Abrohom</title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->Ayhan Gürkan 
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-Team </name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/1418</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2020</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-07-13">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="surayt">
+        <p xml:lang="tru">
+          <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
+          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
+          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
+          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
+          ܩܘܡ ܐܘ ܬܰܪܥܐ ܒܰܪܳܝܐ ܕܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܒܪܳܗܷܡ، ܗܘܠ ܠܝ ܫܰܬܐ ܕܰܬ ܬܪܰܠܦܐ، ܟܘܠܶܗ ܐܰܕܪܳܬ݂ܶܐ ܘܰܐ. ܟܘܠ ܝܰܘܡܐ ܒܷܬ݂ܷܪ ܡܝ ܨܠܘܬ݂ܐ ܕܥܰܨܪܝܝܶܐ، ܐܷܙܙܰܢ ܡܷܫܬܰܥܝܘܰܝܢܰܐ ܐܰܥܠܰܝܝܶܗ ܒܝ ܛܷܒܒܶܐ. ܐܘ ܥܰܡܐ ܕܡܷܕ݂ܝܰܕ ܒܘ ܩܰܝܛܐ ܡܰܚܬܝܘܰܐ ܐܘ ܙܰܐܕ ܕܷܬ݂ܬ݂ܶܗ ܐܰܥܠܰܝܝܶܗ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܷܒܕܶܠܶܗ ܐܘ ܫܘܓ݂ܠܐ ܐܶܒܰܗ، ܣܝܡ ܚܝܕ݂ܳܪܶܗ ܕܰܢ ܐܰܕܪܳܬ݂ܶܐ ܫܘܪܳܢܶܐ ܥܶܠܳܝܶܐ. ܡܰܡܛܶܐ ܥܰܦܪܐ ܣܶܡܳܩܐ ܓ݂ܱܠܱܒܶܐ ܘܣܝܡ ܦ݁ܰܪܩ ܘܒܰܟ݂ܫ̰ܰܐ ܓ݂ܱܠܱܒܶܐ ܫܰܦܷܪܬܐ، ܡܠܝܬ݂ܐ ܐܝܠܳܢܶܐ، ܘܰܪܕܶܐ ܘܝܰܪܳܩܘܬ݂ܐ. ܡܰܚܰܬ ܐܶܒܰܗ ܟܘܪܣܝܶܐ ܘܡܰܨܰܬ ܠܰܫܰܢ ܐܘ ܐܝܬܳܘܐ. ܥܰܠ ܕܠܰܝܬ ܕܷܟ݂ܳܬ݂ܶܐ ܒܝ ܘܱܠܰܝܶܐ ܟܘܠܰܗ ܒܝ ܝܰܪܘܩܘܬ݂ܐ ܘܒܝ ܢܰܕܰܦܰܐ ܟ݂ܘܕ ܐܘ ܦ݁ܰܪܩܰܢܐ، ܐܰܡ ܡܰܥܡܘܪ ܕܝ ܕܰܘܠܶܐ ܒܘ ܙܳܝܘܕܐ ܟܡܰܡܛܷܢ ܐܰܢ ܢܝܫܶܐ ܘܰܐܢ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ ܘܟܳܝܷܬܘܝ ܐܶܒܶܗ ܥܰܠ ܕܟܷܬܝܐ ܫܰܦܝܪܐ ܘܢܰܕ݂ܝܦܐ ܘܒܰܣܝܡܐ ܘܡܐܰܡܢܐ. ܐܘ ܥܰܡܰܝܕ݂ܰܢ ܣܬܶܐ ܒܘ ܩܰܝܛܐ ܟܘܠܶܗ ܥܰܠ ܕܟܳܘܶܐ ܚܶܡܐ ܓ݂ܱܠܱܒܶܐ ܒܷܬ݂ܷܪ ܡܶܐ ܦܰܠܓܶܗ ܕܝܰܘܡܐ ܟܳܡܰܘܒܠܝ ܐܰܢ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ ܟܳܝܷܬܘܝ ܘܟܳܫܳܬܷܢ ܐܝ ܫ̰ܰܐܝ ܘܐܝ ܩܰܚܘܰܬ݂ܬ݂ܶܗ ܬܰܡܳܐ ܘܟܳܡܷܬ݂ܢܳܚܝ.  ܘܐܰܢ ܢܰܥܝܡܶܐ ܣܬܶܐ ܟܳܡܷܫܬܰܥܷܢ ܒܰܬ ܬܷܫܬܶܥܷܢܝܶܐ ܕܐܝ ܒܱܠܰܕܝܝܶܐ ܕܡܷܕ݂ܝܰܕ݂ ܕܡܰܚܬܝܠܰܗ. ܘܟܝܬ ܓ݂ܱܠܱܒܶܐ ܢܳܫܶܐ ܣܬܶܐ، ܥܰܠ ܕܟܷܬܝܐ ܪܘܝܚܐ، ܟܳܣܰܝܡܝ ܐܰܕ ܕܘܪܳܫܶܐ ܕܷܬ݂ܬ݂ܶܗ ܬܰܡܐ. ܒܘ ܩܰܝܛܐ ܟܷܬܠܰܢ ܬܰܪܬܶܐ ܡܰܕܪܰܫܝܳܬ݂ܶܐ ܒܡܷܕ݂ܝܰܕ݂: ܚܕ݂ܐ ܒܝ ܥܝܬܐ ܕܡܳܪܝ̱ ܒܰܪܨܰܘܡܐ ܘܐܝ ܚܪܶܬܐ ܒܝ ܥܝܬܐ ܕܡܳܪܝ̱ ܫܰܪܒܷܠ. ܟܝܬ ܐܰܦ݁ܦ݁ܶܗ ܡܐ ܝܳܠܘܦܶܐ. ܐܰܚܢܰܐ ܐܰܡ ܡܰܠܦܳܢܶܐ ܣܬܶܐ ܟܳܡܰܘܒܠܝܢܰܐ ܐܰܢ ܢܰܥܝܡܶܐ ܕܝ ܡܰܕܪܰܫܬܐ ܟܡܐ ܢܰܩܩܰܬ ܠܝ ܕܰܝܪܐ. ܗܰܡ ܟܳܩܳܪܝܢܰܐ ܘܟܳܙܷܡܪܝܢܰܐ ܘܗܰܡ ܟܳܡܨܰܠܝܢܰܐ. ܘܗܰܡ ܣܬܶܐ ܐܰܢ ܢܰܥܝܡܶܐ ܟܳܡܰܦܝܬܝ ܘܰܟ݂ܬ ܒܰܣܝܡܐ ܒܘ ܬܷܫܬܶܥܷܢܝܐ ܘܒܘ ܕܘܪܳܫܐ. ܘܟܝܬ ܓ݂ܱܠܱܒܶܐ ܡܰܕܪܰܫܝܳܬ݂ܶܐ ܕܝ ܕܰܘܠܶܐ ܣܬܶܐ ܟܳܡܰܡܛܷܢ ܐܰܝ ܝܳܠܘܦܶܐ ܠܰܫܰܢ ܐܘ ܛܘܝܳܠܐ ܠܬܰܡܐ ܕܡܰܦܝܬܝ ܘܰܟ݂ܬ ܒܰܣܝܡܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܒܘ ܙܳܝܘܕܐ ܒܘ ܩܰܝܛܐ ܟܳܚܳܙܰܬ ܟܘܠ ܝܰܘܡܐ ܟܡܐ ܟܰܠܳܬ݂ܶܐ ܟܳܐܬ݂ܷܢ ܠܘ ܦ݁ܰܪܩܰܢܐ ܠܰܫܰܢ ܕܓܘܪܫܝ ܨܷܪܬܳܬ݂ܶܐ ܥܰܠ ܕܟܷܬܝܐ ܓ݂ܱܠܱܒܶܐ ܫܰܦܝܪܐ ܘܝܰܪܳܩܐ ܘܡܙܰܝܢܐ. ܘܒܷܫܪܳܪܐ ܐܝ ܪܘܚܐ ܕܘ ܒܰܪܢܳܫܐ ܟܡܷܬ݂ܢܳܚܐ ܐܶܒܶܗ.
+	ܐܘ ܡܶܕܰܢܐ ܟܘܠܶܗ ܠܘ ܝܘܣܷܦ ܬܘܪܟܶܪ ܕܒܶܗ ܡܰܩܣܝ ܐܰܠܝܰܣ (ܕܒܶܗ ܨܷܩܡܶܐ) ܣܷܡܠܶܗ ܘܗܰܘܝܠܶܗ ܬܰܥܒܐ ܓ݂ܱܠܱܒܶܐ ܒܷܫܪܳܪܐ. ܐܘܥܕܐ ܣܬܶܐ ܐܝܢܰܩܩܰܐ ܕܟܷܐܙܙܶܗ ܠܰܐܘܪܘܦ݁ܰܐ ܕܟܳܚܳܙܶܐ ܒܰܦ݁ ܦ݁ܰܪܩܰܬ ܕܬܰܡܐ ܘܰܪܕܶܐ ܟܳܡܰܡܛܶܗ ܥܰܡ ܪܘܚܶܗ ܐܘ ܒܘܙܰܪܥܰܬ݂ܬ݂ܶܗ ܘܟܳܙܳܪܰܥܥܶܗ. ܐܰܘ ܡܶܕܳܢܶܐ ܡܫܰܚܷܠܦܶܐ ܟܳܐܬ݂ܶܐ ܟܳܣܳܝܰܡܠܷܢ ܘܟܳܡܰܚܰܬܠܷܢ ܒܘ ܦ݁ܰܪܩ ܠܰܫܰܢ ܐܝ ܦܷܪܔܶܐ. ܒܝ ܒܰܟ݂ܫ̰ܰܬ݂ܶܐ ܒܷܫܪܳܪܐ ܡܷܢ ܕܠܰܙܷܡܠܰܢ ܐܝ ܒܱܠܰܕܝܝܶܐ ܕܡܷܕ݂ܝܰܕ݂ ܣܬܶܐ ܒܝ ܪܝܫܳܢܘܬ݂ܐ ܕܫܶܟ݂ܡܘܣ ܢܰܨܷܪܐܳܓ݂ܠܘ ܓ݂ܱܠܱܒܶܐ ܡܥܰܘܰܢܠܶܠܰܢ. ܘܐܘܥܕܐ ܣܬܶܐ ܡܷܢ ܕܟܳܠܳܙܰܡ ܟܳܡܥܰܘܷܢ ܥܰܠ ܕܘ ܦ݁ܰܪܩܰܢܐ ܗܰܘܝ ܦܰܠܩܐ ܡܝ ܘܱܠܰܝܶܐ ܕܟܳܠܳܙܰܡ ܐܰܣ ܣܳܥܘܪܶܐ ܕܚܳܙܝܠܶܗ ܘܕܡܷܬ݂ܢܳܚܝ ܐܶܒܶܗ. ܒܓܰܘܶܗ ܕܘ ܦ݁ܰܪܩܰܢܐ ܠܘ ܝܘܣܷܦ ܡܰܠܬܰܡܠܶܗ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ ܥܰܬܝܩܶܐ ܘܣܷܡܠܷܗ ܕܷܟܬ݂ܳܐ ܟ݂ܘܕ ܡܘܙܰܐ ܝܰܥܢܝ ܒܶܝܬ݂ ܥܰܬܝܩܳܬ݂ܶܐ. ܡܷܠܝܳܠܶܗ ܡܰܠܙܰܡܰܬ ܕܰܨ ܨܷܢܥܰܬ ܕܘ ܥܰܡܐ ܣܘܪܝܳܝܐ: ܣܶܦܳܩܶܐ ܥܰܬܝܩܶܐ ܕܘ ܣܝܳܡܐ ܕܰܥ ܥܰܪܫܶܐ، ܡܰܠܙܱܡܶܐ ܘܡܰܟܝܢܰܬ ܕܘ ܣܶܡܐ ܘܕܘ ܕܰܗܘܐ، ܡܰܠܙܱܡܶܐ ܕܝ ܢܷܔܰܪܰܐ، ܡܘܗܪܰܬ ܕܘ ܨܘܳܥܐ ܕܰܣ ܣܰܬܪܶܐ، ܡܰܠܙܱܡܶܐ ܘܓܘܡܬ݂ܐ ܕܘ ܙܩܳܪܐ ܘܕܘ ܥܙܳܠܐ، ܡܰܠܙܱܡܰܬ ܕܘ ܕܘܳܪܐ ܘܕܘ ܚܨܳܕܐ، ܡܰܟܝܢܰܬ ܥܰܬܝܩܶܐ ܕܰܨ ܨܘܪܬܳܬ݂ܶܐ، ܬܱܠܱܦܳܢܰܬ ܘܗܶܫ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ ܡܫܰܚܠܦܶܐ ܠܰܫܰܢ ܐܝ ܦܷܪܔܰܐ ܕܘ ܥܰܡܐ ܦܪܝܣܶܐ ܢܶܐ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܗܳܒܷܠ ܘܡܳܪܝ̱ ܐܰܒܪܳܗܷܡ ܗܘܠ ܡܶܩܷܡ ܟܡܐ ܐܷܫܢܶܐ ܗܰܘܝܳܘܰܐ ܚܰܪܒܬ݂ܐ ܐܶܠܐ ܐܰܕܝܰܘܡܰܐ ܒܘ ܚܰܝܠܐ ܕܰܐܠܳܗܐ ܒܝ ܝܰܨܝܦܘܬ݂ܐ ܕܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܕܟܳܥܳܝܰܫ ܒܰܕ ܕܘܘܰܠ ܕܰܐܘܪܘܦ݁ܦ݁ܰܐ ܕܰܥܝܪܐ ܢܰܩܩܰܐ ܚܪܶܬܐ ܠܘ ܫܘܒܚܰܝܕ݂ܰܗ ܐܘ ܩܰܡܳܝܐ ܒܝ ܥܡܰܪܰܐ. ܟܷܬܠܰܢ ܣܰܒܪܐ ܣܬܶܐ ܥܰܠ ܩܰܪܝܘܐ ܕܳܐܬ݂ܶܠܰܗ ܕܰܝܪܳܝܶܐ ܘܡܰܠܦܳܢܶܐ ܕܗܘܝܐ ܩܶܢܐ ܕܘ ܝܘܠܦܳܢܐ ܣܬܶܐ܀
+ܡܠܦܢܐ ܐܝܗܐܢ ܓܘܪܩܐܢ 456                   
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+          U parq d mor Abrohom
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
