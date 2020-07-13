@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en"><foreign xml:lang="tru">ܘܰܥܕܳܐ ܕܝ ܓܘܝܳܐ</foreign> /  Wacdo di guyo</title>
+        <title xml:lang="en"><foreign xml:lang="tru">ܘܘܰܗܕܳܐ ܕܝ ܓܘܝܳܐ</foreign> /  Wahdo di guyo</title>
         <title level="s">Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Cäziz Aydin 
@@ -118,7 +118,7 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-           Wacdo di guyo
+           Wahdo di guyo
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>
