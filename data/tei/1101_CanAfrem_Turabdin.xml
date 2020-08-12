@@ -103,13 +103,11 @@
 				<p xml:lang="tru">
                     <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 					ܛـܘܪܥܰܒܕܝܢ ܟܳـܡܷܦܠܰܓ݂ ܠܚܰܡܫܐ ܦܰܠܩܶܐ:
-					<list>
-						<item>(ܐ: ܐܘ ܦܰܠܩܐ ܕܒܶܝܬ̣ܡܰܚܠܰܡ)</item>
-						<item>(ܒ: ܒܶܝܬ݂ܪܝܫܶܐ = ܐܝ ܪܰܝـܝܬܶܐ)</item>
-						<item>(ܓ: ܚܷܣܢܐ ܕܟܝܦܐ ܘܚܶـܕ݂ܳܪܰܗ)</item>
-						<item>(ܕ: ܡܷܕ݂ܝܰـܕ݂ ܘܰܐܩ ܩܷܪܝܰܘܳܬ݂ܰܝܕ݂ܰܗ)</item>
-						<item>(ܗ: ܒܶܝܬ݂ܙܰܒܕܰܝ = ܐܰܙܷܟ݂)</item>
-					</list>
+						<p xml:lang="tru">(ܐ: ܐܘ ܦܰܠܩܐ ܕܒܶܝܬ̣ܡܰܚܠܰܡ)</p>
+						<p xml:lang="tru">(ܒ: ܒܶܝܬ݂ܪܝܫܶܐ = ܐܝ ܪܰܝـܝܬܶܐ)</p>
+						<p xml:lang="tru">(ܓ: ܚܷܣܢܐ ܕܟܝܦܐ ܘܚܶـܕ݂ܳܪܰܗ)</p>
+						<p xml:lang="tru">(ܕ: ܡܷܕ݂ܝܰـܕ݂ ܘܰܐܩ ܩܷܪܝܰܘܳܬ݂ܰܝܕ݂ܰܗ)</p>
+						<p xml:lang="tru">(ܗ: ܒܶܝܬ݂ܙܰܒܕܰܝ = ܐܰܙܷܟ݂)</p>
                 </p>
 				<p xml:lang="tru">
                     <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
