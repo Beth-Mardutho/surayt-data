@@ -128,11 +128,9 @@
 				<p xml:lang="tru">
                     <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
 					ܡܰܒܥܶܐ:
-					<list>
-						<item>(ܐ: «ܡܰܟ݂ܬܒܳܢـܘܬ݂ܐ ܕܥܰܠ‌ ܐܰܬ݂ܪܐ ܕܛܘܪܥܰܒܕܝܢ» ܕܦܰܛܷܪܝܰـܪܟ݂ܐ ܐܰܦܪܶܝܡ ܩܰܡܳܝܐ (1954).)</item>
-						<item>(ܒ: «ܓܘܢܚܶܐ ܕܣܘܪܝܳܝܶܐ ܕܛܘܪܥܰܒܕܝܢ» ܕܰܫܢܰܬ݂ 1915.)</item>
-						<item>(ܓ: ܟܬ݂ܳܘܶܐ ܘܡܝܡܰܪܝܳܬ݂ܶܐ ܡܫܰܚܷܠܦܶܐ ܡܶܐ ܡܰܠܦܳܢܶܐ ܡܫܰܡܗܶܐ.)</item>
-					</list>
+						<p xml:lang="tru">(ܐ: «ܡܰܟ݂ܬܒܳܢـܘܬ݂ܐ ܕܥܰܠ‌ ܐܰܬ݂ܪܐ ܕܛܘܪܥܰܒܕܝܢ» ܕܦܰܛܷܪܝܰـܪܟ݂ܐ ܐܰܦܪܶܝܡ ܩܰܡܳܝܐ (1954).)</p>
+						<p xml:lang="tru">(ܒ: «ܓܘܢܚܶܐ ܕܣܘܪܝܳܝܶܐ ܕܛܘܪܥܰܒܕܝܢ» ܕܰܫܢܰܬ݂ 1915.)</p>
+						<p xml:lang="tru">(ܓ: ܟܬ݂ܳܘܶܐ ܘܡܝܡܰܪܝܳܬ݂ܶܐ ܡܫܰܚܷܠܦܶܐ ܡܶܐ ܡܰܠܦܳܢܶܐ ܡܫܰܡܗܶܐ.)</p>
                 </p>
 			</div>
 			<div type="transcription">
@@ -159,14 +157,12 @@
                 </p>
 				<p xml:lang="en">
                     <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
-					Ṭurcabdin komëflaġ l ḥamšo falqe
-					<list>
-						<item>(a: u falqo d Beṯmaḥlam)</item>
-						<item>(b: Beṯriše = i Rayite)</item>
-						<item>(c: Ḥësno d Kifo w ḥedora)</item>
-						<item>(d: Mëḏyaḏ w aq qëryawoṯayḏa)</item>
-						<item>(e: Beṯzabday = Azëx)</item>
-					</list>
+					Ṭurcabdin komëflaġ l ḥamšo falqe					
+						<p xml:lang="en">(a: u falqo d Beṯmaḥlam)</p>
+						<p xml:lang="en">(b: Beṯriše = i Rayite)</p>
+						<p xml:lang="en">(c: Ḥësno d Kifo w ḥedora)</p>
+						<p xml:lang="en">(d: Mëḏyaḏ w aq qëryawoṯayḏa)</p>
+						<p xml:lang="en">(e: Beṯzabday = Azëx)</p>
                 </p>
 				<p xml:lang="en">
                     <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
@@ -187,11 +183,11 @@
 				<p xml:lang="en">
                     <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
 					Mabce:
-					<list>
-						<item>(a: Maxtbonuṯo d cal aṯro d Ṭurcabdin d Faṭëryarxo Afrem Qamoyo (1954).)</item>
-						<item>(b: Gunḥe d Suryoye d Ṭurcabdin da šnaṯ 1915.)</item>
-						<item>(c: Kṯowe w mimaryoṯe mšaḥëlfe me malfone mšamhe.)</item>
-					</list>
+					
+						<p xml:lang="en">(a: Maxtbonuṯo d cal aṯro d Ṭurcabdin d Faṭëryarxo Afrem Qamoyo (1954).)</p>
+						<p xml:lang="en">(b: Gunḥe d Suryoye d Ṭurcabdin da šnaṯ 1915.)</p>
+						<p xml:lang="en">(c: Kṯowe w mimaryoṯe mšaḥëlfe me malfone mšamhe.)</p>
+					
                 </p>
                 <!-- Repeat the <p> element as needed -->
             </div>
