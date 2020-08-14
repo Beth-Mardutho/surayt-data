@@ -107,22 +107,7 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-ABROHOM LAHDO		1001		I Musiqi w u Zmoro sas Suryoye
-
-AFREM CAN			1101		Maxtabzabno d Ṭurcabdin
-
-				1102	           Aḥ ḥamšo rëġše du barnošo
-				
-Andreas AKTAS		1201		Tašciṯo d ḥa abro d armalto
-
-				1202		Ḥana l man mënne gtuyo
-				
-			1203		Tašciṯo d ḥa Qusnoyo bi caskäriye
-			
-			1204		Tašciṯo di qašto w du taclo
-			
-
-
+...
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>
