@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">List of content</title>
+        <title level="s">Surayt Corpus</title>
+        <author>
+          <!-- Insert name of author of this text -->SAOP-Team
+        </author>
+        <sponsor>Freie Universität Berlin</sponsor>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Stockholm University</sponsor>
+        <sponsor>St Ephrem Syriac Orthodox Monastery in the Netherlands</sponsor>
+        <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
+        <funder/>
+        <!-- You can list funders seperate from sponsors -->
+        <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
+        <funder>Freie Universität Berlin</funder>
+
+        <editor role="editor">
+          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+        </editor>
+        <!-- Repeat editor role for each individual editor -->
+
+        <respStmt>
+          <resp>TEI XML encoding by</resp>
+          <name>
+            <!-- Insert the name of the person responsible for this conversion -->Anna-Simona Barbara Üzel
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>SAOP-BerlinTeam</name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1"/>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>
+          <placeName>
+            <!-- Who is responsible for distributing this info? That is: who hosts the server? -->
+            Beth Mardutho: The Syriac Institute
+          </placeName>
+        </distributor>
+        <authority>Surayt Corpus</authority>
+        <idno type="URI">https://surayt.bethmardutho.org/0001</idno>
+        <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
+        <availability>
+          <!-- Are these texts Open Access? If so, you can just leave this section as is -->
+          <p/>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Creative Commons — Attribution 4.0 International — CC BY 4.0</p>
+            <p>https://creativecommons.org/licenses/by/4.0/</p>
+          </licence>
+          <ab>
+            <note>
+              <!-- You may want to add a note here explaining the open access policy -->
+            </note>
+          </ab>
+        </availability>
+        <date calendar="Gregorian">2020</date>
+      </publicationStmt>
+      <sourceDesc xml:id="sourceDesc1">
+        <bibl>
+          <title>
+            <!-- Insert title of the work here -->
+          </title>
+          <author>
+            <!-- Insert author of the work here -->
+          </author>
+          <note>
+            <p>
+              <!-- Add any necessary notes about the original publication -->
+            </p>
+          </note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <!-- Insert brief description of the Surayt Project -->
+          Surayt-Aramaic Online Project (SAOP) aims at developing the Surayt-Online course for intermediary and advanced levels (B1-2, C1 and C2) and producing additional linguistic material for the teaching of Surayt (also known as Turoyo).
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="tru">Surayt/Turoyo dialect of Neo-Aramaic</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-08-14">Created: file</change>
+      <!-- Insert date of file creation YYYY-MM-DD format-->
+      <change>
+        <!-- Repeat the change element as often as necessary when the files are updated -->
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Text goes here -->
+      <div type="transcription">
+        <p xml:lang="en">
+          <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+ABROHOM LAHDO 	
+1001	I Musiqi w u Zmoro sas Suryoye
+		
+AFREM CAN	
+1101	Maxtabzabno d Ṭurcabdin
+1102	Aḥ ḥamšo rëġše du barnošo
+		
+Andreas AKTAS	
+1201	Tašciṯo d ḥa abro d armalto
+1202	Ḥana l man mënne gtuyo
+1203	Tašciṯo d ḥa Qusnoyo bi caskäriye
+1204	Tašciṯo di qašto w du taclo
+		
+ATIYA AKFIDAN TURAN	
+1301	I madrašto du Suryoyo
+1302	Syomo d aprax
+1303	Šuġlo bu beṯdino
+1304	Kyono
+1305	Iqarṯo
+1306	Aḥ ḥaye b Holanda
+1307	Sosyal Medya Nawlo
+1308	Ḥulmono w šufro
+1309	Aṣ ṣawme das Suryoye
+1310	U Yulfono b Holanda
+		
+AYHAN GÜRKAN	
+1401	Aḥ ḥaye di qriṯo
+1402	Am mcare d Mëḏyaḏ
+1403	Aydarbo fayišina hul l ucdo
+1404	Bëṯra di fṣiḥuṯo w di kaširuṯo
+1405	Cal i tarbiya du barnošo
+1406	I cade du ṭlobo b Mëḏyaḏ
+1407	I cyeše d cam an noše
+1408	I dayro d mor Hobel w mor Abrohom
+1409	I Mšiḥoyuṯo
+1410	I qriṯo dë Kfarze
+1411	I ṣëḥḥa
+1412	I taḥrazto du yulfono
+1413	Sniquṯo di šato
+1414	Tarte cujubat d hawën b Mëḏyaḏ
+1415	U cäjaq dë briṯo
+1416	U esfir-raġlo
+1417	U ḥalwo di emo
+1418	U parq d mor Abrohom
+1419	U rḥomo
+1420	U tarix d Mëḏyaḏ
+1421	I goluṯo
+1422	U tarix di dawle du Hënd w as Suryoye w i Mšiḥoyuṯo
+1423	Aḥ ḥaye d Arxëdyaqun Gawriye Gurqan
+		
+AZIZ AYDIN	
+1501	Ono man no
+1502	I däbara di iqarṯo
+1503	Ad dayre ftiḥe bi marciṯo d Ṭurcabdin
+1504	Qëryawoṯe das Suryoye
+1505	Ḥamro Suryoyo
+1506	Ḥzirën u yarḥo bi dayro d mor Gabriel
+1507	Arkaḥ qriṯo ḥliṯo
+1508	U syomo w i macna du ṭawco
+1509	Am mëṣcoye dan esore knušyoye aw i medya
+1510	Aq qaṭle d hawën b Arkaḥ i qriṯo
+1511	I mdabronuṯo w aḥ ḥaye bëṯër mu Sayfo bi qriṯo d Arkaḥ
+1512	Kohne d Arkaḥ i qriṯo
+1513	Am malfone d molaffe b Arkaḥ i qriṯo bu zabnano
+1514	Beṯmašëlyo daf folḥe aw qaraqol
+1515	Maṯyo du kahrobo li qriṯo
+1516	Biro awkiṯ cayno dam maye
+1517	Wahdo di guyo
+		
+BENJAMIN TÖRE	
+1601	Karyo cal aḥ ḥayayḏi
+1602	I paluta
+1603	U takroxo daḏ ḏayfe bi dayro
+1604	Tre clayme Arkaḥoye
+1605	U ceḏo d Mor Bosus b Midën
+1606	U štecënyo daġ ġarat bi qriṯo d Midën
+1607	U štecënyo di tušte
+1608	U štecënyo du ṭafš
+1609	Ag gëdše w aq qaṭle d hawën b Midën
+1610	U nfoqo d Ṣawme me Midën
+1611	U qṭilo ḥaroyo das Suryoye
+1612	Yaqḏono dak karme w u tëṭfiyaṯṯe b Midën i qriṯo
+1613	Yuḥanën d Be Cavdo komaḥke tašciṯo di šufertiye
+1614	Mäsälat karye mam Mëdhoye
+1615	Ḥzayto d tälävëzyon
+1616	Laḥdo bu darbo d Wiranšähir
+1617	Barṯo dak këbritat
+1618	Ay yawme qamoye b Awrupa
+1619	Mäsälat karye
+1620	U tëknoloži w an nacime
+1621	U talan d Midën
+1622	U faqiro w u catiro
+1623	B cayne du claymo Ṭurcabdinoyo Awrupa
+1624	U ceḏo di Qyamto bi qriṯo	
+1625	Mäsälat d ḥolan Šëkro
+1626	U daywono d cal i goro
+1627	At tašëcyoṯe dam medone ḥaṯe
+1628	Bu sistam ḥaṯo du yulfono u tëknoloži
+1629	Gabro Norwečoyo bi dayro
+		
+HANNA ALTUNKAYNAK
+1701	I ḥarayto di duglo
+		
+HAVO PIRO	
+1801	Lešono ëmhoyo
+1802	I ḥarayto di duglo
+1803	Sniquṯo
+		
+JOHANNES GABRIEL
+1901	Goluṯo
+		
+MIXAYEL CABDALLAH
+2001	I ḥeṭo nafiqo me Beṯnahrin
+		
+NICOLAS ATAS
+2101	Maxtabzabno qfiso du lišono Suryoyo-Oromoyo
+		
+ODOM HANNO
+2201	U Ṭuro d Izlo
+2202	Göbeklitepe - Urhoy
+2203	Efesqufo Mor Ṭimaṯeos Fawlus
+2204	Ay yolufe bu dawro ḥaṯo d Ṭurcabdin
+2205	Soğmatar
+2206	Falqo mu maxtabzabno qariwo di mḏito catëqto das Suryoye Dara
+		
+SAMI QAWME DIK	
+2301	I ḥadduṯe du safruno w di ḥultëke
+2302	I marduṯo du siboro b Ṭurcabdin
+2303	Cësri maṯle me d Konfučyus
+2304	Mimro cal i emo
+2305	Nacum Fayëq man yo?
+2306	I ḥadduṯe d Saro w du ḥafriṭ
+2307	I marduṯo du siboro b Ṭurcabdin
+2308	I nxiluṯo d Sëmko Aġa d sëmle mqabël d Fatëryarxo Šëmcun Bënyamën
+2309	Mimro cal u Sayfo
+2310	Aḥ ḥaye yawmoye di aṯto Ṭurcabdinayto
+		
+SHABO ALKAN	
+2401	Aḥ ḥayayḏi
+2402	An esore bayn elan w laṭ ṭaye
+2403	I casquṯo w u qaṭlo dat tëšciyat bë Mzizaḥ
+2404	Aj jëvatat b Ṭurcabdin
+2405	Ah hostawat dam Mzizaḥoye
+2406	I ṣënca daš šalfe
+2407	Aq qomësḥe bak karme
+2408	Zabno d cam ay yolufe bi dayro
+2409	I barbäriye
+2410	Mëštuṯo baq qëryawoṯe
+		
+SUKRU AKTAS	
+2501	Mëlfono Šëkri man yo?
+2502	I taḥrazto du yulfono day yolufe di dayro d Mor Gabriel
+2503	U duxrono d Mor Gabriel (Šahro)
+2504	I cade du ṭlobo dak kaloṯe b Ṭurcabdin
+2505	I Zqifuṯo w u Ceḏo di Qyamto b Mëḏyaḏ
+2506	I qriṯo d Bequsyone
+2507	Ad dayre d kit b Ṭurcabdin
+2508	U bëṭlono qayṭoyo bi qriṯo
+2509	Cal u cufoyo dac caniḏe bu aṯro d Ṭurcabdin
+2510	I räsame d dayroyo ḥaṯo bi dayro d mor Awgin b Ṭurcabdin
+2511	I kṯawto Suryayto
+2512	I madrašto kohnoyto di dayro d Mor Gabriel
+2513	Aṣ ṣëncatkar Suryoye
+2514	Am mḏinoṯe w aq qëryawoṯe d këtne camire w ayna d ḥariwi b Ṭurcabdin
+2515	U Ṣawmo w i Šabṯo du Ḥašo w u Ceḏo Rabo
+2516	U maxtabzabno di qriṯo d Bequsyone
+2517	Ftoḥo dac citoṯe bi qriṯo d Arbo b Ṭurcabdin
+2518	Ayko yo dukṯe daf faqire?
+2519	I bädaye di mḏinoyuṯo b Beṯnahrin w Ṭurcabdin
+2520	Cal u šroro w u oždan naḏifo
+2521	U bëṭlono qayṭoyo bi qriṯo (2)
+2522	U darġo di dayroyuṯo bi Cito Suryayto
+2523	I kinuṯo šetësto di dawla yo
+2524	I räsame d Xori Gabriel Aqtaš
+2525	I goluṯo das Suryoye me Ṭurcabdin
+2526	Cal i tyobuṯo
+2527	U kroxo daḏ ḏayfe bi dayro d Mor Gabriel
+2528	I madrašto dë Nṣiwën w aq qonunayḏa
+2529	Dayro d Mor Gabriel
+2530	Tëlwišo du ṣlibo lak kohne d Ṭurcabdin
+2531	
+2532	U yawmo tibeloyo du lešono ëmhoyo
+2533	U cboro du teknoloži laḥ ḥaye du barnošo
+2534	U buyono tibeloyo daz zëdqe nošoye
+2535	An abohe w an nacimaṯṯe
+2536	U lešono Suryoyo
+2537	U ceḏo du Suboro
+2538	Cal i claymuṯo
+2539	Abgar u malko
+2540	Ad daboše du dawšo
+2541	Wäṣiyat lay yolufe cal u ḥulmono
+2542	Cal u zuwoġo (gworo) bi Cito Suryayto
+2543	Cal i roḥmuṯo
+2544	I dayro d Mor Quryakus di Bšeriye
+2545	I tëšmëšto dar rišone
+2546	Aḥ ḥaṯoṯo d macbarle u tëklonoži laḥ ḥayayḏan
+2547	Cal i ṣluṯo ruḥonayto
+2548	Ag guboye di muxtariye b Bequsyone
+2549	U qaṭlo d Šabo Aqtaš bi qriṯo d Bequsyone
+2550	Mor Ṭimoṯeos Šmuyel Aqṭaš u ḥasyo d Ṭurcabdin w u rišdayro d Mor Gabriel
+2551	Ab beṯarke catiqe das Suryoye
+2552	U maxtabzabno di faṭëryarxuṯo di Cito Suryayto Ortoduksayto d Anṭakya
+2553	U cboro di qinto di Cito Suryayto
+		
+TONI ERGIN	
+2601	Aḥ ḥayayḏi
+2602	I dayro d mor Awgin
+2603	I dukano du Slayman Toq d Be Ḥaddo di zëfkariye
+		
+ZAKAY AYDIN	
+2701	Mimro cal šunoyo dë mšamšono
+		
+NËJME AḤO	
+2801	I tašciṯo d babi meqëm mu Sayfo
+		
+MICHAEL TÖRE	
+2901	I ḥzayto du täläfon
+        </p>
+          <!-- Repeat the <p> element as needed -->
+      </div>
+    </body>
+  </text>
+</TEI>
