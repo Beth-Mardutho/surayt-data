@@ -105,7 +105,7 @@
 	<div type="surayt">
 	<p xml:lang="tru">
 	<anchor xml:id="test.syr.1" corresp="test.latn.1"/>
-	<p>
+	</p>
 	</div>
       <!-- Text goes here -->
       <div type="transcription">
@@ -677,7 +677,7 @@
 		<p xml:lang="en">
           <anchor xml:id="test.144"/>
           SUKRU AKTAS		2525 		I goluṯo das Suryoye me Ṭurcabdin
-        </p
+        </p>
 		<p xml:lang="en">
           <anchor xml:id="test.145"/>
           SUKRU AKTAS		2526 		Cal i tyobuṯo
@@ -721,7 +721,7 @@
 		<p xml:lang="en">
           <anchor xml:id="test.155"/>
           SUKRU AKTAS		2536 		U lešono Suryoyo
-        </p
+        </p>
 		<p xml:lang="en">
           <anchor xml:id="test.156"/>
           SUKRU AKTAS		2537 		U ceḏo du Suboro
@@ -757,7 +757,7 @@
 		<p xml:lang="en">
           <anchor xml:id="test.164"/>
           SUKRU AKTAS		2545 		I tëšmëšto dar rišone
-        </p
+        </p>
 		<p xml:lang="en">
           <anchor xml:id="test.165"/>
           SUKRU AKTAS		2546 		Aḥ ḥaṯoṯo d macbarle u tëklonoži laḥ ḥayayḏan
