@@ -106,6 +106,9 @@
 	<p xml:lang="tru">
 	<anchor xml:id="test.syr.1" corresp="test.latn.1"/>
 	</p>
+		<p xml:lang="tru">
+	<anchor xml:id="test.syr.2" corresp="test.latn.2"/>
+	</p>
 	</div>
       <!-- Text goes here -->
       <div type="transcription">
@@ -115,7 +118,7 @@
           ABROHOM LAHDO		1001		I Musiqi w u Zmoro sas Suryoye
         </p>
         <p xml:lang="en">
-          <anchor xml:id="test.2"/>
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
           AFREM CAN			1101		Maxtabzabno d Ṭurcabdin
         </p>
         <p xml:lang="en">
