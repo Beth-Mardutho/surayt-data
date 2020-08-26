@@ -102,6 +102,8 @@
   </teiHeader>
   <text>
     <body>
+	<div type="surayt">
+	</div>
       <!-- Text goes here -->
       <div type="transcription">
 		<p xml:lang="en">
