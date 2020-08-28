@@ -110,20 +110,28 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܐܰܚܢܰܐ ܐܰܣ ܣܘܪܝܳܝܶܐ ܒܝ ܫܰܬܐ ܟܷܬܠܰܢ ܚܰܡܫܐ ܨܰܘܡܶܐ ܕܟܳܙܷܒܛܝܢܰܢܢܶܗ. ܐܘ ܨܰܘܡܐ ܟܳܐܬ݂ܶܐ ܟܘܠ ܢܰܩܠܰܐ ܡܶܩܷܡ ܡܘ ܥܶܕ݂ܐ. ܡܳܪܰܢ ܝܶܫܘܥ ܡܫܝـܚܐ ܨܰܝܷܡ ܐܰܪܒܥܝ ܝܰܘܡܶܐ ܒܘ ܡܰܕ݂ܷܒܪܐ، ܒܷܬ݂ܷܪ ܡܘ ܥܡܳܕ݂ܰܝܕ݂ܶܗ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܐܰܢ ܐܰܒܳܗܳܬ݂ܐ ܩܰܡܳܝܶܐ ܡܰܪܟܰܘܘܶܗ ܨܰܘܡܐ ܒܝ ܥܝܬܐ ܠܰܫܰܢ ܕܨܰܝܡܝܢܰܐ. ܒܘ ܙܰܒܢܐ ܕܘ ܨܰܘܡܐ ܟܘܠ ܢܳܫܐ ܟܷܐܙܙܶܗ ܓܰܒ ܐܘ ܟܳܗܢܐ ܠܝ ܡܰܘܕܝܳܢܘܬ݂ܐ (ܬܷܨܠܝܘܐ، ܣܬܷܥܪܰܐܦ) ܠܰܫܰܢ ܕܡܝܣܰܡܚـܝ ܐܰܚ ܚܷܛܝܰܘܳܬ݂ܰܝܕ݂ܶܗ. ܒܘ ܨܰܘܡܐ ܟܳܡܰܡܛܝܢܰܐ ܠܒܳܠܰܝܢܰܐ ܐܝ ܡܕܰܒܪܳܢܘܬ݂ܐ ܕܷܡܫܝـܚܐ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܒܨܰܘܡܐ ܪܰܒܐ ܟܳܐܒܝܢܰܐ ܩܘܪܒܳܢܶܐ ܥܰܠ ܐܰܥ ܥܰܢܝܕ݂ܶܐ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܟܳܐܒܝܢܰܐ ܙܘܙܶܐ ܠܰܣ ܣܢܝܩܳܝܶܐ ܕܟܷܬܢܶܐ ܦܰܩܝܪܶܐ ܐܰܘ ܝܰܬܘܡܶܐ. ܗܷܢ ܡܰܢ ܢܳܫܶܐ ܟܳܐܒܷܢ ܙܘܙܶܐ ܠܰܥ ܥܝܬܰܘܳܬ݂ܶܐ ܣܬܶܐ. ܓ݂ܶܪ ܡܰܨ ܨܰܘܡܰܢܝ، ܟܷܬܠܰܢ ܐܘ ܨܰܘܡܐ ܕܝ ܐܰܪܒܥܐ ܘܥܪܘܬܐ ܕܟܳܨܰܝܡܝܢܰܠܶܗ ܐܝ ܫܰܬܐ ܟܘܠܰܗ. ܓ݂ܶܪ ܡܰܚ ܚܰܡܫܝ ܝܰܘܡܶܐ ܕܒܰܝܢ ܥܶܕ݂ܐ ܪܰܒܐ ܘܠܘ ܦܰܢܛܝܩܘܣܛܝ. ܒܝܰܘܡܶܗ ܕܐܰܪܒܥܐ ܟܳܡܰܡܛܝܢܰܐ ܠܒܳܠܰܝܢܰܐ ܕܡܳܪܰܢ ܝܶܫܘܥ ܡܫܝـܚܶܐ ܒܢܰܫܩܰܐ ܡܬܰܣܠܰܡܘܰܐ ܘܒܝܰܘܡܶܗ ܕܷܥܪܘܬܐ ܕܷܨܠܘܘܰܐ. ܐܰܝ ܝܰܘܡܰܢܝ ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܶܐ (ܡܘܗܝܡ) ܢܶܐ ܠܘ ܥܰܡܐ ܡܫܝـܚܳـܝܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܟܳܙܷܒܛܝܢܰܐ ܐܘ ܨܰܘܡܐ ܕܰܬ ܬܪܶܐ ܝܰܘܡܰܢܝ.
-
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܐܝܢܰܩܠܰܐ ܕܟܳܨܰܝܡܝܢܰܐ، ܠܐ ܟܐܘܟ݂ܠܝܢܰܐ ܡܘܟܠܳܢܶܐ ܕܟܳܐܬ݂ܷܢ ܡܰܚ ܚܱܝܶܘܷܢ، ܡܰܬ݂ܠܐ܃ ܒܰܣܪܐ، ܒܶܥܶܐ، ܚܰܠܘܐ، ܓܘܶܬܐ ܘܡܷܫܚܐ. ܡܷܚܠܰܦ ܐܘ ܒܰܣܪܐ ܟܐܘܟ݂ܠܝܢܰܐ ܢܘܢܶܐ ܡܝܕ݂ܶܗ ܕܡܳܪܰܢ ܝܶܫܘܥ ܡܫܝـܚܐ ܐܰܟ݂ܝܠܶܗ ܡܰܢܢܶܗ. ܟܝܬ ܢܳܫܶܐ ܕܟܳܛܳܪܷܢ ܡܝ ܔܷܓ݂ܰܪܰܐ ܘܡܘ ܐܰܠܟܳܗܳܠ ܣܬܶܐ ܒܨܰܘܡܐ ܪܰܒܐ.
-
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܗܰܪܟܶܐ ܓܷܕ ܡܰܚܟܳܢܐ ܡܝ ܩܰܡܰܝܬܐ ܗܘܠ ܠܝ ܚܰܪܰܝܬܐ ܥܰܠ ܐܰܨ ܨܰܘܡܶܐ ܕܐܰܚܢܰܐ ܐܰܣ ܣܘܪܝܳܝܶܐ ܟܳܙܷܒܛܝܢܰܢܢܶܗ. ܐܰܣ ܣܘܪܝܳܝܶܐ ܟܳܨܰܝܡܝ ܡܶܩܷܡ ܡܶܐ ܥܶܕ݂ܐ ܙܥܘܪܐ ܒܥܰܣܪܐ ܝܰܘܡܶܐ. ܗܰܢܐ ܟܳܡܷܩܪܶܐ ܨܰܘܡܐ ܙܥܘܪܐ. ܗܷܢ ܡܰܣ ܣܳܘܰܝܕ݂ܰܢ ܟܳܨܰܝܡܝ ܚܰܡܫܐ ܘܥܷܣܪܝ ܝܰܘܡܶܐ ܥܰܠ ܐܝ ܥܰܕܶܐ ܥܰܬܷܩܬܐ. ܒܷܬ݂ܷܪ ܟܳܡܫܰܪܶܐ ܥܶܕ݂ܐ ܙܥܘܪܐ. ܒܘ ܝܰܪܚܐ ܕܰܬ ܬܪܶܐ (ܐܷܫܘܷܛ) ܟܳܐܬ݂ܶܐ ܐܘ ܨܰܘܡܐ ܕܢܝܢܘܶܐ (ܐܝ ܨܰܝܡܷܢܬܐ) ܬܠܳܬ݂ܐ ܝܰܘܡܶܐ. ܒܰܬ ܬܠܳܬ݂ܐ ܝܰܘܡܰܢܝ ܟܳܡܰܬ݂ܟܪܝܢܰܐ ܐܝ ܬܰܫܥܝܬ݂ܐ ܕܝܰܘܢܳܢ ܐܘ ܢܒܝـܝܐ ܘܕܰܢ ܢܝܢܘܳܝܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܐܰܚܢܰܐ ܣܬܶܐ ܟܳܨܰܝܡܝܢܰܐ ܬܠܳܬ݂ܐ ܝܰܘܡܶܐ. ܟܝܬ ܢܳܫܶܐ ܕܟܳܩܘܛܥܝ ܪܘܚܰـܝـܝܶܗ ܬܠܳܬ݂ܐ ܝܰܘܡܶܐ ܡܘ ܡܘܟܠܐ ܘܡܘ ܫܬܳܝܐ. ܦܪܝܫܐܝܬ݂ ܐܝ ܥܠܰܝܡܘܬ݂ܐ ܘܐܰܢ ܢܝܫܶܐ ܟܳܙܷܒܛܝ ܐܰܬ ܬܠܳܬ݂ܐ ܝܰܘܡܶܐ ܠܰܫܰܢ ܒܳܥܘܬ݂ܐ ܐܰܘ ܡܰܩܨܰܕ ܒܰܚ ܚܰܝܰܬ݂ܬ݂ܶܗ. ܐܘ ܨܰܘܡܰܢܐ ܗܰܘܝ ܡܰܫܷܠܡܳܢܘܬ݂ܐ ܫܗܷܪܬܐ ܒܰܝܢ ܕܝ ܥܠܰܝܡܘܬ݂ܐ ܒܐܰܘܪܘܦ݁ܰܐ. ܟܝܬ ܢܳܫܶܐ ܠܐ ܟܐܘܟ݂ܠܝ ܗܘܠ ܦܰܠܓܶܗ ܕܝܰܘܡܐ. ܟܘܠ ܚܰܐ ܟܳܨܳܝܰܡ ܟ݂ܘܕ ܟܳܐܒܰܥ.
-
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܒܷܬ݂ܷܪ ܡܶܐ ܬܠܰܬ݂ ܫܰܒܶܐ ܐܘ ܨܰܘܡܐ ܕܰܢ ܐܰܪܒܥܝ ܟܳܡܫܰܪܶܐ. ܗܰܢܐ ܟܳܡܷܩܪܶܐ ܨܰܘܡܐ ܪܰܒܐ، ܡܝܕ݂ܶܗ ܕܟܳܓܳܪܰܫ ܙܰܒܢܐ ܝܰܪܝܟ݂ܐ. ܟܳܨܰܝܡܝܢܰܐ ܐܰܪܒܥܝ ܝܰܘܡܶܐ. ܐܝ ܫܰܒܬ݂ܐ ܕܘ ܚܰܫܐ ܣܬܶܐ ܟܳܨܰܝܡܝܢܰܠܰܗ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܟܳܘܷܢ ܚܰܡܫܝ ܝܰܘܡܶܐ ܨܰܘܡܐ. ܒܷܬ݂ܷܪ ܟܳܡܫܰܪܶܐ ܥܶܕ݂ܐ ܪܰܒܐ ܕܟܳܡܝܬܰܘܡܰܪܠܶܗ ܣܬܶܐ ܐܘ ܥܶܕ݂ܐ ܕܝ ܩܝܰܡܬܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܨܰܘܡܐ ܪܰܒܐ ܟܳܐܬܶܐ ܐܘ ܨܰܘܡܐ ܕܰܫ ܫܠܝـܚܶܐ. ܐܘ ܨܰܘܡܰܢܐ ܟܳܙܷܒܛܝܢܰܠܶܗ ܬܠܳܬ݂ܐ ܝܰܘܡܶܐ ܠܘ ܕܘܟ݂ܪܳܢܐ ܕܰܫ ܫܠܝܚܶܐ. ܐܘ ܨܰܘܡܰܢܐ ܠܐ ܟܳܡܝܬܰܗܘܶܠܶܗ ܝܰܨܝܦܘܬ݂ܐ ܪܰܒܬ݂ܐ. 
-
-ܐܘ ܨܰܘܡܐ ܕܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܟܳܡܫܰܪܶܐ 10 ܒܛܷܒܒܰܟ݂ (ܐܳܒ)، ܗܘܠ 15 ܒܛܷܒܒܰܟ݂. ܚܰܡܫܐ ܝܰܘܡܶܐ ܝܐ. ܠܰܠܝܐ ܡܶܩܷܡ، 14 ܒܛܷܒܒܰܟ݂، ܐܘ ܫܰܗܪܐ ܕܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܝܐ. ܗܰܪܟܶܐ ܟܳܡܰܬ݂ܟܪܝܢܰܐ ܐܘ ܫܘܢܳܝܰـܝܕ݂ܰܗ ܕܠܝ ܫܡܰܝܐ. 
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
+ܐܘ ܨܰܘܡܐ ܕܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܟܳܡܫܰܪܶܐ 10 ܒܛܷܒܒܰܟ݂ (ܐܳܒ)، ܗܘܠ 15 ܒܛܷܒܒܰܟ݂. ܚܰܡܫܐ ܝܰܘܡܶܐ ܝܐ. ܠܰܠܝܐ ܡܶܩܷܡ، 14 ܒܛܷܒܒܰܟ݂، ܐܘ ܫܰܗܪܐ ܕܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܝܐ. ܗܰܪܟܶܐ ܟܳܡܰܬ݂ܟܪܝܢܰܐ ܐܘ ܫܘܢܳܝܰـܝܕ݂ܰܗ ܕܠܝ ܫܡܰܝܐ.
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/> 
 ܡܶܩܷܡ ܠܰܬܘܰܐ ܢܳܫܶܐ ܕܠܐ ܨܰܝܡܝܘܰܐ ܐܰܚ ܚܰܡܫܝ ܝܰܘܡܶܐ ܕܨܰܘܡܐ ܪܰܒܐ. ܒܰܙ ܙܰܒܢܶܐ ܚܰܪܳܝܰܢܝ ܐܘ ܥܰܡܐ ܠܐ ܦܰܝܷܫ ܟܳܚܳܪܰܘܠܶܗ ܡܰܨ ܨܰܘܡܶܐ. ܐܘ ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܡܳܪܝ ܐܝܓ݂ܢܰܐܛܝܘܣ ܙܰܟܰܝ ܩܰܕ݂ܡܳܝܐ ܥܝܘܰܐܨ ܗܘܠܶܗ ܐܰܡܪܐ ܚܰܬ݂ܐ (ܡܰܢܫܘܪ) ܥܰܠ ܨܰܘܡܐ ܪܰܒܐ ܘܡܷܪܠܶܗ܃ ܐܘ ܚܰܐ ܕܪܳܚܰܡ، ܟܝܒܶܗ ܨܳܝܰܡ ܐܝ ܫܰܒܬ݂ܐ ܩܰܡܰܝܬܐ ܘܐܝ ܫܰܒܬ݂ܐ ܚܰܪܰܝܬܐ ܕܘ ܨܰܘܡܐ. ܐܰܝ ܝܰܘܡܶܐ ܚܪܶܢܶܐ ܫܰܪܝܶܐ ܢܶܐ. ܓ݂ܱܠܱܒܶܐ ܢܳܫܶܐ ܟܳܨܰܝܡܝ ܒܘ ܫܷܟܠܰܢܐ. ܐܝ ܣܰܓܝـܝܘܬ݂ܐ ܕܰܢ ܢܝܫܶܐ ܟܳܨܰܝܡܝ ܐܰܚ ܚܰܡܫܝ ܝܰܘܡܶܐ. ܐܰܥ ܥܠܰܝܡܶܐ ܢܳܩܘܨܐ ܟܳܨܰܝܡܝ ܐܰܨ ܨܰܘܡܶܐ ܟܘܠܠܶܗ، ܕܝܠܳܢܳܐܝܬ݂ ܠܐ ܟܳܨܰܝܡܝ ܐܝ ܐܰܪܒܥܐ ܘܥܪܘܬܐ ܣܬܶܐ. 
-
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܐܘ ܨܰܘܡܐ ܒܐܰܘܪܘܦ݁ܰܐ ܠܰܬܝܐ ܟ݂ܷܕ ܐܘ ܨܰܘܡܐ ܒܛܘܪܥܰܒܕܝܢ. ܗܰܪܟܶܐ ܒܐܰܘܪܘܦ݁ܰܐ ܟܝܬ ܡܘܟܠܐ ܓ݂ܱܠܱܒܶܐ ܡܫܰܚܷܠܦܐ. ܡܷܢ ܕܐܷܒܥܰܬ ܟܝܬ ܠܷܫܩܳܠܐ. ܢܳܫܐ ܠܐ ܟܳܦܳܝܰܫ ܟܰܦܝܢܐ. ܐܶܠܐ ܓ݂ܱܠܱܒܶܐ ܡܘ ܥܰܡܰܝܕ݂ܰܢ ܠܐ ܟܳܐܒܰܥ ܕܡܰܬܥܰܒ ܪܘܚܶܗ ܘܨܳܝܰܡ! 
-
 		</p>
           <!-- Repeat the <p> element as needed -->
       </div>
@@ -132,14 +140,28 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Aṣ Ṣawme das Suryoye
-		  Aḥna as Suryoye bi šato këtlan ḥamšo ṣawme d kozëbṭinanne. U ṣawmo koṯe kul naqla meqëm mu ceḏo. Moran Yešuc Mšiḥo ṣayëm arbci yawme bu maḏëbro, bëṯër mu cmoḏayḏe. Cal hawxa an abohoṯo qamoye markawwe ṣawmo bi Cito lašan d ṣaymina. Bu zabno du ṣawmo kul nošo këzze gab u kohno li mawdyonuṯo (tëṣliwo, stëcraf) lašan d misamḥi aḥ ḥëṭyawoṯayḏe. Bu ṣawmo komamṭina l bolayna i mdabronuṯo dë Mšiḥo. 
+		  Aḥna as Suryoye bi šato këtlan ḥamšo ṣawme d kozëbṭinanne. U ṣawmo koṯe kul naqla meqëm mu ceḏo. Moran Yešuc Mšiḥo ṣayëm arbci yawme bu maḏëbro, bëṯër mu cmoḏayḏe. Cal hawxa an abohoṯo qamoye markawwe ṣawmo bi Cito lašan d ṣaymina. Bu zabno du ṣawmo kul nošo këzze gab u kohno li mawdyonuṯo (tëṣliwo, stëcraf) lašan d misamḥi aḥ ḥëṭyawoṯayḏe. Bu ṣawmo komamṭina l bolayna i mdabronuṯo dë Mšiḥo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>		  
 B Ṣawmo Rabo kobina qurbone cal ac caniḏe. Naqlawoṯe kobina zuze las sniqoye d këtne faqire aw yatume. Hën man noše kobën zuze lac citawoṯe ste. Ġer maṣ ṣawmani, këtlan u ṣawmo di arbco w cruto d koṣayminale i šato kula. Ġer maḥ ḥamši yawme d bayn Ceḏo Rabo w lu Fanṭiqusṭi. B yawme d arbco komamṭina l bolayna d Moran Yešuc Mšiḥo b našqa mtaslamwa w b yawme dë cruto dë ṣluwa. Ay yawmani ġäläbe ulṣoye (muhim) ne lu camo mšiḥoyo. Cal hawxa kozëbṭina u ṣawmo dat tre yawmani.
-Inaqla d koṣaymina, lo kuxlina muklone d koṯën maḥ ḥäyewën, maṯlo: basro, bece, ḥalwo, gweto w mëšḥo. Mëḥlaf u basro kuxlina nune miḏe d Moran Yešuc Mšiḥo axile manne. Kit noše d koṭorën mi jëġara w mu alkohol ste b Ṣawmo Rabo. 
-Harke gëd maḥkono mi qamayto hul li ḥarayto cal aṣ ṣawme d aḥna as Suryoye kozëbṭinanne. As Suryoye koṣaymi meqëm me Ceḏo Zcuro b casro yawme. Hano komëqre Ṣawmo Zcuro. Hën mas sowayḏan koṣaymi ḥamšo w cësri yawme cal i cade catëqto. Bëṯër komšare Ceḏo Zcuro. Bu yarḥo dat tre (ëšwëṭ) koṯe u Ṣawmo d Ninwe (i ṣaymënto) tloṯo yawme. Bat tloṯo yawmani komaṯkrina i tašciṯo d Yawnon u nbiyo w dan Ninwoye. Cal hawxa aḥna ste koṣaymina tloṯo yawme. Kit noše d koquṭci ruḥayye tloṯo yawme mu muklo w mu štoyo. Frišoyiṯ i claymuṯo w an niše kozëbṭi at tloṯo yawme lašan bocuṯo aw maqṣad baḥ ḥayaṯṯe. U ṣawmano hawi mašëlmonuṯo šhërto bayn di claymuṯo b Awrupa. Kit noše lo kuxli hul falge d yawmo. Kul ḥa koṣoyam xud kobac. 
-Bëṯër me tlaṯ šabe u ṣawmo dan arbci komšare. Hano komëqre Ṣawmo Rabo, miḏe d kogoraš zabno yarixo. Koṣaymina arbci yawme. I šabṯo du ḥašo ste koṣayminala. Cal hawxa kowën ḥamši yawme ṣawmo. Bëṯër komšare Ceḏo Rabo d komitawmarle ste u Ceḏo di Qyamto. Bëṯër me Ṣawmo Rabo kote u Ṣawmo daš Šliḥe. U ṣawmano kozëbṭinale tloṯo yawme lu duxrono daš šliḥe. U ṣawmano lo komitahwele yaṣifuṯo rabṯo. 
-U ṣawmo d Yoldaṯ Aloho komšare 10 b ṭëbbax (ob), hul 15 b ṭëbbax. Ḥamšo yawme yo. Lalyo meqëm, 14 b ṭëbbax, u šahro d Yoldaṯ Aloho yo. Harke komaṯkrina u šunoyayḏa d li šmayo. 
-Meqëm latwa noše d lo ṣaymiwa aḥ ḥamši yawme d Ṣawmo Rabo. Baz zabne ḥaroyani u camo lo fayëš koḥorawle maṣ ṣawme. U faṭëryarxo di Cito Suryayto Mor Iġnaṭyus Zakay Qaḏmoyo Ciwaṣ hule amro ḥaṯo (manšur) cal Ṣawmo Rabo w mërle: u ḥa d roḥam, kibe ṣoyam i šabṯo qamayto w i šabṯo ḥarayto du ṣawmo. Ay yawme ḥrene šarye ne. Ġäläbe noše koṣaymi bu šëklano. I sagiyuṯo dan niše koṣaymi aḥ ḥamši yawme. Ac clayme noquṣo koṣaymi aṣ ṣawme kulle, dilonoyiṯ lo koṣaymi i arbco w cruto ste. 
+<p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Inaqla d koṣaymina, lo kuxlina muklone d koṯën maḥ ḥäyewën, maṯlo: basro, bece, ḥalwo, gweto w mëšḥo. Mëḥlaf u basro kuxlina nune miḏe d Moran Yešuc Mšiḥo axile manne. Kit noše d koṭorën mi jëġara w mu alkohol ste b Ṣawmo Rabo.
+<p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+Harke gëd maḥkono mi qamayto hul li ḥarayto cal aṣ ṣawme d aḥna as Suryoye kozëbṭinanne. As Suryoye koṣaymi meqëm me Ceḏo Zcuro b casro yawme. Hano komëqre Ṣawmo Zcuro. Hën mas sowayḏan koṣaymi ḥamšo w cësri yawme cal i cade catëqto. Bëṯër komšare Ceḏo Zcuro. Bu yarḥo dat tre (ëšwëṭ) koṯe u Ṣawmo d Ninwe (i ṣaymënto) tloṯo yawme. Bat tloṯo yawmani komaṯkrina i tašciṯo d Yawnon u nbiyo w dan Ninwoye. Cal hawxa aḥna ste koṣaymina tloṯo yawme. Kit noše d koquṭci ruḥayye tloṯo yawme mu muklo w mu štoyo. Frišoyiṯ i claymuṯo w an niše kozëbṭi at tloṯo yawme lašan bocuṯo aw maqṣad baḥ ḥayaṯṯe. U ṣawmano hawi mašëlmonuṯo šhërto bayn di claymuṯo b Awrupa. Kit noše lo kuxli hul falge d yawmo. Kul ḥa koṣoyam xud kobac.
+<p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+Bëṯër me tlaṯ šabe u ṣawmo dan arbci komšare. Hano komëqre Ṣawmo Rabo, miḏe d kogoraš zabno yarixo. Koṣaymina arbci yawme. I šabṯo du ḥašo ste koṣayminala. Cal hawxa kowën ḥamši yawme ṣawmo. Bëṯër komšare Ceḏo Rabo d komitawmarle ste u Ceḏo di Qyamto. Bëṯër me Ṣawmo Rabo kote u Ṣawmo daš Šliḥe. U ṣawmano kozëbṭinale tloṯo yawme lu duxrono daš šliḥe. U ṣawmano lo komitahwele yaṣifuṯo rabṯo.
+<p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+U ṣawmo d Yoldaṯ Aloho komšare 10 b ṭëbbax (ob), hul 15 b ṭëbbax. Ḥamšo yawme yo. Lalyo meqëm, 14 b ṭëbbax, u šahro d Yoldaṯ Aloho yo. Harke komaṯkrina u šunoyayḏa d li šmayo.
+<p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+Meqëm latwa noše d lo ṣaymiwa aḥ ḥamši yawme d Ṣawmo Rabo. Baz zabne ḥaroyani u camo lo fayëš koḥorawle maṣ ṣawme. U faṭëryarxo di Cito Suryayto Mor Iġnaṭyus Zakay Qaḏmoyo Ciwaṣ hule amro ḥaṯo (manšur) cal Ṣawmo Rabo w mërle: u ḥa d roḥam, kibe ṣoyam i šabṯo qamayto w i šabṯo ḥarayto du ṣawmo. Ay yawme ḥrene šarye ne. Ġäläbe noše koṣaymi bu šëklano. I sagiyuṯo dan niše koṣaymi aḥ ḥamši yawme. Ac clayme noquṣo koṣaymi aṣ ṣawme kulle, dilonoyiṯ lo koṣaymi i arbco w cruto ste.
+<p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 U ṣawmo b Awrupa latyo xëd u ṣawmo b Ṭurcabdin. Harke b Awrupa kit muklo ġäläbe mšaḥëlfo. Mën d ëbcat kit lë šqolo. Nošo lo kofoyaš kafino. Elo ġäläbe mu camayḏan lo kobac d matcab ruḥe w ṣoyam! 
         </p>
           <!-- Repeat the <p> element as needed -->
