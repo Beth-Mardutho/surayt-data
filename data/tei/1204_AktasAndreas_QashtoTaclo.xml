@@ -82,7 +82,6 @@
                     <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
                     <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
                     <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
-
 ܟܷܬܘܰܐ ܚܕ݂ܐ ܩܰܫܬܐ ܟܷܬܘܰܝܠܰܗ ܬܪܶܐ ܚܱܝܶܘܷܢ: ܬܰܥܠܐ ܘܩܰܛܷܢ. ܒܚܰܐ ܡܰܝ ܝܰܘܡܶܐ ܡܷܪܠܰܗ ܐܝ ܩܰܫܬܐ ܠܘ ܬܰܥܠܐ: ܝܰܐ ܬܰܥܠܐ ܩܘܝܪܐ، ܐܳܢܐ ܟܰܐܙܙܝܢܐ ܠܝ ܥܝܬܐ ܕܷܡܨܰܠܝܳܢܐ. ܟܷܬܠܝ ܗܰܪܟܶܐ ܚܰܠܘܐ ܟܷܐܒܥܳܢܐ ܣܰܝܡܳܢܐ ܒܷܬ݂ܷܪ ܕܰܫܷܫܬܐ ܡܝܢܶܗ. ܠܐ ܫܳܬܰܬܠܶܗ ܗܰܐ! ܐܝܢܰܩܠܰܐ ܕܕܘܥܪܳܢܐ ܡܝ ܥܝܬܐ، ܓܷܕ ܡܷܬܝܰܠܠܘܟ݂ ܠܰܚܡܐ ܐܰܥܡܝ. ܐܘ ܬܰܥܠܐ ܡܷܪܠܶܗ ܠܝ ܩܰܫܬܐ: ܙܰܟ݂ ܠܝ ܥܝܬܐ ܘܠܐ ܙܰܝܥܰܬ. ܐܳܢܐ ܓܷܕ ܗܳܘܶܢܐ ܡܳܪܐ ܠܘ ܚܰܠܘܐ. ܒܷܬ݂ܷܪ ܡܷܪܠܰܗ ܐܝ ܩܰܫܬܐ ܠܝ ܩܰܛܷܢ ܣܬܶܐ ܕܠܐ ܫܷܬܝܐ ܐܘ ܚܰܠܘܐ. ܐܝ ܩܰܛܷܢ ܡܷܪܠܰܗ: ܓܷܕ ܗܘܝܳܢܐ ܡܳܪܐ ܠܘ ܚܰܠܘܐ ܗܘܠ ܕܟܷܬܗܰܬ ܒܝ ܥܝܬܐ. ܐܰܙܙܰܗ ܐܝ ܩܰܫܬܐ ܠܝ ܥܝܬܐ، ܡܨܰܠܶܠܰܗ ܨܠܘܬ݂ܐ ܝܰܪܷܟ݂ܬܐ. ܘܒܷܬ݂ܷܪ ܡܝ ܥܝܬܐ ܡܷܔܓ݂ܶܠܰܗ ܥܰܡ ܢܳܫܶܐ ܓ݂ܱܠܱܒܶܐ. ܒܘ ܙܰܒܢܰܘܐ ܕܟܷܬܘܰܐ ܐܝ ܩܰܫܬܐ ܒܝ ܥܝܬܐ ܟܰܦܷܢ ܐܘ ܬܰܥܠܐ ܓ݂ܱܠܱܒܶܐ. ܐܰܙܙܶܗ ܠܶܒܶܗ ܠܘ ܚܰܠܘܐ. ܛܰܥܝ ܐܘ ܡܶܕܶܐ ܕܡܷܪܠܰܠܶܗ ܐܝ ܩܰܫܬܐ. ܗܶܕܝ ܗܶܕܝ ܐܰܙܙܶܗ ܐܘ ܬܰܥܠܐ ܠܘ ܚܰܠܘܐ ܘܫܬܶܠܶܗ ܟܘܠܶܗ. ܠܰܫܰܢ ܐܝ ܩܰܛܷܢ ܕܠܐ ܦܷܪܩܐ ܒܡܶܕܶܐ، ܐܰܙܙܶܗ ܡܰܕܡܰܟ݂ܠܶܗ ܒܪܘܚܶܗ. ܐܶܠܐ ܐܝ ܩܰܛܷܢ ܐܷܕ݂ܥܳܘܰܐ ܟܘܠ ܡܶܕܶܐ ܥܰܠ ܕܷܚܙܶܠܰܗ ܐܘ ܬܰܥܠܐ ܕܷܫܬܶܠܶܗ ܐܘ ܚܰܠܘܐ.
 					</p>
 					<p xml:lang="tru">
