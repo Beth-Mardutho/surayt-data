@@ -110,22 +110,38 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
 ܒܚܰܐ ܡܰܝ ܝܰܘܡܶܐ ܕܘ ܦ݁ܰܝܷܙ ܒܬܷܫܪܷܢ ܐܘ ܚܰܪܳܝܐ ܡܳܚܶܘܰܐ ܡܰܛܪܐ ܓ݂ܱܠܱܒܶܐ ܚـܝܨܐ، ܟ݂ܘܕ ܐܰܡ ܡܷܕܗܳܝܶܐ ܕܟܷܐܡܡܝ ܟ݂ܘܕ ܚܰܐ ܦܳܬܷܚ ܦܶܡܶܗ ܕܘ ܓܰܘܕܐ، ܢܳܚܰܬܘܰܐ ܡܰܛܪܐ. ܔܷܕܕܝ ܝܰܥܩܘܒ ܙܠܰܐܡ ܣܳܘܐ ܘܰܐ ܘܟܘܠ ܕܚܳـܝܰܪܘܰܐ ܒܘ ܫܰܒܳܟܐ ܐܳܡܰܪܘܰܐ ܫܘܒܚܐ ܠܰܐܠܳܗܐ ܐܰܕܫܰܬܐ ܐܰܙ ܙܰܕܳܢܶܐ ܓܷܕ ܗܳܘܷܢ ܛܰܘܘܶܐ ܓ݂ܱܠܱܒܶܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܒܷܬ݂ܷܪ ܡܝ ܚܫܰܡܬܐ ܐܰܚܢܰܐ ܕܘ ܒܰܝܬܐ ܟܘܠܰܢ ܝܰܬܝܘܶܐ ܩܘܡ ܐܝ ܨܳܦ݁ܰܐ ܕܰܩ ܩܰܝܣܶܐ، ܚܷܪܠܰܢ ܩܰܫܐ ܡܰܠܟܶܐ ܥܰܒܷܪ ܒܘ ܬܰܪܥܐ ܘܰܐܬ݂ܝ ܠܓܰܒܰܢ ܠܘ ܒܰܝܬܐ. ܟܘܠܰܢ ܩܰܝـܝܡܝܢܰܐ ܢܫܷܩܠܰܢ ܐܝܕ݂ܶܗ. ܒܰܒܝ ܡܰܚܘܶܠܶܠܶܗ ܕܘܟܬ݂ܐ ܕܝܳܬܘ. ܒܷܬ݂ܷܪ ܡܝܢܶܗ ܟܘܠܰܢ ܝܰܬܝܘܝܢܰܐ. ܔܷܕܕܝ ܡܫܰܝܶܠܶܗ ܐܰܥܠܶܗ ܘܥܰܠ‌ ܐܝ ܒܰܬ݂ܩܝܳܡܐ. ܐܘ ܩܰܫܐ ܡܷܪܠܶܗ: ܬܰܘܕܝ ܠܡܳܪܝܐ، ܐܳܢܐ ܣܬܶܐ ܘܐܝ ܒܰܬ݂ܩܝܳܡܐ ܣܬܶܐ ܛܰܘܘܶܐ ܢܰܐ. ܗܰܘܟ݂ܰܐ ܐܝܢܰܩܠܰܐ ܕܡܷܔܓ̣ܳܠܝܘܰܐ ܐܘ ܔܰܝܪܰܐܢ ܩܛܝܥ ܒܷܚܕ݂ܐ ܢܰܩܠܰܐ. ܐܝ ܡܱܙܱܠܶܐ ܕܟܷܬܘܰܝܢܰܐ ܝܰܬܝܘܶܐ ܐܶܒܰܗ ܟܘܠܰܗ ܗܰܘܝܐ ܥܷܬܡܰܐ. ܒܰܒܝ ܩܰܝܷܡ ܐܰܙܙܶܝܐ ܕܡܰܝܬܶܐ ܐܝ ܫܪܳܓ݂ܐ. ܐܘ ܩܰܫܐ ܡܷܪܠܶܗ: ܟܳܡܰܚܘܶܐ ܕܝܣܰܐ ܢܰܦܷܠ ܕܝܪܱܟܶܐ ܕܘ ܩܰܝܣܐ ܝܰܕܰܐ ܩܛܝܥ ܗܷܢ ܡܰܬ ܬܶܠܰܬ، ܐܰܕܝܰܘܡܰܐ ܣܬܶܐ ܓܷܕ ܦܰܝܫܝܢܰܐ ܒܝ ܥܷܬܡܰܐ ܗܘܠ ܕܣܰܝܡܷܢܢܶܗ. ܔܷܕܕܝ ܒܚܱܢܰܟܶܐ ܡܷܪܠܶܗ ܠܘ ܩܰܫܐ: ܐܰܒܘܢܰܐ ܐܰܬ݂ܷܬ ܩܛܷܥܠܘܟ݂ ܐܘ ܔܰܝܪܰܐܢ ܐܰܥܠܰܝܢܰܐ، ܐܝܢܫܰܠܠܰܗ ܟ̣ܶܪ ܝܐ؟ ܗܰܘܟ݂ܰܐ ܡܷܪܠܶܗ ܘܒܰܒܝ ܡܰܩܷܬ݂ܠܶܗ ܐܝ ܫܪܳܓ݂ܐ، ܘܒܰܗܷܪ ܠܰܘܓ݂ܷܠ. ܐܘ ܩܰܫܐ ܓܰܚܷܟ ܘܡܷܪܠܶܗ: ܝܰܥܩܘܒ ܐܘ ܔܰܝܪܰܐܢ ܢܷܥܡܰܐ ܕܰܐܠܳܗܐ ܝܐ، ܒܰܣ ܐܝ ܫܪܳܓ݂ܐ ܣܬܶܐ ܢܷܥܡܰܐ ܕܰܐܠܳܗܐ ܝܐ. ܟܳܚܳܙܷܬ ܐܝ ܫܪܳܓ݂ܰܬ݂ܶܐ ܡܰܟ݂ܠܰܨܠܰܠܰܢ ܡܝ ܥܷܬܡܰܐ. ܒܰܣ ܐܰܚܢܰܐ ܟܳܠܳܙܷܡ ܡܫܰܝܠܝܢܰܐ ܥܰܠ‌ ܐܘ ܒܰܗܪܐ ܕܟܷܬܝܐ ܒܰܗܷܪܬܷܪ ܡܘ ܔܰܝܪܰܐܢ. ܐܘ ܒܰܗܪܐ ܫܡܰܝܳܢܐ ܕܠܐ ܟܳܡܷܩܛܷܥ. ܔܷܕܕܝ ܐܳܡܷܪ ܐܰܢܰܩܩܰܐ ܐܰܕ݂ܷܥܢܐ ܕܐܘ ܡܰܬ݂ܝܰـܝܕ݂ܘܟ ܟ݂ܶܪ ܝܐ، ܡܰܪ ܐܰܒܘܢܰܐ. 
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܒܷܬ݂ܷܪ ܐܘ ܩܰܫܐ ܚܷܪܠܶܗ ܒܒܰܒܝ ܘܡܷܪܠܶܠܶܗ: ܒܰܪܨܰܘܡܐ ܐܰܬ݂ܝܢܐ ܠܓܰܒܘܟ݂ ܒܘ ܠܰܠܝܰܢܐ ܕܐܳܡܰܪܢܳܠܘܟ݂ ܐܝܕ݂ܰܐ ܕܩܘܕܪܷܬ ܕܐܳܬ݂ܷܬ ܠܝ ܦ݁ܰܠܘܬܰܝܕ݂ܝ ܕܰܩ ܩܰܝܣܶܐ. ܐܘ ܣܰܬ݂ܘܐ ܕܐܰܕܫܰܬܐ ܟܳܡܰܚܘܶܐ ܩܘܪܐ ܝܐ ܓ݂ܱܠܱܒܶܐ. ܐܳܢܐ ܘܐܝ ܒܰܬ݂ܩܝܳܡܐ ܣܳܘܶܐ ܢܰܐ ܠܰܝܒܰܢ ܕܐܷܙܙܰܢܐ ܠܰܩ ܩܰܝܣܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܕܩܘܕܪܷܬ ܕܐܳܬ݂ܷܬ ܐܰܠܳܗܐ ܡܒܰܪܷܟ݂ ܐܰܥܠܘܟ݂. ܒܰܒܝ ܡܰܕܥܰܪܠܶܗ ܥܰܠ‌ ܐܘ ܩܰܫܐ ܘܡܷܪܠܶܠܶܗ: ܥܰܠ ܐܰܥ ܥܰܝܢܶܐ ܐܰܒܘܢܰܐ ܒܶܬܦܰܐܩ ܪܰܡܚܷܠ ܥܰܡ ܢܦܳܩܶܗ ܕܝ ܫܷܡܫܐ ܓܷܕ ܡܰܝܬܶܢܐ ܐܘ ܢܰܪܓܰܝܕ݂ܝ ܘܓܷܕ ܗܳܘܶܢܐ ܩܘܡ ܐܘ ܬܰܪܥܰܝܕ݂ܘܟ݂. ܒܰܒܝ ܡܫܰܝܶܠܶܗ ܠܘ ܩܰܫܐ: ܟܡܐ ܫܰܟ݂ܨܰܬ ܚܪܶܢܶܐ ܟܝܬܐ ܐܰܬ݂ܳܝܶܐ ܠܝ ܦ݁ܰܠܘܬܰܝܕ݂ܘܟ݂؟ ܡܷܪܠܶܗ ܐܘ ܩܰܫܐ ܠܒܰܒܝ: ܐܰܠܗܐ ܡܒܰܪܷܟ݂ ܐܰܥܠܰܝـܝܶܗ، ܟܝܬܐ ܚܰܡܫܰܥܣܰܪ ܫܰܟ݂ܨܰܬ ܚܪܶܢܶܐ ܐܰܬ݂ܳܝܶܐ. ܒܰܒܝ ܡܰܕܥܰܪܠܶܗ ܘܡܷܪܠܶܗ ܠܘ ܩܰܫܐ: ܒܶܬܦܰܐܩ ܕܠܳܘܶܐ ܫܷܠܠܝـܝܶܐ ܒܝ ܦ݁ܰܠܘܬܰܐ ܕܪܰܡܚܷܠ ܓܷܕ ܩܘܛܥܝܢܰܠܘܟ݂ ܩܰܝܣܶܐ ܕܡܰܟܦܷܠܠܘܟ݂ܢܶܐ ܗܘܠ ܕܬܳܝܷܡ ܐܘ ܣܰܬ݂ܘܐ. ܐܘ ܩܰܫܐ ܕܝܣܰܐ ܡܷܪܠܶܗ ܠܒܰܒܝ: ܥܳܡܷܪ ܒܰܝܬܘܟ݂.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܐܶܡܝ ܡܰܚܰܬܘܰܝܠܰܗ ܡܰܝܶܐ ܥܰܠ‌ ܐܝ ܨܳܦ݁ܰܐ ܠܰܫܰܢ ܐܝ ܫ̰ܰܝܶܐ، ܒܷܬ݂ܷܪ ܡܶܐ ܕܪܰܬ݂ܝـܚـܝ ܡܰܚܰܬܠܰܗ ܫ̰ܰܝܶܐ ܒܰܝܢܰܬ݂ܬ݂ܶܗ. ܒܷܬ݂ܷܪ ܐܷܫܡܐ ܡܝܕܳܠܰܗ ܡܥܰܠ ‌ܐܝ ܨܳܦ݁ܰܐ ܘܡܰܚܬܳܠܰܗ ܥܰܠ‌ ܐܝ ܐܰܪܥܐ، ܐܷܫܡܐ ܕܟܘܠܝܐ. ܒܷܬ݂ܷܪ ܡܠܶܠܰܗ ܐܰܩ ܩܷܕܰܚܶܐ ܕܟܘܠܰܢ. ܡܰܝܬܶܠܰܠܰܢ ܐܷܫܡܐ ܕܩܰܘܝܬܶܐ ܣܬܶܐ ܠܟܘܠܰܢ ܕܐܘܟ݂ܠܝܢܰܐ ܥܰܡ ܐܝ ܫ̰ܰܝܶܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܐܰܚܘܢܝ ܐܘ ܢܰܥܝܡܐ ܡܰܨܷܬ݂ܘܰܐ ܐܰܥܠܰܝـܝܶܗ ܘܣܷܡܠܶܗ ܡܱܪܰܩ ܘܡܫܰܝܶܠܶܗ ܠܘ ܩܰܫܐ ܘܡܷܪܠܶܠܶܗ: ܐܰܒܘܢܰܐ ܡܷܢ ܝܐ ܦ݁ܰܠܘܬܰܐ؟ ܐܘ ܩܰܫܐ ܦܨܝـܚ ܐܰܥܡܶܗ ܘܡܷܪܠܶܠܶܗ: ܒܷܬ݂ܷܪ ܡܶܐ ܕܐܶܡܘܟ݂ ܡܷܠܝܐ ܐܘ ܩܷܕܰܚ ܕܝ ܫ̰ܰܝـܝܰܕ݂ܝ ܓܷܕ ܡܰܚܟܶܢܘܟ݂ ܡܷܢ ܝܐ ܐܝ ܦ݁ܰܠܘܬܰܐ. ܐܶܡܝ ܒܷܚܕ݂ܐ ܢܰܩܠܰܐ ܩܰܝـܝܡܐ ܘܡܠܶܠܰܠܶܗ ܐܘ ܩܷܕܰܚܰـܝܕ݂ܶܗ ܫ̰ܰܝܶܐ ܘܡܷܪܠܰܠܶܗ: ܠܐ ܚܰـܝܪܷܬ ܠܘ ܩܷܨܘܪܰܝܕ݂ܝ ܐܰܒܘܢܰܐ ܛܰܥܝܳܢܐ ܪܘܚܝ، ܘܝܰܬܝܘܐ ܒܕܘܟܬ݂ܰܗ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܗܶܕܝ ܐܘ ܩܰܫܐ ܒܕܶܠܶܗ ܕܡܰܚܟܶܐ ܥܰܠ‌ ܐܝ ܦ݁ܰܠܘܬܰܐ ܘܡܷܪܠܶܗ: ܟܝܬܐ ܬܪܶܐ ܫܷܟܠܰܬ ܕܝ ܦ݁ܰܠܘܬܰܐ. ܐܝ ܩܰܡܰܝܬܐ ܐܝ ܦ݁ܰܠܘܬܰܐ ܕܟܷܬܝܐ ܡܰܔܒܘܪܝ ܕܟܳܡܝܣܳܡܐ ܠܰܢ ܐܰܓ݂ܰܘܰܬ ܕܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ. ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܟܷܬܢܶܐ ܬܰܚܬ ܐܘ ܫܘܠܛܳܢܰܬ݂ܬ݂ܶܗ ܟܷܐܙܙܷܢܢܶܐ ܠܝ ܦܰ݁ܠܘܬܰܐ ܕܘ ܚܨܳܕܐ، ܕܰܩ ܩܰܝܣܶܐ، ܕܘ ܩܛܳܦܐ ܝܰܕܰܐ ܕܘ ܟܣܳܚܐ. ܐܰܕܝܰܘܡܰܐ ܠܐ ܦܰܝܷܫ ܟ݂ܘܕ ܡܶܩܷܡ ܐܰܓ݂ܰܘܰܬ ܒܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܐܶܠܐ ܗܶܫ ܟܝܬܐ ܒܕܷܟܳܬ݂ܶܐ ܟ݂ܘܕ ܡܙܝܙܰܚ ܘܟܦܰܪܙܶܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܐܝ ܦ݁ܰܠܘܬܰܐ ܕܰܬ ܬܪܶܐ، ܗܰܝܐ ܕܟܳܡܝܣܳܡܐ ܥܰܡ ܐܰܓ ܓܘܢܕܝ ܠܘ ܩܰܫܐ، ܠܘ ܡܘܟ݂ܬܰܐܪ ܝܰܐ ܣܬܶܐ ܠܡܳܪܶܗ ܕܒܳܬܶܐ ܕܠܰܬܬܶܗ ܢܳܫܶܐ ܒܘ ܒܰܝܬܐ ܕܣܰܝܡܝ ܫܘܓ݂ܠܐ ܐܰܘ ܕܟܷܬܢܶܐ ܣܳܘܶܐ. ܒܚܰܐ ܝܰܘܡܐ ܟܳܣܰܝܡܝ ܐܘ ܫܘܓ݂ܠܐ ܟܘܠܶܗ. ܡܱܣܱܠܰܐ ܗܰܟܟܰܐ ܐܝ ܦ݁ܰܠܘܬܰܐ ܕܘ ܚܨܳܕܐ ܝܐ، ܒܘ ܝܰܘܡܰܘܐ ܟܳܡܟܰܡܠܝ ܐܘ ܚܨܳܕܐ ܟܘܠܶܗ. ܐܝ ܦ݁ܰܠܘܬܰܐ ܠܐ ܟܳܡܝܡܷܕ ܟܰܠܠܰܐ ܐܶܒܰܗ، ܝܰܢܝ ܫܘܓ݂ܠܐ ܕܘ ܟ݂ܶܪ ܝܐ. ܡܰܘܟ݂ܰܐ ܠܰܢܝ ܕܟܷܬܬܶܗ ܣܢܝܩܘܬ݂ܐ ܒܰܣ ܟܳܡܝܣܳܡܐ. ܡܳܪܶܗ ܕܝ ܦ݁ܰܠܘܬܰܐ ܟܳܣܳܝܷܡ ܠܰܦ ܦܷܥܠܰܝܕ݂ܶܗ ܥܪܰܝܬܐ ܕܡܰܣܰܘܥܐ. ܟܳܠܰܝܡܝ ܬܪܶܐ ܬܠܳܬ݂ܐ ܦ݁ܝܪܰܬ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ ܟܳܡܰܚܬܝ ܐܘ ܕܷܣܬܐ ܕܘ ܒܰܣܪܐ ܐܰܥܡܶܗ ܪܶܙܐ ܘܦܰܣܘܠܝـܝܶܐ. ܒܰܝ ܝܰܘܡܶܐ ܕܘ ܨܰܘܡܐ ܟܳܡܝܣܷܡ ܛܠܰܘܚܶܐ، ܐܰܥܡܰܝـܝܶܗ ܒܰܨܠܶܐ ܘܕܝܒܷܣ. ܐܝܢܰܩܠܰܐ ܕܟܳܘܶܐ ܦܷܠܓܶܗ ܕܝܰܘܡܐ ܐܰܦ ܦܷܥܠܶܐ ܟܘܠܠܶܗ ܟܳܐܬ݂ܷܢ ܠܘ ܒܰܝܬܐ ܕܡܳܪܶܗ ܕܝ ܦ݁ܰܠܘܬܰܐ ܘܟܳܡܰܥܪܝ ܬܰܡܐ، ܒܷܬ݂ܷܪ ܕܝܣܰܐ ܟܳܐܙܙܷܢܢܶܐ ܠܘ ܛܘܪܐ ܐܰܘ ܠܝ ܐܰܪܥܐ. ܗܘܠ ܥܰܨܪܝـܝܶܐ ܟܳܡܕܰܘܡܝ ܒܘ ܫܘܓ݂ܠܐ. ܟܳܡܷܒܠܝ ܐܰܦ ܦܷܥܠܶܐ ܕܝ ܦ݁ܰܠܘܬܰܐ ܐܰܥܡܰܝـܝܶܗ ܠܘ ܛܘܪܐ ܒܰܬ ܬܘܪܰܬ݂ܬ݂ܶܗ ܚܱܠܝܠܶܐ، ܒܰܣܬܝܩ ܘܥܳܠܝܩܶܐ. ܠܐ ܟܳܘܶܐ ܢܳܩܘܨܐ ܐܘ ܠܰܚܡܐ ܕܘ ܬܰܢܘܪܐ ܘܰܐܢ ܐܰܒܝܫܳܬ݂ܶܐ ܐܰܥܡܰܝـܝܶܗ. 
 ܒܰܒܝ ܡܷܪܠܶܗ ܠܘ ܩܰܫܐ: ܗܘܠ‌ ܐܰܕܝܰܘܡܰܐ ܐܰܚܢܰܐ ܐܰܡ ܡܷܕܗܳܝܶܐ ܟܳܣܰܝܡܝܢܰܐ ܦ݁ܰܠܘܬܰܐ ܠܝ ܕܰܝܪܐ ܟܘܠ ܫܰܬܐ. 
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܗܰܘܟ݂ܰܐ ܒܘ ܝܰܘܡܰܘܐ ܕܠܰܬܘܰܐ ܔܰܝܪܰܐܢ ܝܰܠܝܦܝܢܰܐ ܟܘܠܰܢ ܐܝ ܦ݁ܰܠܘܬܰܐ ܒܶܐ ܡܷܢ ܝܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܝܰܬܘ ܩܰܪܝܘܐ ܠܫܳܥܬ݂ܐ ܚܪܶܬܐ ܛܠܷܒܠܶܗ ܟ݂ܰܛܷܪ، ܩܰܝܷܡ ܘܐܰܙܙܶܝܐ ܡܶܐ ܓܰܒܰܢ. ܒܰܒܝ ܐܰܙܙܶܝܐ ܡܶܐ ܒܷܬ݂ܪܶܗ ܘܡܰܩܠܰܕ݂ܠܶܗ ܐܝ ܕܰܪܓܰܐ ܕܝ ܕܷܪܬܐ. ܐܰܬ݂ܝ ܘܝܰܬܘ ܩܘܡ ܐܝ ܨܳܦ݁ܰܐ ܢܰܩܠܰܐ ܚܪܶܬܐ. 
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܒܘ ܠܰܠܝܰܘܐ ܐܶܡܝ ܡܚܰܕ݂ܰܪܠܰܗ ܐܝ ܬܘܪܶܐ ܕܒܰܒܝ. ܗܘܠ ‌ܐܰܕܝܰܘܡܰܐ ܐܰܥ ܥܰܕܰܢܝ ܟܳܡܕܰܘܡܝ ܒܛܘܪܥܰܒܕܝܢ. ܟܳܡܝܣܷܡ ܦ݁ܰܠܘܬܰܐ ܠܘ ܩܰܫܐ، ܠܰܣ ܣܳܘܶܐ ܘܠܰܕ ܕܰܝܪܶܐ. ܘܚܕ݂ܐ ܢܰܩܠܰܐ ܟܳܣܰܝܡܝ ܒܘ ܪܰܒܷܥ ܠܝ ܡܰܩܒܰܪܰܐ ܕܡܰܢܕ݂ܷܦܝ ܐܘ ܓܶܠܐ ܡܥܰܠ ܐܰܩ ܩܰܘܪܶܐ  ܘܟܳܡܰܠܬܡܝ ܐܰܟ ܟܶܦܶܐ ܕܒܰܝܢܳܬ݂ܰܝـܝܶܗ.
         </p>
           <!-- Repeat the <p> element as needed -->
@@ -135,15 +151,38 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-           I paluta
 		   B ḥa may yawme du payëz b tëšrën u ḥaroyo moḥewa maṭro ġäläbe ḥiṣo, xud am Mëdhoye d këmmi xud ḥa fotëḥ feme du gawdo, noḥatwa maṭro. Jëddi Yacqub, zlam sowo wa w kul d ḥoyarwa bu šaboko omarwa: “Šubḥo l Aloho, adšato az zadone gëd howën ṭawwe ġäläbe.”
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 Bëṯër mi ḥšamto aḥna du bayto kulan yatiwe qum i ṣopa daq qayse, ḥërlan qašo Malke cabër bu tarco w aṯi l gaban lu bayto. Kulan qayimina nšëqlan iḏe. Babi maḥwelele dukṯo d yotu. Bëṯër mine kulan yatiwina. Jëddi mšayele acle w cal i baṯqyomo. U qašo mërle: “Tawdi l Moryo, ono ste w i baṯqyomo ste ṭawwe na.” Hawxa inaqla d mëjgoliwa u jayran qṭic bë ḥḏo naqla. I mäzäle d këtwayna yatiwe eba kula hawyo cëtma. Babi qayëm azzeyo d mayte i šroġo. U qašo mërle: “Komaḥwe disa nafël diräke du qayso yada qṭic hën mat telat, adyawma ste gëd fayšina bi cëtma hul d saymënne.” Jëddi b ḥänake mërle lu qašo: “Abuna aṯët qṭëclux u jayran aclayna, inšallah xer yo?” Hawxa mërle w babi maqëṯle i šroġo, w bahër lawġël. U qašo gaḥëk w mërle: “Yacqub u jayran nëcma d Aloho yo, bas i šroġo ste nëcma d aloho yo. Koḥozët i šroġaṯe maxlaṣlalan mi cëtma. Bas aḥna kolozëm mšaylina cal u bahro d këtyo bahërtër mu jayran. U bahro šmayono dlo komëqṭëc.” Jëddi omër: “Anaqqa aḏëcno d u maṯyayḏux xer yo, mar Abuna.” 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
 Bëṯër u qašo ḥërle b babi w mërlele: “Barṣawmo aṯino l gabux bu lalyano d omarnolux iḏa d qudrët d oṯët li palutayḏi daq qayse. U saṯwo d adšato komaḥwe quro yo ġäläbe. Ono w i baṯqyomo sowe na layban d ëzzano laq qayse. Cal hawxa d qudrët d oṯët, Aloho mbarëx aclux.” Babi madcarle cal u qašo w mërlele: “Cal ac cayne Abuna, betfaq ramḥël cam nfoqe di šëmšo gëd mayteno u nargayḏi w gëd howeno qum u tarcayḏux.” Babi mšayele lu qašo: “Kmo šaxṣat ḥrene kito aṯoye li palutayḏux?” Mërle u qašo l babi: “Aloho mbarëx aclayye, kito ḥamšacsar šaxṣat ḥrene aṯoye.” Babi madcarle w mërle lu qašo: “Betfaq d lowe šëlliye bi paluta d ramḥël gëd quṭcinalux qayse d makfëlluxne hul d toyëm u saṯwo.” U qašo disa mërle l babi: “Comër baytux.”
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 Emi maḥatwayla maye cal i ṣopa lašan i čaye, bëṯër me d raṯiḥi maḥatla čaye baynaṯṯe. Bëṯër ëšmo midola m cal i ṣopa w maḥtola cal i arco, ëšmo d kulyo. Bëṯër mlela aq qëdaḥe d kulan. Maytelalan ëšmo d qawite ste l kulan d uxlina cam i čaye.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 Aḥuni u nacimo maṣëṯwa aclayye w sëmle märaq w mšayele lu qašo w mërlele: “Abuna mën yo paluta?” U qašo fṣiḥ acme w mërlele: “Bëṯër me d emux mëlyo u qëdaḥ di čayayḏi gëd maḥkenux mën yo i paluta.” Emi bë ḥḏo naqla qayimo w mlelale u qëdaḥaydë čaye w mërlale: “Lo ḥayrët lu qëṣurayḏi Abuna, ṭacyono ruḥi”, w yatiwo b dukṯa. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
 Hedi u qašo bdele d maḥke cal i paluta w mërle: “Kito tre šëklat di paluta. I qamayto i paluta d këtyo majburi d komisomo lan aġawat daq qëryawoṯe. Aq qëryawoṯe d këtne taḥt u šulṭonaṯṯe këzzënne li paluta du ḥṣodo, daq qayse, du qṭofo yada du ksoḥo. Adyawma lo fayëš xud meqëm aġawat baq qëryawoṯe elo heš kito b dëkoṯe xud Mzizaḥ w Kfarze.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
 I paluta dat tre, hayo d komisomo cam ag gundi lu qašo, lu muxtar ya ste l more d bote d latte noše bu bayto d saymi šuġlo aw d këtne sowe. B ḥa yawmo kosaymi u šuġlo kule. Mäsäla: hakka i paluta du ḥṣodo yo, bu yawmawo komkamli u ḥṣodo kule. I paluta lo komimëd kalla eba, yani šuġlo du xer yo. Mawxa lani d këtte sniquṯo bas komisomo. More di paluta kosoyëm laf fëclayḏe crayto d masawco. Kolaymi tre tloṯo pirat cam ḥḏoḏe komaḥti u dësto du basro acme rezo w fasuliye. Bay yawme du ṣawmo komisëm ṭlawḥe, acmayye baṣle w dibës. Inaqla d kowe fëlge d yawmo af fëcle kulle koṯën lu bayto d more di paluta w komacri tamo, bëṯër disa këzzënne lu ṭuro aw li arco. Hul caṣriye komdawmi bu šuġlo. Komëbli af fëcle di paluta acmayye lu ṭuro bat turaṯṯe ḥälile, bastiq w coliqe. Lo kowe noquṣo u laḥmo du tanuro w an abišoṯe acmayye.” Babi mërle lu qašo: “Hul adyawma aḥna am Mëdhoye kosaymina paluta li dayro kul šato.”
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 Hawxa bu yawmawo d latwa jayran yalifina kulan i paluta be mën yo. Bëṯër me d yatu qariwo l šocṯo ḥreto ṭlëble xaṭër, qayëm w azzeyo me gaban. Babi azzeyo me bëṯre w maqlaḏle i darga di dërto. Aṯi w yatu qum i ṣopa naqla ḥreto. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
 Bu lalyawo emi mḥaḏarla i ture d babi. Hul adyawma ac cadani komdawmi b Ṭurcabdin. Komisëm paluta lu qašo, las sowe w lad dayre. Ḥḏo naqla kosaymi bu rabëc li maqbara d manḏëfi u gelo m cal aq qawre w komaltmi ak kefe d baynoṯayye.
         </p>
           <!-- Repeat the <p> element as needed -->
