@@ -110,80 +110,165 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
 ܟܳܐܒܰܥܢܐ ܕܬ݂ܳܟܰܪܢܐ ܟܰܪܝܐ ܟܰܪܝܐ ܐܰܟ ܟܡܐ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܰܣ ܣܘܪܝܳܝܶܐ ܕܟܷܬܢܶܐ ܥܰܡܝܪܶܐ ܒܘ ܥܰܡܰܝܕ݂ܰܢ ܐܰܕܝܰܘܡܰܐ ܒܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ ܘܕܐܳܒܶܢܐ ܐܷܫܡܐ ܐܝܕ݂ܰܥܬ݂ܐ ܐܰܥܠܰܝـܝܶܗ ܘܕܐܳܡܰܪܢܐ ܒܶܐ ܡܷܩܩܰܐ ܟܷܬܠܰܢ ܢܳܫܶܐ ܐܰܦ݁ܦ݁ܶܗ. ܠܐ ܦܰܝܷܫܠܰܢ ܩܷܪܝܰܘܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ ܐܰܕܝܰܘܡܰܐ ܕܟܷܬܢܶܐ ܥܰܡܝܪܶܐ ܒܘ ܥܰܡܰܝܕ݂ܰܢ. ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܦܰܝـܝܫܝ ܣܬܶܐ ܡܰܡ ܡܐ ܒܳܬܶܐ ܩܰܝ ܦܰܝܷܫ ܥܰܣܪܐ ܒܳܬܶܐ ܥܰܡܝܪܶܐ ܐܰܦ݁ܦ݁ܶܗ. ܟܷܬܠܰܢ ܗܷܢ ܥܰܡܷܪܬܷܪ ܡܶܐ ܗܷܢ ܢܶܐ، ܒܰܣ ܐܳܢܐ ܓܷܕ ܐܷܙܙܝ ܐܰܦ݁ܦ݁ܶܗ ܒܘ ܕܰܘܪܐ. ܡܰܘܟ݂ܰܐ ܗܷܢ ܡܰܢܢܶܗ ܓܷܕ ܐܳܡܰܪܢܐ ܟܰܪܝܐ ܐܰܥܠܰܝـܝܶܗ ܘܗܷܢ ܝܰܪܷܟ݂ܬܷܪ. ܗܰܢܐ ܓܷܕ ܦܳܝܷܫ ܟ݂ܷܕ ܡܰܟ݂ܬܰܒܙܰܒܢܐ. ܡܫܰܪܶܢܐ ܡܘ ܓܰܒܐ ܥܶܠܳܝܐ ܕܘ ܛܘܪܐ ܗܘܠ ܕܢܳܚܰܬܢܐ ܠܘ ܓܰܒܐ ܕܠܰܠܬܰܚ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐ. ܐܝ ܕܰܝܪܐ ܕܘ ܨܠܝܒܐ، ܕܶܪܩܘܒܒܶܐ، ܒܶܩܘܣܝܳܢܶܐ ܘܚܰܐܚ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܟܷܬܠܰܢ ܒܘ ܓܰܒܐ ܥܶܠܳܝܐ ܕܘ ܛܘܪܐ ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܝ ܕܰܝܪܐ ܕܘ ܨܠܝܒܐ، ܕܶܪܩܘܒܒܶܐ، ܒܶܩܘܣܝܳܢܶܐ، ܚܰܐܚ، ܙܰܐܙ، ܟܦܰܪܙܶܐ، ܨܰܠܷܚ ܘܚܰܦ݁ܣܷܣ. ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܕܰܝܪܐ ܕܘ ܨܠܝܒܐ ܥܰܡܷܪܬܐ ܝܐ ܘܗܰܘܝ ܚܶܬ݂ܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ ܐܶܒܰܗ ܘܕܝܠܳܢܳܐܝܬ݂ ܒܝ ܥܝܬܰܝܕ݂ܰܗ. ܐܰܕܝܰܘܡܰܐ ܟܝܬ ܐܶܒܰܗ ܐܰܪܒܰܥ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܐܷܫܬܰܥܣܰܪ ܢܰܦܫܳܬ݂ܶܐ.
+ </p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
  ܐܝ ܩܪܝܬ݂ܐ ܕܕܶܝܪܩܘܒܒܶܐ: ܟ݂ܰܠܝܳܘܰܐ ܒܙܰܒܢܐ ܒܘ ܐܰܡܪܐ ܕܝ ܕܰܘܠܰܐ، ܒܰܣ ܒܷܬ݂ܷܪ ܡܝ ܫܰܬܐ ܕܰܬ ܬܪܶܐ ܐܰܠܦܐ ܘܬܠܷܬ݂ ܕܰܥܝܪܝܠܰܗ ܐܰܢ ܢܳܫܰܝܕ݂ܰܗ ܘܐܘܥܕܐ ܟܰܠܰܗ ܥܰܡܷܪܬܐ ܒܚܰܡܡܷܫ ܐܝܩܰܪܝܳܬ݂ܶܐ ܘܬܠܷܬ݂ ܘܥܷܣܪܝ ܢܰܦܫܳܬ݂ܶܐ. 
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܒܶܩܘܣܝܳܢܶܐ: ܗܰܘܝ ܫܘܫܳܛܶܐ ܓ݂ܱܠܱܒܶܐ ܐܶܒܰܗ ܒܰܥ ܥܣܰܪ ܐܷܫܢܶܐ ܚܰܪܳܝܰܢܝ. ܢܳܫܶܐ ܠܐ ܕܰܥܷܪ ܡܶܐ ܠܰܪܘܰܠ ܠܝ ܩܪܝܬ݂ܐ ܒܰܣ ܗܰܢܝ ܟܡܐ ܐܷܫܢܶܐ ܡܰܥܡܰܪܪܶܗ ܟܡܐ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܐܶܒܰܗ. ܐܝ ܥܝܬܐ ܡܚܰܬ݂ܷܚܬ݂ܰܠܠܶܗ، ܐܰܫ ܫܘܩܳܢܶܐ ܡܥܰܕܠܷܢܢܶܗ، ܐܘ ܩܱܢܰܐܠ ܕܰܡ ܡܰܝܶܐ ܕܰܒ ܒܶܝܬ݂ܣܷܠܝܶܐ ܣܷܡܡܶܗ ܡܶܐ ܚܰܬ݂ܐ، ܐܝ ܩܪܝܬ݂ܐ ܢܰܕ݂ܝܦܐ ܘܡܥܰܕܠܐ. ܐܰܕܝܰܘܡܰܐ ܟܷܬܠܰܗ ܚܕ݂ܐ ܘܥܷܣܪܝ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܐ ܘܬܰܪܬܶܐ ܢܰܦܫܳܬ݂ܶܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܚܰܐܚ: ܕܟܷܬܝܐ ܩܪܝܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܥܰܬܷܩܬܐ ܘܡܫܰܡܰܗܬܐ ܟ݂ܘܕ ܕܘܟܬ݂ܐ ܕܚܰܣܝܘܬ݂ܐ ܘܕܝܠܳܢܳܐܝܬ݂ ܒܝ ܕܰܝܪܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ. ܐܝ ܩܪܝܬ݂ܐ ܡܶܩܷܡ ܟܳܡܰܚܘܶܐ ܡܕ݂ܝܬܐ ܪܰܒܬ݂ܐ ܘܰܐ ܕܰܡ ܡܰܠܟܶܐ. ܟܷܬܠܰܗ ܥܝܬܐ ܢܰܦܷܠܬܐ ܥܰܠ‌ ܐܷܫܡܶܗ ܕܡܳܪܝ̱ ܣܳܒܐ. ܐܝ ܥܝܬܰܬ݂ܶܗ ܠܘ ܓܳܪܰܐܢ ܕܰܥ ܥܝܬܳܬ݂ܶܐ ܕܛܘܪܥܰܒܕܝܢ ܓ݂ܱܠܱܒܶܐ ܪܰܒܬ݂ܐ ܘܰܐ. ܐܰܕܝܰܘܡܰܐ ܓ݂ܱܠܱܒܶܐ ܡܶܢܰܗ ܢܰܦܷܠ، ܒܰܣ ܗܶܫ ܟܳܡܰܚܘܶܐ ܐܘ ܫܘܒܚܐ ܩܰܡܳܝܐ ܕܝ ܥܝܬܰܬ݂ܶܐ ܕܟܷܬܘܰܐ ܥܝܬܐ ܕܝ ܚܰܣܝܘܬ݂ܐ. ܟܷܬܠܰܗ ܣܬܶܐ ܕܰܝܪܐ ܚܪܶܬܐ ܥܰܠ‌ ܐܷܫܡܶܗ ܕܡܳܪܝ̱ ܣܰܪܟܝܣ ܘܒܰܟ݂ܘܣ ܕܷܡܚܰܬ݂ܷܚܬ݂ܰܠܠܶܗ ܠܰܚ ܚܰـܚܳـܝܶܐ ܘܥܝܬܳܬ݂ܶܐ ܚܪܶܢܶܐ ܕܟܷܬܢܶܐ ܢܰܦܝܠܶܐ. ܐܝ ܩܪܝܬ݂ܐ ܕܚܰܐܚ ܐܰܕܝܰܘܡܰܐ ܟܷܬܠܰܗ ܐܷܫܬܐ ܘܥܷܣܪܝ ܒܳܬܶܐ ܕܟܳܘܷܢ ܐܰܦ݁ܦ݁ܶܗ ܡܐ ܘܬܰܪܬܶܐ ܘܬܠܶܬ݂ܝ ܢܰܦܫܳܬ݂ܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܒ. ܙܰܐܙ، ܟܦܰܪܙܶܐ، ܨܰܠܷܚ ܘܚܰܦ݁ܣܷܣ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܙܰܐܙ: ܕܟܷܬܝܐ ܡܣܰܔܰܠܬܐ ܥܰܠ‌ ܐܰܡ ܡܳܪܰܝܕ݂ܰܗ ܘܐܰܡ ܡܳܪܰܝܕ݂ܰܗ ܛܷܪܝܰܠܠܶܗ ܟ݂ܠܝܬ݂ܐ ܘܠܐ ܟܳܕܘܥܪܝܠܰܗ. ܟܐܘܟ݂ܠܝ ܐܰܦ ܦܝܪܰܝܕ݂ܰܗ ܘܠܐ ܟܳܘܷܢܠܰܗ ܡܳܪܐ. ܐܝ ܥܝܬܐ ܕܡܳܪܝ̱ ܕܝܡܶܛ ܕܟܷܬܝܐ ܪܷܡܙܐ ܕܘ ܥܘܬܩܐ ܕܙܰܐܙ ܘܕܘ ܫܘܦܪܰܝܕ݂ܰܗ ܡܚܰܬ݂ܷܚܬ݂ܷܠܠܶܗ ܠܰܙ ܙܰܐܙܳܝܶܐ، ܐܶܠܐ ܛܷܪܝܰܠܠܶܗ ܟ݂ܠܝܬ݂ܐ. ܟܳܚܰـܝܪܐ ܥܰܠ‌ ܐܝ ܩܪܝܬ݂ܐ ܟܘܠܰܗ ܘܟܳܩܘܪܝܐ ܠܰܙ ܙܰܙܳܝܶܐ. ܚܰܪܷܫ ܩܳܠܰܗ ܘܚܰܐ ܠܐ ܟܳܫܳܡܷܥ ܩܳܠܰܗ ܘܠܐ ܟܳܐܬ݂ܶܐ ܠܰܦ ܐܶܠܰܗ. ܙܰܐܙ ܟܷܬܠܰܗ ܢܳܫܶܐ ܟ݂ܘܕ ܢܳܛܘܪܶܐ ܘܟܳܦܰܝܫܝ ܐܶܒܰܗ ܙܰܒܢܐ ܡܶܕܶܐ ܘܟܝܒܰܢ ܕܐܷܡܡܝܢܰܐ ܟܝܬ ܐܶܒܰܗ ܐܰܕܝܰܘܡܰܐ ܬܠܷܬ݂ ܢܰܦܫܳܬ݂ܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢܠܰܗ ܘܟܳܣܰܝܡܝ ܐܰܢ ܐܰܪܥܳܬ݂ܰܝܕ݂ܰܗ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܷܟܦܰܪܙܶܐ: ܟܝܬ ܐܶܒܰܗ ܥܰܡܐ ܕܰܛ ܛܰܝܶܐ ܣܬܶܐ ܥܰܡ ܐܰܣ ܣܘܪܝܳܝܶܐ ܕܟܳܥܰܝܫܝ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ ܒܝ ܩܪܝܬ݂ܐ، ܠܐ ܟܳܐܬ݂ܶܐ ܩܳܠܰܗ ܓ݂ܱܠܱܒܶܐ. ܐܰܟ ܟܦܰܪܙܳܝܶܐ ܣܷܡܡܶܗ ܐܝ ܥܝܬܐ ܕܡܳܪܝ̱ ܥܙܳܙܳܐܶܝܠ ܕܟܷܬܝܐ ܥܰܬܷܩܬܐ ܘܐܰܥ ܥܝܬܳܬ݂ܰܝܕ݂ܰܗ ܐܰܚ ܚܪܶܢܶܐ ܘܡܚܰܬ݂ܷܚܬ݂ܷܢܢܶܗ ܒܰܣ ܐܰܣ ܣܘܪܝܳܝܶܐ ܕܝ ܩܪܝܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܕܝܫܶܐ ܟܳܡܰܚܘܷܢ ܡܰܛ ܛܰܝܶܐ ܕܝ ܩܪܝܬ݂ܐ، ܩܳܠܰܝـܝܶܗ ܓ݂ܱܠܱܒܶܐ ܠܐ ܟܳܐܬ݂ܶܐ. ܡܰܘܟ݂ܰܐ ܫܘܫܳܛܐ ܓ݂ܱܠܱܒܶܐ ܠܐ ܟܳܚܳܙܝܢܰܐ ܒܝ ܩܪܝܬ݂ܐ. ܐܝ ܩܪܝܬ݂ܐ ܐܰܕܝܰܘܡܰܐ ܟܷܬܠܰܗ ܚܰܡܫܰܥܣܰܪ ܒܳܬܶܐ ܣܘܪܝܳܝܶܐ ܕܟܳܘܷܢ ܡܐ ܘܚܕ݂ܐ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܨܰܠܷܚ: ܟ݂ܰܠܝܐ ܡܰܣ ܣܘܪܝܳܝܶܐ ܓ݂ܶܪ ܡܶܐ ܬܰܪܬܶܐ ܢܶܫܶܐ ܐܰܚܘܳܬ݂ܶܐ ܠܐ ܦܰܝܷܫ ܐܶܒܰܗ. ܐܶܠܐ ܟܝܬ ܒܘ ܩܘܪܘܰܝܕ݂ܰܗ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܕܨܰܠܷܚ ܕܟܝܬ ܐܶܒܰܗ ܚܶܕ݂ܷܪ ܥܷܣܪܝ ܢܰܦܫܳܬ݂ܶܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
 ܦܰܝܷܫܠܰܢ ܗܰܪܟܶܐ ܐܝ ܩܪܝܬ݂ܐ ܕܚܰܦ݁ܣܷܣ ܕܟܷܬܝܐ ܠܰܠܥܰܠ ܡܶܐ ܡܷܕ݂ܝܰܕ݂ ܐܝ ܡܕ݂ܝܬܐ. ܦܰܝܷܫܠܰܢ ܒܰܣ ܐܝܩܰܪܬ݂ܐ ܗܰܪܟܶܐ ܕܟܷܬܢܶܐ ܐܰܬ݂ܬܐ ܘܓܰܘܪܐ. ܐܰܠܳܗܐ ܐܳܒܰܠܠܶܗ ܚܰـܝܠܐ ܘܚܘܠܡܳܢܐ ܘܢܳܛܰܪܪܶܗ ܒܝ ܩܪܝܬ݂ܐ. ܟܳܘܷܢ ܡܳܪܐ ܠܰܥ ܥܝܬܳܬܶܐ ܕܚܰܦ݁ܣܷܣ ܘܠܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܠܳܥܳܙܰܪ ܕܟܷܬܝܐ ܩܰܪܘܬܐ ܠܝ ܩܪܝܬ݂ܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
 ܓ. ܡܷܕ݂ܝܰܕ݂
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
 ܡܷܕ݂ܝܰܕ݂ ܩܶܢܛܪܘܢ، ܝܰܢܝ ܡܰܪܟܰܙ ܝܐ ܕܛܘܪܥܰܒܕܝܢ. ܟܷܬܠܰܢ ܩܰܫܐ ܕܟܳܚܳـܝܷܪ ܥܰܠ‌ ܐܰܥ ܥܝܬܳܬ݂ܶܐ ܘܟܳܦܳܬܰܚـܚܶܗ ܠܝ ܨܠܘܬ݂ܐ. ܟܝܬ ܨܠܘܬ݂ܐ ܟܘܠ ܝܰܘܡܐ ܨܰܦܪܐ ܘܥܰܨܪܝـܝܶܐ ܒܬܰܪܬܶܐ ܡܰܢܢܶܗ ܘܩܶܪܳܘܐ ܢܰܩܩܰܐ ܒܝ ܫܰܒܬ݂ܐ. ܟܘܠ ܝܰܘܡܶܗ ܕܚܘܫܰܒܐ ܐܰܘ ܕܒܷܛܠܳܢܐ ܟܳܘܶܐ ܒܷܚܕ݂ܐ ܡܰܥ ܥܝܬܳܬ݂ܶܐ ܒܘ ܕܰܘܪܐ. ܡܷܕ݂ܝܰܕ݂ ܟܷܬܠܰܗ ܡܐ ܘܚܰܐ ܘܬܠܶܬ݂ܝ ܒܳܬܶܐ ܣܘܪܝܳܝܶܐ ܕܟܳܘܷܢ ܐܰܪܒܰܥܡܐ ܘܫܘܰܥ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ. ܐܰܓ݂ܠܰܒ ܡܰܣ ܣܘܪܝܳܝܶܐ ܕܟܷܬܢܶܐ ܒܡܷܕ݂ܝܰܕ݂ ܡܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܚܶܕ݂ܳܪܰܗ ܐܰܬ݂ܷܢܠܰܗ. ܡܷܕ݂ܝܰܕ݂ ܝܰܪܝܘܐ، ܐܶܠܐ ܠܐ ܡܘ ܥܰܡܰܝܕ݂ܰܢ. ܐܰܒ ܒܳܬܰܝܕ݂ܰܗ ܐܰܫ ܫܰܦܝܪܶܐ ܟܳܡܰܚܘܷܢ ܐܝ ܨܷܢܥܰܐ ܡܥܰܠܰܝܬܐ ܕܰܡ ܡܰܥܷܡܪܳܢܶܐ ܣܘܪܝܳܝܶܐ ܕܠܐ ܟܳܐܬ݂ܶܐ ܩܳܠܰܝـܝܶܗ ܘܟܳܡܰܚܘܷܢ ܐܘ ܦܰܪܩ ܕܘ ܥܰܡܰܝܕ݂ܰܢ ܡܰܥ ܥܰܡܶܐ ܚܪܶܢܶܐ. ܐܰܡ ܡܳܪܶܐ ܕܰܣ ܨܷܢܥܰܬ ܡܶܩܷܡ ܟܘܠܠܶܗ ܣܘܪܝܳܝܶܐ ܘܰܝܢܶܐ ܗܰܪܟܶܐ ܒܰܣ ܐܘܥܕܐ ܟ݂ܠܝܛܝ. ܗܶܫ ܐܰܓ݂ܠܰܒ ܡܰܡ ܡܳܪܶܐ ܕܰܕ ܕܘܟܰܢܶܐ ܕܘ ܣܶܡܐ ܣܘܪܝܳܝܶܐ ܢܶܐ، ܒܰܣ ܟܝܬ ܛܰܝܶܐ ܣܬܶܐ ܓ݂ܱܠܱܒܶܐ. ܥܰܡ ܗܰܬ݂ܶܐ ܟܘܠܰܗ ܐܘ ܪܶܚܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܘܕܝ ܣܘܪܝܳـܝܘܬ݂ܐ ܗܶܫ ܟܳܦܳܝܷـܚ ܒܰܫ ܫܘܩܳܢܶܐ ܕܡܷܕ݂ܝܰܕ݂. ܟܳܕܳܝܷܩ ܐܘ ܢܳܩܘܫܐ ܡܶܩܷܡ ܡܝ ܨܠܘܬ݂ܐ ܟ݂ܘܕ ܪܷܡܙܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܒܘ ܝܰܘܡܐ ܬܰܪܬܶܐ ܟܳܪܶܐ. ܐܘ ܚܰܐ ܕܟܳܐܬ݂ܶܐ ܠܝ ܡܕ݂ܝܬܰܬ݂ܶܐ ܟܳܦܳܪܷܩ ܕܟܝܬ ܪܘܚܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܘܪܶܚܐ ܕܝ ܣܘܪܝܳـܝܘܬ݂ܐ ܐܶܒܰܗ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
 ܕ. ܥܝܘܰܪܕܐ، ܡܙܝܙܰܚ ܘܐܝ ܟܱܦܰܪܒܶܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
 ܥܝܘܰܪܕܐ، ܐܰܟ݂ ܥܝܘܰܪܕܐ! ܡܷܢ ܕܐܳܡܰܪܢܳܠܰܟ݂ ܥܝܘܰܪܕܐ! ܒܘ ܣܰܝܦܐ ܢܛܷܪܠܰܟ݂ ܐܰܣ ܣܘܪܝܳܝܶܐ ܕܐܶܒܰܟ݂ ܒܰܣ ܒܝ ܒܰܣܝܡܘܬ݂ܐ ܦܰܝـܝܫܰܬ ܠܰܛ ܛܰܝܶܐ... ܟܷܬܠܰܢ ܥܰܡܐ ܒܥܝܘܰܪܕܐ ܐܶܠܐ ܠܰܝܷܡ ܛܰܝܶܐ ܣܬܶܐ ܚܶܕ݂ܳܪܰܝـܝܶܗ ܕܠܰܬܘܰܝܢܶܐ ܡܝ ܩܪܝܬ݂ܐ ܕܦܰܝـܝܫܝ ܐܶܒܰܗ ܟ݂ܘܕ ܢܳܛܘܪܶܐ ܙܰܒܢܐ ܘܝܰܬܝܘܝ ܐܶܒܰܗ. ܐܰܣ ܣܘܪܝܳܝܶܐ ܡܥܰܕܰܠܠܶܗ ܐܰܥ ܥܝܬܳܬ݂ܶܐ ܕܝ ܩܪܝܬ݂ܐ ܘܣܷܡܡܶܗ ܟܡܐ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܣܬܶܐ ܐܶܒܰܗ. ܐܘܥܕܐ ܟܳܥܰܝܫܝ ܐܶܒܰܗ ܚܕ݂ܰܥܣܰܪ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܫܶܬ݂ ܘܬܠܶܬ݂ܝ ܢܰܦܫܳܬ݂ܶܐ ܒܝ ܩܪܝܬ݂ܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr16" corresp="test.latn.16"/>
 ܡܙܝܙܰܚ: ܐܝ ܩܪܝܬ݂ܐ ܕܷܡܙܝܙܰܚ ܕܟܷܬܝܐ ܩܰܪܘܬܐ ܠܥܝܘܰܪܕܐ. ܓ݂ܱܠܱܒܶܐ ܒܰܣܝܡܐ ܘܟܳܘܶܐ ܫܘܫܳܛܐ ܐܶܒܰܗ ܡܘ ܓܰܒܐ ܕܰܢ ܢܳܫܶܐ، ܟܳܙܰܝܕܝ ܐܰܢ ܐܝܩܰܪܝܳܬ݂ܶܐ. ܐܘܥܕܐ ܟܳܥܰܝܫܝ ܐܶܒܰܗ ܬܫܰܥ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܫܘܰܥ ܘܬܠܶܬ݂ܝ ܢܰܦܫܳܬ݂ܶܐ ܒܝ ܩܪܝܬ݂ܐ. ܟܳܣܰܝܡܝ ܐܰܟ ܟܰܪܡܶܐ ܘܐܰܢ ܐܰܪܥܳܬ݂ܰܬ݂ܬ݂ܶܗ ܘܟܳܝܷܬܘܝ ܒܰܒ ܒܳܬܰܬ݂ܬ݂ܶܗ. ܗܷܢ ܡܰܥ ܥܠܰܝܡܰܬ݂ܬ݂ܶܗ ܟܳܫܘܓ݂ܠܝ ܒܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܝܠ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
 ܟܷܬܠܰܢ ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܟܱܦܰܪܒܶܐ ܩܰܪܘܬܐ ܠܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܝܠ ܕܟܝܬ ܐܶܒܰܗ ܬܰܪܬܶܐ ܢܰܦܫܳܬ݂ܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.18" corresp="test.latn.18"/>
 ܗ. ܐܰܢܚܷܠ ܘܟܰܦܪܐ ܬܰܚܬܰܝܬܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.19" corresp="test.latn.19"/>
 ܡܰܪܟܶܐ ܓܷܕ ܐܷܙܙܰܢ ܠܘ ܓܰܒܐ ܕܛܘܪܐܝܙܠܐ ܠܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܒܶܝܬ݂ܪܝܫܶܐ ܕܟܳܡܝܕ݂ܳܥܐ ܣܬܶܐ ܒܘ ܐܷܫܡܐ ܪܰܝـܝܬܶܐ. ܒܳܕܝܢܰܐ ܡܶܐ ܐܰܢܚܷܠ ܕܟܷܬܘܰܐ ܩܪܝܬ݂ܐ ܪܰܒܬ݂ܐ ܒܘ ܛܘܪܐ ܘܐܰܕܝܰܘܡܰܐ ܦܰܝـܝܫܐ ܦܬܷܚܬܐ ܒܷܟܡܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܷܬܢܶܐ ܬܰܡܐ. ܡܰܥܡܰܪܪܶܗ ܒܳܬܶܐ ܓ݂ܱܠܱܒܶܐ ܒܐܰܢܚܷܠ ܘܒܳܬܶܐ ܓ݂ܱܠܱܒܶܐ ܫܰܦܝܪܶܐ ܒܰܣ ܐܰܓ݂ܠܰܒ ܡܰܢܢܶܗ ܗܰܘܷܢ ܒܳܬܶܐ ܕܘ ܩܰܝܛܐ ܘܐܰܡ ܡܳܪܰܬ݂ܬ݂ܶܗ ܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢ ܘܠܰܬܢܶܐ ܦܰܝܳܫܶܐ ܐܰܦ݁ܦ݁ܶܗ ܠܙܰܒܢܐ ܝܰܪܝܟ݂ܐ. ܒܘ ܩܰܝܛܐ ܘܒܘ ܪܰܒܷܥ ܟܳܐܬ݂ܷܢ ܘܒܘ ܣܰܬ݂ܘܐ ܟܷܐܙܙܷܢ ܕܘܥܪܝ. ܗܶܫ ܠܐ ܡܰܪܟܰܘܘܶܗ ܪܘܚܰـܝـܝܶܗ ܒܝ ܩܪܝܬ݂ܐ ܡܒܰܪܰܟܬܰܝܐ. ܐܘܥܕܐ ܟܳܥܰܝܫܝ ܒܐܰܢܚܷܠ ܬܠܷܬ݂ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܫܶܬ ܢܰܦܫܳܬ݂ܶܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܐܰܢܚܷܠ ܟܐܘܬ݂ܝܐ ܒܘ ܕܰܪܒܐ ܐܝ ܩܪܝܬ݂ܐ ܕܟܰܦܪܐ ܬܰܚܬܰܝܬܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.20" corresp="test.latn.20"/>
 ܟܰܦܪܐ ܬܰܚܬܰܝܬܐ ܡܰܥܷܡܪܰܠܠܶܗ ܡܶܐ ܚܰܬ݂ܐ ܐܰܟ ܟܰܦܪܳܝܶܐ ܕܕܰܥܝܪܝ ܡܶܐ ܐܰܘܪܘܦ݁ܰܐ. ܟܳܥܰܝܫܝ ܒܟܰܦܪܐ ܐܰܪܒܰܥܣܰܪ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܬܠܷܬ݂ ܘܬܠܶܬ݂ܝ ܢܰܦܫܳܬ݂ܶܐ. ܐܝ ܩܪܝܬ݂ܐ ܒܰܣܷܡܬܐ ܝܐ ܘܢܰܦܷܩ ܐܷܫܡܰܗ ܒܘ ܕܥܳܪܐ ܕܕܰܥܝܪܝ ܐܰܥ ܥܳܡܘܪܰܝܕ݂ܰܗ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.21" corresp="test.latn.21"/>
 ܘ. ܐܰܪܟܰܚ (ܟ݂ܱܪܰܒܰܠܶܐ)
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.22" corresp="test.latn.22"/>
 ܟܷܬܠܰܢ ܒܘ ܕܰܘܪܐ ܐܝ ܩܪܝܬ݂ܐ ܚܠܝܬ݂ܐ ܕܐܰܪܟܰܚ، ܐܝ ܩܪܝܬ݂ܰܝܕ݂ܝ ܐܝ ܡܒܰܪܰܟܬܐ ܕܗܝـܝܰܐ ܗܰܘܝܐ ܐܳܬ݂ܐ ܘܪܷܡܙܐ ܪܰܒܐ ܠܘ ܢܛܳܪܐ ܕܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܝ ܪܰܝـܝܬܶܐ ܕܟܷܬܢܶܐ ܥܰܠ‌ ܐܘ ܛܘܪܐ ܕܐܝܙܠܐ. ܐܝ ܩܪܝܬ݂ܐ ܥܰܡܷܪܬܐ ܝܐ ܘܟܝܬ ܐܶܒܰܗ ܡܰܬ݂ܶܐ ܘܚܕ݂ܐ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ ܕܟܳܥܰܝܫܝ ܒܓܰܘܶܗ ܕܫܰܘܥܐ ܘܐܷܫܬܝ ܒܳܬܶܐ. ܟܝܬܐ ܣܬܶܐ ܢܳܫܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢ ܡܶܐ ܐܰܠܡܰܐܢܝܰܐ ܘܡܶܐ ܣܘܝܫ̰ܪܰܐ ܘܡܘ ܣܘܶܕ ܘܡܶܐ ܐܰܬ݂ܪܰܘܳܬ݂ܶܐ ܚܪܶܢܶܐ ܕܐܰܘܪܘܦ݁ܰܐ. ܐܰܕܝܰܘܡܰܐ ܐܰܪܟܰܚ ܕܠܳܘܶܘܰܐ ܐܶܒܰܗ ܢܳܫܶܐ ܒܰܠܟܝ ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܰܢܝ ܕܘ ܛܘܪܐ ܕܐܝܙܠܐ ܠܰܬܘܰܠܠܶܗ ܢܳܫܶܐ. ܬܰܘܕܝ ܠܰܐܠܳܗܐ ܕܷܢܛܷܪܠܶܗ ܐܰܢ ܐܰܪܟܰܚܳـܝܶܐ ܒܝ ܩܪܝܬ݂ܐ ܘܗܷܢܢܷܟ ܣܬܶܐ ܗܰܘܷܢ ܥܷܠܬ݂ܐ ܠܘ ܥܰܡܰܝܕ݂ܰܢ ܕܐܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܘ ܛܘܪܐ ܕܐܝܙܠܐ ܣܬܶܐ ܕܐܳܬܷܢ ܘܣܷܬܪܝ ܒܰܩ ܩܷܪܝܰܘܳܬ݂ܰܬ݂ܬ݂ܶܗ. ܐܰܕܝܰܘܡܰܐ ܐܰܪܟܰܚ ܚܕ݂ܐ ܡܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܪܰܒܶܐ ܕܘ ܛܘܪܐ ܝܐ. ܟܐܘܬ݂ܝܐ ܒܝ ܣܰܓܝـܝܘܬ݂ܐ ܕܰܢ ܢܰܦܫܳܬ݂ܶܐ ܒܷܬ݂ܷܪ ܡܝ ܩܪܝܬ݂ܐ ܕܡܝܕܷܢ. ܦܰܝܷܫ ܐܷܫܡܐ ܓܷܕ ܫܷܦܥܐ ܐܝ ܩܪܝܬ݂ܐ ܕܡܝܕܷܢ ܒܰܢ ܢܳܫܰܝܕ݂ܰܗ. ܐܝ ܥܷܠܬ݂ܐ ܕܐܝ ܩܪܝܬ݂ܐ ܦܰܝـܝܫܐ ܥܰܡܷܪܬܐ ܘܠܐ ܟ݂ܰܠܝܐ، ܟܝܒܰܢ ܕܐܷܡܡܝܢܰܐ ܗܰܘܝܐ ܒܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܕܟܷܬܢܶܐ ܒܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܡܰܠܟܶܐ ܘܒܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܕܝ ܩܪܝܬ݂ܰܝܕ݂ܰܢ ܡܳܪܝ̱ ܐܰܦܪܶܝܡ ܘܡܳܪܝ̱ ܬܶܐܳܘܕ݂ܳܘܪܳܘܣ ܐܘ ܣܳܗܕ݂ܐ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܡܰܠܟܶܐ ܗܰܘܝܐ ܣܰܢܕܶܐ ܪܰܒܬ݂ܐ ܠܝ ܩܪܝܬܐ ܘܛܷܪܝܳܠܰܗ ܥܰܡܷܪܬܐ. ܛܪܳܘܶܐ ܐܷܫܡܶܗ ܕܡܳܪܰܢ ܡܒܰܪܟ݂ܐ ܘܛܷܠܒܝܢܰܐ ܡܶܢܶܗ ܕܡܰܣܬܷܪ ܐܝ ܩܪܝܬ݂ܰܝܕ݂ܰܢ ܒܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܰܢܝ ܘܡܰܣܬܷܪ ܐܰܩ ܩܶܪܝܰܘܳܬ݂ܰܝܕ݂ܰܢ ܐܰܚ ܚܪܶܢܶܐ ܣܬܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.23" corresp="test.latn.23"/>
 ܙ. ܐܰܪܒܐ، ܐܷܚܘܐ، ܒܰܕܷܒܒܶܐ، ܣܶܕܰܪܝ ܘܟ݂ܱܪܰܒܶܡܷܫܟܰܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.24" corresp="test.latn.24"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܐܰܪܒܐ ܡܰܥܡܰܪܪܶܗ ܐܶܒܰܗ ܚܶܕ݂ܷܪ ܬܡܰܢܝܐ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܟܝܬ ܐܶܒܰܗ ܢܳܛܘܪܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢ. ܐܰܓ݂ܠܰܒ ܟܳܘܷܢ ܬܰܪܬܶܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܐܰܪܒܰܥ ܢܰܦܫܳܬ݂ܶܐ ܐܶܒܰܗ. ܛܰܘܘܐ ܝܐ ܕܟܐܷܙܙܶܗ ܢܳܫܶܐ ܘܟܳܐܬ݂ܶܐ ܠܝ ܩܪܝܬ݂ܐ، ܒܰܣ ܛܰܘܬܷܪ ܘܰܐ ܕܦܰܝܫܝ ܐܶܒܰܗ ܐܰܢ ܢܳܫܰܢܝ ܐܰܡܝܢܳܐܝܬ݂. ܐܝ ܩܪܝܬ݂ܐ ܡܒܰܣܡܰܠܠܶܗ ܘܡܰܫܷܦܪܰܠܠܶܗ. ܩܪܝܬ݂ܐ ܚܪܶܬܐ ܒܝ ܪܰܝـܝܬܶܐ، ܐܝ ܩܪܝܬ݂ܐ ܕܐܷܚܘܐ ܝܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.25" corresp="test.latn.25"/>
 ܐܷܚܘܐ ܣܬܶܐ ܗܰܘܟ݂ܰܐ، ܟܝܬ ܐܶܒܰܗ ܟܡܐ ܢܰܦܫܳܬ݂ܶܐ ܕܟܳܢܷܛܪܝܠܰܗ ܘܡܰܥܡܰܪܪܶܗ ܟܡܐ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܐܶܒܰܗ. ܐܝ ܩܪܝܬ݂ܐ ܡܒܰܣܡܰܠܠܶܗ ܘܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܰܥ ܥܝܬܳܬ݂ܰܝܕ݂ܰܗ ܘܟܝܬ ܢܳܫܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢܠܰܗ ܡܶܐ ܙܰܒܢܐ ܠܙܰܒܢܐ. ܐܰܓ݂ܠܰܒ ܟܳܘܷܢ ܐܶܒܰܗ ܚܶܕ݂ܷܪ ܚܰܡܡܷܫ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܫܶܬ݂ ܢܰܦܫܳܬ݂ܶܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.26" corresp="test.latn.26"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܒܰܕܷܒܒܶܐ ܣܬܶܐ ܥܰܝܢܝ ܒܘ ܫܷܟܠܰܢܐ. ܡܰܥܡܰܪܪܶܗ ܐܶܒܰܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܫܰܦܝܪܶܐ ܘܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܰܓ݂ܠܰܒ ܡܰܒ ܒܳܬܰܝܕ݂ܰܗ ܐܰܚ ܚܪܶܢܶܐ. ܒܰܕܷܒܒܶܐ ܣܬܶܐ ܟܳܐܬ݂ܶܠܰܗ ܢܳܫܶܐ ܘܟܷܐܙܙܷܢ. ܠܐ ܟܳܟ݂ܘܠܝܐ، ܟܝܬ ܐܶܒܰܗ ܢܳܛܘܪܶܐ. ܐܰܓ݂ܠܰܒ ܟܳܘܶܐ ܐܶܒܰܗ ܬܠܷܬ݂ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܫܶܬ ܢܰܦܫܳܬ݂ܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.27" corresp="test.latn.27"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܘ ܣܶܕܰܪܝ ܟܝܬ ܐܶܒܰܗ ܬܠܳܬ݂ܐ ܒܳܬܶܐ ܕܟܷܬܢܶܐ ܐܰܡܝܢܳܐܝܬ݂ ܐܶܒܰܗ ܕܟܳܘܷܢ ܡܶܐ ܐܰܪܒܰܥ ܢܰܦܫܳܬ݂ܶܐ. ܗܝـܝܰܐ ܣܬܶܐ ܒܰܢ ܢܳܛܘܪܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢ ܩܷܡܬܐ ܝܐ.
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.28" corresp="test.latn.28"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܟ݂ܱܪܰܒܶܡܷܫܟܰܐ ܟ݂ܘܕ ܒܰܕܷܒܒܶܐ ܒܰܢ ܢܳܛܘܪܶܐ ܕܟܷܐܙܙܷܢ ܘܟܳܐܬ݂ܷܢ ܥܰܡܷܪܬܐ ܝܐ. ܟܳܦܰܝܫܝ ܐܶܒܰܗ ܐܰܓ݂ܠܰܒ ܬܰܪܬܶܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܐܰܪܒܰܥ ܢܰܦܫܳܬ݂ܶܐ. ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܰܢܝ ܕܝ ܪܰܝـܝܬܶܐ ܐܰܘ ܕܒܶܝܬ݂ܪܝܫܶܐ، ܟܘܠܠܶܗ ܒܘ ܪܰܒܷܥ ܘܒܘ ܩܰܝܛܐ ܘܒܰܬ ܬܷܫܪܳܝܳܬ݂ܶܐ ܟܳܘܷܢ ܡܰܠܝܶܐ ܐܶܠܐ ܒܘ ܣܰܬ݂ܘܐ ܟܘܠܠܶܗ ܟ݂ܰܠܝܶܐ ܢܶܐ ܓ݂ܶܪ ܡܝ ܩܪܝܬܐ ܡܒܰܪܰܟܬܐ ܕܐܰܪܟܰܚ، ܐܰܚ ܚܪܶܢܶܐ ܟܘܠܠܶܗ ܟܳܦܳܝܷܫ ܐܰܦ݁ܦ݁ܶܗ ܟܡܐ ܢܳܛܘܪܶܐ. ܐܰܚܢܰܐ ܐܷܒܥܝܘܰܝܢܰܐ ܠܐ ܒܷܠܚܘܕ݂ܶܗ ܢܳܛܘܪܶܐ ܕܦܳܝܷܫ ܒܰܩ ܩܷܪܝܰܘܳܬ݂ܰܢܝ ܕܝܕ݂ܰܢ، ܐܶܠܐ ܕܦܳܝܷܫ ܐܰܦ݁ܦ݁ܶܗ ܛܠܳܝܶܐ ܘܛܠܳܝܳܬ݂ܶܐ ܘܙܥܘܪܶܐ ܣܬܶܐ، ܥܠܰܝܡܶܐ ܘܢܝܫܶܐ ܘܓܰܘܪܶܐ ܘܣܳܘܶܐ ܘܟܘܠ ܫܷܟܷܠ ܕܥܘܡܪܐ. ܐܰܩ ܩܶܪܝܰܘܳܬ݂ܰܝܕܰܢ ܗܰܘܟ݂ܰܐ ܟܷܦ݁ܦ݁ܶܗ ܥܷܡܪܝ ܘܝܷܪܘܝ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.29" corresp="test.latn.29"/>
 ܚ. ܡܰܪܒܳܒܐ، ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܥܝܬܐ (ܐܝ ܓܘܢܕܷܟܶܐ ܕܝ ܥܝܬܐ) ܘܒܝܪܓܘܪܝـܝܰܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.30" corresp="test.latn.30"/>
 ܟܷܬܠܰܢ ܟܡܐ ܩܷܪܝܰܘܳܬ݂ܶܐ ܒܘ ܡܰܕ݂ܷܒܪܐ ܕܷܢܨܝܘܷܢ ܕܟܷܬܝܐ ܚܕ݂ܐ ܡܰܢܢܶܗ ܡܰܪܒܳܒܐ. ܡܰܪܒܳܒܐ ܩܪܝܬ݂ܐ ܡܒܰܪܰܟ݂ܬܐ ܕܰܥܝܪܝܠܰܗ ܟܡܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܥܠܰܝܡܶܐ ܥܰܡ ܐܰܢ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ. ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܡܰܥܷܡܪܰܠܠܶܗ ܘܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܰܒ ܒܳܬܰܬ݂ܬ݂ܶܗ ܘܣܝܡܰܠܠܶܗ ܟ݂ܘܕ ܐܝ ܘܰܪܕܐ. ܐܝ ܩܪܝܬ݂ܐ ܟܝܬ ܐܶܒܰܗ ܬܪܰܥܣܰܪ ܒܳܬܶܐ ܡܫܝـܚܳـܝܶܐ ܕܟܳܘܷܢ ܡܶܐ ܐܰܪܒܰܥ ܘܐܰܪܒܥܝ ܢܰܦܫܳܬ݂ܶܐ. ܐܝ ܩܪܝܬ݂ܐ ܦܰܩܝـܚܐ ܒܰܥ ܥܠܰܝܡܶܐ ܕܐܰܬ݂ܷܢ ܕܟܘܠܠܶܗ ܢܰܥܝܡܶܐ ܘܟܳܢܷܛܪܝ ܐܝ ܩܪܝܬ݂ܰܬ݂ܬ݂ܶܗ ܒܟܘܠ ܒܰܣܝܡܘܬ݂ܐ. ܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܝ ܥܝܬܰܬ݂ܬ݂ܶܗ ܘܡܰܫܦܰܪܪܶܗ ܚܶܕ݂ܳܪܰܗ ܘܣܝܡܰܠܠܶܗ ܫܰܦܷܪܬܐ ܓ݂ܱܠܱܒܶܐ.
-
-ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܥܝܬܐ: ܗܝـܝܰܐ ܣܬܶܐ ܕܟܷܬܝܐ ܥܰܡܷܪܬܐ ܒܐܰܪܒܰܥܣܰܪ ܐܝܩܰܪܝܳܬ݂ܶܐ ܘܬܡܳܢܶܐ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ، ܢܛܷܪܬܐ ܝܐ ܐܰܦ݁ܦ݁ܶܗ. ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܥܝܬܐ ܩܪܝܬ݂ܐ ܥܰܬܷܪܬܐ ܝܐ ܘܟܷܬܠܰܗ ܡܰܝܶܐ ܒܰܢ ܐܰܪܥܳܬ݂ܰܝܕ݂ܰܗ. 
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.31" corresp="test.latn.31"/>
+ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܥܝܬܐ: ܗܝـܝܰܐ ܣܬܶܐ ܕܟܷܬܝܐ ܥܰܡܷܪܬܐ ܒܐܰܪܒܰܥܣܰܪ ܐܝܩܰܪܝܳܬ݂ܶܐ ܘܬܡܳܢܶܐ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ، ܢܛܷܪܬܐ ܝܐ ܐܰܦ݁ܦ݁ܶܗ. ܐܝ ܩܪܝܬ݂ܐ ܕܝ ܥܝܬܐ ܩܪܝܬ݂ܐ ܥܰܬܷܪܬܐ ܝܐ ܘܟܷܬܠܰܗ ܡܰܝܶܐ ܒܰܢ ܐܰܪܥܳܬ݂ܰܝܕ݂ܰܗ.
+ </p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.32" corresp="test.latn.32"/>
 ܐܝ ܩܪܝܬ݂ܐ ܕܒܝܪܓܘܪܝـܝܰܐ ܣܬܶܐ ܢܛܷܪܬܐ ܝܐ ܒܬܰܪܬܶܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܬܪܰܥܣܰܪ ܢܰܦܫܳܬ݂ܶܐ ܕܟܳܦܰܝܫܝ ܒܝ ܩܪܝܬ݂ܐ. ܟܝܬ ܐܶܒܰܗ ܟܡܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܝܶܙܝܕܳܝܶܐ ܣܬܶܐ، ܒܰܣ ܐܰܓ݂ܠܰܒ ܡܰܢܝ ܕܟܷܬܢܶܐ ܐܶܒܰܗ ܟܘܪܕܳܝܶܐ ܢܶܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.33" corresp="test.latn.33"/>
 ܛ. ܗܰܙܰܟ݂، ܡܝܕܷܢ، ܒܷܣܣܳܪܝܢܐ ܘܐܝ ܣܰܪܶܐ
-
+ </p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.34" corresp="test.latn.34"/>
 ܕܘܥܪܝܢܰܐ ܥܰܠ ܒܶܝܬ݂ܙܰܒܕܰܝ ܕܟܳܡܝܕ݂ܳܥܐ ܐܰܓ݂ܠܰܒ ܒܘ ܐܷܫܡܐ ܕܗܰܙܰܟ݂. ܐܰܕܝܰܘܡܰܐ ܕܟܷܐܡܡܝܠܰܗ ܐܝܕܷܠ ܒܘ ܬܷܪܟܝ. ܦܰܝܷܫܠܰܢ ܟܡܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܥܰܡ ܥܰܡܐ ܪܰܒܐ ܕܛܰܝܶܐ. ܟܝܬܐ ܒܗܰܙܰܟ݂ ܫܶܬ ܐܝܩܰܪܝܳܬ݂ܶܐ ܕܟܳܘܷܢ ܡܶܐ ܬܫܰܥܣܰܪ ܢܰܦܫܳܬ݂ܶܐ. ܐܰܢ ܢܳܫܶܐ ܕܗܰܙܰܟ݂ ܟܷܬܬܶܗ ܐܰܕܝܰܘܡܰܐ ܐܷܫܡܐ ܥܰܣܩܘܬ݂ܐ ܒܝ ܕܘܟܬ݂ܰܬ݂ܬ݂ܶܗ ܒܰܣ ܗܷܢܢܷܟ ܐܘ ܐܷܫܡܐ ܕܰܓ ܓܰܒܳܪܶܐ ܝܐ ܐܰܥܠܰܝـܝܶܗ. ܠܐ ܟܳܡܰܗܷܙܡܝ ܟ݂ܰܝـܝܦܐ ܗܘܠ ܕܠܐ ܡܳܛܶܐ ܐܘ ܫܰܠܦܐ ܠܘ ܓܰܪܡܐ. ܟܷܬܘܰܐ ܟܡܐ ܐܝܩܰܪܝܳܬ݂ܶܐ ܚܪܶܢܶܐ، ܡܝ ܥܰܣܩܘܬ݂ܐ ܐܰܕܝܰܘܡܰܐ ܐܰܙܙܷܢܢܶܗ ܕܰܥܝܪܝ ܐܶܠܐ ܕܒܷܣܡܐ ܒܰܠܟܝ ܕܝܣܰܐ ܕܘܥܪܝ. ܒܶܝܬ݂ܙܰܒܕܰܝ ܟܷܬܠܰܗ ܟܡܐ ܥܝܬܳܬ݂ܶܐ܆ ܚܕ݂ܐ ܡܰܢܢܶܗ ܐܝ ܥܝܬܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ. ܐܝ ܥܝܬܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܕܒܶܝܬ݂ܙܰܒܕܰܝ ܓ݂ܱܠܱܒܶܐ ܥܰܬܷܩܬܐ ܝܐ. ܟܳܕܳܥܷܪ ܐܘ ܡܰܟ݂ܬܰܒܙܰܒܢܰܝܕܰܗ ܠܘ ܕܳܪܐ ܬܪܰܝܳܢܐ ܘܒܰܠܟܝ ܠܝ ܚܰܪܰܝܬܐ ܕܘ ܕܳܪܐ ܩܰܡܳܝܐ. ܒܒܶܝܬ݂ܙܰܒܕܰܝ ܣܬܶܐ ܐܘ ܥܰܡܰܝܕ݂ܰܢ ܡܰܚܘܶܠܶܗ ܓܰܒܳܪܘܬ݂ܐ ܒܘ ܙܰܒܢܐ ܕܘ ܣܰܝܦܐ ܘܟ݂ܰܠܷܨ ܓ݂ܱܠܱܒܶܐ ܢܳܫܶܐ ܡܘ ܡܰܘܬܐ ܬܰܡܐ. 
-
-ܕܐܳܬ݂ܝܢܰܐ ܡܶܐ ܬܰܡܐ ܠܡܝܕܷܢ. ܡܝܕܷܢ ܣܬܶܐ ܟ݂ܘܕ ܐܰܪܟܰܚ ܐܝ ܩܪܝܬ݂ܐ ܥܰܡܷܪܬܐ ܝܐ ܒܰܡ ܡܳܪܶܐ ܘܟܝܬ ܐܶܒܰܗ ܡܰܬ݂ܶܐ ܘܬܫܰܥ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ ܕܟܳܥܰܝܫܝ ܒܓܰܘܶܗ ܕܫܰܘܥܝ ܒܳܬܶܐ. ܡܝܕܷܢ ܕܘܟܬ݂ܐ ܒܰܣܷܡܬܐ ܝܐ ܘܡܰܥܡܰܪܪܶܗ ܐܶܒܰܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܫܰܦܝܪܶܐ. ܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܝ ܥܝܬܰܬ݂ܬ݂ܶܗ ܘܟܳܡܰܥܷܡܪܷܢܢܶܗ ܒܷܢܝܳܢܐ ܚܰܬ݂ܐ ܥܰܡ ܓܰܒܶܗ ܕܝ ܥܝܬܐ. ܡܝܕܷܢ ܐܝ ܩܪܝܬ݂ܐ ܥܰܡܷܪܬܐ ܪܰܒܬ݂ܐ ܕܘ ܛܘܪܐ ܝܐ. 
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.35" corresp="test.latn.35"/>
+ܕܐܳܬ݂ܝܢܰܐ ܡܶܐ ܬܰܡܐ ܠܡܝܕܷܢ. ܡܝܕܷܢ ܣܬܶܐ ܟ݂ܘܕ ܐܰܪܟܰܚ ܐܝ ܩܪܝܬ݂ܐ ܥܰܡܷܪܬܐ ܝܐ ܒܰܡ ܡܳܪܶܐ ܘܟܝܬ ܐܶܒܰܗ ܡܰܬ݂ܶܐ ܘܬܫܰܥ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ ܕܟܳܥܰܝܫܝ ܒܓܰܘܶܗ ܕܫܰܘܥܝ ܒܳܬܶܐ. ܡܝܕܷܢ ܕܘܟܬ݂ܐ ܒܰܣܷܡܬܐ ܝܐ ܘܡܰܥܡܰܪܪܶܗ ܐܶܒܰܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܫܰܦܝܪܶܐ. ܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܝ ܥܝܬܰܬ݂ܬ݂ܶܗ ܘܟܳܡܰܥܷܡܪܷܢܢܶܗ ܒܷܢܝܳܢܐ ܚܰܬ݂ܐ ܥܰܡ ܓܰܒܶܗ ܕܝ ܥܝܬܐ. ܡܝܕܷܢ ܐܝ ܩܪܝܬ݂ܐ ܥܰܡܷܪܬܐ ܪܰܒܬ݂ܐ ܕܘ ܛܘܪܐ ܝܐ.
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.36" corresp="test.latn.36"/>
 ܐܳܬ݂ܝܢܰܐ ܡܶܐ ܬܰܡܐ ܠܒܷܣܣܳܪܝܢܐ ܕܟܷܐܡܡܝܠܰܗ ܒܷܣܣܳܪܝܢܐ، ܪܝܫܶܗ ܕܘ ܕܝܢܐ. ܐܝ ܩܪܝܬ݂ܐ ܢܛܷܪܬܐ ܝܐ ܒܰܡ ܡܳܪܰܝܕ݂ܰܗ ܘܥܰܡܷܪܬܐ ܝܐ. ܟܷܬܠܰܗ ܐܰܪܒܥܝ ܒܳܬܶܐ ܕܟܳܘܷܢ ܐܰܦ݁ܦ݁ܶܗ ܡܐ ܘܐܰܪܒܰܥ ܘܚܰܡܫܝ ܢܰܦܫܳܬ݂ܶܐ. ܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܐܝ ܥܝܬܰܬ݂ܬ݂ܶܗ ܘܡܥܰܕܰܠܠܶܗ ܐܰܫ ܫܘܩܶܐ ܕܝ ܩܪܝܬ݂ܐ ܘܣܝܡܰܠܠܶܗ ܒܰܣܷܡܬܐ ܠܘ ܐܝܬܳܘܐ.
- 
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.37" corresp="test.latn.37"/>
 ܐܝ ܣܰܪܶܐ ܣܬܶܐ ܫܩܝܠܰܠܠܶܗ ܡܰܛ ܛܰܝܶܐ ܕܷܙܒܝܛܳܘܰܠܠܶܗ ܒܰܢ ܐܷܫܢܶܐ ܕܐܰܡ ܡܳܪܰܝܕ݂ܰܗ ܡܓܰܠܘܶܘܰܠܠܶܗ ܠܐܰܘܪܘܦ݁ܰܐ. ܐܘܥܕܐ ܥܰܡܷܪܬܐ ܝܐ ܒܐܰܪܒܥܐ ܒܳܬܶܐ ܕܟܝܬ ܐܰܦ݁ܦ݁ܶܗ ܬܡܳܢܶܐ ܢܰܦܫܳܬ݂ܶܐ. ܐܝ ܣܰܪܶܐ ܒܙܰܒܢܐ ܟܷܬܘܰܝܠܰܗ ܢܳܫܶܐ ܡܫܰܡܗܶܐ ܘܓܰܒܳܪܶܐ ܘܐܰܕܝܰܘܡܰܐ ܣܬܶܐ ܐܰܢ ܢܳܫܰܢܷܟ ܡܰܚܘܰܠܠܶܗ ܐܝ ܓܰܒܳܪܘܬ݂ܰܬ݂ܬ݂ܶܗ ܒܘ ܫܩܳܠܐ ܕܝ ܩܪܝܬ݂ܰܬ݂ܬ݂ܶܗ ܡܰܛ ܛܰܝܶܐ ܒܓܰܒܳܪܘܬ݂ܐ. ܡܰܥܡܰܪܪܶܗ ܐܶܒܰܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܡܚܰܬ݂ܰܬ݂ܬ݂ܶܗ ܣܬܶܐ ܗܷܢ ܡܰܢܢܶܗ ܘܡܥܰܕܰܠܠܶܗ ܠܰܘܓ݂ܷܠ ܕܝ ܩܪܝܬ݂ܐ ܘܝܰܬܝܘܶܐ ܢܶܐ ܐܶܒܰܗ. ܐܝ ܥܝܬܰܬ݂ܬ݂ܶܗ ܣܬܶܐ ܡܚܰܕ݂ܪܰܠܠܶܗ ܠܝ ܨܠܘܬ݂ܐ ܘܟܳܡܨܰܠܷܢ ܐܶܒܰܗ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.38" corresp="test.latn.38"/>
 ܝ. ܓܰܙܢܰܟ݂ ܘܗܰܣܣܰܢܰܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.39" corresp="test.latn.39"/>
 ܟܝܬ ܟܡܐ ܩܷܪܝܰܘܳܬ݂ܶܐ ܚܪܶܢܶܐ ܕܟܷܬܢܶܐ ܒܷܬ݂ܪܶܗ ܕܘ ܢܰܗܪܐ ܕܕܷܩܠܰܬ݂. ܗܰܢܝ ܣܬܶܐ ܟܷܐܡܡܷܢܢܶܗ ܓܰܙܢܰܟ݂ ܘܗܰܣܣܰܢܰܐ. ܓܰܙܢܰܟ݂ ܟܷܬܠܰܗ ܐܰܪܒܰܥ ܐܝܩܰܪܝܳܬ݂ܶܐ ܐܶܒܰܗ ܕܟܳܘܷܢ ܫܘܰܥܣܰܪ ܢܰܦܫܳܬ݂ܶܐ، ܡܰܥܡܰܪܪܶܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܝܰܬܝܘܝ ܐܰܦ݁ܦ݁ܶܗ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.40" corresp="test.latn.40"/>
 ܗܰܣܣܰܢܰܐ ܣܬܶܐ ܗܰܘܟ݂ܰܐ. ܐܰܪܒܰܥ ܐܝܩܰܪܝܳܬ݂ܶܐ ܡܰܥܡܰܪܪܶܗ ܒܳܬܶܐ ܚܰܬ݂ܶܐ ܘܟܳܦܰܝܫܝ ܐܰܓ݂ܠܰܒ ܡܰܢܢܶܗ ܒܝ ܩܪܝܬܐ ܙܰܒܢܐ ܝܰܪܝܟ݂ܐ. ܒܘ ܣܰܬ݂ܘܐ ܟܳܦܳܝܷܫ ܚܰܐ ܬܪܶܐ ܡܰܢܢܶܗ ܘܐܰܚ ܚܪܶܢܶܐ ܟܷܐܙܙܷܢ ܗܘܠ ܠܘ ܪܰܒܷܥ ܕܝܣܰܐ ܟܳܐܬ݂ܷܢ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.41" corresp="test.latn.41"/>
 ܗܰܘܟ݂ܰܐ ܐܰܒܷܥܢܐ ܕܐܳܒܶܢܐ ܐܝܕ݂ܰܥܬܐ ܟܪܝܬ݂ܐ ܘܚܠܝܬ݂ܐ ܠܘ ܥܰܡܰܝܕ݂ܝ ܐܘ ܣܘܪܝܳܝܐ ܥܰܠ‌ ܐܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܟܝܬ ܒܛܘܪܥܰܒܕܝܢ. ܒܣܰܒܪܐ ܢܐ ܕܡܰܢܷܦܥܳܢܝܬܐ ܗܘܝܐ ܐܝ ܐܝܕ݂ܰܥܬ݂ܰܬ݂ܶܐ ܠܰܩ ܩܳܪܘܝܶܐ.
         </p>
           <!-- Repeat the <p> element as needed -->
@@ -193,69 +278,166 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Karyo karyo cal aq qëryawoṯe das Suryoye d këtne camire b Ṭurcabdin
 		  Kobacno d ṯokarno karyo karyo ak kmo qëryawoṯe das Suryoye d këtne camire bu camayḏan adyawma bi marciṯo d Ṭurcabdin w d obeno ëšmo iḏacṯo aclayye w d omarno be mëqqa këtlan noše appe. Lo fayëšlan qëryawoṯe ġäläbe adyawma d këtne camire bu camayḏan. Aq qëryawoṯe d fayiši ste mam mo bote qay fayëš casro bote camire appe. Këtlan hën camërtër me hën ne, bas ono gëd ëzzi appe bu dawro. Mawxa hën manne gëd omarno karyo aclayye w hën yarëxtër. Hano gëd foyëš xëd maxtabzabno. Mšareno mu gabo celoyo du Ṭuro hul d noḥatno lu gabo d laltaḥ.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 1. I Dayro du Ṣlibo, Derqubbe, Bequsyone w Ḥaḥ
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
 Këtlan bu gabo celoyo du ṭuro aq qëryawoṯe di Dayro du Ṣlibo, Derqubbe, Bequsyone, Ḥaḥ, Zaz, Kfarze, Ṣalëḥ w Ḥapsës. I qriṯo di Dayro du Ṣlibo camërto yo w hawi ḥeṯoṯe ġäläbe eba w dilonoiṯ bi citayḏa. Adyawma kit eba arbac iqaryoṯe d kowën ëštacsar nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 I qriṯo d Derqubbe: xalyowa b zabno bu amro di dawla, bas bëṯër mi šato dat tre alfo w tlëṯ dacirila an nošayḏa w ucdo kala camërto b ḥammëš iqaryoṯe w tlëṯ w cësri nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 I qriṯo d Bequsyone: hawi šušoṭe ġäläbe eba bac csar ëšne ḥaroyani. Noše lo dacër me larwal li qriṯo bas hani kmo ëšne macmarre kmo bote ḥaṯe eba. I cito mḥaṯëḥṯalle, aš šuqone mcadlënne, u qänal dam maye dab beṯsëlye sëmme me ḥato, i qriṯo naḏifo w mcadlo. Adyawma këtla ḥḏo w cësri iqaryoṯe d kowën mo w tarte nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
 I qriṯo d Ḥaḥ: d këtyo qriṯo ġäläbe catëqto w mšamahto xud dukṯo d ḥasyuṯo w dilonoiṯ bi dayro di Yoldaṯ Aloho. I qriṯo meqëm komaḥwe mḏito rabṯo wa dam malke. Këtla cito nafëlto cal ëšme d Mor Sobo. I citaṯe lu goran dac citoṯe d Ṭurcabdin ġäläbe rabṯo wa. Adyawma ġäläbe mena nafël, bas heš komaḥwe u šubḥo qamoyo di citaṯe d këtwa cito di ḥasyuṯo. Këtla ste dayro ḥreto cal ëšme d Mor Sarkis w Baxus dë mḥaṯëḥṯalle laḥ Ḥaḥoye w citoṯe ḥrene d këtne nafile. I qriṯo d Ḥaḥ adyawma këtla ëšto w cësri bote d kowën appe mo w tarte w tleṯi nafšoṯe.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
 2. Zaz, Kfarze, Ṣalëḥ w Ḥapsës
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 I qriṯo d Zaz: d këtyo msajalto cal am morayḏa w am morayḏa ṭëryalle xliṯo w lo koducrila. Kuxli af firayḏa w lo kowënla moro. I cito d Mor Dimeṭ d këtyo rëmzo du cutqo d Zaz w du šufrayḏa mḥaṯëḥṯalle laz Zazoye, elo ṭëryalle xliṯo. Koḥayro cal i qriṯo kula w koquryo laz Zazoye. Ḥarëš qola w ḥa lo košomëc qola w lo koṯe laf ela. Zaz këtla noše xud noṭure w kofayši eba zabno mede w kiban d ëmmina kit eba adyawma tlëṯ nafšoṯe d këzzën w koṯënla w kosaymi an arcoṯayḏa. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
 I qriṯo dë Kfarze: kit eba camo daṭ ṭaye ste cam as Suryoye d kocayši cam ḥḏoḏe bi qriṯo, lo koṯe qola ġäläbe. Ak Kfarzoye sëmme i cito d Mor Czozoyel d këtyo catëqto w ac citoṯayḏa aḥ ḥrene w mḥaṯëḥṯënne bas as Suryoye di qriṯo ġäläbe diše komaḥwën maṭ ṭaye di qriṯo, qolayye ġäläbe lo koṯe. Mawxa šušoṭo ġäläbe lo koḥozina bi qriṯo. I qriṯo adyawma këtla ḥamšacsar bote Suryoye d kowën mo w ḥḏo w ëšti nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
 I qriṯo d Ṣalëḥ: xalyo mas Suryoye ġer me tarte neše aḥwoṯe lo fayëš eba. Elo kit bu qurwayḏa i dayro d Mor Yacqub d Ṣalëḥ d kit eba ḥeḏër cësri nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
 Fayëšlan harke i qriṯo d Ḥapsës d këtyo lalcal me Mëḏyaḏ i mḏito. Fayëšlan bas iqarṯo harke d këtne aṯto w gawro. Aloho oballe ḥaylo w ḥulmono w noṭarre bi qriṯo. Kowën moro lac citote d Ḥapsës w li dayro d Mor Locozar d këtyo qaruto li qriṯo.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
 3. Mëḏyaḏ
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
 Mëḏyaḏ qenṭrun, yani markaz yo d Ṭurcabdin. Këtlan qašo d koḥoyër cal ac citoṯe w kofotaḥḥe li ṣluṯo. Kit ṣluṯo kul yawmo ṣafro w caṣriye b tarte manne w qerowo naqqa bi šabṯo. Kul yawme d ḥušabo aw d bëṭlono kowe bë ḥḏo mac citoṯe bu dawro. Mëḏyaḏ këtla mo w ḥa w tleṯi bote Suryoye d kowën arbacmo w šwac w ëšti nafšoṯe. Aġlab mas Suryoye d këtne b Mëḏyaḏ maq qëryawoṯe d ḥeḏora aṯënla. Mëḏyaḏ yariwo, elo lo mu camayḏan. Ab botayḏa aš šafire komaḥwën i ṣënca mcalayto dam macëmrone Suryoye d lo koṯe qolayye w komaḥwën u farq du camayḏan mac came ḥrene. Am more das ṣëncat meqëm kulle Suryoye wayne harke bas ucdo xliṭi. Heš aġlab mam more dad dukane du semo Suryoye ne, bas kit ṭaye ste ġäläbe. Cam haṯe kula u reḥo di mšiḥoyuṯo w di Suryoyuṯo heš kofoyëḥ baš šuqone d Mëḏyaḏ. Kodoyëq u noqušo meqëm mi ṣluṯo xud rëmzo di mšiḥoyuṯo bu yawmo tarte kore. U ḥa d koṯe li mḏitaṯe koforëq d kit ruḥo di mšiḥoyuṯo w reḥo di Suryoyuṯo eba.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
 4. Ciwardo, Mzizaḥ w i Käfarbe
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
 Ciwardo, ax Ciwardo! Mën d omarnolax Ciwardo! Bu Sayfo nṭërlax as Suryoye d ebax bas bi basimuṯo fayišat laṭ ṭaye... Këtlan camo b Ciwardo elo layëm ṭaye ste ḥeḏorayye d latwayne mi qriṯo d fayiši eba xud noṭure zabno w yatiwi eba. As Suryoye mcadalle ac citoṯe di qriṯo w sëmme kmo bote ḥaṯe ste eba. Ucdo kocayši eba ḥḏacsar iqaryoṯe d kowën šeṯ w tleṯi nafšoṯe bi qriṯo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
 Mzizaḥ: i qriṯo dë Mzizaḥ d këtyo qaruto l Ciwardo. Ġäläbe basimo w kowe šušoṭo eba mu gabo dan noše, kozaydi an iqaryoṯe. Ucdo kocayši eba tšac iqaryoṯe d kowën me šwac w tleṯi nafšoṯe bi qriṯo. Kosaymi ak karme w an arcoṯaṯṯe w koyëtwi bab botaṯṯe. Hën mac claymaṯṯe košuġli bi dayro d Mor Gabriel. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
 Këtlan i qriṯo di Käfarbe qaruto li dayro d Mor Gabriel d kit eba tarte nafšoṯe.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.18" corresp="test.syr.18"/>
 5. Anḥël w Kafro Taḥtayto
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.19" corresp="test.syr.19"/>
 Marke gëd ëzzan lu gabo d Ṭurizlo laq qëryawoṯe d Beṯriše d komiḏoco ste bu ëšmo Rayite. Bodina me Anḥël d këtwa qriṯo rabṯo bu Ṭuro w adyawma fayišo ftëḥto bë kmo iqaryoṯe d këtne tamo. Macmarre bote ġäläbe b Anḥël w bote ġäläbe šafire, bas aġlab manne hawën bote du qayṭo w am moraṯṯe këzzën w koṯën w latne fayoše appe l zabno yarixo. Bu qayṭo w bu rabëc koṯën w bu saṯwo këzzën ducri. Heš lo markawwe ruḥayye bi qriṯo mbaraktayo. Ucdo kocayši b Anḥël tlëṯ iqaryoṯe d kowën me šet nafšoṯe. Bëṯër me Anḥël kuṯyo bu darbo i qriṯo d Kafro Taḥtayto.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.20" corresp="test.syr.20"/>
 Kafro Taḥtayto macëmralle me ḥaṯo ak Kafroye d daciri me Awrupa. Kocayši b Kafro arbacsar iqaryoṯe d kowën tlëṯ w tleṯi nafšoṯe. I qriṯo basëmto yo w nafëq ëšma bu dcoro d daciri ac comurayḏa cam ḥḏoḏe.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.21" corresp="test.syr.21"/>
 6. Arkaḥ (Xärabale)
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.22" corresp="test.syr.22"/>
 Këtlan bu dawro i qriṯo ḥliṯo d Arkaḥ, i qriṯayḏi i mbarakto d hiya hawyo oṯo w rëmzo rabo lu nṭoro daq qëryawoṯe di Rayite d këtne cal u Ṭuro d Izlo. I qriṯo camërto yo w kit eba maṯe w ḥḏo w ëšti nafšoṯe d kocayši b gawe d šawco w ëšti bote. Kito ste noše d këzzën w koṯën me Almanya w me Swičra w mu Swed w me aṯrawoṯe ḥrene d Awrupa. Adyawma Arkaḥ d lowewa eba noše balki aq qëryawoṯani du Ṭuro d Izlo latwalle noše. Tawdi l Aloho dë nṭërle an Arkaḥoye bi qriṯo w hënnëk ste hawën cëlṯo lu camayḏan daq qëryawoṯe du Ṭuro d Izlo ste d otën w sëtri baq qëryawoṯaṯṯe. Adyawma Arkaḥ ḥḏo maq qëryawoṯe rabe du Ṭuro yo. Kuṯyo bi sagiyuṯo dan nafšoṯe bëṯër mi qriṯo d Midën. Fayëš ëšmo gëd šëfco i qriṯo d Midën ban nošayḏa. I cëlṯo di qriṯo fayišo camërto w lo xalyo, kiban d ëmmina hawyo baṣ ṣlawoṯe daq qadiše d këtne bi dayro d Mor Malke w baṣ ṣlawoṯe daq qadiše di qriṯayḏan Mor Afrem w Mor Tewoḏoros u sohḏo. I dayro d Mor Malke hawyo sande rabṯo li qrito w ṭëryola camërto. Ṭrowe ëšme d Moran mbarxo w ṭëlbina mene d mastër i qriṯayḏan baṣ ṣlawoṯe daq qadišani w mastër aq qeryawoṯayḏan aḥ ḥrene ste.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.23" corresp="test.syr.23"/>
 7. Arbo, Ëḥwo, Badëbbe, Sedari w Xärabemëška
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.24" corresp="test.syr.24"/>
 I qriṯo d Arbo macmarre eba ḥeḏër tmanyo bote ḥaṯe w kit eba noṭure d këzzën w koṯën. Aġlab kowën tarte iqaryoṯe d kowën me arbac nafšoṯe eba. Ṭawwo yo d këzze noše w koṯe li qriṯo, bas ṭawtër wa d fayši eba an nošani aminoiṯ. I qriṯo mbasmalle w mašëfralle. 
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.25" corresp="test.syr.25"/>
 Qriṯo ḥreto bi Rayite, i qriṯo d Ëḥwo yo. Ëḥwo ste hawxa, kit eba kmo nafšoṯe d konëṭrila w macmarre kmo bote ḥaṯe eba. I qriṯo mbasmalle w mḥaṯaṯṯe ac citoṯayḏa w kit noše d këzzën w koṯënla me zabno l zabno. Aġlab kowën eba ḥeḏër ḥammëš iqaryoṯe d kowën me šeṯ nafšoṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.26" corresp="test.syr.26"/>
 I qriṯo d Badëbbe ste cayni bu šëklano. Macmarre eba bote ḥaṯe w šafire w mḥaṯaṯṯe aġlab mab botayḏa aḥ ḥrene. Badëbbe ste koṯela noše w këzzën. Lo koxulyo, kit eba noṭure. Aġlab kowe eba tlëṯ iqaryoṯe d kowën me šet nafšoṯe.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.27" corresp="test.syr.27"/>
 I qriṯo du Sedari kit eba tloṯo bote d këtne aminoiṯ eba d kowën me arbac nafšoṯe. Hiya ste ban noṭure d këzzën w koṯën qëmto yo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.28" corresp="test.syr.28"/>
 I qriṯo d Xärabemëška xud Badëbbe ban noṭure d këzzën w koṯën camërto yo. Kofayši eba aġlab tarte iqaryoṯe d kowën me arbac nafšoṯe. Aq qëryawoṯani di Rayite aw d Beṯriše, kulle bu rabëc w bu qayṭo w bat tëšroyoṯe kowën malye elo bu saṯwo kulle xalye ne ġer mi qrito mbarakto d Arkaḥ, aḥ ḥrene kulle kofoyëš appe kmo noṭure. Aḥna ëbciwayna lo bëlḥuḏe noṭure d foyëš baq qëryawoṯani diḏan, elo d foyëš appe ṭloye w ṭloyoṯe w zcure ste, clayme w niše w gawre w sowe w kul šëkël d cumro. Aq qeryawoṯaydan hawxa këppe cëmri w yërwi.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.29" corresp="test.syr.29"/>
 8. Marbobo, i Qriṯo di Cito (i Gundëke di Cito) w Birguriya
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.30" corresp="test.syr.30"/>
 Këtlan kmo qëryawoṯe bu maḏëbro dë Nṣiwën d këtyo ḥḏo manne Marbobo. Marbobo qriṯo mbaraxto dacirila kmo iqaryoṯe clayme cam an nacimaṯṯe. An noše di qriṯo macëmralle w mḥaṯäṯṯe ab botaṯṯe w simalle xud i wardo. I qriṯo kit eba tracsar bote Mšiḥoye d kowën me arbac w arbci nafšoṯe. I qriṯo faqiḥo bac clayme d aṯën d kulle nacime w konëṭri i qriṯaṯṯe b kul basimuṯo. Mḥaṯaṯṯe i citaṯṯe w mašfarre ḥeḏora w simalle šafërto ġäläbe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.31" corresp="test.syr.31"/>
 I Qriṯo di Cito: hiya ste d këtyo camërto b arbacsar iqaryoṯe w tmone w ëšti nafšoṯe, nṭërto yo appe. I Qriṯo di Cito qriṯo catërto yo w këtla maye ban arcoṯayḏa. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.32" corresp="test.syr.32"/>
 I qriṯo d Birguriya ste nṭërto yo b tarte iqaryoṯe d kowën me tracsar nafšoṯe d kofayši bi qriṯo. Kit eba kmo iqaryoṯe Yezidoye ste, bas aġlab mani d këtne eba Kurdoye ne.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.33" corresp="test.syr.33"/>
 9. Hazax, Midën, Bëssorino w i Sare
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.34" corresp="test.syr.34"/>
 Ducrina cal Beṯzabday d komiḏoco aġlab bu ëšmo d Hazax. Adyawma d këmmila Idël bu Tërki. Fayëšlan kmo iqaryoṯe cam camo rabo d ṭaye. Kito b Hazax šet iqaryoṯe d kowën me tšacsar nafšoṯe. An noše d Hazax këtte adyawma ëšmo casquṯo bi dukṯaṯṯe bas hënnëk u ëšmo dag gabore yo aclayye. Lo komahëzmi xayifo hul d lo moṭe u šalfo lu garmo. Këtwa kmo iqaryoṯe ḥrene, mi casquṯo adyawma azzënne daciri elo d bësmo balki disa ducri. Beṯzabday këtla kmo citoṯe: ḥḏo manne i cito di Yoldaṯ Aloho. I cito di Yoldaṯ Aloho d Beṯzabday ġäläbe catëqto yo. Kodocër u maxtabzabnayda lu doro trayono w balki li ḥarayto du doro qamoyo. B Beṯzabday ste u camayḏan maḥwele gaboruṯo bu zabno du Sayfo w xalëṣ ġäläbe noše mu mawto tamo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.35" corresp="test.syr.35"/>
 D oṯina me tamo l Midën. Midën ste xud Arkaḥ i qriṯo camërto yo bam more w kit eba maṯe w tšac w ëšti nafšoṯe d kocayši b gawe d šawci bote. Midën dukṯo basëmto yo w macmarre eba bote ḥaṯe w šafire. Mḥaṯaṯṯe i citaṯṯe w komacëmrënne bënyono ḥaṯo cam gabe di cito. Midën i qriṯo camërto rabṯo du Ṭuro yo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.36" corresp="test.syr.36"/>
 Oṯina me tamo l Bëssorino d këmmila Bëssorino, riše du dino. I qriṯo nṭërto yo bam morayḏa w camërto yo. Këtla arbci bote d kowën appe mo w arbac w ḥamši nafšoṯe. Mḥaṯaṯṯe i citaṯṯe w mcadalle aš šuqe di qriṯo w simalle basëmto lu itowo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.37" corresp="test.syr.37"/>
 I Sare ste šqilalle maṭ ṭaye dë zbiṭowalle ban ëšne dam morayḏa mgalwewalle l Awrupa. Ucdo camërto yo b arbco bote d kit appe tmone nafšoṯe. I Sare b zabno këtwayla noše mšamhe w gabore w adyawma ste an nošanëk maḥwalle i gaboruṯaṯṯe bu šqolo di qriṯaṯṯe maṭ ṭaye b gaboruṯo. Macmarre eba bote ḥaṯe w mḥaṯaṯṯe ste hën manne w mcadalle lawġël di qriṯo w yatiwe ne eba. I citaṯṯe ste mḥaḏralle li ṣluṯo w komṣalën eba.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.38" corresp="test.syr.38"/>
 10. Gaznax w Hassana
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.39" corresp="test.syr.39"/>
 Kit kmo qëryawoṯe ḥrene d këtne bëṯre du nahro d Dëqlaṯ. Hani ste këmmënne Gaznax w Hassana. Gaznax këtla arbac iqaryoṯe eba d kowën šwacsar nafšoṯe, macmarre bote ḥaṯe w yatiwi appe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.40" corresp="test.syr.40"/>
 Hassana ste hawxa. Arbac iqaryoṯe macmarre bote ḥaṯe w kofayši aġlab manne bi qrito zabno yarixo. Bu saṯwo kofoyëš ḥa tre manne w aḥ ḥrene këzzën hul lu rabëc disa koṯën.
-
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.41" corresp="test.syr.41"/>
 Hawxa abëcno d obeno iḏacto kriṯo w ḥliṯo lu camayḏi u Suryoyo cal aq qëryawoṯe d kit b Ṭurcabdin. B sabro no d manëfconito huyo i iḏacṯaṯe laq qoruye.
         </p>
           <!-- Repeat the <p> element as needed -->
