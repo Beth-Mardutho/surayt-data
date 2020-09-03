@@ -110,54 +110,159 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
         ܡܷܢ ܝܐ ܐܝ ܣܢܝܩܘܬ݂ܐ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܡܷܢ ܟܳܐܒܰܥܠܶܗ ܠܘ ܒܰܪܢܳܫܐ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܠܘ ܒܰܪܢܳܫܐ ܟܳܐܒܰܥܠܶܗ ܡܶܩܷܡ ܡܶܐ ܟܘܠ ܡܶܕܶܐ ܡܘܟܠܐ، ܫܬܳܝܐ، ܒܰܝܬܐ، ܠܒܘܫܶܐ ܘܚܘܒܐ ܠܰܫܰܢ ܩܳܕܰܪ ܥܳܝܰܫ.
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܠܰܫܰܢ ܐܰܣ ܣܢܷܩܘܳܬ݂ܶܐ ܕܘ ܒܰܪܢܳܫܐ ܕܟܷܡܠܝ ܒܰܝܢ ܐܘ ܟܶܢܫܐ، ܠܰܙܷܡ ܚܰܐ ܕܐܳܕ݂ܰܥ ܐܰܝܕܰܪܒܐ ܡܛܰܟܣܶܐ ܢܶܐ ܐܰܪ ܪܘܟܳܒܶܐ ܟܷܢܫܳܝܶܐ (gesellschaftliche Strukturen). 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܐܘ ܒܰܪܢܳܫܐ ܐܝܢܰܩܠܰܐ ܕܗܳܘܶܠܶܗ ܣܢܝܩܘܬ݂ܐ، ܟܝܬ ܫܘܘܳܠܐ، ܡܷܩܩܰܐ ܐܘܠܨܰܝܬܐ ܝܐ ܐܝ ܣܢܝܩܘܬ݂ܐ ܠܰܫܰܢ ܐܝ ܣܢܝܩܘܬ݂ܐ ܟܷܡܠܐ؟
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܡܰܬ݂ܠܐ: 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ‐ ܕܠܐ ܡܘܟܠܐ ܘܕܠܐ ܫܬܳܝܐ ܚܰܐ ܠܰܝܒܶܗ ܥܳܝܰܫ. ܐܘ ܒܰܪܢܳܫܐ ܠܰܙܷܡ ܕܡܶܐ ܙܰܒܢܐ ܠܙܰܒܢܐ ܐܳܟ݂ܰܠ ܘܫܳܬܶܐ ܠܰܫܰܢ ܩܳܕܰܪ ܥܳܝܰܫ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ‐ ܕܠܐ ܬܱܠܱܦܳܢ ܕܝ ܐܝܕ݂ܐ (Handy) ܟܝܒܶܗ ܚܰܐ ܥܳܝܰܫ، ܐܶܠܐ ܣܰܓܝ ܢܳܫܶܐ ܟܷܬܬܶܗ ܐܝ ܣܢܝܩܘܬ݂ܐ ܕܘ ܬܱܠܱܦܳܢ ܕܝ ܐܝܕ݂ܐ.
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܐܘ ܡܰܬ݂ܠܰܢܐ ܟܳܡܰܚܘܶܐ ܛܰܘܘܐ، ܐܰܣ ܣܢܷܩܘܳܬ݂ܶܐ ܡܷܢ ܕܰܪܓ݂ܐ ܟܷܬܬܶܗ. ܒܝ ܩܰܡܰܝܬܐ ܚܰܐ ܠܰܙܷܡ ܕܷܡܟܰܡܰܠ ‌ܐܰܣ ܣܢܷܩܘܳܬ݂ܶܐ ܕܩܳܕܰܪ ܚܰܐ ܥܳܝܰܫ ܟ݂ܘܕ ܡܘܟܠܐ، ܒܰܝܬܐ، ܠܒܘܫܶܐ ܘܒܷܬ݂ܷܪ ܟܳܐܬ݂ܷܢ ܐܰܣ ܣܢܷܩܘܳܬ݂ܐ ܕܘ ܒܰܪܢܳܫܐ ܕܟܷܬܢܶܐ ܕܝܠܳܢܳܝܶܐ ܟ݂ܷܕ ܬܱܠܱܦܳܢ ܕܝ ܐܝܕ݂ܐ، ܪܰܕ݂ܰܝܬܐ ܘܓ݂ܶܝܪ ܡܶܕܳܢܶܐ. ܐܰܝܢܰܐ ܣܢܝܩܘܬ݂ܐ ܠܰܙܷܡ ܕܟܷܡܠܐ ܠܰܫܰܢ ܐܘ ܒܰܪܢܳܫܐ ܕܩܳܕܰܪ ܚܳـܝܶܐ ܘܐܰܝܢܰܐ ܣܢܝܩܘܬ݂ܐ ܚܰܐ ܟܝܒܶܗ ܡܰܟܠܶܠܰܗ.
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
 ܐܰܣ ܣܢܷܩܘܳܬ݂ܶܐ ܟܘܠ ܢܰܩܠܰܐ ܟܳܡܰܚܘܷܢ ܕܐܘ ܒܰܪܢܳܫܐ ܕܟܷܬܠܶܗ ܡܶܕܶܐ ܢܳܩܘܨܐ (ܒܨܝܪܐ) ܘܐܝ ܒܨܝܪܘܬ݂ܐ ܕܐܘ ܒܰܪܢܳܫܐ ܕܟܷܬܠܶܗ، ܐܘ ܢܝܫܰܝܕ݂ܰܗ ܟܶܡܳܠܐ ܝܐ. 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
 ܐܘ ܒܰܪܢܳܫܐ ܟܳܡܷܚܫܰܘ ܒܨܝܪ ܢܰܦܫܐ. ܡܰܘܟ݂ܰܐ ܟܷܬܠܶܗ ܟܘܠ ܙܰܒܢܐ ܠܗܝܩܘܬ݂ܐ ܕܡܰܩܷܡ ܐܝ ܒܨܝܪܘܬ݂ܰܝܕ݂ܶܗ.
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
 ‐ ܐܘ ܒܰܪܢܳܫܐ ܡܷܢ ܒܨܝܪܘܬ݂ܐ ܟܷܬܠܶܗ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
 ‐ ܡܷܢ ܡܰܘܗܒܳܬ݂ܶܐ ܟܷܬܠܶܗ ܐܘ ܒܰܪܢܳܫܐ، ܠܰܫܰܢ ܕܡܰܩܷܡ ܐܝ ܒܨܝܪܘܬ݂ܰܝܕ݂ܶܗ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
 ܐܝ ܡܰܝܬܝܳܢܘܬ݂ܐ ܢܰܦܫܳܢܰܝܬܐ ܠܰܝܒܰܗ ܟܷܡܠܐ، ܐܝܢܰܩܠܰܐ ܚܰܐ ܕܠܐ ܗܳܘܶܠܶܗ ܪܶܢܝܐ ܟܰܡܝܠܐ ܡܝ ܢܰܦܫܰܝܕ݂ܶܗ. ܡܰܘܟ݂ܰܐ ܐܘܠܨܳܝܐ ܝܐ ܚܰܐ ܕܷܡܫܰܝܰܠ:
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
 ܡܷܢ ܝܰܠܷܦܢܐ ܒܝ ܢܷܥܡܘܬ݂ܰܝܕ݂ܝ / ܥܠܰܝܡܘܬ݂ܰܝܕ݂ܝ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.16" corresp="test.latn.16"/>
 ܡܷܢ ܢܝܫܐ / ܢܝܫܶܐ ܟܷܬܠܝ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
 ܐܰܝܢܰܐ ܢܝܫܶܐ ܚܰܐ ܟܝܒܶܗ ܡܟܰܡܰܠ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.18" corresp="test.latn.18"/>
 ܡܷܢ ܗܝـܝܘܬ݂ܐ ܟܷܬܠܝ؟ 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.19" corresp="test.latn.19"/>
 ܒܝ ܡܥܰܕܪܳܢܘܬ݂ܐ ܕܰܫ ܫܘܘܳܠܰܢܝ ܚܰܐ ܟܝܒܶܗ ܡܟܰܡܰܠ ܐܝ ܡܰܝܬܝܳܢܘܬ݂ܐ ܢܰܦܫܳܢܰܝܬܐ. ܒܥܰܝܢܝ ܙܰܒܢܐ ܟܷܡܠܝ ܒܘ ܫܷܟܠܰܢܐ ܐܰܣ ܣܢܷܩܘܳܬ݂ܶܐ ܕܘ ܒܰܪܢܳܫܐ.
 		</p>
           <!-- Repeat the <p> element as needed -->
       </div>
- Sniquṯo
-Mën yo i sniquṯo?
-Mën kobacle lu barnošo?
-Lu barnošo kobacle meqëm me kul mede muklo, štoyo, bayto, lbuše w ḥubo lašan qodar coyaš.
-Lašan as snëqwoṯe du barnošo d këmli bayn u kenšo, lazëm ḥa d oḏac aydarbo mṭakse ne ar rukobe kënšoye (gesellschaftliche Strukturen). U barnošo inaqla d howele sniquṯo, kit šuwolo, mëqqa ulṣayto yo i sniquṯo lašan i sniquṯo këmlo?
-Maṯlo: 
-- dlo muklo w dlo štoyo ḥa laybe coyaš. U barnošo lazëm d me zabno l zabno oxal w šote lašan qodar coyaš.
-- dlo täläfon di iḏo (Handy) kibe ḥa coyaš, elo sagi noše këtte i sniquṯo du täläfon di iḏo.
-U maṯlano komaḥwe ṭawwo, as snëqwoṯe mën darġo këtte. Bi qamayto ḥa lazëm dë mkamal as snëqwoṯe d qodar ḥa coyaš xud muklo, bayto, lbuše w bëṯër koṯën as snëqwoṯo du barnošo d këtne dilonoye xëd täläfon di iḏo, raḏayto w ġer medone. Ayna sniquṯo lazëm d këmlo lašan u barnošo d qodar ḥoye w ayna sniquṯo ḥa kibe maklela.
-As snëqwoṯe kul naqla komaḥwën d u barnošo d këtle mede noquṣo (bṣiro) w i bṣiruṯo d u barnošo d këtle, u nišayḏa kemolo yo.
-U barnošo komëḥšaw bṣir nafšo. Mawxa këtle kul zabno lhiquṯo d maqëm i bṣiruṯayḏe.
-- U barnošo mën bṣiruṯo këtle?
-- Mën mawhboṯe këtle u barnošo, lašan d maqëm i bṣiruṯayḏe?
-I maytyonuṯo nafšonayto layba këmlo, inaqla ḥa d lo howele renyo kamilo mi nafšayḏe. Mawxa ulṣoyo yo ḥa dë mšayal:
-Mën yalëfno bi nëcmuṯayḏi/claymuṯayḏi?
-Mën nišo/niše këtli?
-Ayna niše ḥa kibe mkamal?
-Mën hiyuṯo këtli? 
-Bi mcadronuṯo daš šuwolani ḥa kibe mkamal i maytyonuṯo nafšonayto. B cayni zabno këmli bu šëklano as snëqwoṯe du barnošo.
-      <div type="transcription">
+ 
+ <div type="transcription">
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
-          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->    
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 --> 
+ Sniquṯo
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/> 
+Mën yo i sniquṯo?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Mën kobacle lu barnošo?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+Lu barnošo kobacle meqëm me kul mede muklo, štoyo, bayto, lbuše w ḥubo lašan qodar coyaš.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+Lašan as snëqwoṯe du barnošo d këmli bayn u kenšo, lazëm ḥa d oḏac aydarbo mṭakse ne ar rukobe kënšoye (gesellschaftliche Strukturen). U barnošo inaqla d howele sniquṯo, kit šuwolo, mëqqa ulṣayto yo i sniquṯo lašan i sniquṯo këmlo?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+Maṯlo: 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+- dlo muklo w dlo štoyo ḥa laybe coyaš. U barnošo lazëm d me zabno l zabno oxal w šote lašan qodar coyaš.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+- dlo täläfon di iḏo (Handy) kibe ḥa coyaš, elo sagi noše këtte i sniquṯo du täläfon di iḏo.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+U maṯlano komaḥwe ṭawwo, as snëqwoṯe mën darġo këtte. Bi qamayto ḥa lazëm dë mkamal as snëqwoṯe d qodar ḥa coyaš xud muklo, bayto, lbuše w bëṯër koṯën as snëqwoṯo du barnošo d këtne dilonoye xëd täläfon di iḏo, raḏayto w ġer medone. Ayna sniquṯo lazëm d këmlo lašan u barnošo d qodar ḥoye w ayna sniquṯo ḥa kibe maklela.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
+As snëqwoṯe kul naqla komaḥwën d u barnošo d këtle mede noquṣo (bṣiro) w i bṣiruṯo d u barnošo d këtle, u nišayḏa kemolo yo.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
+U barnošo komëḥšaw bṣir nafšo. Mawxa këtle kul zabno lhiquṯo d maqëm i bṣiruṯayḏe.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
+- U barnošo mën bṣiruṯo këtle?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
+- Mën mawhboṯe këtle u barnošo, lašan d maqëm i bṣiruṯayḏe?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
+I maytyonuṯo nafšonayto layba këmlo, inaqla ḥa d lo howele renyo kamilo mi nafšayḏe. Mawxa ulṣoyo yo ḥa dë mšayal:
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
+Mën yalëfno bi nëcmuṯayḏi/claymuṯayḏi?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
+Mën nišo/niše këtli?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
+Ayna niše ḥa kibe mkamal?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.18" corresp="test.syr.18"/>
+Mën hiyuṯo këtli? 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.19" corresp="test.syr.19"/>
+Bi mcadronuṯo daš šuwolani ḥa kibe mkamal i maytyonuṯo nafšonayto. B cayni zabno këmli bu šëklano as snëqwoṯe du barnošo.
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>
