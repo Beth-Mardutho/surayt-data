@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܰܕ ܕܰܝܪܶܐ ܦܬܝܚܶܐ ܕܒܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ</foreign> /Ad dayre ftiḥe d bi marciṯo d Ṭurcabdin</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Cäziz Aydin 
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1503</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,43 +110,81 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
 ܟܷܬܠܰܢ ܐܰܕܝܰܘܡܰܐ ܒܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ ܬܡܳܢܶܐ ܕܰܝܪܶܐ ܕܟܷܬܢܶܐ ܥܰܡܝܪܶܐ ܘܦܬܝـܚܶܐ. ܒܗܷܢ ܟܝܬ ܕܰܝܪܳܝܶܐ ܒܗܷܢ ܣܬܶܐ ܐܘܥܕܐ ܠܰܝܬ ܒܰܣ، ܟܳܢܷܛܪܝ ܕܐܷܙܙܰܠܠܶܗ ܕܰܝܪܳܝܐ. ܕܠܰܝܬ ܐܰܦ݁ܦ݁ܶܗ ܕܰܝܪܳܝܐ ܟܷܬܬܶܗ ܡܕܰܝܠܳܢܐ. ܒܘ ܪܝܫܐ ܕܰܕ ܕܰܝܪܰܢܝ ܟܷܐܬ݂ܝܐ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܶܝܠ ܕܟܷܬܝܐ ܐܝ ܕܘܟܬܐ ܕܟܳܦܳܝܷܫ ܐܶܒܰܗ ܐܘ ܚܰܣܝܐ ܕܛܘܪܥܰܒܕܝܢ ܘܟܳܡܷܚܫܳܘܐ ܟ݂ܘܕ ܒܶܝܬ݂ܡܩܳܡܐ ܕܘ ܚܰܣܝܐ. ܡܰܘܟ݂ܰܐ ܓܷܕ ܒܳܕܶܢܐ ܒܝ ܩܰܡܰܝܬܐ ܕܟܳܬ݂ܰܘܢܐ ܥܰܠ‌ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܶܝܠ ܘܒܷܬ݂ܷܪ ܓܷܕ ܡܕܰܘܰܡܢܐ ܕܟܳܬ݂ܰܘܢܐ ܥܰܠ ‌ܐܰܕ ܕܰܝܪܶܐ ܚܪܶܢܶܐ ܣܬܶܐ ܒܰܣ ܟܰܪܝܐ ܟܰܪܝܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܶܝܠ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܐܰܕܝܰܘܡܰܐ ܟܝܬܐ ܚܰܡܡܷܫ ܘܐܷܫܬܝ ܢܰܦܫܳܬ݂ܶܐ ܒܝ ܕܰܝܪܐ. ܟܝܬ ܚܰܣܝܐ، ܕܰܝܪܳܝܶܐ، ܕܰܝܪܳܝܳܬ݂ܶܐ، ܝܳܠܘܦܶܐ، ܡܰܠܦܳܢܶܐ ܘܡܕܰܝܠܳܢܶܐ. ܟܘܠ ܚܰܐ ܟܷܬܠܶܗ ܬܷܫܡܷܫܬܐ ܒܝ ܕܰܝܪܐ. ܐܘ ܪܝܫܐ ܕܝ ܕܰܝܪܐ ܐܘ ܚܰܣܝܐ ܕܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ ܡܳܪܝ̱ ܛܝܡܳܬ݂ܶܐܳܘܣ ܫܡܘܐܶܝܠ ‌ܐܰܩܛܰܐܫ ܝܐ. ܐܰܕ ܕܰܝܪܳܝܶܐ ܘܐܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܒܝ ܨܠܘܬܐ ܕܟܳܡܩܰܕܡܝ ܠܰܐܠܳܗܐ ܒܷܬܠܳܬ݂ܐ ܥܶܕܳܢܶܐ: ܒܪܰܡܫܐ ܒܨܰܦܪܐ ܘܒܦܰܠܓܶܗ ܕܝܰܘܡܐ. ܟܳܬ݂ܘܟܪܝ ܐܰܡ ܡܗܰܝܡܢܶܐ ܟܘܠܠܶܗ ܕܟܳܡܥܰܘܢܝ ܐܝ ܕܰܝܪܐ. ܟܳܡܷܢܛܳܪܐ ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܒܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܕܟܷܬܢܶܐ ܐܶܒܰܗ ܛܡܝܪܶܐ ܘܒܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܕ ܕܰܝܪܳܝܶܐ ܘܕܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܕܟܳܡܨܰܠܷܢ ܟܘܠ ܝܰܘܡܐ ܐܶܒܰܗ ܘܒܝ ܚܘܒܐ ܕܰܡ ܡܗܰܝܡܢܶܐ ܕܟܳܪܷܚܡܝ ܐܝ ܕܰܝܪܐ ܘܟܳܐܒܷܠܠܰܗ ܐܝܕ݂ܐ ܕܘ ܥܶܘܳܢܐ. ܟܳܡܷܢܛܳܪܐ ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܒܘ ܙܰܒܢܰܢܐ ܐܘ ܥܰܣܩܐ ܟ݂ܘܕ ܢܛܝܪܐ ܒܰܙ ܙܰܒܢܶܐ ܚܪܶܢܶܐ ܕܐܰܬ݂ܝ ܐܰܥܠܰܗ ܫܰܒܛܶܐ. ܟܰܠܰܗ ܩܷܡܬܐ ܒܘ ܚܰܝܠܐ ܕܰܐܠܳܗܐ ܘܗܰܘܝܐ ܫܘܒܚܐ ܠܝ ܣܘܪܝܳـܝܘܬ݂ܐ. ܐܝ ܕܰܝܪܐ ܟܳܡܩܰܕܡܐ ܬܷܫܡܷܫܬܐ ܪܰܒܬ݂ܐ ܠܰܐܠܳܗܐ ܘܠܝ ܢܳܫܘܬ݂ܐ ܒܟܘܠ ܚܘܒܐ ܘܒܰܣܝܡܘܬ݂ܐ، ܠܰܥ ܥܰܡܶܐ ܟܘܠܠܶܗ ܕܟܳܐܬ݂ܷܢ ܠܝ ܕܰܝܪܰܬ݂ܶܐ ܘܕܟܳܙܰܝܪܝܠܰܗ ܡܶܐ ܟܘܠ ܐܰܬ݂ܪܐ ܘܡܶܐ ܟܘܠ ܬܰܘܕܝܬ݂ܐ ܕܠܐ ܦܘܪܫܳܢܐ. ܠܟܘܠܠܶܗ ܟܳܡܷܦܪܷܫ ܐܝܩܳܪܐ ܒܝ ܕܰܝܪܰܬ݂ܶܐ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܶܝܠ، ܕܰܝܪܐ ܡܩܰܕܰܫܬܐ ܝܐ ܕܟܷܬܝܐ ܐܘ ܬܰܪܥܰܝܕ݂ܰܗ ܦܬܝـܚܐ ܠܘ ܥܷܠܡܐ ܟܘܠܶܗ، ܠܰܢ ܢܳܫܶܐ ܟܘܠܠܶܗ ܕܟܳܐܬ݂ܷܢ ܘܛܷܠܒܝ ܐܰܨ ܨܠܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܕܟܷܬܢܶܐ ܕܰܡܝܟ݂ܶܐ ܒܝ ܕܰܝܪܰܬ݂ܶܐ ܘܰܐܨ ܨܠܰܘܳܬ݂ܶܐ ܕܘ ܚܰܣܝܐ ܘܕܰܕ ܕܰܝܪܳܝܶܐ ܘܕܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܕܟܷܬܢܶܐ ܒܝ ܕܰܝܪܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܬܷܫܡܷܫܬܐ ܚܪܶܬܐ ܟܳܡܩܰܕܡܐ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܝܠ ܠܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܒܘ ܬܘܠܝܦܐ ܕܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܘܕܝ ܗܰܝܡܳܢܘܬ݂ܐ ܡܫܝـܚܰـܝܬܐ، ܬܷܫܡܷܫܬܐ ܪܰܒܬ݂ܐ ܝܐ. ܟ݂ܘܕ ܡܩܰܕܰܡܠܰܗ ܒܰܙ ܙܰܒܢܶܐ ܕܡܶܩܷܡ ܐܘܥܕܐ ܣܬܶܐ ܟܳܡܩܰܕܡܐ. ܠܐ ܒܰܣ ܬܘܠܝܦܐ ܕܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܐܠܐ ܕܰܛ ܛܷܟܣܶܐ ܕܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܣܬܶܐ: ܐܰܛ ܛܷܟܣܶܐ ܫܒܝـܚܶܐ ܕܡܰܚܬܷܢܢܶܗ ܐܰܢ ܐܰܒܳܗܳܬ݂ܰܝܕ݂ܰܢ ܡܰܙ ܙܰܒܢܶܐ ܩܰܡܳܝܶܐ. ܨܠܘܬ݂ܐ ܟܳܘܶܐ ܒܝ ܕܰܝܪܐ ܟܘܠ ܝܰܘܡܐ ܘܩܶܪܳܘܐ ܟܳܘܶܐ ܐܶܒܰܗ ܒܨܰܦܪܐ ܕܟܘܠ ܝܰܘܡܶܗ ܕܐܰܪܒܥܐ، ܝܰܘܡܶܗ ܕܷܥܪܘܬܐ، ܒܰܝ ܝܰܘܡܶܐ ܕܰܚ ܚܘܫܰܒܶܐ، ܒܰܝ ܝܰܘܡܶܐ ܕܰܒ ܒܷܛܠܳܢܶܐ، ܕܰܥ ܥܶܕܶܐ ܡܳܪܳܢܳܝܶܐ ܘܕܰܕ ܕܘܟܪܳܢܶܐ ܕܰܩ ܩܰܕܝܫܶܐ. ܥܰܕܶܐ ܛܰܘܬܐ ܟܝܬ ܒܝ ܕܰܝܪܐ ܕܟܳܢܷܛܪܝ ܐܝ ܡܰܫܷܠܡܳܢܘܬ݂ܐ ܕܝ ܥܝܬܐ ܣܘܪܝܰܝܬܐ ܠܘ ܓܳܪܰܐܢ ܕܗܘܘܰܠܠܰܢܝܐ ܐܰܢ ܐܰܒܳܗܳܬ݂ܐ ܣܘܪܝܳܝܶܐ. ܡܰܘܟ݂ܰܐ ܐܝ ܕܰܝܪܐ ܟܳܠܳܙܰܡ ܡܝـܝܰܩܪܐ ܒܝ ܬܷܫܡܷܫܬܰܬ݂ܶܐ ܕܝܕ݂ܰܗ ܘܐܰܣ ܣܘܪܝܳܝܶܐ ܒܪܝܟ݂ܶܐ ܟܷܐܘܕ݂ܥܝ ܐܘ ܡܶܕܰܢܐ ܘܟܳܡܝܰܩܪܝܠܰܗ ܟ݂ܘܕ ܟܳܠܳܙܰܡ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܐܝ ܕܰܝܪܐ ܟܳܡܩܰܕܡܐ ܐܝ ܬܷܫܡܷܫܬܰܬ݂ܶܐ ܒܰܢ ܢܳܫܶܐ ܕܟܝܬ ܐܶܒܰܗ. ܠܐ ܛܳܥܝܢܰܐ ܐܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ. ܐܝ ܬܷܫܡܷܫܬܐ ܪܰܒܬ݂ܐ ܕܟܳܡܩܰܕܡܝܠܰܗ ܐܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܒܝ ܕܰܝܪܰܬ݂ܶܐ ܠܐ ܟܷܐܘܬ݂ܝܐ ܠܬܷܚܟܝـܝܐ. ܐܘ ܛܰܥܢܐ ܪܰܒܐ ܕܝ ܕܰܝܪܐ ܥܰܠ ܚܰܨܰܝـܝܶـܗ ܝܐ. ܗܷܢܢܷܟ ܢܶܐ ܕܟܳܣܰܝܡܝ ܐܝ ܬܷܫܡܷܫܬܐ ܪܰܒܬ݂ܐ ܒܝ ܕܰܝܪܐ. ܟܳܡܚܰܕ݂ܪܝ ܐܘ ܡܘܟܠܐ ܕܰܢ ܢܳܫܶܐ ܕܝ ܕܰܝܪܐ، ܟܳܡܢܰܕ݂ܦܝ ܐܝ ܕܰܝܪܐ ܘܟܳܡܩܰܒܠܝ ܐܰܣ ܣܳܥܘܪܶܐ ܡܗܰܝܡܢܶܐ ܕܟܳܐܬ݂ܷܢ ܠܝ ܕܰܝܪܰܬ݂ܶܐ ܘܕܝܠܳܢܳܐܝܬ ܐܰܢ ܢܶܫܶܐ ܡܫܝـܚܳـܝܶܐ ܣܘܪܝܳܝܶܐ. ܗܰܘܟ݂ܰܐ ܟܳܘܷܢ ܛܘܦܣܐ ܘܨܘܪܬܐ ܫܰܦܷܪܬܐ ܕܰܚ ܚܰܝܶܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܠܰܕ݂ ܕ݂ܰܝܦܶܐ ܕܝ ܕܰܝܪܐ ܘܟܳܐܒܷܢ ܗܷܪܓܐ ܛܰܘܘܐ ܠܟܘܠ ‌ܐܰܬ݂ܬܐ ܘܒܰܪܬ݂ܐ ܣܘܪܝܰܝܬܐ ܕܟܷܐܬ݂ܝܐ ܘܕܟܳܦܰܝܫܐ ܐܰܥܡܰܝـܝܶܗ ܒܝ ܕܰܝܪܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܒ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܐܘ ܚܒܝܫܳܝܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܟܷܬܠܰܢ ܫܶܬ݂ ܕܰܝܪܶܐ ܚܪܶܢܶܐ ܒܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ ܕܟܷܬܢܶܐ ܥܰܡܝܪܶܐ ܘܦܬܝـܚܶܐ ܐܰܕܝܰܘܡܰܐ. ܚܕ݂ܐ ܡܰܢܢܶܗ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܐܘ ܚܒܝܫܳܝܐ ܝܐ ܕܟܳܡܝܕܳܥܐ ܒܰܝܢ ܐܘ ܥܰܡܐ ܙܷܕ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܕܨܰܠܷܚ. ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܣܬܶܐ ܥܰܬܷܩܬܐ ܝܐ ܘܒܘ ܙܰܒܢܰܝܕ݂ܰܗ ܡܫܰܡܰܫܠܰܗ ܐܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ ܟ݂ܘܕ ܟܘܪܣܝ ܕܝ ܚܰܣܝܘܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ ܘܐܰܪܒܰܥܡܐ ܐܷܫܢܶܐ ܣܬܶܐ ܟ݂ܘܕ ܟܘܪܣܝ ܕܦܰܛܷܪܝܰܪܟ݂ܘܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ. ܐܰܕܝܰܘܡܰܐ ܟܷܬܠܰܢ ܒܝ ܕܰܝܪܰܬ݂ܶܐ ܕܰܝܪܳܝܐ، ܚܰܡܡܷܫ ܕܰܝܪܳܝܳܬ݂ܶܐ، ܡܰܠܦܳܢܐ، ܥܰܣܪܐ ܝܳܠܘܦܶܐ ܘܡܕܰܝܠܳܢܐ. ܐܘ ܪܝܫܐ ܕܝ ܕܰܝܪܐ ܐܰܕܝܰܘܡܰܐ ܐܰܒܘܢܰܐ ܕܰܝܪܳܝܐ ܕܰܢܝܐܶܝܠ ܐܘ ܩܘܣܢܳܝܐ ܝܐ. ܡܶܩܷܡ ܡܶܢܶܗ ܐܘ ܪܝܫܕܰܝܪܐ ܕܝ ܕܰܝܪܐ ܐܘ ܡܚܰܣܝܐ ܕܕܰܝܪܳܝܐ ܝܰܥܩܘܒ ܐܘ ܒܳܬܳܝܐ ܘܰܐ. ܐܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܟܳܡܫܰܡܫܝ ܒܝ ܕܰܝܪܐ ܘܟܳܡܥܰܘܢܝ ܐܘ ܕܰܝܪܳܝܐ ܒܝ ܬܷܫܡܷܫܬܐ ܕܝ ܕܰܝܪܐ ܘܐܰܝ ܝܳܠܘܦܶܐ ܕܟܳܩܳܪܷܢ ܒܝ ܡܰܕܪܰܫܬܐ ܕܝ ܕܰܝܪܐ. ܐܝ ܕܰܝܪܐ ܫܘܒܗܳܪܐ ܝܐ ܠܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܟܳܫܷܒܗܐ ܠܝ ܘܰܪܕܐ ܒܰܝܢ ܐܰܟ ܟܘܒܶܐ ܒܝ ܩܪܝܬܐ ܘܟܳܐܒܐ ܫܘܦܪܐ ܡܚܰܠܦܐ ܠܝ ܩܪܝܬ݂ܐ ܕܨܰܠܷܚ ܕܐܰܕܝܰܘܡܰܐ ܠܐ ܦܰܝܷܫ ܐܶܒܰܗ ܢܳܫܶܐ ܡܘ ܥܰܡܰܝܕ݂ܰܢ ܐܘ ܣܘܪܝܳܝܐ ܓ݂ܶܪ ܡܶܐ ܬܰܪܬܶܐ ܢܝܫܶܐ ܒܝ ܩܪܝܬ݂ܐ ܘܐܰܢ ܢܳܫܶܐ ܕܟܳܦܰܝܫܝ ܒܝ ܕܰܝܪܐ. ܐܘ ܫܘܦܪܐ ܕܝ ܕܰܝܪܰܬ݂ܶܐ ܪܰܒܐ ܝܐ ܘܐܰܠܳܗܐ ܡܥܰܘܷܢ ܐܘ ܕܰܝܪܳܝܐ ܘܐܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܕܟܷܬܢܶܐ ܒܝ ܕܰܝܪܐ ܘܟܳܢܷܛܪܝ ܠܝ ܕܰܝܪܰܬ݂ܶܐ ܕܟܷܬܝܐ ܨܘܪܬܐ ܫܰܦܷܪܬܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܒܝ ܩܪܝܬ݂ܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܓ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܒܪܳܗܳܡ ܘܡܳܪܝ̱ ܗܳܒܝܠ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܟܷܬܠܰܢ ܕܰܝܪܐ ܚܪܶܬܐ ܕܟܳܡܷܩܪܳܝܐ ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܒܪܳܗܳܡ ܘܡܳܪܝ̱ ܗܳܒܝܠ ܒܡܷܕ݂ܝܰܕ݂. ܡܳܪܝ̱ ܗܳܒܝܠ ܚܰܐ ܡܰܬ ܬܰܠܡܝܕ݂ܶܐ ܕܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܓܰܒܪܐܝܠ ܘܰܐ. ܐܰܙܙܶܗ ܡܰܥܡܰܪܠܶܗ ܐܝ ܕܰܝܪܐ ܒܘ ܩܘܪܘܐ ܕܡܷܕ݂ܝܰܕ݂. ܟܝܬ ܐܶܒܰܗ ܡܢܰܘܳܬ݂ܶܐ ܡܰܓ ܓܰܪܡܶܐ ܕܡܳܪܝ̱ ܐܰܒܪܳܗܳܡ ܕܟܷܬܘܰܐ ܐܘ ܡܰܠܦܳܢܐ ܕܡܳܪܝ̱ ܒܰܪܨܰܘܡܐ ܐܘ ܪܝܫܐ ܕܰܐܢ ܐܰܒܝܠܶܐ. ܐܰܕܝܰܘܡܰܐ ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܡܚܰܬ݂ܷܚܬ݂ܐ ܒܝ ܝܰܨܝܦܘܬ݂ܐ ܕܘ ܥܰܡܐ ܕܡܷܕ݂ܝܰܕ݂ ܘܒܝ ܝܰܨܝܦܘܬ݂ܐ ܕܘ ܚܰܣܝܐ ܕܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ. ܐܰܒ ܒܶܝܬ݂ܩܒܘܪܶܐ ܕܡܷܕ݂ܝܰܕ݂ ܟܘܠܠܶܗ ܚـܝܕ݂ܳܪܰܗ ܕܝ ܕܰܝܪܐ ܢܶܐ. ܐܝ ܕܰܝܪܐ ܦܬܷܚܬܐ ܝܐ ܘܟܳܦܰܝܫܝ ܐܶܒܰܗ ܐܰܣ ܣܳܥܘܪܶܐ ܣܘܪܝܳܝܶܐ ܕܟܳܐܬ݂ܷܢ ܡܶܐ ܐܰܘܪܘܦ݁ܰܐ ܘܐܰܓ ܓܰܠܘܳܝܶܐ ܣܬܶܐ ܟܳܣܷܬܪܝ ܐܶܒܰܗ ܗܘܠ ܕܚܳܙܷܢܢܶܗ ܕܘܟܬ݂ܐ ܘܟܳܦܰܝܫܝ ܒܟܘܠ ܬ݂ܢܝـܚܘܬ݂ܐ ܒܰܒ ܒܷܢܝܳܢܶܐ ܕܡܰܥܷܡܪܝ ܡܶܐ ܚܰܬ݂ܐ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܡܫܰܢܶܠܶܗ ܠܕܰܝܪܳܝܐ ܐܰܒܪܳܗܳܡ ܐܘ ܡܷܕ݂ܝܳـܝܐ ܕܟܷܬܘܰܐ ܐܶܒܰܗ، ܟ݂ܰܠܝܐ ܡܰܕ ܕܰܝܪܳܝܶܐ. ܐܰܕܝܰܘܡܰܐ ܟܳܚܳـܝܰܪܠܰܗ ܐܘ ܡܥܰܕܪܳܢܐ ܕܘ ܪܝܫܐ ܕܘ ܡܰܘܬܒܐ ܕܰܥ ܥܝܬܳܬ݂ܶܐ ܕܡܷܕ݂ܝܰܕ݂ ܝܰܘܣܶܦ ܬܘܪܟܰܪ ܕܒܶܐ ܡܰܩܣܝ-ܐܰܠܝܰܐܣ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
 ܕ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܘܓܝܢ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
 ܕܰܝܪܐ ܚܪܶܬܐ ܡܰܕ ܕܰܝܪܰܢܝ: ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܘܓܝܢ ܝܐ. ܕܰܝܪܐ ܥܰܬܷܩܬܐ ܘܓܱܠܱܒܶܐ ܡܫܰܡܰܗܬܐ ܝܐ. ܐܰܕܝܰܘܡܰܐ ܟܳܡܝܕ݂ܳܥܐ ܟ݂ܘܕ ܐܝ ܕܰܝܪܐ ܥܰܬܷܩܬܐ ܕܟܷܬܝܐ ܦܬܷܚܬܐ ܘܥܰܡܷܪܬܐ ܒܕܰܝܪܳܝܶܐ ܒܰܝܢ ܐܰܕ ܕܰܝܪܶܐ ܕܒܘ ܥܘܠܡܐ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܘܓܝܢ ܒܷܬ݂ܷܪ ܡܶܐ ܕܦܰܝـܝܫܳܘܰܐ ܐܰܪܒܥܝ ܐܷܫܢܶܐ ܟ݂ܠܝܬ݂ܐ ܕܠܐ ܢܳܫܶܐ ܐܰܠܳܗܐ ܡܕܰܒܰܪܠܶܠܰܗ ܐܰܒܘܢܰܐ ܕܰܝܪܳܝܐ ܝܳܩܷܢ ܐܘܢܦܰܐܠ ܕܒܶܐ ܝܰܥܩܘܒ ܕܐܳܬ݂ܶܐ ܘܕܦܳܬܷܚ ܐܘ ܬܰܪܥܰܝܕ݂ܰܗ. ܐܝ ܕܰܝܪܐ ܐܘܥܕܐ ܦܬܷܚܬܐ ܝܐ ܠܝ ܨܠܘܬ݂ܐ ܘܠܝ ܬܷܫܡܷܫܬܐ ܪܘܚܳܢܰܝܬܐ. ܐܘ ܕܰܝܪܳܝܐ ܟܳܡܨܰܠܶܐ ܐܶܒܰܗ ܥܰܡ ܐܰܡ ܡܫܰܡܫܳܢܶܐ ܚܪܶܢܶܐ ܕܟܳܡܥܰܘܢܝܠܶܗ. ܘܗܰܘܝ ܚܶܕܳܬ݂ܐ ܘܫܘܓ݂ܠܐ ܓܱܠܱܒܶܐ ܐܶܒܰܗ ܒܰܢ ܐܷܫܢܶܐ ܚܰܪܳܝܰܢܝ ܒܝ ܝܰܨܝܦܘܬܐ ܕܘ ܚܰܣܝܐ ܕܝ ܡܰܪܥܝܬ݂ܐ ܘܕܘ ܥܰܡܐ ܡܗܰܝܡܢܐ ܕܷܡܩܰܕܰܡܠܶܗ ܐܰܙ ܙܷܕܩܳܬ݂ܰܝܕ݂ܶܗ ܠܝ ܕܰܝܪܐ. ܐܝ ܕܰܝܪܐ ܟܝܬ ܐܶܒܰܗ ܐܰܕܝܰܘܡܰܐ ܕܰܝܪܳܝܐ ܘܡܕܰܝܠܳܢܐ ܘܟܡܐ ܝܳܠܘܦܶܐ ܕܟܳܩܳܪܷܢ ܬܰܡܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
 (ܢܘܗܳܪܐ ܕܘ ܡܬܰܪܨܳܢܐ: ܟܝܬܐ ܐܘܥܕܐ ܕܰܝܪܳܝܐ ܕܰܘܝܕ ܟܰܐܪܠܝ ܣܬܶܐ ܕܐܰܬ݂ܝ ܡܶܐ ܕܶܠܡܷܢܗܳܪܣܬ.)
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
 ܗ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܡܰܠܟܶܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
 ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܡܰܠܟܶܐ ܕܟܷܬܝܐ ܩܰܪܘܬܐ ܠܝ ܩܪܝܬܐ ܕܐܰܪܟܰܚ، ܚܕ݂ܐ ܡܰܕ ܕܰܝܪܶܐ ܥܰܬܝܩܶܐ ܕܛܘܪܥܰܒܕܝܢ ܝܐ. ܠܘ ܓܳܪܰܐܢ ܕܝ ܬܷܫܥܝܬ݂ܐ ܕܡܳܪܝ̱ ܡܰܠܟܶܐ ܐܘ ܩܰܕܝܫܐ، ܡܳܪܝ̱ ܡܰܠܟܶܐ ܐܘ ܐܰܒܪܐ ܕܝ ܚܳܬ݂ܐ ܕܡܳܪܝ̱ ܐܰܘܓܝܢ ܝܐ. ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܟܷܬܠܰܗ ܬܷܫܥܝܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܒܰܣܷܡܬܐ ܘܐܰܬ݂ܝ ܐܰܥܠܰܗ ܙܰܒܢܶܐ ܓ݂ܱܠܱܒܶܐ ܡܰܝـܝܪܶܐ. ܢܰܩܠܰܘܰܬ ܓ݂ܱܠܱܒܶܐ ܠܰܚ ܚܰܢܦܶܐ ܡܰܚܷܪܘܰܠܠܶܗ ܐܶܠܐ ܠܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܕܷܒܪܝܬ݂ܐ ܟܘܠܰܗ ܘܕܝܠܳܢܳܐܝܬ݂ ܠܘ ܥܰܡܐ ܕܐܰܪܟܰܚ ܕܝܣܰܐ ܡܰܥܷܡܪܰܠܠܶܗ. ܐܝ ܕܰܝܪܐ ܟܷܬܠܰܗ ܬܪܶܐ ܕܰܝܪܳܝܶܐ ܘܬܰܪܬܶܐ ܕܰܝܪܳܝܳܬ݂ܶܐ ܟܰܫܝܪܶܐ ܘܟܡܐ ܝܳܠܘܦܶܐ ܕܟܳܩܳܪܷܢ ܐܶܒܰܗ. ܐܰܥ ܥܳܡܘܪܶܐ ܕܝ ܕܰܝܪܐ ܣܝܡܰܠܠܶܗ ܦܰܪܕܰܝܣܐ ܕܰܐܠܳܗܐ ܒܰܓ ܓܰܢܶܐ ܘܒܰܚ ܚܰܩܠܳܬ݂ܶܐ ܘܒܰܒ ܒܷܣܬܳܢܶܐ ܕܣܷܡܡܶܗ ܚܶܕ݂ܳܪܰܗ ܘܫܘܓ݂ܠܐ ܓ݂ܱܠܱܒܶܐ ܫܓ݂ܷܠܠܶܗ ܐܶܒܰܗ. ܟܘܠ ܚܰܐ ܕܙܳܝܷܪ ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܓܷܕ ܡܳܝܷܕ ܪܘܚܐ ܚܰܬ݂ܬܐ ܘܪܘܚܐ ܒܰܣܷܡܬܐ ܡܰܩ ܩܰܕܝܫܰܝܕ݂ܰܗ. ܓܷܕ ܡܳܝܷܕ ܚܰܝܠܐ ܘܠܶܒܐ ܠܘ ܫܘܓ݂ܠܐ ܡܝ ܟܰܫܝܪܘܬ݂ܐ ܘܡܘ ܫܘܓ݂ܠܐ ܕܰܕ ܕܰܝܪܳܝܶܐ ܘܕܰܕ ܕܰܝܪܳܝܳܬ݂ܶܐ ܕܟܷܬܢܶܐ ܐܶܒܰܗ. ܐܘ ܪܝܫܐ ܕܝ ܕܰܝܪܐ ܕܰܝܪܳܝܐ ܐܝܫܷܥ ܐܰܛܰܫ ܕܒܶܐ ܒܰܫܫܐ ܐܘ ܩܘܣܢܳܝܐ ܝܐ ܘܐܘ ܡܥܰܘܢܳܢܰܝܕ݂ܶܗ ܕܰܝܪܳܝܐ ܥܱܙܝܙ ܫ̰ܰܠܝܟ ܕܒܶܐ ܚܰܘܫܰܒ ܐܘ ܐܰܪܟܰܚܳـܝܐ ܝܐ. ܐܰܬ ܬܰܪܬܶܐ ܕܰܝܪܳܝܳܬ݂ܶܐ ܚܕ݂ܐ ܐܷܫܡܰܗ ܕܰܝܪܰܝܬܐ ܙܶܪܐ ܘܐܝ ܚܪܶܬܐ ܕܰܝܪܰܝܬܐ ܢܝܣܰܢܶܐ ܟܳܡܫܰܡܫܝ ܬܷܫܡܷܫܬܐ ܒܪܷܟ݂ܬܐ ܒܝ ܕܰܝܪܐ ܘܟܳܡܥܰܘܢܝ ܐܰܟ ܟܡܐ ܬܰܠܡܝܕ݂ܶܐ ܕܟܳܝܷܠܦܝ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܒܝ ܕܰܝܪܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
 ܘ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܕܩܰܪܢܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.16" corresp="test.latn.16"/>
 ܕܐܳܬ݂ܝܢܰܐ ܠܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܝܰܥܩܘܒ ܕܩܰܪܢܐ. ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܫܒܳܒܬܐ ܝܐ ܕܝ ܩܪܝܬ݂ܐ ܕܒܰܕܷܒܒܶܐ. ܟ݂ܘܕ ܓ݂ܱܠܱܒܶܐ ܡܰܩ ܩܷܪܝܰܘܳܬ݂ܰܝܕ݂ܰܢ ܕܛܘܪܐܝܙܠܐ، ܒܰܕܷܒܒܶܐ ܣܬܶܐ ܦܰܝـܝܫܳܘܰܐ ܕܠܐ ܡܳܪܶܐ ܘܐܝ ܕܰܝܪܐ ܣܬܶܐ ܟ݂ܰܠܝܳܘܰܐ ܡܶܐ ܙܰܒܢܐ ܝܰܪܝܟ݂ܐ. ܦܰܝـܝܫܐ ܚܰܪܘܬܐ ܗܘܠ ܕܐܰܠܳܗܐ ܡܰܚܷܬܠܶܗ ܒܠܶܒܶܗ ܕܰܡ ܡܗܰܝܡܢܶܐ ܒܰܕܷܒܒܳܝܶܐ ܡܶܩܷܡ ܒܷܟܡܐ ܐܷܫܢܶܐ ܘܩܰܝـܝܡܝ ܩܘܡ ܐܘ ܛܰܥܢܐ ܕܘ ܣܝܳܡܰܝܕ݂ܰܗ ܘܣܝܡܰܠܠܶܗ ܒܓܰܒܳܪܘܬ݂ܐ. ܐܰܡ ܡܗܰܝܡܢܶܐ ܣܘܪܝܳܝܶܐ ܘܕܝܠܳܢܳܐܝܬ݂ ܐܘ ܥܰܡܐ ܕܒܰܕܷܒܒܶܐ ܣܷܡܡܶܗ ܫܘܓ݂ܠܐ ܪܰܒܐ ܐܶܒܰܗ. ܡܚܰܬ݂ܷܚܬ݂ܰܠܠܶܗ ܘܡܰܩܝܡܰܠܠܶܗ ܒܘ ܦܣܳܣܐ ܕܘ ܚܰܣܝܐ ܕܝ ܡܰܪܥܝܬ݂ܐ ܕܛܘܪܥܰܒܕܝܢ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܚܰܕ݂ܝܪܐ ܠܰܐܠܳܗܐ، ܫܘܒܚܐ ܠܐܷܫܡܶܗ، ܡܕܰܒܰܪܠܶܠܰܗ ܐܰܒܘܢܰܐ ܕܰܝܪܳܝܐ ܐܰܚܐ ܡܶܐ ܟܰܦܪܐ ܐܝ ܥܶܠܰܝܬܐ ܘܐܰܬ݂ܝ ܘܝܰܬܘ ܐܶܒܰܗ. ܐܝ ܕܰܝܪܐ ܗܰܘܝܐ ܪܷܡܙܐ ܫܰܦܝܪܐ ܕܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܒܪܝܫܶܗ ܕܝ ܩܰܪܩܰܦܬܐ ܕܘ ܛܘܪܐ ܕܝ ܒܰܓܳܟܶܐ ܕܟܷܬܝܐ ܐܘ ܛܘܪܐ ܕܓܰܘܓܰܠ. ܕܰܝܪܳܝܐ ܐܰܚܐ، ܕܰܝܪܳܝܐ ܥܠܰܝܡܐ ܟܰܫܝܪܐ ܟܳܡܩܰܪܘ ܩܶܪܳܘܐ ܐܰܠܳܗܳܝܐ ܒܪܝܫܶܗ ܕܘ ܛܘܪܰܘܐ ܠܰܐܠܳܗܐ ܡܷܚܠܷܦ ܐܘ ܥܰܡܐ ܟܘܠܶܗ ܘܟܳܫܳܓ݂ܷܠ ܒܝ ܕܰܝܪܐ ܒܠܶܒܐ ܒܰܣܝܡܐ ܘܟܳܢܳܛܰܪܠܰܗ ܢܰܕ݂ܷܦܬܐ ܥܰܡ ܬܪܶܐ ܡܕܰܝܠܳܢܶܐ ܕܟܳܡܥܰܘܢܝܠܶܗ ܒܘ ܫܘܓ݂ܠܐ ܕܝ ܕܰܝܪܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
 ܙ. ܐܝ ܕܰܝܪܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܕܚܰܐܚ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.18" corresp="test.latn.18"/>
 ܕܐܳܬ݂ܝܢܰܐ ܐܰܢܢܰܩܩܰܐ ܠܝ ܕܰܝܪܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܕܟܷܬܝܐ ܒܝ ܩܪܝܬ݂ܐ ܕܚܰܐܚ. ܐܝ ܕܰܝܪܰܬ݂ܶܐ، ܚܕ݂ܐ ܡܰܕ ܕܰܝܪܳܬ݂ܶܐ ܥܰܬܝܩܶܐ ܕܛܘܪܥܰܒܕܝܢ ܝܐ. ܠܘ ܓܳܪܰܐܢ ܕܝ ܬܷܫܥܝܬ݂ܐ ܕܘ ܫܶܬܳܣܐ ܕܝ ܕܰܝܪܐ، ܟܷܐܡܡܝ ܐܰܡ ܡܓܘܫܶܐ ܕܐܰܬ݂ܷܢܘܰܐ ܠܝ ܣܳܥܘܪܘܬ݂ܐ ܕܷܡܫܝـܚܐ ܒܝ ܕܥܰܪܬܐ ܡܰܚܰܬܬܶܗ ܐܰܫ ܫܶܬܶܣܶܐ ܕܝ ܕܰܝܪܰܬ݂ܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܐܝܕ݂ܷܥܬܐ ܝܐ ܒܘ ܥܘܠܡܐ ܣܘܪܝܳܝܐ ܟܘܠܶܗ. ܐܝ ܕܰܝܪܐ ܕܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ ܐܘ ܒܷܢܝܳܢܰܝܕ݂ܰܗ ܢܰܥܝܡܐ ܝܐ، ܒܰܣ ܓ݂ܱܠܱܒܶܐ ܫܰܦܝܪܐ ܝܐ ܘܗܘܠ ‌ܐܰܕܝܰܘܡܰܐ ܦܰܝܷܫ ܢܛܝܪܐ ܒܘ ܚܰܝܠܐ ܕܰܐܠܳܗܐ. ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܕܟܷܬܢܶܐ ܟܘܠܠܶܗ ܣܘܪܝܳܝܶܐ ܟܳܢܷܛܪܝܠܶܗ. ܟܝܬ ܐܶܒܰܗ ܡܰܕܪܰܫܬܐ ܕܘ ܣܘܪܝܳـܝܐ ܘܟܳܩܳܪܷܢ ܐܰܢ ܢܰܥܝܡܶܐ ܕܝ ܩܪܝܬܐ ܐܶܒܰܗ. ܐܝ ܕܰܝܪܐ ܦܬܷܚܬܐ ܝܐ ܠܝ ܬܷܫܡܷܫܬܐ ܕܟܘܠܠܶܗ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܘܠܰܣ ܣܳܥܘܪܶܐ ܕܟܳܐܬ݂ܷܢ ܡܘ ܥܰܡܰܝܕ݂ܰܢ ܐܘ ܡܫܝـܚܳـܝܐ ܣܘܪܝܳܝܐ. ܟܷܐܙܙܶܗ ܘܟܳܐܬ݂ܶܠܰܗ ܣܳܥܘܪܶܐ ܓ݂ܱܠܱܒܶܐ ܘܒܘ ܫܰܗܪܰܝܕ݂ܰܗ ܟܳܐܬ݂ܶܠܰܗ ܢܳܫܶܐ ܓ݂ܱܠܱܒܶܐ ܡܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܚܶܕ݂ܳܪܰܗ ܘܡܶܐ ܠܰܪܘܰܠ. ܟܳܐܬ݂ܷܢ ܠܝ ܨܠܘܬ݂ܐ ܕܡܰܝܕܝ ܐܝ ܒܘܪܷܟܬ݂ܐ ܕܝ ܝܳܠܕܰܬ݂ ܐܰܠܳܗܐ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.19" corresp="test.latn.19"/>
 ܚ. ܐܝ ܕܰܝܪܐ ܕܡܳܪܝ̱ ܐܰܚܐ ܕܟܰܦܪܐ ܐܝ ܥܶܠܰܝܬܐ
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.20" corresp="test.latn.20"/>
 ܟܷܬܠܰܢ ܕܰܝܪܐ ܚܪܶܬܐ ܥܰܠ‌ ܐܷܫܡܶܗ ܕܘ ܩܰܕܝܫܐ ܡܳܪܝ̱ ܐܰܚܐ. ܐܝ ܕܰܝܪܰܬ݂ܶܐ ܕܚܰܬ݂ܐ ܦܬܝـܚܐ ܐܰܕܫܰܬܐ ܩܰܪܘܬܐ ܝܐ ܠܝ ܩܪܝܬ݂ܐ ܕܟܰܦܪܐ ܐܝ ܥܶܠܰܝܬܐ. ܟ݂ܘܕ ܓ݂ܱܠܱܒܶܐ ܡܰܩ ܩܷܪܝܰܘܳܬ݂ܰܝܕ݂ܰܢ ܕܘ ܛܘܪܐ، ܟܰܦܪܐ ܐܝ ܥܶܠܰܝܬܐ ܣܬܶܐ ܠܐ ܦܰܝܷܫ ܐܶܒܰܗ ܣܘܪܝܳܝܶܐ ܘܐܝ ܕܰܝܪܐ ܕܟܷܬܝܐ ܒܘ ܩܘܪܘܰܝܕ݂ܰܗ ܦܰܝـܝܫܳܘܰܐ ܟ݂ܠܝܬ݂ܐ ܙܰܒܢܐ ܝܰܪܝܟ݂ܐ ܘܚܰܪܘܬܐ ܘܰܐ ܗܘܠ ܡܶܩܷܡ ܟܡܐ ܐܷܫܢܶܐ. ܐܰܡ ܡܗܰܝܡܢܶܐ ܕܟܰܦܪܐ ܐܝ ܥܶܠܰܝܬܐ ܒܘ ܥܶܘܳܢܐ ܕܘ ܚܘܕ݂ܪܰܬ݂ܬ݂ܶܗ ܕܟܷܬܝܐ ܪܰܟܝܘܐ ܒܝ ܓܳܠܘܬ݂ܐ. ܩܰܝـܝܡܝ ܩܘܡ ܐܘ ܛܰܥܢܐ ܕܘ ܣܝܳܡܰܝܕ݂ܰܗ ܘܣܝܡܰܠܠܶܗ ܫܰܦܝܪܐ. ܣܷܡܡܶܗ ܫܘܓ݂ܠܐ ܪܰܒܐ ܐܶܒܰܗ ܘܡܚܰܬ݂ܷܚܬ݂ܰܠܠܶܗ ܘܡܰܩܝܡܰܠܠܶܗ. ܒܷܬ݂ܷܪ ܡܶܐ ܕܚܰܕ݂ܝܪܐ ܡܰܚܰܬܬܶܗ ܐܶܒܰܗ ܡܕܰܝܠܳܢܐ ܕܗܳܘܶܠܰܗ ܢܳܛܘܪܐ ܒܘ ܐܰܓ݂ܪܰܝܕ݂ܶܗ ܒܣܰܒܪܐ ܕܝܰܘܡܐ ܕܘܥܪܝ ܘܗܘܝܐ ܐܝ ܕܰܝܪܰܬ݂ܬ݂ܶܗ ܚܰܕ݂ܷܪܬܐ.
         </p>
           <!-- Repeat the <p> element as needed -->
@@ -156,44 +194,82 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Ad dayre ftiḥe d bi marciṯo d Ṭurcabdin
 		  Këtlan adyawma bi marciṯo d Ṭurcabdin tmone dayre d këtne camire w ftiḥe. B hën kit dayroye b hën ste ucdo layt, bas konëṭri d ëzzalle dayroyo. D layt appe dayroyo këtte mdaylono. Bu rišo dad dayrani këṯyo i dayro d Mor Gabriel d këtyo i dukto d kofoyëš eba u ḥasyo d Ṭurcabdin w komëḥšowo xud beṯmqomo du ḥasyo. Mawxa gëd bodeno bi qamayto d koṯawno cal i dayro d Mor Gabriel w bëṯër gëd mdawamno d koṯawno cal ad dayre ḥrene ste bas karyo karyo.
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 1. I dayro d Mor Gabriel
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
 Adyawma kito ḥammëš w ëšti nafšoṯe bi dayro. Kit ḥasyo, dayroye, dayroyoṯe, yolufe, malfone w mdaylone. Kul ḥa këtle tëšmëšto bi dayro. U rišo di dayro u ḥasyo di marciṯo d Ṭurcabdin Mor Ṭimoṯeos Šmuyel Aqṭaš yo. Ad dayroye w ad dayroyoṯe bi ṣluto d komqadmi l Aloho bë tloṯo cedone: b ramšo, b ṣafro w b falge d yawmo. Koṯukri am mhaymne kulle d komcawni i dayro. Komënṭoro i dayraṯe baṣ ṣlawoṯe daq qadiše d këtne eba ṭmire w baṣ ṣlawoṯe dad dayroye w dad dayroyoṯe d komṣalën kul yawmo eba w bi ḥubo dam mhaymne d korëḥmi i dayro w kobëlla iḏo du cewono. Komënṭoro i dayraṯe bu zabnano u casqo xud nṭiro baz zabne ḥrene d aṯi acla šabṭe. Kala qëmto bu ḥaylo d Aloho w hawyo šubḥo li Suryoyuṯo. I dayro komqadmo tëšmëšto rabṯo l Aloho w li nošuṯo b kul ḥubo w basimuṯo, lac came kulle d koṯën li dayraṯe w d kozayrila me kul aṯro w me kul tawdiṯo dlo furšono. L kulle komëfrëš iqoro bi dayraṯe. I dayro d Mor Gabriel, dayro mqadašto yo d këtyo u tarcayḏa ftiḥo lu cëlmo kule, lan noše kulle d koṯën w ṭëlbi aṣ ṣlawoṯe daq qadiše d këtne damixe bi dayraṯe w aṣ ṣlawoṯe du ḥasyo w dad dayroye w dad dayroyoṯe d këtne bi dayro. 
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 Tëšmëšto ḥreto komqadmo i dayro d Mor Gabriel lu camo Suryoyo bu tulifo du lešono Suryoyo w di haymonuṯo mšiḥayto, tëšmëšto rabṯo yo. Xud mqadamla baz zabne d meqëm ucdo ste komqadmo. Lo bas tulifo du lešono Suryoyo elo daṭ ṭëkse di Cito Suryayto ste: aṭ ṭëkse šbiḥe d maḥtënne an abohoṯayḏan maz zabne qamoye. Ṣluṯo kowe bi dayro kul yawmo w qerowo kowe eba b ṣafro d kul yawme d arbco, yawme dë cruto, bay yawme daḥ ḥušabe, bay yawme dab bëṭlone, dac cede moronoye w dad dukrone daq qadiše. Cade ṭawto kit bi dayro d konëṭri i mašëlmonuṯo di Cito Suryayto lu goran d huwallanyo an abohoṯo Suryoye. Mawxa i dayro kolozam miyaqro bi tëšmëštaṯe diḏa w as Suryoye brixe këḏci u medano w komyaqrila xud kolozam.
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 I dayro komqadmo i tëšmëštaṯe ban noše d kit eba. Lo ṭocina ad dayroyoṯe. I tëšmëšto rabṯo d komqadmila ad dayroyoṯe bi dayraṯe lo këṯyo l tëḥkiyo. U ṭacno rabo di dayro cal ḥaṣayye yo. Hënnëk ne d kosaymi i tëšmëšto rabṯo bi dayro. Komḥaḏri u muklo dan noše di dayro, komnaḏfi i dayro w komqabli as socure mhaymne d koṯën li dayraṯe w dilonoyit an neše mšiḥoye Suryoye. Hawxa kowën ṭufso w ṣurto šafërto daḥ ḥaye di mšiḥoyuṯo laḏ ḏayfe di dayro w kobën hërgo ṭawwo l kul aṯto w barṯo Suryayto d këṯyo w d kofayšo acmayye bi dayro.
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
 2. I dayro d Mor Yacqub u ḥbišoyo
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
 Këtlan šeṯ dayre ḥrene bi marciṯo d Ṭurcabdin d këtne camire w ftiḥe adyawma. Ḥḏo manne i dayro d Mor Yacqub u Ḥbišoyo yo d komidoco bayn u camo zëd i dayro d Mor Yacqub d Ṣalëḥ. I dayraṯe ste catëqto yo w bu zabnayḏa mšamašla i Cito Suryayto xud kursi di ḥasyuṯo d Ṭurcabdin w arbacmo ëšne ste xud kursi d faṭëryarxuṯo d Ṭurcabdin. Adyawma këtlan bi dayraṯe dayroyo, ḥammëš dayroyoṯe, malfono, casro yolufe w mdaylono. U rišo di dayro adyawma abuna dayroyo Daniyel u Qusnoyo yo. Meqëm mene u rišdayro di dayro u mḥasyo d dayroyo Yacqub u botoyo wa. Ad dayroyoṯe komšamši bi dayro w komcawni u dayroyo bi tëšmëšto di dayro w ay yolufe d koqorën bi madrašto di dayro. I dayro šubhoro yo lu camo Suryoyo, košëbho li wardo bayn ak kube bi qrito w kobo šufro mḥalfo li qriṯo d Ṣalëḥ d adyawma lo fayëš eba noše mu camayḏan u Suryoyo ġer me tarte niše bi qriṯo w an noše d kofayši bi dayro. U šufro di dayraṯe rabo yo w Aloho mcawën u dayroyo w ad dayroyoṯe d këtne bi dayro w konëṭri li dayraṯe d këtyo ṣurto šafërto di mšiḥoyuṯo bi qriṯo. 
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 3. I dayro d Mor Abrohom w Mor Hobil
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
 Këtlan dayro ḥreto d komëqroyo i dayro d Mor Abrohom w Mor Hobil b Mëḏyaḏ. Mor Hobil ḥa mat talmiḏe di dayro d Mor Gabriel wa. Azze macmarle i dayro bu qurwo d Mëḏyaḏ. Kit eba mnawoṯe mag garme d Mor Abrohom d këtwa u malfono d Mor Barṣawmo u rišo dan abile. Adyawma i dayraṯe mḥaṯëḥṯo bi yaṣifuṯo du camo d Mëḏyaḏ w bi yaṣifuṯo du ḥasyo di marciṯo d Ṭurcabdin. Ab beṯqbure d Mëḏyaḏ kulle ḥiḏora di dayro ne. I dayro ftëḥto yo w kofayši eba as socure Suryoye d koṯën me Awrupa w ag galwoye ste kosëtri eba hul d ḥozënne dukṯo w kofayši b kul ṯniḥuṯo bab bënyone d macëmri me ḥaṯo. Bëṯër me d mšanele l dayroyo Abrohom u Mëḏyoyo d këtwa eba, xalyo mad dayroye. Adyawma koḥoyarla u mcadrono du rišo du mawtbo d ac citoṯe d Mëḏyaḏ Yawsef Turker d be Maqsi-Alyas.
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
 4. I dayro d Mor Awgin
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
 Dayro ḥreto mad dayrani i dayro d Mor Awgin yo. Dayro catëqto w gäläbe mšamahto yo. Adyawma komiḏoco xud i dayro catëqto d këtyo ftëḥto w camërto b dayroye bayn ad dayre d bu culmo. I dayro d Mor Awgin bëṯër me d fayišowa arbci ëšne xliṯo d lo noše Aloho mdabarlela abuna dayroyo Yoqën Unval d be Yacqub d oṯe w d fotëḥ u tarcayḏa. I dayro ucdo ftëḥto yo li ṣluṯo w li tëšmëšto ruḥonayto. U dayroyo komṣale eba cam am mšamšone ḥrene d komcawnile. W hawi ḥedoṯo w šuġlo gäläbe eba ban ëšne ḥaroyani bi yaṣifuto du ḥasyo di marciṯo w du camo mhaymno dë mqadamle az zëdqoṯayḏe li dayro. I dayro kit eba adyawma dayroyo w mdaylono w kmo yolufe d koqorën tamo. 
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
 (Nuhoro du mtarṣono: kito ucdo dayroyo David Karli ste d aṯi me Delmenhorst.)
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
 5. I dayro d Mor Malke
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
 I dayro d Mor Malke d këtyo qaruto li qrito d Arkaḥ, ḥḏo mad dayre catiqe d Ṭurcabdin yo. Lu goran di tëšciṯo d Mor Malke u qadišo, Mor Malke u abro di ḥoṯo d Mor Awgin yo. I dayraṯe këtla tëšciṯo ġäläbe basëmto w aṯi acla zabne ġäläbe mayire. Naqlawat ġäläbe laḥ ḥanfe maḥërwalle elo lu camo Suryoyo dë briṯo kula w dilonoiṯ lu camo d Arkaḥ disa macëmralle. I dayro këtla tre dayroye w tarte dayroyoṯe kašire w kmo yolufe d koqorën eba. Ac comure di dayro simalle fardayso d Aloho bag gane w baḥ ḥaqloṯe w bab bëstone d sëmme ḥeḏora w šuġlo ġäläbe šġëlle eba. Kul ḥa d zoyër i dayraṯe gëd moyëd ruḥo ḥaṯto w ruḥo basëmto maq qadišayḏa. Gëd moyëd ḥaylo w lebo lu šuġlo mi kaširuṯo w mu šuġlo dad dayroye w dad dayroyoṯe d këtne eba. U rišo di dayro dayroyo Išëc Aṭaš d be Baššo u Qusnoyo yo w u mcawnonayḏe dayroyo Cäziz Čelik d be Ḥawšab u Arkaḥoyo yo. At tarte dayroyoṯe ḥḏo ëšma dayrayto Zero w i ḥreto dayrayto Nisane komšamši tëšmëšto brëxto bi dayro w komcawni ak kmo talmiḏe d koyëlfi lešono Suryoyo bi dayro.
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
 6. I dayro d Mor Yacqub d Qarno
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
 D oṯina li dayro d Mor Yacqub d Qarno. I dayraṯe šbobto yo di qriṯo d Badëbbe. Xud ġäläbe maq qëryawoṯayḏan d Ṭurizlo, Badëbbe ste fayišowa dlo more w i dayro ste xalyowa me zabno yarixo. Fayišo ḥaruto hul d Aloho maḥëtle b lebe dam mhaymne Badëbboye meqëm bë kmo ëšne w qayimi qum u ṭacno du syomayḏa w simalle b gaboruṯo. Am mhaymne Suryoye w dilonoiṯ u camo d Badëbbe sëmme šuġlo rabo eba. Mḥaṯëḥṯalle w maqimalle bu fsoso du ḥasyo di marciṯo d Ṭurcabdin. Bëṯër me d ḥaḏiro l Aloho, šubḥo l ëšme, mdabarlela abuna dayroyo Aḥo me Kafro i Celayto w aṯi w yatu eba. I dayro hawyo rëmzo šafiro di mšiḥoyuṯo b riše di qarqafto du Ṭuro di Bagoke d këtyo u Ṭuro d Gawgal. Dayroyo Aḥo, dayroyo claymo kaširo komqaru qerowo alohoyo b riše du ṭurawo l Aloho mëḥlëf u camo kule w košoġël bi dayro b lebo basimo w konoṭarla naḏëfto cam tre mdaylone d komcawnile bu šuġlo di dayro.
-
-
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
 7. I dayro di Yoldaṯ Aloho d Ḥaḥ
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.18" corresp="test.syr.18"/>
 D oṯina annaqqa li dayro di Yoldaṯ Aloho d këtyo bi qriṯo d Ḥaḥ. I dayraṯe, ḥḏo mad dayroṯe catiqe d Ṭurcabdin yo. Lu goran di tëšciṯo du šetoso di dayro, këmmi am mguše d aṯënwa li socuruṯo dë Mšiḥo bi dcarto maḥatte aš šetese di dayraṯe. Cal hawxa iḏëcto yo bu culmo Suryoyo kule. I dayro d Yoldaṯ Aloho u bënyonayḏa nacimo yo, bas ġäläbe šafiro yo w hul adyawma fayëš nṭiro bu ḥaylo d Aloho. An noše di qriṯo d këtne kulle Suryoye konëṭrile. Kit eba madrašto du Suryoyo w koqorën an nacime di qrito eba. I dayro ftëḥto yo li tëšmëšto d kulle an noše di qriṯo w las socure d koṯën mu camayḏan u mšiḥoyo Suryoyo. Këzze w koṯela socure ġäläbe w bu šahrayḏa koṯela noše ġäläbe maq qëryawoṯe d ḥeḏora w me larwal. Koṯën li ṣluṯo d maydi i burëkṯo di Yoldaṯ Aloho.
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.19" corresp="test.syr.19"/>
 8. I dayro d Mor Aḥo d Kafro i Celayto
-
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.20" corresp="test.syr.20"/>
 Këtlan dayro ḥreto cal ëšme du qadišo Mor Aḥo. I dayraṯe d ḥaṯo ftiḥo adšato, qaruto yo li qriṯo d Kafro i Celayto. Xud ġäläbe maq qëryawoṯayḏan du Ṭuro, Kafro i Celayto ste lo fayëš eba Suryoye w i dayro d këtyo bu qurwayḏa fayišowa xliṯo zabno yarixo w ḥaruto wa hul meqëm kmo ëšne. Am mhaymne d Kafro i Celayto bu cewono du ḥuḏraṯṯe d këtyo rakiwo bi goluṯo. Qayimi qum u ṭacno du syomayḏa w simalle šafiro. Sëmme šuġlo rabo eba w mḥaṯëḥṯalle w maqimalle. Bëṯër me d ḥaḏiro maḥatte eba mdaylono d howela noṭuro bu aġrayḏe b sabro d yawmo ducri w huyo i dayraṯṯe ḥaḏërto.
         </p>
           <!-- Repeat the <p> element as needed -->

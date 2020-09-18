@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܰܚ ܚܰܝܶܐ ܒܗܳܠܰܢܕܰܐ</foreign> / Aḥ ḥaye b Holanda</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Atiya Akfidan Turan
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1306</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -111,21 +111,37 @@
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܡܝ ܫܰܬܐ ܕܰܢ 1977 ܐܰܬ݂ܝܳܢܐ ܥܰܡ ܐܝ ܐܝܩܰܪܬ݂ܰܝܕ݂ܝ ܡܶܐ ܬܘܪܟܝـܝܰܐ ܠܗܳܠܰܢܕܰܐ. ܐܰܬ݂ܝܳܢܐ ܡܶܐ ܕܘܟܬ݂ܐ ܡܫܰܘܚܰܪܬܐ. ܗܰܪܟܶܐ ܒܗܳܠܰܢܕܰܐ ܡܫܰܘܫܛܝܢܰܐ ܓ݂ܱܠܱܒܶܐ. 
 ܟܘܠ ‌ܐܰܬ݂ܪܐ ܟܷܬܠܶܗ ܡܶܕܳܢܶܐ ܕܝܠܳܢܳܝܶܐ ܘܐܝܕ݂ܝܥܶܐ. ܗܳܠܰܢܕܰܐ ܐܰܬ݂ܪܐ ܕܶܡܳܩܪܰܛܳܝܐ ܝܐ. ܟܳܡܝܪܰܝܫܰܢ ܡܶܐ ܡܰܠܟܐ ܘܡܰܠܷܟܬ݂ܐ. ܒܝ ܩܘܛܢܘܬ݂ܐ ܕܗܳܠܰܢܕܰܐ ܟܝܬ ܡܰܬ݂ܶܐ ܘܚܰܡܫܐ ܘܥܷܣܪܝ (225) ܩܳܝܘܡܶܐ ܕܰܓ ܓܰܒܶܐ، ܚܰܡܫܐ ܘܫܰܘܥܝ (75) ܒܝ ܩܶܠܰܝܬܐ ܕܰܘ ܘܰܙܝܪܶܐ (Eerste Kamer/Staten Generaal) ܘܡܐ ܘܚܰܡܫܝ (150) ܒܘ ܦ݁ܰܪܠܰܡܰܢܬܐ (Tweede Kamer/Parlement). ܟܘܠ ܢܳܫܐ ܟܝܒܶܗ ܡܫܰܬܰܣ ܓܰܒܐ ܕܠܐ ܩܷܛܪܐ ܐܝܢܰܩܠܰܐ ܕܡܳܠܶܐ ܐܰܫ ܫܰܪܛܰܬ. ܐܰܓ ܓܰܘܢܶܐ ܕܝ ܐܳܬ݂ܐ ܕܗܳܠܰܢܕܰܐ ܣܶܡܳܩܐ، ܚܶܘܳܪܐ ܘܙܰܪܩܐ ܢܶܐ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܘ ܐܰܬܪܐ ܕܗܳܠܰܢܕܰܐ ܚܰܐ ܡܰܢ ܐܰܬ݂ܪܰܘܳܬ݂ܶܐ ܡܫܰܘܫܛܶܐ ܕܷܒܪܝܬ݂ܐ ܝܐ ܒܘ ܕܰܪܓ݂ܐ ܥܶܠܳܝܐ. ܗܳܠܰܢܕܰܐ ܡܘܡܳܢܳܐܝܬ݂ ܥܰܬܷܪܬܐ (ܙܰܢܓܝܢ) ܝܐ، ܟܝܬ ܦܘܠܚܳܢܐ ܓ݂ܱܠܱܒܶܐ ܘܢܳܫܶܐ ܟܰܦܝܢܶܐ ܠܰܝܬ. ܐܰܢ ܢܳܫܶܐ ܕܠܐ ܟܳܩܳܪܷܢ ܐܰܘ ܦܷܠܚܝ، ܟܳܩܳܝܰܬ݂ܬ݂ܶܗ ܡܥܰܕܪܳܢܘܬܐ ܟܢܘܫܝܰـܝܬܐ. ܐܘ ܣܝܣܬܰܡ ܕܝ ܡܰܕܪܰܫܬܐ ܛܰܘܘܐ ܝܐ ܠܟܘܠ ܚܰܐ ܕܟܳܐܒܰܥ ܩܳܪܶܐ ܘܝܳܠܰܦ. ܐܘ ܢܳܡܘܣܐ ܐܶܣܳܢܳܝܐ ܕܗܳܠܰܢܕܰܐ ܪܰܟܝܘܐ ܝܐ ܥܰܠ ܩܳܢܘܢܶܐ ܡܫܝـܚܳـܝܶܐ. ܗܳܠܰܢܕܰܐ ܠܰܬܠܰܗ ܓ݂ܱܠܱܒܶܐ ܥܰܦܪܐ ܐܶܠܐ ܟܝܬ ܐܶܒܰܗ ܠܩܘܪܘܐ ܕܷܫܘܰܥܣܰܪ (17) ܡܷܠܝܘܢܶܐ ܥܰܡܐ. ܐܰܢ ܐܰܬ݂ܪܰܘܳܬ݂ܶܐ ܕܒܰܠܫ̰ܝܩܰܐ ܘܣܘܪܝܢܰܡܶܐ ܡܶܩܷܡ ܡܷܚܫܳܘܝܘܰܐ ܦܰܠܩܐ ܡܶܐ ܗܳܠܰܢܕܰܐ. ܒܷܬ݂ܷܪ ܡܷܕܕܶܗ ܐܝ ܚـܝܪܘܬ݂ܰܬ݂ܬ݂ܶܗ. ܗܘܠ ܠܐܰܕܝܰܘܡܰܐ ܐܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ ܐܘ ܪܘܫܡܳܝܐ ܗܳܠܰܢܕܳܝܐ ܝܐ. ܗܘܠ ܠܐܰܕܝܰܘܡܰܐ Nederlandse Antillen  ܦܰܠܩܐ ܡܶܐ ܗܳܠܰܢܕܰܐ ܟܳܡܷܚܫܳܘܝ. ܗܰܢܝ ܓܳܙܰܪܝܳܬ݂ܶܐ (ܐܰܕܰܬ) ܢܶܐ ܒܘ ܝܰܡܐ ܕ Caribeanܒܘ ܡܰܥܷܪܒܐ ܕܷܒܪܝܬ݂ܐ. ܐܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ ܣܬܶܐ ܗܳܠܰܢܕܳܝܐ ܝܐ. 
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܐܘ ܥܰܡܐ ܕܗܳܠܰܢܕܰܐ ܓ݂ܱܠܱܒܶܐ ܟܳܩܳܠܰܥ ܒܷܣܷܟܠܶܬܶܐ. ܐܰܢ ܢܰܥܝܡܶܐ ܡܶܐ ܢܰܥܡܘܬ݂ܰܝـܝܶܗ ܟܳܝܷܠܦܝ ܕܩܘܠܥܝ ܒܷܣܷܟܠܶܬ ܕܰܬ ܬܠܷܬ݂ ܓܝܓ݂ܠܶܐ. ܟܝܬ ܓ݂ܱܠܱܒܶܐ ܫܷܟܠܰܬ ܕܒܷܣܷܟܠܶܬܶܐ: ܐܘ ܒܷܣܷܟܠܶܬ ܕܟܷܐܡܡܝܠܶܗ ܕܝ ܩܰܫܬܐ ܠܰܝ ܝܳܠܘܦܶܐ ܝܐ. ܐܘ ܒܷܣܷܟܠܶܬܰܢܐ ܐܰܥ ܥܠܰܝܡܶܐ ܘܐܰܥ ܥܠܰܝܡܳܬ݂ܶܐ ܟܳܡܷܣܬܰܥܷܡܠܝܠܶܗ. ܠܰܬܠܶܗ ܦܪܶܢ ܕܝ ܐܝܕ݂ܐ ܟ݂ܘܕ ܐܰܚ ܚܪܶܢܶܐ. ܐܘ ܒܷܣܷܟܠܶܬ ܕܘ ܣܝܦ݁ܳܪ ܡܶܢ ܟܘܠ ܦܪܘܣ ܐܰܦ ܦܰܪܨܘܦܶܐ ܕܟܳܣܰܝܡܝ ܣܝܦ݁ܳܪ ܟܳܡܷܣܬܰܥܷܡܠܝܠܶܗ. ܐܘ ܩܠܳܥܰܝܕ݂ܶܗ ܓ݂ܱܠܱܒܶܐ ܟ݂ܰܝـܝܦܐ ܝܐ. ܐܘ ܒܷܣܷܟܠܶܬ ܕܘ ܐܶܠܶܟܬܪܝܟ ܟܷܬܠܶܗ ܡܳܛܳܪ ܥܰܡ ܓܰܒܶܗ. ܐܘ ܢܳܫܐ ܕܟܳܡܰܣܘ ܐܰܘ ܕܩܳܠܰܥ ܠܕܘܟܬ݂ܐ ܪܰܚܷܩܬܐ ܟܳܙܳܘܰܢ ܐܘ ܒܷܣܷܟܠܶܬܰܢܐ. ܐܘ ܒܷܣܷܟܠܶܬ ܟܝܒܶܗ ܩܳܠܰܥ ܟ݂ܰܝـܝܦܐ، ܡܘ ܡܳܛܳܪ ܕܟܷܬܠܶܗ. ܐܘ ܒܷܣܷܟܠܶܬ ܕܝ ܫܘܩܐ ܠܐ ܟܳܡܷܩܠܰܥ ܒܕܰܪܒܳܢܶܐ ܪܰܚܘܩܶܐ. ܐܘ ܥܰܡܐ ܕܟܷܐܙܙܶܗ ܠܝ ܫܘܩܐ ܟܳܩܳܠܰܥ ܒܘ ܒܷܣܷܟܠܶܬܰܢܐ. ܟܝܬ ܒܷܣܷܟܠܶܬ ܐܷܫܡܶܗ ܬܰܢܕܷܡ tandem. ܥܰܠ ܗܰܢܐ ܬܪܶܐ ܦܰܪܨܘܦܶܐ (ܫܰܩܨܰܬ) ܟܳܩܘܠܥܝ. ܟܳܘܷܢ ܡܰܣܪܶܗ ܒܷܚܕ݂ܳܕ݂ܶܐ. ܒܗܳܠܰܢܕܰܐ ܟܝܬ ܙܷܕܬܷܪ ܡܶܐ ܬܪܶܐ ܘܥܷܣܪܝ (22) ܡܷܠܝܘܢܶܐ ܕܒܷܣܷܟܠܶܬܶܐ. ܗܰܩܩܰܐ ܒܷܣܷܟܠܶܬܶܐ ܒܐܰܬ݂ܪܐ ܚܪܶܢܐ ܠܐ ܚܙܶܠܝ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܗܳܠܰܢܕܰܐ ܠܰܬܠܰܗ ܛܘܪܳܢܶܐ ܥܶܠܳܝܶܐ ܟ݂ܷܕ ܐܰܬ݂ܪܰܘܳܬ݂ܶܐ ܚܪܶܢܶܐ. ܟܘܠܰܗ ܡܣܰܘܰܝܬܐ ܝܐ. ܐܰܕ ܕܰܪܒܶܐ ܟܘܠܠܶܗ ܡܣܰܘܝܶܐ ܢܶܐ. ܐܘ ܒܷܣܷܟܠܶܬ ܠܰܕ ܕܰܪܒܶܐ ܡܣܰܘܝܶܐ ܟܳܡܰܢܦܰܥ ܓ݂ܱܠܱܒܶܐ ܛܰܘܘܐ. ܚܰܐ ܠܐ ܟܳܢܳܦܰܠ ܟ݂ܰܝـܝܦܐ ܡܘ ܒܷܣܷܟܠܶܬ ܒܰܕ ܕܰܪܒܶܐ ܡܣܰܘܝܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܗܳܠܰܢܕܰܐ ܟܳܡܷܩܪܳܝܐ ܐܰܬ݂ܪܐ ܕܘ ܒܷܣܷܟܠܶܬ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܗܳܠܰܢܕܰܐ ܐܝܕ݂ܷܥܬܐ ܝܐ ܡܰܡ ܡܣܳܢܶܐ ܕܘ ܩܰܝܣܐ (klompen)، ܡܰܗ ܗܰܒܳܒܶܐ، ܡܰܪ ܪܷܚܝܶܐ ܘܡܘ ܣܝܳܡܐ ܕܝ ܓܘܶܬܐ. ܐܘ ܥܰܡܐ ܠܰܪܘܰܠ ܡܶܐ ܗܳܠܰܢܕܰܐ، ܟܳܚܳܙܶܐ ܗܳܠܰܢܕܰܐ ܐܰܬ݂ܪܐ ܕܰܕ ܕܰܘܳܪܶܐ ܘܕܰܬ ܬܰܘܪܳܬ݂ܶܐ. ܗܳܠܰܢܕܰܐ ܟܷܬܠܰܗ ܓ݂ܱܠܱܒܶܐ ܬܰܘܪܳܬ݂ܶܐ ܕܟܳܐܒܷܢ ܚܰܠܘܐ. ܐܰܗ ܗܳܠܰܢܕܳܝܶܐ ܥܰܡܐ ܣܰܘܝܥܶܐ ܢܶܐ. ܗܰܪܟܶܐ ܟܰܦܢܐ ܘܨܰܗܘܐ ܠܰܝܬ. ܟܐܘܟ݂ܠܝ ܓ݂ܱܠܱܒܶܐ ܒܰܣܪܐ ܕܰܬ ܬܰܘܪܳܬ݂ܶܐ، ܟܳܫܳܬܷܢ ܚܰܠܘܐ ܘܟܐܘܟ݂ܠܝ ܓܘܶܬܐ ܓ݂ܱܠܱܒܶܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܐܘ ܥܰܡܐ ܕܗܳܠܰܢܕܰܐ ܟܳܡܷܚܫܰܘ ܒܝ ܩܘܡܬ݂ܐ ܐܘ ܝܰܪܝܟ݂ܐ ܕܷܒܪܝܬ݂ܐ، ܦܪܝܫܐܝܬ ܐܘ ܓܰܘܪܐ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܐܝܢܰܩܠܰܐ ܕܗܳܘܶܐ ܩܘܪܐ ܒܘ ܣܰܬ݂ܘܐ، ܐܰܡ ܡܰܝܶܐ ܟܳܘܷܢ ܓܠܝܕ݂ܐ. ܐܰܗ ܗܳܠܰܢܕܳܝܶܐ ܟܳܪܷܚܡܝ ܕܫܰܝܪܝ ܥܰܠ ܐܘ ܓܠܝܕ݂ܐ ܒܷܡܣܳܢܶܐ ܕܰܫ ܫܰܠܦܶܐ. ܐܰܢ ܢܰܥܝܡܶܐ ܡܶܐ ܢܰܥܡܘܬ݂ܰܝـܝܶܗ ܟܳܝܷܠܦܝ ܫܝܳܪܐ. ܐܘ ܫܝܳܪܐ ܡܶܕܶܐ ܕܝܠܳܢܳܝܐ ܝܐ ܒܗܳܠܰܢܕܰܐ، ܡܝܕ݂ܶܗ ܕܷܒܟܘܠ ܕܘܟܬ݂ܐ ܟܝܬ ܡܰܝܶܐ. ܐܰܢ ܐܰܪܕܝܟ݂ܠܶܐ ܡܰܥܡܰܪܪܶܗ Delta Werken ܕܡܰܟܠܷܢ ܐܰܡ ܡܰܝܶܐ. ܡܰܥܡܰܪܪܶܗ ܣܷܟܪܶܐ ܙ̰ܒܳܝـܝ ܕܡܰܣܷܬܪܝ ܗܳܠܰܢܕܰܐ ܡܰܡ ܡܰܝܶܐ. ܕܠܐ ܡܰܢܝ، ܦܰܠܓܶܗ ܕܗܳܠܰܢܕܰܐ ܓܷܕ ܦܰܝܫܳܘܰܐ ܬܰܚܬ ܐܰܡ ܡܰܝܶܐ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܐܝܢܰܩܠܰܐ ܕܐܳܬ݂ܷܢ ܐܰܬ ܬܘܪܝܣܬ ܠܗܳܠܰܢܕܰܐ، ܟܷܐܒܥܝ ܕܚܳܙܷܢ ܐܰܡܣܬܷܪܕܰܡ. ܐܰܡܣܬܷܪܕܰܡ ܐܝ ܐܰܪܷܫܟܰܝܬܐ ܕܗܳܠܰܢܕܰܐ ܝܐ. ܐܰܡܣܬܷܪܕܰܡ ܟܳܡܷܩܪܳܝܐ ܒ݂ܶܢܶܣܝܰܐ ܕܘ ܓܰܪܒܝܐ، ܡܝܕ݂ܶܗ ܕܟܷܬܠܰܗ ܟ݂ܷܕ ܒ݂ܶܢܶܣܝܰܐ ܔܝܘܶܐ ܘܢܰܗܪܰܘܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ. ܒܝ ܓܰܡܝـܝܶܐ ܐܰܬ ܬܘܪܝܣܬ ܟܳܟܘܪܟ݂ܝ ܐܰܡܣܬܷܪܕܰܡ ܟܘܠܰܗ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܐܘ ܠܡܝܢܐ ܕܪܳܬܬܷܪܕܰܡ ܐܘ ܪܰܒܐ ܕܷܒܪܝܬ݂ܐ ܝܐ. ܪܳܬܬܷܪܕܰܡ ܟܳܡܷܩܪܳܝܐ ܐܝ ܡܕ݂ܝܬܐ ܕܘ ܠܡܝܢܐ. ܟܝܬ ܓܰܒ ܐܰܡܣܬܷܪܕܰܡ ܐܘ ܒܶܝܬ݂ܛܰܘܣܐ ܪܰܒܐ ܕܟܳܡܷܩܪܶܐ Schiphol. ܒܕܶܢ ܗܰܐܟ݂ Den Haag ܟܘܝܐ ܐܝ ܩܘܛܢܘܬ݂ܐ ܘܐܘ ܒܶܝܬܕܝܢܐ ܬܝܒܶܠܳܝܐ. ܗܰܪܟܶܐ ܐܘ ܢܳܫܐ ܟܳܡܝܚܰܫܰܘ ܥܰܠ ܐܰܚ ܚܰܘܒܶܐ ܕܣܷܡܠܶܗ ܡܩܰܒܷܠ ܕܝ ܢܳܫܘܬ݂ܐ. ܐܘ ܩܘܨܪܐ ܕܘ ܫܰܝܢܐ ܣܬܶܐ ܟܳܘܶܐ ܒܕܶܢ ܗܰܐܟ݂ Den Haag. ܗܰܪܟܶܐ ܐܝ ܩܘܛܢܘܬ݂ܐ ܕܐܰܬ݂ܪܐ ܕܟܷܬܝܐ ܗܰܕܳܡܬܐ ܒܘ ܟܢܘܫܝܐ ܐܶܡܘܳܬ݂ܐ ܡܚܰܝܕ݂ܳܬ݂ܐ ܟܳܡܷܚܫܳܘܐ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܐܘ ܥܶܕ݂ܐ ܕܡܳܪܝ ܙܳܟ݂ܶܐ (Sinterklaas) ܥܰܕܶܐ ܡܰܥ ܥܰܕܰܬ ܕܗܳܠܰܢܕܰܐ ܝܐ. ܟܳܡܝܣܰܡ ܚܰܡܫܐ ܒܟܳܢܘܢ ܩܰܡܳܝܐ. ܡܳܪܝ ܙܳܟ݂ܶܐ، ܚܰܣܝܐ ܘܰܐ، ܠܘ ܓܳܪܰܐܢ ܕܰܗ ܗܳܠܰܢܕܳܝܶܐ ܟܳܐܬ݂ܶܐ ܡܶܐ ܣܦ݁ܰܢܝܰܐ. ܡܳܪܝ ܙܳܟ݂ܶܐ ܟܳܐܒܶܐ ܕܷܫܢܶܐ ܠܰܢ ܢܰܥܝܡܶܐ. ܟܷܬܠܶܗ ܡܥܰܘܢܳܢܐ ܐܷܫܡܶܗ Zwarte Piet (ܦܰܛܪܘܣ ܐܘ ܟܳܡܐ). ܗܰܢܐ ܟܳܛܳܥܰܢ ܐܘ ܟܝܣܐ ܕܰܕ ܕܷܫܢܶܐ ܘܟܳܡܦܰܠܰܓ݂ܓ݂ܶܗ ܥܰܠ ܐܰܢ ܢܰܥܝܡܶܐ ܕܟܷܬܢܶܐ ܛܰܘܘܶܐ. ܐܰܢ ܢܰܥܝܡܶܐ ܚܰܪܒܶܐ ܟܳܡܰܚܰܬܬܶܗ ܒܘ ܟܝܣܐ ܘܟܳܡܳܒܰܠܠܶܗ ܐܰܥܡܶܗ ܠܷܣܦ݁ܰܢܝܰܐ! ܗܰܬ݂ܶܐ ܡܶܢ ܟܘܠ ܦܪܘܣ ܬܰܫܥܝܬ݂ܐ ܝܐ ܘܠܰܬܝܐ ܫܪܳܪܐ. ܐܝ ܬܰܫܥܝܬ݂ܰܬ݂ܶܐ ܟܳܡܝܬܰܚܟܝܐ ܠܰܢ ܢܰܥܝܡܶܐ ܙ̰ܒܳܝـܝ ܕܗܳܘܷܢ ܪܚـܝܡܶܐ ܘܚܰܒܝܒܶܐ. ܒܷܫܪܳܠܐ ܐܝܢܰܩܠܰܐ ܕܐܰܢ ܢܰܥܝܡܶܐ ܟܳܫܷܡܥܝ ܐܝ ܬܰܫܥܝܬ݂ܐ ܥܰܠ ܐܘ ܟܝܣܐ ܕܘ Zwarte Piet، ܠܐ ܟܳܡܰܔܪܷܢ ܕܪܷܡܫܝ ܘܟܳܘܷܢ ܓ݂ܱܠܱܒܶܐ ܛܰܘܘܶܐ!
 		</p>
           <!-- Repeat the <p> element as needed -->
@@ -135,16 +151,39 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Aḥ ḥaye b Holanda
 		  Mi šato dan 1977 aṯyono cam i iqarṯayḏi me Turkiya l Holanda. Aṯyono me dukṯo mšawḥarto. Harke b Holanda mšawšṭina ġäläbe. 
-Kul aṯro këtle medone dilonoye w iḏice. Holanda aṯro demoqraṭoyo yo. Komirayšan me malko w malëkṯo. Bi quṭnuṯo d Holanda kit maṯe w ḥamšo w cësri (225) qoyume dag gabe, ḥamšo w šawci (75) bi Qelayto daw Wazire (Eerste Kamer/Staten Generaal) w mo w ḥamši (150) bu Parlamanto (Tweede Kamer/Parlement). Kul nošo kibe mšatas gabo dlo qëṭro inaqla d mole aš šarṭat. Ag gawne di oṯo d Holanda semoqo, ḥeworo w zarqo ne.  
-U atro d Holanda ḥa man aṯrawoṯe mšawšṭe dë briṯo yo bu darġo celoyo. Holanda mumonoyiṯ catërto (zangin) yo, kit fulḥono ġäläbe w noše kafine layt. An noše d lo koqorën aw fëlḥi, koqoyaṯṯe mcadronuto knušyayto. U sistam di madrašto ṭawwo yo l kul ḥa d kobac qore w yolaf. U nomuso esonoyo d Holanda rakiwo yo cal qonune mšiḥoye. Holanda latla ġäläbe cafro elo kit eba l qurwo dë šwacsar (17) mëlyune camo. An aṯrawoṯe d Balčiqa w Suriname meqëm mëḥšowiwa falqo me Holanda. Bëṯër mëdde i ḥiruṯaṯṯe. Hul l adyawma u lišonaṯṯe u rušmoyo Holandoyo yo. Hul l adyawma Nederlandse Antillen falqo me Holanda komëḥšowi. Hani gozaryoṯe (adat) ne bu yamo d “Caribean” bu Macërbo dë briṯo. U lišonaṯṯe ste Holandoyo yo. 
-U camo d Holanda ġäläbe koqolac bësëklete. An nacime me nacmuṯayye koyëlfi d qulci bësëklet dat tlëṯ giġle. Kit ġäläbe šëklat d bësëklete: u bësëklet d këmmile di qašto lay yolufe yo. U bësëkletano ac clayme w ac claymoṯe komëstacëmlile. Latle fren di iḏo xud aḥ ḥrene. U bësëklet du sipor men kul frus af farṣufe d kosaymi sipor komëstacëmlile. U qlocayḏe ġäläbe xayifo yo. U bësëklet du elektrik këtle moṭor cam gabe. U nošo d komasu aw d qolac l dukṯo raḥëqto kozowan u bësëkletano. U bësëklet kibe qolac xayifo, mu moṭor d këtle. U bësëklet di šuqo lo komëqlac b darbone raḥuqe. U camo d këzze li šuqo koqolac bu bësëkletano. Kit bësëklet ëšme “Tandem”. Cal hano tre farṣufe (šaqṣat) koqulci. Kowën masre bë ḥḏoḏe. B Holanda kit zëdtër me tre w cësri (22) mëlyune d bësëklete. Haqqa bësëklete b aṯro ḥreno lo ḥzeli! 
+Kul aṯro këtle medone dilonoye w iḏice. Holanda aṯro demoqraṭoyo yo. Komirayšan me malko w malëkṯo. Bi quṭnuṯo d Holanda kit maṯe w ḥamšo w cësri (225) qoyume dag gabe, ḥamšo w šawci (75) bi Qelayto daw Wazire (Eerste Kamer/Staten Generaal) w mo w ḥamši (150) bu Parlamanto (Tweede Kamer/Parlement). Kul nošo kibe mšatas gabo dlo qëṭro inaqla d mole aš šarṭat. Ag gawne di oṯo d Holanda semoqo, ḥeworo w zarqo ne.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>  
+U atro d Holanda ḥa man aṯrawoṯe mšawšṭe dë briṯo yo bu darġo celoyo. Holanda mumonoyiṯ catërto (zangin) yo, kit fulḥono ġäläbe w noše kafine layt. An noše d lo koqorën aw fëlḥi, koqoyaṯṯe mcadronuto knušyayto. U sistam di madrašto ṭawwo yo l kul ḥa d kobac qore w yolaf. U nomuso esonoyo d Holanda rakiwo yo cal qonune mšiḥoye. Holanda latla ġäläbe cafro elo kit eba l qurwo dë šwacsar (17) mëlyune camo. An aṯrawoṯe d Balčiqa w Suriname meqëm mëḥšowiwa falqo me Holanda. Bëṯër mëdde i ḥiruṯaṯṯe. Hul l adyawma u lišonaṯṯe u rušmoyo Holandoyo yo. Hul l adyawma Nederlandse Antillen falqo me Holanda komëḥšowi. Hani gozaryoṯe (adat) ne bu yamo d “Caribean” bu Macërbo dë briṯo. U lišonaṯṯe ste Holandoyo yo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/> 
+U camo d Holanda ġäläbe koqolac bësëklete. An nacime me nacmuṯayye koyëlfi d qulci bësëklet dat tlëṯ giġle. Kit ġäläbe šëklat d bësëklete: u bësëklet d këmmile di qašto lay yolufe yo. U bësëkletano ac clayme w ac claymoṯe komëstacëmlile. Latle fren di iḏo xud aḥ ḥrene. U bësëklet du sipor men kul frus af farṣufe d kosaymi sipor komëstacëmlile. U qlocayḏe ġäläbe xayifo yo. U bësëklet du elektrik këtle moṭor cam gabe. U nošo d komasu aw d qolac l dukṯo raḥëqto kozowan u bësëkletano. U bësëklet kibe qolac xayifo, mu moṭor d këtle. U bësëklet di šuqo lo komëqlac b darbone raḥuqe. U camo d këzze li šuqo koqolac bu bësëkletano. Kit bësëklet ëšme “Tandem”. Cal hano tre farṣufe (šaqṣat) koqulci. Kowën masre bë ḥḏoḏe. B Holanda kit zëdtër me tre w cësri (22) mëlyune d bësëklete. Haqqa bësëklete b aṯro ḥreno lo ḥzeli!
+ </p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 Holanda latla ṭurone celoye xëd aṯrawoṯe ḥrene. Kula msawayto yo. Ad darbe kulle msawye ne. U bësëklet lad darbe msawye komanfac ġäläbe ṭawwo. Ḥa lo konofal xayifo mu bësëklet bad darbe  msawye. Cal hawxa Holanda komëqroyo aṯro du bësëklet.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 Holanda iḏëcto yo mam msone du qayso (klompen), mah habobe, mar rëḥye w mu syomo di gweto. U camo larwal me Holanda, koḥoze Holanda aṯro dad dawore w dat tawroṯe. Holanda këtla ġäläbe tawroṯe d kobën ḥalwo. Ah Holandoye camo sawice ne. Harke kafno w ṣahwo layt. Kuxli ġäläbe basro dat tawroṯe, košotën ḥalwo w kuxli gweto ġäläbe. Cal hawxa u camo d Holanda komëḥšaw bi qumṯo u yarixo dë briṯo, frišoyit u gawro!
-Inaqla d howe quro bu saṯwo, am maye kowën gliḏo. Ah Holandoye korëḥmi d šayri cal u gliḏo bë msone daš šalfe. An nacime me nacmuṯayye koyëlfi šyoro. U šyoro mede dilonoyo yo b Holanda, miḏe dë b kul dukṯo kit maye. An ardixle macmarre “Delta Werken” d maklën am maye. Macmarre sëkre žboyi d masëtri Holanda mam maye. Dlo mani, falge d Holanda gëd fayšowa taḥt am maye! 
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+Inaqla d howe quro bu saṯwo, am maye kowën gliḏo. Ah Holandoye korëḥmi d šayri cal u gliḏo bë msone daš šalfe. An nacime me nacmuṯayye koyëlfi šyoro. U šyoro mede dilonoyo yo b Holanda, miḏe dë b kul dukṯo kit maye. An ardixle macmarre “Delta Werken” d maklën am maye. Macmarre sëkre žboyi d masëtri Holanda mam maye. Dlo mani, falge d Holanda gëd fayšowa taḥt am maye!
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/> 
 Inaqla d oṯën at turist l Holanda, këbci d ḥozën Amsterdam. Amsterdam i arëškayto d Holanda yo. Amsterdam komëqroyo “Venesya” du garbyo, miḏe d këtla xëd “Venesya” jiwe w nahrawoṯe ġäläbe. Bi gamiye at turist kokurxi Amsterdam kula. 
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 U lmino d Rotterdam u rabo dë briṯo yo. Rotterdam komëqroyo i mḏito du lmino. Kit gab Amsterdam u beṯṭawso rabo d komëqre Schiphol. B Den Haag kuyo i quṭnuṯo w u Betdino Tibeloyo. Harke u nošo komiḥašaw cal aḥ ḥawbe d sëmle mqabël di nošuṯo. U quṣro du šayno ste kowe b Den Haag. Harke i quṭnuṯo d aṯro d këtyo hadomto bu knušyo Emwoṯo Mḥayḏoṯo komëḥšowo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
 U ceḏo d Mor Zoxe (Sinterklaas) cade mac cadat d Holanda yo. Komisam ḥamšo b Konun qamoyo. Mor Zoxe, ḥasyo wa, lu goran dah Holandoye koṯe me Spanya. Mor Zoxe kobe dëšne lan nacime. Këtle mcawnono ëšme “Zwarte Piet” (Faṭrus u komo). Hano koṭocan u kiso dad dëšne w komfalaġġe cal an nacime d këtne ṭawwe. An nacime ḥarbe komaḥatte bu kiso w komoballe acme lë Spanya! Haṯe men kul frus tašciṯo yo w latyo šroro. I tašciṯaṯe komitaḥkyo lan nacime žboyi d howën rḥime w ḥabibe. Bë šrolo inaqla d an nacime košëmci i tašciṯo cal u kiso du “Zwarte Piet”, lo komajrën d rëmši w kowën ġäläbe ṭawwe! 
         </p>
           <!-- Repeat the <p> element as needed -->

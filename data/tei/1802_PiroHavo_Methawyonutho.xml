@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܡܶܬ݂ܚܰܘܝܳܢܘܬ݂ܐ‬</foreign> /   Meṯḥawyonuṯo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Havo Piro
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1802</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,69 +110,175 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
         ܒܟܘܠ ܙܰܘܥܐ ܡܕܘ ܒܰܪܢܳܫܐ ܟܳܡܰܚܘܶܐ ܐܳܕ݂ܫܐ ܕܡܰܡܠܐ. ܒܐܝܕ݂ܰܥܬ݂ܐ ܐܰܘ ܕܠܐ ܒܐܝܕ݂ܰܥܬ݂ܐ. ܒܰܙ ܙܰܘܥܶܐ ܕܘ ܓܘܫܡܰܝܕ݂ܰܢ ܟܝܬ ܟܘܠ ܢܰܩܠܰܐ ܡܰܡܠܐ. ܒܝ ܚـܝܰܪܬܐ، ܒܰܙ ܙܰܘܥܶܐ، ܒܘ ܫܷܟܷܠ ܕܘ ܡܰܡܠܐ، ܒܝ ܟܠܰܝܬܐ، ܒܘ ܗܰܠܟ݂ܐ، ܟܳܛܳܪܝܢܰܐ ܐܰܢ ܢܳܫܶܐ ܕܗܳܘܰܠܠܶܗ ܐܝܕ݂ܰܥܬܐ / ܡܰܘܕ݂ܥܳܢܘܬ݂ܐ ܐܰܥܠܰܝܢܰܐ. ܐܰܙ ܙܰܘܥܰܢܝ ܟܳܡܰܚܘܷܢ ܐܝ ܪܶܚܷܡܬ݂ܐ ܘܐܝ ܠܐ ܪܶܚܷܡܬ݂ܐ ܕܘ ܢܳܫܐ. ܝܰܩܘܪܬܷܪ ܡܘ ܟ݂ܰܒܪܐ ܕܢܳܦܷܩ ܡܘ ܦܶܡܐ ܢܶܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܘ ܡܰܡܠܐ ܕܘ ܒܰܪܢܳܫܐ ܟܳܟܳܡܰܠ ܒܷܦܠܰܐܢ ܐܳܕ݂ܫܐ:
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 1: ܒܝ ܚـܝܰܪܬܐ
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܒܰܝܢ ܕܰܥ ܥܰܡܶܐ ܟܘܠܠܶܗ ܐܰܪ ܪܷܓ݂ܫܶܐ ܕܰܢ ܢܳܫܶܐ ܟ݂ܘܕ ܐܝ ܟܡܝܪܘܬ݂ܐ، ܐܝ ܦܨܝـܚܘܬ݂ܐ، ܐܘ ܪܘܓ݂ܙܐ ܘܐܝ ܙܘܥܬ݂ܐ، ܐܘ ܫܷܟܷܠ ܕܝ ܦܳܬ݂ܐ ܐܰܘܟܝܬ݂ ܐܰܙ ܙܰܘܥܶܐ ܕܝ ܦܳܬ݂ܐ ܥܰܝܢܝ ܢܶܐ. ܐܝ ܚـܝܰܪܬܐ ܕܘ ܒܰܪܢܳܫܐ ܟܳܡܰܚܘܐ ܐܰܪ ܪܷܓ݂ܫܶܐ ܕܘ ܒܰܪܢܳܫܐ ܟ݂ܘܕ ܐܝ ܦܨܝـܚܘܬ݂ܐ ܐܰܘ ܐܝ ܙܘܥܬ݂ܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 2: ܚـܝܰܪܬܐ ܕܐܰܣܝܪܘܬ݂ܐ
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܐܘ ܢܳܫܐ ܕܟܳܡܷܣܬܰܥܡܷܠ ܐܝ ܚـܝܰܪܬܐ ܕܝ ܥܰܝܢܐ، ܟܳܡܰܚܘܶܐ ܙܷܕܬܷܪ ܦܨܝـܚܳـܝܐ ܐܰܘ ܙܷܕܬܷܪ ܟܝܳܢܳܝܐ. ܐܝ ܚـܝܰܪܬܐ ܕܝ ܥܰܝܢܐ ܟܳܡܰܕ݂ܝܠܐ ܐܘ ܡܰܡܠܐ. ܐܝ ܚـܝܰܪܬܐ ܕܝ ܥܰܝܢܐ ܚܰܕ݂ܷܪܬܐ ܝܐ ܠܘ ܡܰܡܠܐ. ܐܝ ܚـܝܰܪܬܐ ܕܝ ܥܰܝܢܐ ܐܘܠܨܰܝܬܐ ܝܐ، ܠܰܫܰܢ ܕܚܳܙܶܐ ܚܰܐ ܐܘ ܦܘܢܳܝܐ ܕܘ ܫܰܡܳܥܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 3: ܙܰܘܥܶܐ
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܐܘ ܙܰܘܥܐ ܐܘ ܡܰܡܠܐ ܕܰܢ ܐܝܕ݂ܳܬ݂ܶܐ ܝܐ. ܐܝܢܰܩܠܰܐ ܕܡܰܢܩܷܨ ܚܰܐ ܐܰܙ ܙܰܘܥܶܐ، ܟܳܘܶܐ ܕܙܰܝܕܝ ܐܰܦ ܦܰܘܕܶܐ. ܐܘ ܦܷܬܓ݂ܳܡܐ ܟܳܘܶܐ ܕܡܷܩܛܰܥ.
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܟܝܬܐ ܩܳܢܘܢܶܐ ܐܘܠܨܳܝܶܐ ܒܘ ܡܶܕܰܢܐ:
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
 ܐܰܙ ܙܰܘܥܶܐ ܡܣܝܡܳܢܶܐ (ܦ݁ܳܣܝܬܝܒ݂) ܟܳܩܘܪܘܝ ܠܘ ܓܘܫܡܐ ܐܰܘ ܠܰܠܥܷܠ ܡܘ ܓܘܫܡܐ ܟܳܡܝܣܳܡܝ.
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.11" corresp="test.latn.11"/>
 ܐܰܙ ܙܰܘܥܶܐ ܡܪܝܡܳܢܶܐ ܟܳܪܘܚܩܝ ܡܘ ܓܘܫܡܐ ܐܰܘ ܠܰܠܬܰܚ ܡܘ ܓܘܫܡܐ ܟܳܡܝܣܳܡܝ.
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.12" corresp="test.latn.12"/>
 ܐܰܙ ܙܰܘܥܶܐ ܕܟܳܡܝܣܳܡܝ ܠܰܠܬܰܚ ܡܘ ܓܘܫܡܐ، ܟܳܡܰܚܘܷܢ، ܡܪܝܡܳܢܶܐ ܐܰܘ ܡܕܰܚܩܳܢܶܐ. ܐܰܙ ܙܰܘܥܶܐ ܕܠܰܠܥܷܠ ܡܘ ܓܘܫܡܐ ܡܣܝܡܳܢܶܐ ܢܶܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.13" corresp="test.latn.13"/>
 4: ܐܝ ܟܠܰܝܬܐ 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.14" corresp="test.latn.14"/>
 ܒܝ ܟܠܰܝܬܐ ܟܳܠܳܙܰܡ ܚܰܐ ܕܷܡܫܰܝܰܠ ܪܘܚܶܗ:
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.15" corresp="test.latn.15"/>
 ܐܰܝܕܰܪܒܐ ܠܰܙܷܡ ܕܟܳܠܶܢܐ ܩܘܡ ܐܘ ܥܰܡܐ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.16" corresp="test.latn.16"/>
 ܐܰܝܕܰܪܒܐ ܠܰܙܷܡ ܚܰܐ ܕܝܳܬܰܘ؟
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.17" corresp="test.latn.17"/>
 ܡܷܢ ܠܰܙܷܡ ܕܣܳܝܰܡ ܚܰܐ ܒܰܢ ܐܝܕ݂ܳܬ݂ܶܐ ܥܰܡ ܓܰܒ ܕܘ ܡܰܡܠܐ؟
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.18" corresp="test.latn.18"/>
 ܡܰܘܕ݂ܥܳܢܘܬ݂ܐ ܥܰܠ‌ ܐܝ ܟܠܰܝܬܐ ܕܘ ܓܘܫܡܐ
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.19" corresp="test.latn.19"/>
 ܕܪܘܥܳܢܶܐ ܡܟܰܬܦܶܐ، ܟܰܬܦܳܬ݂ܶܐ ܥܶܠܳܝܶܐ: ܩܰܝـܝܪܐ، ܡܢܰܟܦܳܢܐ
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.20" corresp="test.latn.20"/>
 ܣܢܝܕܐ  /ܣܡܝܟ݂ܐ: ܓܪܝܫܐ
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.21" corresp="test.latn.21"/>
 ܡܩܰܕܡܳܢܐ: ܟܳܡܢܰܣܶܐ ܚܰܐ ܕܡܰܢܗܰܪ ܐܘ ܫܰܡܳܥܐ.
 		</p>
           <!-- Repeat the <p> element as needed -->
       </div>
- Meṯḥawyonuṯo
- B kul zawco m du barnošo komaḥwe oḏšo d mamlo. B iḏacṯo aw dlo b iḏacṯo. Baz zawce du gušmayḏan kit kul naqla mamlo. Bi  ḥyarto, baz zawce, bu šëkël du mamlo, bi klayto, bu halxo, koṭorina an noše d howalle iḏacto/mawḏconuṯo aclayna. Az zawcani komaḥwën i reḥëmṯo w i lo reḥëmṯo du nošo. Yaqurtër mu xabro d nofëq mu femo ne.
-U mamlo du barnošo kokomal bë flan oḏšo:
-1. Bi Ḥyarto
-Bayn dac came kulle ar rëġše dan noše xud i kmiruṯo, i fṣiḥuṯo, u ruġzo w i zucṯo, u šëkël di foṯo awkiṯ az zawce di foṯo cayni ne. I ḥyarto du barnošo komaḥwo ar rëġše du barnošo xud i fṣiḥuṯo aw i zucṯo.
-
-2. Ḥyarto d asiruṯo
-U nošo d komëstacmël i ḥyarto di cayno, komaḥwe zëdtër fṣiḥoyo aw zëdtër kyonoyo. I ḥyarto di cayno komaḏilo u mamlo. I ḥyarto di cayno ḥaḏërto yo lu mamlo. I ḥyarto di cayno ulṣayto yo, lašan d ḥoze ḥa u funoyo du šamoco.
-
-3. Zawce
-U zawco u mamlo dan iḏoṯe yo. Inaqla d manqëṣ ḥa az zawce, kowe d zaydi af fawde. U fëtġomo kowe d mëqṭac.
-
-Kito qonune ulṣoye bu medano:
-Az zawce msimone (positiv) koqurwi lu gušmo aw lalcël mu gušmo komisomi.
-Az zawce mrimone koruḥqi mu gušmo aw laltaḥ mu gušmo komisomi.
-Az zawce d komisomi laltaḥ mu gušmo, komaḥwën, mrimone aw mdaḥqone. Az zawce d lalcël mu gušmo msimone ne.
-
-4. I klayto 
-Bi klayto kolozam ḥa dë mšayal ruḥe:
-Aydarbo lazëm d koleno qum u camo?
-Aydarbo lazëm ḥa d yotaw?
-Mën lazëm d soyam ḥa ban iḏoṯe cam gab du mamlo?
-
-Mawḏconuṯo cal i klayto du gušmo
-Drucone mkatfe, katfoṯe celoye: qayiro, mnakfono
-Snido/smixo: grišo
-Mqadmono:  komnase ḥa d manhar u šamoco.
-      <div type="transcription">
+	  
+	  <div type="transcription">
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
-          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->    
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
+B kul zawco m du barnošo komaḥwe oḏšo d mamlo. B iḏacṯo aw dlo b iḏacṯo. Baz zawce du gušmayḏan kit kul naqla mamlo. Bi  ḥyarto, baz zawce, bu šëkël du mamlo, bi klayto, bu halxo, koṭorina an noše d howalle iḏacto/mawḏconuṯo aclayna. Az zawcani komaḥwën i reḥëmṯo w i lo reḥëmṯo du nošo. Yaqurtër mu xabro d nofëq mu femo ne.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+U mamlo du barnošo kokomal bë flan oḏšo:
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+1. Bi Ḥyarto
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+Bayn dac came kulle ar rëġše dan noše xud i kmiruṯo, i fṣiḥuṯo, u ruġzo w i zucṯo, u šëkël di foṯo awkiṯ az zawce di foṯo cayni ne. I ḥyarto du barnošo komaḥwo ar rëġše du barnošo xud i fṣiḥuṯo aw i zucṯo.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+2. Ḥyarto d asiruṯo
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+U nošo d komëstacmël i ḥyarto di cayno, komaḥwe zëdtër fṣiḥoyo aw zëdtër kyonoyo. I ḥyarto di cayno komaḏilo u mamlo. I ḥyarto di cayno ḥaḏërto yo lu mamlo. I ḥyarto di cayno ulṣayto yo, lašan d ḥoze ḥa u funoyo du šamoco.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+3. Zawce
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+U zawco u mamlo dan iḏoṯe yo. Inaqla d manqëṣ ḥa az zawce, kowe d zaydi af fawde. U fëtġomo kowe d mëqṭac.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+Kito qonune ulṣoye bu medano:
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
+Az zawce msimone (positiv) koqurwi lu gušmo aw lalcël mu gušmo komisomi.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.11" corresp="test.syr.11"/>
+Az zawce mrimone koruḥqi mu gušmo aw laltaḥ mu gušmo komisomi.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.12" corresp="test.syr.12"/>
+Az zawce d komisomi laltaḥ mu gušmo, komaḥwën, mrimone aw mdaḥqone. Az zawce d lalcël mu gušmo msimone ne.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.13" corresp="test.syr.13"/>
+4. I klayto 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.14" corresp="test.syr.14"/>
+Bi klayto kolozam ḥa dë mšayal ruḥe:
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.15" corresp="test.syr.15"/>
+Aydarbo lazëm d koleno qum u camo?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.16" corresp="test.syr.16"/>
+Aydarbo lazëm ḥa d yotaw?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.17" corresp="test.syr.17"/>
+Mën lazëm d soyam ḥa ban iḏoṯe cam gab du mamlo?
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.18" corresp="test.syr.18"/>
+Mawḏconuṯo cal i klayto du gušmo
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.19" corresp="test.syr.19"/>
+Drucone mkatfe, katfoṯe celoye: qayiro, mnakfono
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.20" corresp="test.syr.20"/>
+Snido/smixo: grišo
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.21" corresp="test.syr.21"/>
+Mqadmono:  komnase ḥa d manhar u šamoco. 
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>

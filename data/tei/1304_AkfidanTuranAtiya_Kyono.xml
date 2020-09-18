@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܟܝܳܢܐ</foreign> / Kyono</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Atiya Akfidan Turan
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1304</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,18 +110,33 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܐܘ ܟܝܳܢܐ ܕܷܒܪܝܬ݂ܐ ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ ܠܘ ܚܘܠܡܳܢܐ ܕܘ ܢܳܫܐ، ܕܰܚ ܚܱܝܶܘܷܢ ܘܕܝ ܝܰܪܳܩܘܬ݂ܐ. ܐܘ ܟܝܳܢܐ ܕܠܳܘܶܐ ܢܰܕ݂ܝܦܐ ܘܫܰܦܝܐ، ܐܘ ܢܳܫܐ ܓܷܕ ܟܳܝܰܘܠܶܗ. ܟܷܬܠܶܗ ܗܰܘܰܐ ܫܦܝܬ݂ܐ ܘܒܰܣܷܡܬܐ ܕܢܷܫܡܝܢܰܠܰܗ. ܐܘ ܟܝܳܢܐ ܟܳܐܒܶܐ ܡܘܟܠܐ ܠܘ ܢܳܫܐ ܘܠܰܚ ܚܱܝܶܘܷܢ. ܐܰܡ ܡܰܝܶܐ ܠܐ ܟܳܡܷܦܪܳܫܝ ܡܘ ܟܝܳܢܐ. ܕܠܐ ܟܝܳܢܐ ܡܥܰܕܠܐ، ܐܰܚ ܚܱܝܶܘܷܢ ܠܰܦ݁ܦ݁ܶܗ ܥܰܝܫܝ ܒܕܘܟܬ݂ܰܝـܝܶܗ. ܟܝܒܝ ܕܐܳܒܳܢܐ ܡܰܬ݂ܠܐ܃ ܟܝܬ ܚܱܝܶܘܷܢ ܕܟܳܚܳـܝܷܢ (ܟܳܥܰܝܫܝ) ܒܝ ܕܘܟܬ݂ܐ ܕܘ ܓܠܝܕ݂ܐ ܘܕܘ ܩܘܪܐ. ܐܝܢܰܩܠܰܐ ܕܘ ܓܠܝܕ݂ܐ ܐܰܘ ܐܘ ܬܰܠܓܐ ܬܰܡܐ ܦܷܫܪܝ، ܐܰܚ ܚܱܝܶܘܷܢ ܟܷܐܙܙܷܢ ܡܶܐ ܬܰܡܐ ܐܰܘ ܟܳܡܰܝܬ݂ܝ. ܐܘ ܡܶܕܰܢܐ ܠܰܬܝܐ ܡܰܘܬ݂ܪܳܢܐ ܠܘ ܚܘܠܡܳܢܐ ܕܷܒܪܝܬ݂ܐ. ܥܰܠ ܗܰܘܟ݂ܰܐ ܟܳܠܳܙܰܡ ܡܰܣܬܪܝܢܰܐ ܥܰܠ ܐܘ ܟܝܳܢܐ. ܟܝܬ ܡܶܢ ܟܘܠ ܦܪܘܣ ܥܷܠܬ݂ܐ ܠܘ ܬܷܚܪܝܘܐ ܕܘ ܟܝܳܢܐ. ܐܝ ܚܦܝܛܘܬ݂ܐ ܕܘ ܢܳܫܐ ܚܕ݂ܐ ܡܰܢܢܶܗ ܝܐ ܥܰܡ ܚܒܳܠ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܘ ܟܝܳܢܐ ܟܳܐܒܶܐ ܐܰܫ ܫܘܚܠܳܦܶܐ ܕܝ ܫܰܬܐ: ܪܰܒܷܥ، ܩܰܝܛܐ، ܬܷܫܪܳܝܳܬ݂ܶܐ ܘܣܰܬ݂ܘܐ. 
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܒܘ ܪܰܒܷܥ ܐܘ ܡܘܙܳܓ݂ܐ ܟܳܘܶܐ ܓ݂ܱܠܱܒܶܐ ܒܰܣܝܡܐ ܘܫܰܦܝܪܐ. ܐܝ ܗܰܘܰܐ ܟܳܩܷܠܒܐ ܕܫܘܚܢܐ ܘܒܷܣܡܐ. ܐܰܘ ܘܰܪܕܶܐ ܘܐܰܗ ܗܰܒܳܒܶܐ ܒܰܓ ܓܰܢܶܐ ܟܳܦܷܩܚـܝ. ܐܰܣ ܣܰܦܪܘܢܶܐ ܟܳܡܰܫܷܪܩܝ ܥܰܠ ܐܰܣ ܣܰܘܟܶܐ ܕܰܢ ܐܝܠܳܢܶܐ (ܕܰܕ ܕܰܘܡܶܐ). ܐܘ ܓܶܠܐ ܟܳܝܳܥܶܐ. ܐܰܙ ܙܰܠܓܶܐ ܕܝ ܫܷܡܫܐ ܟܳܢܷܦܩܝ. ܫܰܚـܝܢܶܐ ܘܒܰܣܝܡܶܐ ܢܶܐ. ܟܳܡܫܰܚܢܝ ܐܘ ܓܘܫܡܐ ܕܘ ܢܳܫܐ. ܐܰܛ ܛܠܳܝܶܐ ܟܳܢܷܦܩܝ ܠܰܪܘܰܠ. ܟܳܡܷܫܬܰܥܷܢ ܒܰܫ ܫܘܩܳܢܶܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܓ݂ܱܠܱܒܶܐ ܟܳܡܷܦܨܳܚـܝ! 
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܒܘ ܩܰܝܛܐ ܐܝ ܫܚܰܢܬ݂ܐ ܟܳܥܘܠܝܐ. ܒܪܝܬ݂ܐ ܟܳܫܘܚܢܐ ܓ݂ܱܠܱܒܶܐ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܟܳܘܶܐ ܚܶܡܐ ܩܰܫܝܐ. ܐܘ ܥܰܡܐ ܟܷܐܙܙܶܗ ܠܘ ܒܷܛܠܳܢܐ. ܕܗܳܘܶܐ ܚܶܡܐ، ܟܳܣܳܚـܝܢܰܐ ܒܘ ܢܰܗܪܐ ܐܰܘ ܒܘ ܝܰܡܐ. ܐܰܘ ܘܰܪܕܶܐ ܘܐܰܗ ܗܰܒܳܒܶܐ ܟܳܐܒܷܢ ܪܶܚܐ ܒܰܣܝܡܐ. ܟܳܡܫܰܦܪܝ ܓ݂ܱܠܱܒܶܐ ܐܘ ܟܝܳܢܐ. ܐܰܕ ܕܰܒܷܫܝܳܬ݂ܶܐ ܟܳܐܒܷܢ ܕܰܘܫܐ ܘܫܰܢܰܬ ܒܰܣܝܡܶܐ. ܟܳܐܬ݂ܶܐ ܒܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܛܘܪܥܰܒܕܝܢ ܐܘ ܙܰܒܢܐ ܕܘ ܚܨܳܕܐ ܕܘ ܙܰܐܕ. ܐܰܢ ܐܝܠܳܢܶܐ ܟܳܐܒܷܢ ܦܝܪܶܐ ܚܰܠܝܶܐ ܒܰܣܝܡܶܐ: ܚܰܒܘܫܶܐ، ܬܶܢܶܐ، ܪܶܡܘܢܶܐ، ܥܷܢܘܶܐ، ܦܘܔܶܐ ܘܓ݂ܶܪ. ܒܠܰܠܝܐ ܐܰܟ ܟܷܟܘܶܐ ܟܳܡܷܚܙܳܝـܝ ܒܝ ܫܡܰܝܐ. ܨܰܚܘܐ ܝܐ. ܐܰܚ ܚܱܝܶܘܷܢ ܟܳܦܰܝܫܝ ܠܰܪܘܰܠ. ܠܰܝܬܐ ܩܘܪܐ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܒܰܬ ܬܷܫܪܳܝܳܬ݂ܶܐ ܐܰܣ ܣܰܬܶܐ ܒܰܟ ܟܰܪܡܶܐ ܟܳܡܷܡܠܷܢ ܥܷܢܘܶܐ. ܐܝ ܣܰܬܐ ܟܳܐܒܐ ܥܷܢܘܶܐ ܘܛܰܪܦܶܐ ܓ݂ܱܠܱܒܶܐ. ܟܝܬ ܥܷܢܘܶܐ ܚܶܘܳܪܶܐ ܘܟܳܡܶܐ. ܐܰܥ ܥܷܢܘܶܐ ܟܳܡܷܩܛܳܦܝ ܘܟܳܡܝܬܰܚܬܝ ܒܰܣ ܣܰܠܶܐ. ܡܰܥ ܥܷܢܘܶܐ ܟܳܡܝܣܰܡ ܐܰܦܫܳܬ݂ܶܐ. ܐܰܛ ܛܰܪܦܶܐ ܟܳܢܷܦܠܝ ܡܰܢ ܐܝܠܳܢܶܐ. ܐܰܛ ܛܰܪܦܶܐ ܟܳܫܘܥܬ݂ܝ ܘܐܰܘ ܘܰܪܕܶܐ ܟܳܢܷܫܦܝ. ܐܘ ܓܰܘܢܐ ܕܝ ܝܰܪܳܩܘܬ݂ܐ ܟܳܡܝܫܰܚܠܰܦ. ܒܰܬ ܬܷܫܪܳܝܳܬ݂ܶܐ ܟܳܘܶܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ ܡܰܛܪܐ ܘܗܰܘܰܐ. ܟܳܐܬ݂ܶܐ ܛܰܒ݂ܰܬ، ܒܰܪܩܶܐ ܘܚܷܪܨܰܒܬ݂ܐ. ܐܝ ܐܰܪܥܐ ܟܳܬܷܪܝܐ ܓ݂ܱܠܱܒܶܐ. ܗܰܘܟ݂ܰܐ ܠܰܬܝܐ ܒܰܣܝܡܐ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܒܘ ܣܰܬ݂ܘܐ ܟܳܘܶܐ ܩܘܪܐ ܘܟܳܐܬ݂ܶܐ ܬܰܠܓܐ. ܟܳܡܰܩܝܬ݂ܝܢܰܐ ܐܝ ܨܳܦ݁ܰܐ ܙ̰ܒܳܝـܝ ܕܐܳܒܐ ܫܚܰܢܬ݂ܐ. ܐܘ ܢܳܫܐ ܟܳܠܳܘܰܫ ܔܘܠܶܐ ܚܠܝܡܶܐ ܕܠܐ ܩܳܪܰܫܠܶܗ. ܒܘ ܣܰܬ݂ܘܐ ܟܳܘܶܐ ܟ݂ܰܝـܝܦܐ ܥܷܬܡܰܐ. ܠܰܬܝܐ ܒܰܣܝܡܐ ܚܰܐ ܕܦܳܝܰܫ ܠܰܪܘܰܠ. ܟܘܠ ܢܳܫܐ ܟܳܐܒܰܥ ܟ݂ܰܝـܝܦܐ ܕܐܷܙܙܶܗ ܠܘ ܒܰܝܬܰܝܕ݂ܶܗ. ܒܘ ܣܰܬ݂ܘܐ ܐܘ ܙܰܒܢܐ ܕܥܶܕ݂ܐ ܙܥܘܪܐ ܝܐ، ܐܘ ܥܶܕ݂ܐ ܕܘ ܡܰܘܠܳܕܐ ܕܷܡܫܝـܚܐ. ܟܳܡܫܰܦܪܝܢܰܐ ܐܰܒ ܒܳܬܰܝܕ݂ܰܢ ܒܰܒ ܒܰܗܪܶܐ. ܟܳܡܰܦܨܰܚܠܰܢ ܓ݂ܱܠܱܒܶܐ!
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܡܶܕܶܐ ܫܰܦܷܪ ܡܘ ܟܝܳܢܐ ܠܰܝܬܐ. ܡܘ ܫܘܦܪܰܝܕ݂ܶܗ ܚܰܐ ܠܐ ܟܳܣܳܘܰܥ. ܐܝ ܝܰܪܳܩܘܬ݂ܐ ܕܘ ܟܝܳܢܐ ܓ݂ܱܠܱܒܶܐ ܥܰܬܷܪܬܐ ܝܐ. ܟܳܐܒܐ ܓܰܘܢܶܐ ܓ݂ܱܠܱܒܶܐ ܫܰܦܝܪܶܐ ܠܷܒܪܝܬ݂ܐ. ܓܰܘܢܐ ܣܶܡܳܩܐ، ܝܰܪܳܩܐ، ܙܰܪܩܐ، ܫܰܥܘܬ݂ܐ، ܟܳܡܐ، ܚܶܘܳܪܐ ܘܓ݂ܶܪ. ܐܰܨ ܨܷܪܬܳܬ݂ܶܐ ܐܰܘ ܚܷܙܘܳܢܶܐ ܕܘ ܟܝܳܢܐ ܟܳܪܷܚܡܰܢܢܶܗ ܙܷܕܬܷܪ ܡܶܐ ܟܘܠ ܨܷܪܬܐ ܚܪܶܬܐ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܐܶܠܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܘ ܟܝܳܢܐ ܟܳܐܒܶܐ ܙܘܥܬ݂ܐ ܣܬܶܐ ܠܘ ܢܳܫܐ. ܟܳܐܬ݂ܶܐ ܡܰܛܪܐ ܓ݂ܱܠܱܒܶܐ، ܥܰܠܥܳܠܶܐ ܘܒܰܪܩܶܐ. ܟܳܢܳܦܰܩ ܟܶܘܶܐ ܘܟܘܪܗܳܢܶܐ. ܐܰܙ ܙܰܠܙܰܠܠܰܬ ܟܳܡܰܚܰܪܘܝ ܐܰܒ ܒܳܬܶܐ ܕܘ ܥܰܡܐ. ܓ݂ܱܠܱܒܶܐ ܥܰܡܐ ܬܠܝܦ ܒܰܙ ܙܰܠܙܰܠܠܰܬ. ܟܝܬ ܒ݂ܘܠܟܰܢܶܐ ܕܟܳܢܳܦܰܩ ܢܘܪܐ ܡܰܢܢܶܗ. ܗܰܢܷܟ ܣܬܶܐ ܩܷܢܛܐ ܢܶܐ ܠܘ ܥܰܡܐ ܕܟܳܥܳܝܰܫ ܩܰܪܝܘܐ ܠܬܰܡܐ. ܐܰܡ ܡܰܝܶܐ ܕܘ ܝܰܡܐ ܟܳܥܳܠܷܢ ܢܰܩܠܰܘܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ. ܟܳܬܷܠܦܝ ܓ݂ܱܠܱܒܶܐ ܦܰܪܨܘܦܶܐ. ܐܘ ܢܳܫܐ ܡܰܘܟ݂ܰܐ ܟܳܠܳܙܰܡ ܕܡܝܫܰܘܫܰܛ ܒܰܦ ܦܘܠܚܳܢܰܝܕ݂ܶܗ ܕܩܳܕܰܪ ܡܰܟܠܶܐ ܐܘ ܚܰـܝܠܐ ܕܘ ܟܝܳܢܐ. ܐܝܕ݂ܰܐ ܕܠܐ، ܐܰܚ ܚܰܝܶܐ ܕܝ ܒܪܝܬ݂ܰܬ݂ܶܐ ܟܳܟܷܡܠܝ ܟ݂ܰܝـܝܦܐ. ܟܝܬܐ ܡܰܬ݂ܠܐ ܒܰܝܢ ܕܘ ܥܰܡܐ ܥܰܠ ܐܘ ܡܶܕܰܢܐ܃ ܐܘ ܢܳܫܐ ܟܳܩܳܕܰܪ ܥܰܠ ܟܘܠ ܡܶܕܶܐ، ܐܶܠܐ ܥܰܠ ܐܘ ܚܰـܝܠܐ ܕܘ ܟܝܳܢܐ ܒܷܠܚܘܕ݂ܶܗ ܠܰܝܒܶܗ! 
         </p>
           <!-- Repeat the <p> element as needed -->
@@ -131,14 +146,34 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Kyono
 		  U kyono dë briṯo ġäläbe ulṣoyo yo lu ḥulmono du nošo, daḥ ḥäyewën w di yaroquṯo. U kyono d lowe naḏifo w šafyo, u nošo gëd koyawle. Këtle hawa šfiṯo w basëmto d nëšminala. U kyono kobe muklo lu nošo w laḥ ḥäyewën. Am maye lo komëfroši mu kyono. Dlo kyono mcadlo, aḥ ḥäyewën lappe cayši b dukṯayye. Kibi d obono maṯlo: kit ḥäyewën d koḥoyën (kocayši) bi dukṯo du gliḏo w du quro. Inaqla d u gliḏo aw u talgo tamo fëšri, aḥ ḥäyewën këzzën me tamo aw komayṯi. U medano latyo mawṯrono lu ḥulmono dë briṯo. Cal hawxa kolozam mastrina cal u kyono. Kit men kul frus cëlṯo lu tëḥriwo du kyono. I ḥfiṭuṯo du nošo ḥḏo manne yo cam ḥbol.
+		  </p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 U kyono kobe aš šuḥlofe di šato: rabëc, qayṭo, tëšroyoṯe w saṯwo.
-Bu rabëc u muzoġo kowe ġäläbe basimo w šafiro. I hawa koqëlbo d šuḥno w bësmo. Aw warde w ah habobe bag gane kofëqḥi. As safrune komašërqi cal as sawke dan ilone (dad dawme). U gelo koyoce. Az zalge di šëmšo konëfqi. Šaḥine u basime ne. Komšaḥni u gušmo du nošo. Aṭ ṭloye konëfqi larwal. Komëštacën baš šuqone cam ḥḏoḏe. Ġäläbe komëfṣoḥi! 
+</p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Bu rabëc u muzoġo kowe ġäläbe basimo w šafiro. I hawa koqëlbo d šuḥno w bësmo. Aw warde w ah habobe bag gane kofëqḥi. As safrune komašërqi cal as sawke dan ilone (dad dawme). U gelo koyoce. Az zalge di šëmšo konëfqi. Šaḥine u basime ne. Komšaḥni u gušmo du nošo. Aṭ ṭloye konëfqi larwal. Komëštacën baš šuqone cam ḥḏoḏe. Ġäläbe komëfṣoḥi!
+ </p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 Bu qayṭo i šḥanṯo koculyo. Briṯo košuḥno ġäläbe. Naqlawoṯe kowe ḥemo qašyo. U camo këzze lu bëṭlono. D howe ḥemo, kosoḥina bu nahro aw bu yamo. Aw warde w ah habobe kobën reḥo basimo. Komšafri ġäläbe u kyono. Ad dabëšyoṯe kobën dawšo w šanat basime. Koṯe baq qëryawoṯe d  Ṭurcabdin u zabno du ḥṣodo du zad. An ilone kobën fire ḥalye basime: ḥabuše, tene, remune, cënwe, fuje w ġer. B lalyo ak këkwe komëḥzoyi bi šmayo. Ṣaḥwo yo. Aḥ ḥäyewën kofayši larwal. Layto quro!
+</p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 Bat tëšroyoṯe as sate bak karme komëmlën cënwe. I sato kobo cënwe w ṭarfe ġäläbe. Kit cënwe ḥewore w kome. Ac cënwe komëqṭofi w komitaḥti bas sale. Mac cënwe komisam afšoṯe. Aṭ ṭarfe konëfli man ilone. Aṭ ṭarfe košucṯi w aw warde konëšfi. U gawno di yaroquṯo komišaḥlaf. Bat tëšroyoṯe kowe naqlawoṯe ġäläbe maṭro w hawa. Koṯe ṭavat, barqe w ḥërṣabṯo. I arco kotëryo ġäläbe. Hawxa latyo basimo!
+</p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
 Bu saṯwo kowe quro w koṯe talgo. Komaqiṯina i ṣopa žboyi d obo šḥanṯo. U nošo kolowaš jule ḥlime d lo qorašle. Bu saṯwo kowe xayifo cëtma. Latyo basimo ḥa d foyaš larwal. Kul nošo kobac xayifo d ëzze lu baytayḏe. Bu saṯwo u zabno d Ceḏo Zcuro yo, u ceḏo du mawlodo dë Mšiḥo. Komšafrina ab botayḏan bab bahre. Komafṣaḥlan ġäläbe!
-Mede šafër mu kyono layt. Mu šufrayḏe ḥa lo kosowac. I yaroquṯo du kyono ġäläbe catërto yo. Kobo gawne ġäläbe šafire lë briṯo. Gawno semoqo, yaroqo, zarqo, šacuṯo, komo, ḥeworo w ġer. Aṣ ṣërtoṯe aw ḥëzwone du kyono korëḥmanne zëdtër me kul ṣërto ḥreto. 
+</p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+Mede šafër mu kyono layt. Mu šufrayḏe ḥa lo kosowac. I yaroquṯo du kyono ġäläbe catërto yo. Kobo gawne ġäläbe šafire lë briṯo. Gawno semoqo, yaroqo, zarqo, šacuṯo, komo, ḥeworo w ġer. Aṣ ṣërtoṯe aw ḥëzwone du kyono korëḥmanne zëdtër me kul ṣërto ḥreto.
+ </p>
+		  <p xml:lang="en">
+          <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 Elo naqlawoṯe u kyono kobe zucṯo ste lu nošo. Koṯe maṭro ġäläbe, calcole w barqe. Konofaq kewe  w kurhone. Az zalzallat komaḥarwi ab bote du camo. Ġäläbe camo tlif baz zalzallat. Kit vulkane d konofaq nuro manne. Hanëk ste qënṭo ne lu camo d kocoyaš qariwo l tamo. Am maye du yamo kocolën naqlawoṯe ġäläbe. Kotëlfi ġäläbe farṣufe. U nošo mawxa kolozam d mišawšaṭ baf fulḥonayḏe d qodar makle u haylo du kyono. Iḏa d lo, aḥ ḥaye di briṯaṯe kokëmli xayifo. Kit maṯlo bayn du camo cal u medano: “U nošo koqodar cal kul mede, elo cal u ḥaylo du kyono bëlhuḏe laybe!”
         </p>
           <!-- Repeat the <p> element as needed -->

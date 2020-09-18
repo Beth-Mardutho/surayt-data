@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܣܳܣܝܰܠ ܡܶܕܝܰܐ /ܢܰܘܠܐ</foreign> / Sosyal Medya/Nawlo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Atiya Akfidan Turan
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1307</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,16 +110,29 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܒܰܙ ܙܰܒܢܶܐ ܩܰܡܳܝܶܐ ܕܐܰܬ݂ܝܢܰܐ ܠܗܳܠܰܢܕܰܐ، ܐܰܛ ܛܶܒܶܐ ܡܳܛܷܢܘܰܐ ܐܶܠܰܢ ܡܘ ܬܱܠܱܒ݂ܝܙܝܳܢ، ܡܘ ܪܰܐܕܝܐ، ܡܰܣ ܣܦܰܪܝܰܘܡܶܐ (ܓܰܙܶܛܰܬ) ܐܰܘ ܡܰܡ ܡܓ݂ܰܠܶܐ. ܗܶܫ ܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܢܰܘܠܐ (ܐܝܢܬܶܪܢܶܬ) ܡܷܢ ܝܐ. ܝܷܬܘܝܘܰܝܢܰܐ ܩܘܡ ܐܘ ܬܱܠܱܒ݂ܝܙܝܳܢ ܘܡܦܰܪܔܝܘܰܝܢܰܐ ܐܰܛ ܛܶܒܶܐ، ܬܰܚܪܰܙܬܐ ܝܘܠܦܳܢܰܝܬܐ ܐܰܘ ܦܷܠܝܡ ܒܰܣܝܡܐ. ܐܝ ܣܝܢܱܡܰܐ ܒܘ ܒܰܝܬܐ ܘܰܐ! ܨܰܦܪܰܝܬܐ ܐܝܢܰܩܠܰܐ ܕܡܰܚـܝܣܝܘܰܝܢܰܐ ܡܝ ܫܰܢܬ݂ܐ، ܡܚܰܕ݂ܪܝܘܰܝܢܰܐ ܐܝ ܩܪܳܛܷܢ ܥܰܠ ܐܝ ܛܷܒܠܝܬ݂ܐ. ܥܰܡ ܐܝ ܩܪܳܛܷܢ ܡܰܝܕܝܘܰܝܢܰܐ ܐܰܣ ܣܦܰܪܝܰܘܡܶܐ ܐܰܘ ܐܝ ܡܓ݂ܰܠܬ݂ܐ ܒܐܝܕ݂ܰܝܢܰܐ ܘܩܳܪܝܘܰܝܢܰܐ ܡܷܢ ܟܳܟܷܬ݂ܘܝ ܐܰܓ ܓܷܠܝܘܢܳܪܶܐ ܥܰܠ ܐܰܛ ܛܶܒܶܐ ܕܷܒܪܝܬ݂ܐ. ܒܷܬ݂ܷܪ ܟܘܠ ܢܳܫܐ ܐܷܙܙܶܘܰܐ ܠܘ ܦܘܠܚܳܢܰܝܕ݂ܶܗ. ܒܓܰܘܶܗ ܕܝ ܪܰܕ݂ܰܝܬܐ ܡܰܨܝܬ݂ܝܘܰܝܢܰܐ ܥܰܠ ܙܡܰܪܝܳܬ݂ܶܐ ܒܰܣܝܡܶܐ ܡܘ ܪܰܐܕܝܐ.
-
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܰܚܢܰܐ ܒܘ ܙܰܒܢܰܢܐ ܓ݂ܱܠܱܒܶܐ ܡܫܰܘܫܰܛܠܰܢ ܪܘܚܰـܝܢܰܐ ܥܰܠ ܕܟܝܬ ܢܰܘܠܐ. ܦܬܝـܚ ܐܘ ܢܰܘܠܐ ܠܟܘܠ ܥܰܡܐ ܒܷܒܪܝܬ݂ܐ. ܥܰܠ ܐܘ ܕܰܪܒܐ ܕܘ ܢܰܘܠܐ ܟܝܒܰܢ ܡܳܛܝܢܰܐ ܠܷܚܕ݂ܳܕ݂ܶܐ ܒܘ ܐܝܡܰܝܠ E-mail، ܒܘ ܦܰܝܣܒܘܟ Facebook، ܒܘ ܐܝܢܣܬܰܓܪܰܡ Instagram، ܒܘ ܬܘܝܬܬܷܪ Twitter ܘܫܰܪܟܐ. ܗܰܢܝ ܟܘܠܠܶܗ ܟܳܡܷܩܪܳܝـܝ ܒܘ ܐܷܢܓܠܝܫܳܝܐ ܣܳܣܝܰܠ ܡܶܕܝܰܐ Social Media. ܗܰܡܡܰܐ ܡܰܪ ܟܘܠ ܢܳܫܐ ܐܘܥܕܐ ܟܷܬܠܶܗ ܬܱܠܱܦܳܢ ܕܝ ܐܝܕ݂ܐ ܕܟܷܬܝܐ ܡܰܣܝܪܐ ܒܘ ܢܰܘܠܐ. ܒܘ ܬܱܠܱܦܳܢ ܟܷܦ݁ܦ݁ܶܗ ܚܳܙܷܢ ܟܘܠ ܛܶܒܐ ܕܟܳܐܬ݂ܶܐ ܒܘ ܢܰܘܠܐ. ܒܘ ܢܰܘܠܐ ܟܷܦ݁ܦ݁ܶܗ ܣܰܝܡܝ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ ܚܪܶܢܶܐ. ܡܰܬ݂ܠܐ: ܟܷܦ݁ܦ݁ܶܗ ܡܫܰܕܪܝ ܨܷܪܬܳܬ݂ܶܐ ܠܷܚܕ݂ܳܕ݂ܶܐ ܐܰܘ ܒ݂ܝܕܝܐ. ܒܰܟ ܟܬ݂ܰܘܝܳܬ݂ܶܐ ܟܳܐܒܷܢ ܘܫܘܩܠܝ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ. ܟܳܡܦܰܪܔܝ ܦܷܠܝܡܶܐ ܒܝܘܬܝܘܒ (Youtube). ܐܝܕ݂ܰܐ ܕܗܳܘܰܠܠܶܗ ܡܰܗܘܐ ܘܫܩܳܠܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ، ܟܷܦ݁ܦ݁ܶܗ ܒܘ ܘܰܐܬܣܐܰܦ݁ (WhatsApp) ܡܷܔܓ݂ܳܠܝ ܣܬܶܐ. ܒܘ ܫܷܟܠܰܢܐ ܐܰܢ ܢܳܫܶܐ ܕܟܳܥܰܝܫܝ ܩܰܪܝܘܐ ܐܰܘ ܪܰܚܘܩܐ ܡܶܐ ܚܕ݂ܳܕ݂ܶܐ، ܟܳܘܰܠܠܶܗ ܐܰܣܝܪܘܬ݂ܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ.
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܐܰܚ ܚܰـܝܶܐ ܕܘ ܙܰܒܢܰܢܐ ܗܰܘܷܢ ܦܫܝܛܶܐ ܓ݂ܱܠܱܒܶܐ. ܚܰܐ ܟܝܒܶܗ ܡܘ ܢܰܘܠܐ ܝܳܠܰܦ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ. ܐܝܕ݂ܰܐ ܟܝܬ ܫܘܳܠܶܐ ܥܰܠ ܨܒܘܬ݂ܐ، ܟܝܒܘܟ݂ ܟܘܪܟ݂ܰܬ ܒܘ ܢܰܘܠܐ ܕܝܷܠܦܰܬ ܥܰܠ ܐܝ ܨܒܘܬ݂ܐ. ܐܝܕ݂ܰܐ ܟܷܐܒܥܰܬ ܕܐܷܕ݂ܥܰܬ ܥܰܠ ܐܘ ܡܘܙܳܓ݂ܐ ܒܐܰܬ݂ܪܐ ܚܪܶܢܐ، ܐܘ ܢܰܘܠܐ ܡܷܚܕ݂ܐ ܟܳܡܰܚܘܶܐ. ܬܚܘܡܐ ܠܘ ܝܘܠܦܳܢܐ ܒܘ ܢܰܘܠܐ ܠܰܝܬ. ܚܰܐ ܟܝܒܶܗ ܟܳܪܰܟ݂ ܟ݂ܰܝـܝܦܐ ܒܘ ܢܰܘܠܐ ܥܰܠ ܟܘܠ ܡܶܕܶܐ ܕܟܳܐܒܰܥ ܝܳܠܰܦ. ܐܘ ܢܰܘܠܐ ܟܷܬܠܶܗ ܡܶܕܳܢܶܐ ܛܰܘܘܶܐ ܘܚܰܪܒܶܐ ܣܬܶܐ، ܡܶܕܳܢܶܐ ܡܣܝܡܳܢܶܐ ܘܡܪܝܡܳܢܶܐ.
-
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܐܘ ܡܶܕܶܐ ܕܟܷܬܝܐ ܡܣܝܡܳܢܐ ܒܘ ܢܰܘܠܐ ܗܰܢܐ ܝܐ ܒܘ ܪܷܢܝܰـܝܕ݂ܝ܃ ܡܰܒܘܥܐ ܕܝܘܠܦܳܢܐ ܪܰܒܐ ܝܐ. ܚܰܐ ܟܳܘܶܠܶܗ ܐܝܕ݂ܰܥܬ݂ܐ ܥܰܠ ܐܘ ܡܶܕܶܐ ܕܟܳܘܶܐ ܒܷܒܪܝܬ݂ܐ. ܡܶܕܶܐ ܚܪܶܢܐ ܕܟܷܬܝܐ ܐܘܠܨܳܝܐ ܒܘ ܢܰܘܠܐ، ܡܰܓܳܢ (ܒܱܠܰܐܫ) ܝܐ ܠܟܘܠ ܥܰܡܐ. ܟܘܠ ܢܳܫܐ ܟܝܒܶܗ ܡܷܣܬܰܥܡܰܠ ܣܳܣܝܰܠ ܡܶܕܝܰܐ Social Media ܕܠܐ ܙܘܙܶܐ. ܟܳܡܝܣܰܡ ܐܶܣܳܪܶܐ ܥܰܡ ܢܳܫܶܐ ܕܠܰܬܢܶܐ ܐܝܕ݂ܝܥܶܐ. ܒܷܬ݂ܷܪ ܟܳܘܷܢ ܚܰܘܪܳܢܶܐ ܒܷܒܪܝܬ݂ܐ ܟܘܠܰܗ. ܐܘ ܚܰܐ ܕܠܰܬܠܶܗ ܫܘܓ݂ܠܐ ܐܰܘ ܥܰܔܝܙܐ ܝܐ، ܟܝܒܶܗ ܡܦܰܪܰܔ ܒܘ ܢܰܘܠܐ ܥܰܠ ܐܰܚ ܚܪܶܢܶܐ. ܚܰܐ ܟܝܒܶܗ ܚܳܙܶܐ ܐܰܚ ܚܰܘܪܳܢܰܝܕ݂ܶܗ ܡܷܢ ܟܳܣܰܝܡܝ ܘܡܷܢ ܟܳܛܳܪܷܢ. ܕܪܷܚܡܝ ܡܰܡܠܐ ܥܰܡ ܚܕ݂ܳܕ݂ܶܐ ܟܷܦ݁ܦ݁ܶܗ ܡܶܔܓ݂ܳܠܝ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܘ ܢܰܘܠܐ ܟܳܡܰܡܛܶܐ ܬܪܶܐ ܦܰܪܨܘܦܶܐ ܣܬܶܐ ܠܷܚܕ݂ܳܕ݂ܶܐ. ܐܰܘ ܥܠܰܝܡܐ ܘܥܠܰܝܡܬ݂ܐ ܟܷܦ݁ܦ݁ܶܗ ܣܰܝܡܝ ܘܰܥܕܐ ܕܚܳܙܷܢ ܚܕ݂ܳܕ݂ܶܐ. ܓ݂ܶܪ ܡܰܢܝ ܡܶܕܳܢܶܐ ܓ݂ܱܠܱܒܶܐ ܟܝܬ ܚܰܐ ܕܣܳܝܰܡ ܥܰܠ ܐܘ ܕܰܪܒܐ ܕܘ ܢܰܘܠܐ. 
-
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܐܘ ܡܶܕܶܐ ܕܟܷܬܝܐ ܡܪܝܡܳܢܐ ܗܰܢܐ ܝܐ܃ ܐܝ ܕܝܠܳܝܘܬ݂ܐ ܩܢܘܡܰܝܬܐ (Privacy) ܠܰܬܝܐ ܒܰܡ ܡܐ ܡܐ ܡܰܣܬܰܪܬܐ ܐܶܒܶܗ. ܐܘ ܡܶܕܶܐ ܕܟܳܚܳܙܝܢܰܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܒܘ ܦܰܝܣܒܘܟ، ܟܝܬ ܩܰܠܶܐ ܘܨܘܥܪܶܐ. ܥܰܡ ܚܒܳܠ ܗܰܘܟ݂ܰܐ ܡܶܕܳܢܶܐ ܟܳܡܰܥܷܔܙܝ. ܐܘ ܢܳܫܐ ܟܳܘܶܐ ܠܗܝܩܐ ܠܘ ܦܶܪܳܔܐ ܐܰܘ ܠܝ ܐܝܕ݂ܰܥܬ݂ܐ ܕܘ ܚܪܶܢܐ. ܗܰܢܐ ܡܶܕܶܐ ܕܝܠܳܢܳܝܐ ܝܐ ܒܘ ܦܰܝܣܒܘܟ ܘܒܘ ܐܝܢܣܬܰܓܪܰܡ. ܐܰܟ ܟܰܣܝܳܬ݂ܐ ܕܘ ܢܳܫܐ ܟܳܡܷܓܠܷܢ. ܠܐ ܟܳܦܳܝܰܫ ܡܶܕܶܐ ܬܰܠܝܐ. ܟܘܠ ܚܰܘܪܐ ܟܝܒܶܗ ܚܳܙܶܐ ܐܰܝܢܰܐ ܚܰܘܪܐ ܐܰܘ ܚܘܰܪܬ݂ܐ ܒܘ ܢܰܘܠܐ ܝܐ. ܟܳܡܷܦܪܳܣܝ ܡܶܕܳܢܶܐ ܕܠܐ ܟܳܠܳܙܰܡ ܕܡܷܦܪܳܣܝ. ܟܝܬ ܦܰܪܨܘܦܶܐ ܕܟܳܦܷܪܣܝ ܡܶܕܳܢܶܐ ܓ݂ܱܠܱܒܶܐ ܒܰܛܝܠܶܐ ܘܙܳܝܘܕܶܐ. ܗܰܢܐ ܠܐ ܟܳܠܳܙܰܡ ܟܘܠ ܢܰܩܠܰܐ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܐܘ ܥܰܡܐ ܠܰܘ ܟܳܐܕ݂ܰܥ ܡܷܢ ܝܐ ܬܪܝܨܐ ܘܡܷܢ ܝܐ ܦܰܘܕܐ. ܐܰܛ ܛܶܒܶܐ ܕܟܳܡܷܦܪܳܣܝ ܒܘ ܢܰܘܠܐ ܠܰܬܢܶܐ ܟܘܠ ܢܰܩܠܰܐ ܬܪܝܨܶܐ. ܐܘ ܦܘܪܫܳܢܐ ܒܰܝܢ ܕܝ ܕܘܓܠܐ ܘܕܘ ܫܪܳܪܐ ܠܐ ܟܳܡܰܚܘܶܐ ܛܰܘܘܐ.
-
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܐܝܢܰܩܠܰܐ ܕܚܰܐ ܐܘ ܝܰܘܡܐ ܟܘܠܶܗ ܚܳܝܰܪ ܒܘ ܬܱܠܱܦܳܢܰܝܕ݂ܶܗ، ܟܳܒܳܛܰܠ. ܒܘ ܙܳܝܘܕܐ ܣܬܶܐ ܐܰܢ ܢܰܥܝܡܶܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܠܐ ܟܳܚܳܪܰܘܘܶܗ ܡܰܗ ܗܷܪܓܰܬ݂ܬ݂ܶܗ ܕܝ ܡܰܕܪܰܫܬܐ. ܐܘ ܚܰܐ ܕܠܐ ܗܳܘܶܐ ܚܦܝܛܐ ܒܘ ܣܳܣܝܰܠ ܡܶܕܝܰܐ ܠܐ ܟܳܚܷܫܘܝܠܶܗ ܚܰܘܪܐ ܠܪܘܚܰـܝـܝܶܗ.
-
+</p>
+ <p xml:lang="tru">
+          <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܥܰܠ ܗܰܘܟ݂ܰܐ ܟܳܠܳܙܰܡ ܚܰـܝܪܝܢܰܐ ܠܡܶܕܝܰܐ ܚܪܶܬܐ ܕܟܳܦܷܪܣܐ ܛܶܒܶܐ ܬܪܝܨܶܐ. ܟܘܠ ܦܰܪܨܘܦܐ، ܙܥܘܪܐ ܐܰܘ ܪܰܒܐ، ܛܪܐ ܣܳܝܰܡ ܕܷܩܩܰܐ ܡܷܢ ܟܳܟܳܬ݂ܰܘ ܐܰܘ ܡܷܢ ܟܳܦܳܪܰܣ ܒܘ ܢܰܘܠܐ.
 		</p>
           <!-- Repeat the <p> element as needed -->
@@ -129,13 +142,30 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Sosyal Medya/Nawlo
-		  Baz zabne qamoye d aṯina l Holanda, aṭ ṭebe moṭënwa elan mu tälävizyon, mu radyo, mas sfaryawme (gazeṭat) aw mam mġale. Heš lëḏciwayna nawlo (internet) mën yo. Yëtwiwayna qum u tälävizyon w mfarjiwayna aṭ ṭebe, taḥrazto yulfonayto aw fëlim basimo. I sinäma bu bayto wa! Ṣafrayto inaqla d maḥisiwayna mi šanṯo, mḥaḏriwayna i qroṭën cal i ṭëbliṯo. Cam i qroṭën maydiwayna as sfaryawme aw i mġalṯo b iḏayna w qoriwayna mën kokëṯwi ag gëlyunore cal aṭ ṭebe dë briṯo. Bëṯër kul nošo ëzzewa lu fulḥonayḏe. B gawe di raḏayto maṣiṯiwayna cal zmaryoṯe basime mu radyo. 
-Aḥna bu zabnano ġäläbe mšawšaṭlan ruḥayna cal d kit nawlo. Ftiḥ u nawlo l kul camo bë briṯo. Cal u darbo du nawlo kiban moṭina lë ḥḏoḏe bu e-mail, Facebook, Instagram, Twitter w šarko. Hani kulle komëqroyi bu Ënglišoyo “Social Media”. Hamma mar kul nošo ucdo këtle täläfon di iḏo d këtyo masiro bu nawlo. Bu täläfon këppe ḥozën kul ṭebo d koṯe bu nawlo. Bu nawlo këppe saymi ġäläbe medone ḥrene. Maṯlo: këppe mšadri ṣërtoṯe lë ḥḏoḏe aw vidyo. Bak kṯawyoṯe kobën w šuqli cam ḥḏoḏe. Komfarji fëlime b Youtube. Iḏa d howalle mahwo w šqolo cam ḥḏoḏe, këppe bu WhatsApp mëjġoli ste. Bu šëklano an noše d kocayši qariwo aw raḥuqo më ḥḏoḏe, kowalle asiruṯo cam ḥḏoḏe. 
-Aḥ ḥaye du zabnano hawën fšiṭe ġäläbe. Ḥa kibe mu nawlo yolaf ġäläbe medone. Iḏa kit šuwole cal ṣbuṯo, kibux kurxat bu nawlo d yëlfat cal i ṣbuṯo. Iḏa këbcat d ëḏcat cal u muzoġo b aṯro ḥreno, u nawlo mëḥḏo komaḥwe. Tḥumo lu yulfono bu nawlo layt. Ḥa kibe korax xayifo bu nawlo cal kul mede d kobac yolaf. U nawlo këtle medone ṭawwe w ḥarbe ste, medone msimone w mrimone. 
-U mede d këtyo msimono bu nawlo hano yo bu rënyayḏi: mabuco d yulfono rabo yo. Ḥa kowele iḏacṯo cal u mede d kowe bë briṯo. Mede ḥreno d këtyo ulṣoyo bu nawlo, magon (bälaš) yo l kul camo. Kul nošo kibe mëstacmal “Social Media” dlo zuze. Komisam esore cam noše d latne iḏice. Bëṯër kowën ḥawrone bë briṯo kula. U ḥa d latle šuġlo aw cajizo yo, kibe mfaraj bu nawlo cal aḥ ḥrene. Ḥa kibe ḥoze aḥ ḥawronayḏe mën kosaymi w mën koṭorën. D rëḥmi mamlo cam ḥḏoḏe këppe mejġoli. Naqlawoṯe u nawlo komamṭe tre farṣufe ste lë ḥḏoḏe. Aw claymo w claymṯo këppe saymi wacdo d ḥozën ḥḏoḏe. Ġer mani medone ġäläbe kit ḥa d soyam cal u darbo du nawlo. 
-U mede d këtyo mrimono hano yo: i diloyuṯo qnumayto (privacy) latyo bam mo mo mastarto ebe. U mede d koḥozina naqlawoṯe bu Facebook, kit qale w ṣucre. Cam ḥbol hawxa medone komacëjzi. U nošo kowe lhiqo lu ferojo aw li iḏacṯo du ḥreno. Hano mede dilonoyo yo bu Facebook w bu Instagram. Ak kasyoṯo du nošo komëglën. Lo kofoyaš mede talyo. Kul ḥawro kibe ḥoze ayna ḥawro aw ḥwarṯo bu nawlo yo. Komëfrosi medone dlo kolozam d mëfrosi. Kit farṣufe d kofërsi medone ġäläbe baṭile w zoyude. Hano lo kolozam kul naqla. Naqlawoṯe u camo law koḏac mën yo triṣo w mën yo fawdo. Aṭ ṭebe d komëfrosi bu nawlo latne kul naqla triṣe. U furšono bayn di duglo w du šroro lo komaḥwe ṭawwo. 
-Inaqla d ḥa u yawmo kule ḥoyar bu täläfonayḏe, koboṭal. Bu zoyudo ste an nacime naqlawoṯe lo koḥorawwe mah hërgaṯṯe di madrašto. U ḥa dlo howe ḥfiṭo bu sosyal medya lo koḥëšwile ḥawro l ruḥayye. 
+		  Baz zabne qamoye d aṯina l Holanda, aṭ ṭebe moṭënwa elan mu tälävizyon, mu radyo, mas sfaryawme (gazeṭat) aw mam mġale. Heš lëḏciwayna nawlo (internet) mën yo. Yëtwiwayna qum u tälävizyon w mfarjiwayna aṭ ṭebe, taḥrazto yulfonayto aw fëlim basimo. I sinäma bu bayto wa! Ṣafrayto inaqla d maḥisiwayna mi šanṯo, mḥaḏriwayna i qroṭën cal i ṭëbliṯo. Cam i qroṭën maydiwayna as sfaryawme aw i mġalṯo b iḏayna w qoriwayna mën kokëṯwi ag gëlyunore cal aṭ ṭebe dë briṯo. Bëṯër kul nošo ëzzewa lu fulḥonayḏe. B gawe di raḏayto maṣiṯiwayna cal zmaryoṯe basime mu radyo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>		  
+Aḥna bu zabnano ġäläbe mšawšaṭlan ruḥayna cal d kit nawlo. Ftiḥ u nawlo l kul camo bë briṯo. Cal u darbo du nawlo kiban moṭina lë ḥḏoḏe bu e-mail, Facebook, Instagram, Twitter w šarko. Hani kulle komëqroyi bu Ënglišoyo “Social Media”. Hamma mar kul nošo ucdo këtle täläfon di iḏo d këtyo masiro bu nawlo. Bu täläfon këppe ḥozën kul ṭebo d koṯe bu nawlo. Bu nawlo këppe saymi ġäläbe medone ḥrene. Maṯlo: këppe mšadri ṣërtoṯe lë ḥḏoḏe aw vidyo. Bak kṯawyoṯe kobën w šuqli cam ḥḏoḏe. Komfarji fëlime b Youtube. Iḏa d howalle mahwo w šqolo cam ḥḏoḏe, këppe bu WhatsApp mëjġoli ste. Bu šëklano an noše d kocayši qariwo aw raḥuqo më ḥḏoḏe, kowalle asiruṯo cam ḥḏoḏe.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.3" corresp="test.syr.3"/>	 
+Aḥ ḥaye du zabnano hawën fšiṭe ġäläbe. Ḥa kibe mu nawlo yolaf ġäläbe medone. Iḏa kit šuwole cal ṣbuṯo, kibux kurxat bu nawlo d yëlfat cal i ṣbuṯo. Iḏa këbcat d ëḏcat cal u muzoġo b aṯro ḥreno, u nawlo mëḥḏo komaḥwe. Tḥumo lu yulfono bu nawlo layt. Ḥa kibe korax xayifo bu nawlo cal kul mede d kobac yolaf. U nawlo këtle medone ṭawwe w ḥarbe ste, medone msimone w mrimone.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.4" corresp="test.syr.4"/>	 
+U mede d këtyo msimono bu nawlo hano yo bu rënyayḏi: mabuco d yulfono rabo yo. Ḥa kowele iḏacṯo cal u mede d kowe bë briṯo. Mede ḥreno d këtyo ulṣoyo bu nawlo, magon (bälaš) yo l kul camo. Kul nošo kibe mëstacmal “Social Media” dlo zuze. Komisam esore cam noše d latne iḏice. Bëṯër kowën ḥawrone bë briṯo kula. U ḥa d latle šuġlo aw cajizo yo, kibe mfaraj bu nawlo cal aḥ ḥrene. Ḥa kibe ḥoze aḥ ḥawronayḏe mën kosaymi w mën koṭorën. D rëḥmi mamlo cam ḥḏoḏe këppe mejġoli. Naqlawoṯe u nawlo komamṭe tre farṣufe ste lë ḥḏoḏe. Aw claymo w claymṯo këppe saymi wacdo d ḥozën ḥḏoḏe. Ġer mani medone ġäläbe kit ḥa d soyam cal u darbo du nawlo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.5" corresp="test.syr.5"/>	 
+U mede d këtyo mrimono hano yo: i diloyuṯo qnumayto (privacy) latyo bam mo mo mastarto ebe. U mede d koḥozina naqlawoṯe bu Facebook, kit qale w ṣucre. Cam ḥbol hawxa medone komacëjzi. U nošo kowe lhiqo lu ferojo aw li iḏacṯo du ḥreno. Hano mede dilonoyo yo bu Facebook w bu Instagram. Ak kasyoṯo du nošo komëglën. Lo kofoyaš mede talyo. Kul ḥawro kibe ḥoze ayna ḥawro aw ḥwarṯo bu nawlo yo. Komëfrosi medone dlo kolozam d mëfrosi. Kit farṣufe d kofërsi medone ġäläbe baṭile w zoyude. Hano lo kolozam kul naqla. Naqlawoṯe u camo law koḏac mën yo triṣo w mën yo fawdo. Aṭ ṭebe d komëfrosi bu nawlo latne kul naqla triṣe. U furšono bayn di duglo w du šroro lo komaḥwe ṭawwo.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.6" corresp="test.syr.6"/>	 
+Inaqla d ḥa u yawmo kule ḥoyar bu täläfonayḏe, koboṭal. Bu zoyudo ste an nacime naqlawoṯe lo koḥorawwe mah hërgaṯṯe di madrašto. U ḥa dlo howe ḥfiṭo bu sosyal medya lo koḥëšwile ḥawro l ruḥayye.
+</p>
+<p xml:lang="en">
+          <anchor xml:id="test.latn.7" corresp="test.syr.7"/>	 
 Cal hawxa kolozam ḥayrina l medya ḥreto d kofërso ṭebe triṣe. Kul farṣufo, zcuro aw rabo, ṭro soyam dëqqa mën kokoṯaw aw mën koforas bu nawlo.
         </p>
           <!-- Repeat the <p> element as needed -->

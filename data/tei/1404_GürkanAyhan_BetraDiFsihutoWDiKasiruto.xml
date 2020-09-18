@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܒܷܬ݂ܪܰܗ ܕܝ ܦܨܝܚܘܬ݂ܐ ܘܕܝ ܟܰܫܝܪܘܬ݂ܐ</foreign> / Bëṯra di fṣiḥuṯo w di kaširuṯo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Ayhan Gürkan 
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1404</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,14 +110,33 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܐܰܚ ܚܰܝܶܐ ܡܘ ܗܘܳܝܐ ܗܘܠ ܠܘ ܡܰܘܬܐ ܙܰܒܢܐ ܟܰܪܝܐ ܢܶܐ. ܟܘܠ‌ ܐܷܢܣܰܐܢ ܒܘ ܙܰܒܢܰܢܐ ܐܘ ܟܰܪܝܐ ܟܳܐܒܰܥ ܕܗܳܘܶܐ ܦܨܝܚܳܝܐ، ܕܡܳܛܶܐ ܠܘ ܢܝܫܰܝܕ݂ܶܗ ܐܰܘ ܠܘ ܚܷܠܡܰܝܕ݂ܶܗ. ܚܰܐ ܠܰܫܰܢ ܕܡܳܛܶܐ ܠܘ ܡܶܕܶܐ ܕܟܳܐܒܰܥ ܒܰܚ ܚܰܝܰܝܕ݂ܶܗ، ܟܳܠܳܙܰܡ ܒܝ ܩܰܡܰܝܬܐ ܕܣܳܝܰܡܠܶܗ ܬܰܚܪܰܙܬܐ ܕܘ ܫܘܓ݂ܠܐ ܐܰܘ ܕܡܰܚܰܬܠܶܗ ܢܝܫܐ ܠܩܘܠ ܥܰܝܢܶܗ، ܕܪܳܗܰܛ ܕܠܐ ܟܠܳܝܐ ܘܕܠܐ ܒܰܛܠܐ ܘܕܠܐ ܙܘܥܬ݂ܐ ܠܰܫܰܢ ܕܐܰܬ ܬܰܪܦ݁ܰܠܝܳܬ݂ܶܐ ܕܢܷܦܩܝ ܠܩܰܡܘܬ݂ܶܗ ܕܩܳܕܰܪ ܕܠܐ ܢܦܳܠܐ ܕܷܡܗܰܠܷܟ݂ ܕܡܳܛܶܐ ܠܘ ܢܝܫܰܝܕ݂ܶܗ.
+		  </p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܒܝ ܩܰܡܰܝܬܐ ܟ݂ܘܕ ܡܶܩܷܡ ܟܬ݂ܘܘܰܝܠܝ ܕܠܐ ܙܘܥܬ݂ܐ ܕܰܬ  ܬܰܪܦ݁ܰܠܝܳܬ݂ܶܐ ܕܪܘܗܛܝܢܰܐ ܠܘ ܢܝܫܰܝܕ݂ܰܢ. ܐܝ ܔܱܨܰܪܰܐ ܡܷܩܩܰܐ ܕܐܷܬ݂ܝܐ ܨܰܥܒܐ ܐܶܠܰܢ ܣܬܶܐ، ܐܶܠܐ ܐܘ ܕܰܪܓ݂ܐ ܩܰܡܳܝܐ ܝܐ. ܓ݂ܱܠܱܒܶܐ ܢܳܫܶܐ ܥܰܠ ܕܠܰܬܬܶܗ ܔܱܨܰܪܰܐ ܟܛܳܥܷܢ ܐܘ ܚܘܠܡܰܬ݂ܬ݂ܶܗ ܘܐܘ ܢܝܫܰܬ݂ܬ݂ܶܗ، ܟܥܰܝܫܝ ܐܰܚ ܚܰܝܰܬ݂ܬ݂ܶܗ ܕܟܷܬܢܶܐ. ܡܰܘܟ݂ܰܐ ܚܰܐ ܟܳܠܳܙܰܡ ܟܘܠܢܰܩܩܰܐ ܐܘ ܨܰܒܪܰܝܕ݂ܶܗ ܘܐܝ ܩܘܘܰܝܕ݂ܶܗ ܕܠܐ ܡܣܰܟܰܪܠܰܗ. ܐܝܢܰܩܩܰܝܐ ܓܡܳܛܶܐ ܚܰܐ ܕܰܪܓ݂ܳܐ ܚܪܶܢܐ ܠܘ ܢܝܫܰܝܕ݂ܶܗ. ܔܓ݂ܶܝܪ ܡܝ ܔܱܨܰܪܰܐ ܟܳܠܳܙܰܡ ܐܘ ܐܷܢܣܰܐܢ ܕܡܝܬܰܘܪܰܘ ܒܬܰܪܒܝܝܰܐ ܘܒܐܰܟ݂ܠܰܐܩ ܡܰܟܝܟ݂ܐ. ܗܰܢܐ ܣܬܶܐ ܟܢܳܦܰܠ ܒܝ ܩܰܡܰܝܬܐ ܠܝ ܐܝܩܰܪܬ݂ܰܝܕ݂ܶܗ. ܐܝ ܬܰܪܒܝܝܰܐ ܕܡܝܬܰܗܘܝܐ ܒܝ ܢܰܥܡܘܬ݂ܐ ܡܶܐ ܕܝܳܪܘ ܟܳܣܰܝܡܳܠܶܗ ܐܷܢܣܰܐܢ ܚܰܐ ܕܡܷܬܝܰܩܢܝܠܶܗ. ܐܘ ܚܰܐ ܕܠܐ ܢܳܦܰܩ ܡܝ ܬܰܪܒܝܝܰܐ ܕܷܒܢܰܥܡܘܬ݂ܶܗ ܡܝܕܳܠܶܗ ܟܡܳܛܶܐ ܠܕܰܪܓ݂ܐ ܚܪܶܢܐ ܕܝ ܦܨܝܚܘܬ݂ܐ ܘܕܝ ܟܰܫܝܪܘܬ݂ܐ.
+</p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܟܝܬܐ ܔܓ݂ܶܝܪ ܡܶܕܶܐ ܐܘܠܨܳܝܐ ܠܰܫܰܢ ܐܘ ܐܷܢܣܰܐܢ، ܗܰܘܐ ܣܬܶܐ ܚܰܐ ܕܝܳܠܰܦ ܐܘ ܐܝܩܳܪܐ ܕܡܰܚܘܶܐ. ܐܘ ܐܝܩܳܪܐ ܡܝ ܢܰܥܡܘܬ݂ܐ ܚܰܐ ܕܝܳܠܰܦܠܶܗ، ܙܷܕܬܷܪ ܐܘܠܨܳܝܐ ܝܐ ܚܰܐ ܕܡܝ ܪܰܒܘܬ݂ܐ ܕܝܳܠܰܦ ܝܐ. ܐܶܠܐ ܟ݂ܘܕ ܘܰܪܝܕ݂ܐ ܟܳܦܳܝܷܫ، ܪܷܟܟܷܢ ܩܰܘܝܐ ܝܐ.
+</p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.4" corresp="test.latn.4"/>
  ܔܓ݂ܶܝܪ ܡܘ ܐܝܩܳܪܐ ܣܬܶܐ ܟܳܠܳܙܰܡ ܚܰܐ ܕܗܳܘܶܐ ܒܓܰܘܶܗ ܚܘܒܐ. ܐܝ ܚܘܒܐ ܣܬܶܐ ܒܝ ܩܰܡܰܝܬܐ ܡܝ ܐܝܩܰܪܬ݂ܐ ܟܳܡܷܚܙܳܝܐ. ܐܘ ܐܷܢܣܰܐܢ ܕܝܳܪܘ ܒܝ ܚܘܒܐ ܟܘܠ ܢܰܩܩܰܐ ܟܝܳܠܷܦ ܕܡܷܦܬܰܟܰܪ ܛܰܘܘܐ ܘܟܳܩܳܕܰܪ ܕܐܳܒܶܐ ܩܱܪܰܪܶܐ ܡܣܰܘܝܶܐ ܘܕܡܰܥܘܷܕ ܡܶܚܶܗ. ܐܘ ܐܷܢܣܰܐܢ ܕܝ ܢܰܥܡܘܬ݂ܰܝܕ݂ܶܗ ܕܡܰܦܷܬܠܰܗ ܠܐ ܛܰܘܘܐ ܕܠܐ ܚܘܒܐ، ܒܘ ܙܳܝܘܕܐ ܠܐ ܟܳܩܳܕܰܪ ܕܡܷܦܬܰܟܰܪ ܛܰܘܘܐ ܘܓܕܳܐܒܶܐ ܩܱܪܰܪܶܐ ܠܐ ܡܥܰܕܠܶܐ. ܐܘ ܐܷܢܣܰܐܢ ܕܩܳܕܰܪ ܕܐܳܒܶܐ ܩܱܪܰܪܶܐ ܡܣܰܘܝܶܐ ܕܐܝܢܰܩܩܰܐ ܕܣܳܝܰܡ ܦܰܘܕܐ ܣܬܶܐ، ܥܰܠ ܕܟܳܡܷܦܬܰܟܰܪ ܛܰܘܘܐ ܓܷܕ ܩܳܕܰܪ ܕܳܥܰܪ ܠܘ ܕܰܪܒܐ ܡܣܰܘܝܐ ܟ݂ܰܝܝܦܐ ܘܟܳܡܳܝܷܕ ܕܪܳܫܐ ܡܘ ܦܰܘܕܐ ܕܣܷܡܠܶܗ. ܐܘ ܦܬܱܟܰܐܪ ܛܰܘܘܐ ܠܰܬܝܐ ܡܶܕܶܐ ܕܟܘܠ ܚܰܐ ܕܩܳܕܰܪ ܕܣܳܝܰܡܠܶܗ، ܐܶܠܐ ܟܘܠ ܢܳܫܐ ܒܰܚ ܚܰܝܰܝܕ݂ܶܗ ܐܰܝ ܝܰܘܡܳܝܶܐ ܥܰܠ ܕܟܳܥܳܝܰܫ ܡܶܕܳܢܶܐ ܠܐ ܡܥܰܕܠܶܐ  ܠܐ ܟܳܩܳܕܰܪ ܟܘܠܢܰܩܩܰܐ ܕܡܷܦܬܰܟܰܪ ܛܰܘܘܐ. ܐܘ ܐܷܢܣܰܐܢ  ܕܟܳܩܳܕܰܪ ܕܡܷܦܬܰܟܰܪ ܛܰܘܘܐ، ܗܰܘܐ ܠܐ ܟܳܩܳܛܰܥ ܐܰܢ ܐܶܣܳܪܰܝܕ݂ܶܗ ܥܰܡ ܐܰܢ ܢܳܫܶܐ ܕܟܳܡܷܦܬܰܟܪܝ ܒܛܰܘܘܬ݂ܐ ܢܶܐ.
-
+ </p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܟܝܬܐ ܔܓ݂ܶܝܪ ܡܶܕܶܐ ܠܰܫܰܢ ܐܘ ܐܷܢܣܰܐܢ ܕܟܳܩܳܕܰܪ ܕܡܷܦܬܰܟܰܪ ܡܣܰܘܝܐ ܘܕܝܳܠܰܦ ܐܰܟ݂ܠܰܐܩ ܘܬܰܪܒܝܝܰܐ ܛܰܘܬܐ ܘܕܝܳܠܰܦ ܕܡܰܚܘܶܐ ܐܘ ܐܝܩܳܪܐ ܘܐܝ ܚܘܒܐ ܕܷܟܡܳܝܰܕܠܷܢ ܡܝ ܥܰܝـܝܠܰܝܕ݂ܶܗ. ܐܝ ܥܰܝـܝܠܰܝܕ݂ܶܗ ܣܬܶܐ ܟܷܬܠܰܗ ܡܶܕܳܢܶܐ ܐܘܠܨܳܝܶܐ ܕܷܟܢܷܦܠܝ ܐܰܥܠܰܗ. ܐܘ ܢܰܥܝܡܐ ܡܰܡ ܡܶܕܳܢܰܢܝ ܐܰܢ ܐܘܠܨܳܝܶܐ ܕܡܝܬܰܘܪܰܘ ܓܷܕ ܩܳܕܰܪ ܕܡܳܛܶܐ ܕܣܳܝܰܡ ܐܰܚ ܚܘܠܡܰܝܕ݂ܶܗ.
+</p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܡܷܢ ܢܶܐ ܐܰܡ ܡܶܕܳܢܰܢܝ ܐܰܢ ܐܘܠܨܳܝܶܐ؟ ܒܝ ܩܰܡܰܝܬܐ ܟܳܠܳܙܰܡ ܕܠܐ ܡܰܚܬܝ ܬܰܪܦܷ݁ܠܝܳܬ݂ܶܐ ܡܩܰܒܶܠ ܕܘ ܚܘܠܡܐ ܕܘ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ ܐܰܘ ܕܠܐ ܡܒܰܕܠܝ ܐܰܦ ܦܬܱܟܰܪܰܝܕ݂ܶܗ ܘܕܛܳܪܝܠܶܗ ܚܝܪܐ ܒܰܩ ܩܱܪܰܪܰܝܕ݂ܶܗ. ܐܘ ܢܰܥܝܡܐ ܒܚܝܪܘܬ݂ܐ ܕܠܐ ܩܳܕܰܪ ܕܚܳܙܶܐ ܚܘܠܡܶܐ ܠܐ ܟܳܩܳܕܰܪ ܕܗܳܘܶܐ ܦܨܝܚܳܝܐ.
+</p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܐܝ ܥܰܝـܝܠܰܐ ܕܷܡܥܰܘܢܐ ܐܘ ܢܰܥܝܡܰܝܕ݂ܰܗ ܠܰܫܰܢ ܕܡܳܛܶܐ ܠܰܚ ܚܘܠܡܰܝܕ݂ܶܗ ܒܷܬ݂ܷܪ ܓܷܕ ܚܷܙܝܐ ܐܝ ܦܨܝܚܘܬ݂ܐ ܕܘ ܢܰܥܝܡܰܝܕ݂ܰܗ. ܐܝܕ݂ܰܐ ܐܝ ܥܰܝـܝܠܰܐ ܕܠܐ ܡܥܰܘܢܐ ܐܘ ܢܰܥܝܡܰܝܕ݂ܰܗ ܠܰܫܰܢ ܕܡܳܛܶܐ ܠܰܚ ܚܘܠܡܰܝܕ݂ܶܗ، ܐܘ ܢܰܥܝܡܰܘܐ ܓܷܕ ܡܷܦܬܰܟܷܪ ܕܠܐ ܟܳܩܳܕܰܪ ܕܷܡܚܰܝܨܷܠ  ܐܰܒ ܒܘܚܳܢܰܝܕ݂ܶܗ ܘܓܡܷܓܪܷܫ ܘܗܰܘ ܟܳܩܳܕܰܪ ܕܗܳܘܶܐ ܟܰܫܝܪܐ. ܐܘ ܢܰܥܝܡܐ ܕܚܳܙܶܐ ܐܝ ܥܰܝـܝܠܰܝܕ݂ܶܗ ܒܚܰܨܶܗ، ܙܷܕܬܷܪ ܓܕܳܐܒܶܐ ܪܘܚܶܗ ܠܰܗ ܗܷܪܓܰܝܕ݂ܶܗ ܘܙܷܕܬܷܪ ܒܷܦܨܝܚܘܬ݂ܐ ܓܪܳܗܰܛ ܠܰܫܰܢ ܐܝ ܟܰܫܝܪܘܬ݂ܐ ܘܠܝ ܦܨܝܚܘܬ݂ܐ.
-
+</p>
+                <p xml:lang="tru">
+					<anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܡܰܠܦܳܢܐ ܐܰܝܗܰܐܢ ܓܘܪܩܰܐܢ
         </p>
           <!-- Repeat the <p> element as needed -->
@@ -127,15 +146,34 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Bëṯra di fṣiḥuṯo w di kaširuṯo
 		  Aḥ ḥaye mu hwoyo hul lu mawto zabno karyo ne. Kul ënsan bu zabnano u karyo kobac d howe fṣiḥoyo, d moṭe lu nišayḏe aw lu ḥëlmayḏe. Ḥa lašan d moṭe lu mede d kobac baḥ ḥayayḏe, kolozam bi qamayto d soyamle taḥrazto du šuġlo aw d maḥatle nišo lqul cayne, d rohaṭ dlo kloyo w dlo baṭlo w dlo zucṯo lašan d at tarpalyoṯe d nëfqi l qamuṯe d qodar dlo nfolo dë mhalëx d moṭe lu nišayḏe.
+		  </p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 Bi qamayto xud meqëm kṯuwayli dlo zucṯo dat  tarpalyoṯe d ruhṭina lu nišayḏan. I jäṣara mëqqa d ëṯyo ṣacbo elan ste, elo u darġo qamoyo yo. Ġäläbe noše cal d latte jäṣara kṭocën u ḥulmaṯṯe w u nišaṯṯe, kcayši aḥ ḥayaṯṯe d këtne. Mawxa ḥa kolozam kulnaqqa u ṣabrayḏe w i quwayḏe d lo msakarla. Inaqqayo gmoṭe ḥa darġo ḥreno lu nišayḏe. Jġer mi jäṣara kolozam u ënsan d mitawraw b tarbiya w b axlaq makixo. Hano ste knofal bi qamayto li iqarṯayḏe. I tarbiya d mitahuyo bi nacmuṯo me d yoru kosaymole ënsan ḥa d mëtyaqnile. U ḥa dlo nofaq mi tarbiya dë b nacmuṯe midole, kmoṭe l darġo ḥreno di fṣiḥuṯo w di kaširuṯo.
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
 Kito jġer mede ulṣoyo lašan u ënsan, hawo ste ḥa d yolaf u iqoro d maḥwe. U iqoro mi nacmuṯo ḥa d yolafle, zëdtër ulṣoyo yo ḥa d mi rabuṯo d yolaf yo. Elo xud wariḏo kofoyëš, rëkkën qawyo yo.
-
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
 Jġer mu iqoro ste kolozam ḥa d howe b gawe ḥubo. I ḥubo ste bi qamayto mi iqarṯo komëḥzoyo. U ënsan d yoru bi ḥubo kulnaqqa kyolëf d mëftakar ṭawwo w koqodar d obe qärare msawye w d macwëd meḥe. U ënsan di nacmuṯayḏe d mafëtla lo ṭawwo dlo ḥubo, bu zoyudo lo koqodar d mëftakar ṭawwo w gdobe qärare lo mcadle. U ënsan d qodar d obe qärare msawye d inaqqa d soyam fawdo ste, cal d komëftakar ṭawwo gëd qodar docar lu darbo msawyo xayifo w komoyëd drošo mu fawdo d sëmle. U ftäkar ṭawwo latyo mede d kul ḥa d qodar d soyamle, elo kul nošo baḥ ḥayayḏe ay yawmoye cal d kocoyaš medone lo mcadle  lo koqodar kulnaqqa d mëftakar ṭawwo. U ënsan  d koqodar d mëftakar ṭawwo, hawo lo koqoṭac an esorayḏe cam an noše d komëftakri b ṭawuṯo ne.
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
 Kito jġer mede lašan u ënsan d qodar d mëftakar msawyo w d yolaf axlaq w tarbiya ṭawto w d yolaf d maḥwe u iqoro w i ḥubo dë kmoyadlën mi cayilayḏe. I cayilayḏe ste këtla medone ulṣoye dë knëfli acla. U nacimo mam medonani an ulṣoye d mitawraw gëd qodar d moṭe d soyam aḥ ḥulmayḏe.
-Mën ne am medonani an ulṣoye? Bi qamayto kolozam d lo maḥti tarpëlyoṯe mqabel du ḥulmo du nacimaṯṯe aw d lo mbadli af ftäkarayḏe w d ṭorile ḥiro baq qärarayḏe. U nacimo b ḥiruṯo d lo qodar d ḥoze ḥulme lo koqodar d howe fṣiḥoyo. 
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+Mën ne am medonani an ulṣoye? Bi qamayto kolozam d lo maḥti tarpëlyoṯe mqabel du ḥulmo du nacimaṯṯe aw d lo mbadli af ftäkarayḏe w d ṭorile ḥiro baq qärarayḏe. U nacimo b ḥiruṯo d lo qodar d ḥoze ḥulme lo koqodar d howe fṣiḥoyo.
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/> 
 I cayila dë mcawno u nacimayḏa lašan d moṭe laḥ ḥulmayḏe bëṯër gëd ḥëzyo i fṣiḥuṯo du nacimayḏa. Iḏa i cayila d lo mcawno u nacimayḏa lašan d moṭe laḥ ḥulmayḏe, u nacimawo gëd mëftakër d lo koqodar dë mḥayṣël  ab buḥonaydë w gmëgrëš w haw koqodar d howe kaširo. U nacimo d ḥoze i cayilaydë b ḥaṣe, zëdtër gdobe ruḥe lah hërgayḏe w zëdtër bë fṣiḥuṯo grohaṭ lašan i kaširuṯo w li fṣiḥuṯo.
+</p>
+<p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
 Malfono Ayhan Gürkan
         </p>
           <!-- Repeat the <p> element as needed -->

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܰܝܕܰܪܒܐ ܦܰܝـܝܫܝܢܰܐ ܗܘܠ ܠܐܘܥܕܐ</foreign> / Aydarbo fayišina hul l ucdo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Ayhan Gürkan 
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1403</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,17 +110,26 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
           ܐܰܒ ܒܰܒܳܢܰܝܕ݂ܰܢ ܘܐܰܣ ܣܳܘܰܝܕ݂ܰܢ ܡܰܦܷܬܬܶܗ ܓ݂ܱܠܱܒܶܐ ܝܰܘܡܳܬ݂ܶܐ ܙܰܚܡܶܐ ܘܩܰܫܝܶܐ. ܟܘܠ ܟܡܐ ܐܷܫܢܶܐ ܗܰܘܝ ܐܰܥܠܰܝـܝܶܗ ܟܰܦܢܐ، ܙܰܠܛܐ، ܣܰܝܦܐ، ܛܪܳܕ݂ܶܐ، ܩܰܛܠܶܐ، ܬܘܩܝܕ݂ܐ ܕܰܟ ܟܬܳܘܶܐ ܘܬܷܚܪܝܘܐ ܕܰܒ ܒܳܬܶܐ. ܐܶ، ܐܘ ܥܰܡܰܝܕ݂ܰܢ ܡܒ݂ܰܝܰܥܠܶܗ ܐܘ ܥܰܦܪܐ، ܐܰܒ ܒܳܬܶܐ ܘܐܘ ܡܰܐܠ. ܐܶܠܐ ܟ݂ܘܕ ܟܳܐܡܰܪ ܡܫܝܚܐ، ܠܐ ܡܚܰܠܰܩܩܶܗ ܐܰܔ ܔܰܘܗܱܪܰܝܰܬ ܕܷܬ݂ܬ݂ܶܗ ܩܘܡ ܪܰܓ݂ܠܶܗ ܕܰܒ ܒܪܳܙܶܐ ܘܠܐ ܡܰܬܪܰܟܟܶܗ ܐܝ ܗܰܝܡܳܢܘܬ݂ܐ، ܐܝ ܡܰܪܕܘܬ݂ܐ ܘܐܘ ܠܝܫܳܢܐ ܣܘܪܝܳܝܐ ܚܰܬܬܰܐ ܐܘ ܥܰܦܪܰܬ݂ܬ݂ܶܗ ܩܰܕܝܪܝ ܕܡܰܣܷܠܡܝܠܰܢܝܐ. ܐܝܢܰܩܩܰܐ ܕܟܳܩܳܪܝܢܰܐ ܐܘ ܬܰܪܝܟ݂ ܕܝ ܥܝܬܐ، ܘܕܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܘܐܘ ܡܶܕܶܐ ܕܔܰܪܝ ܒܪܝܫܶܗ ܕܘ ܥܰܡܐ ܣܘܪܝܳܝܐ، ܬܷܕ݂ܡܘܪܬܐ ܪܰܒܬ݂ܐ ܝܐ ܕܗܶܫ ܟܳܥܳܝܰܫ ܐܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܒܒܶܝܬ݂ܢܰܗܪܝܢ، ܚܰܬܬܰܐ ܒܷܒܪܝܬ݂ܐ.  ܐܶܠܐ ܡܩܰܒܷܠ ܕܟܘܠ ܥܰܣܩܘܬ݂ܐ ܐܘ ܥܰܡܐ، ܐܝ ܥܝܬܐ، ܐܘ ܠܝܫܳܢܐ، ܐܘ ܒܶܝܬ݂ܓܰܙܐ، ܘܐܘ ܬܰܪܝܟ݂ ܗܶܫ ܠܐ ܡܰܝܷـܬ݂. ܗܰܬ݂ܶܐ ܐܝ ܗܰܝܡܳܢܘܬ݂ܐ، ܐܘ ܬܘܟ݂ܠܳܢܐ ܘܐܝ ܚܘܒܐ ܕܟܷܬܘܰܝܠܶܗ ܒܷܡܫܝܚܐ ܛܪܶܠܰܗ ܕܦܰܝܫܐ ܐܝ ܥܝܬܐ ܘܐܘ ܥܰܡܐ ܥܰܠ‌ ܐܝ ܪܰܓ݂ܠܐ. ܒܷܬ݂ܷܪ ܡܰܩ ܩܰܛܠܶܐ، ܡܘ ܛܪܳܕ݂ܐ، ܡܘ ܬܘܩܝܕ݂ܐ ܕܰܟ ܟܬ݂ܳܘܶܐ، ܡܘ ܬܷܕܪܝـܝܐ ܕܰܒ ܒܳܬܶܐ ܘܕܰܥ ܥܝܬܳܬ݂ܶܐ ܘܕܰܝܪܶܐ، ܢܰܩܩܰܐ ܚܪܶܬܐ ܕܰܥܷܪ ܐܘ ܥܰܡܐ ܡܰܥܡܰܪܠܶܗ ܐܰܕ ܕܘܟܳܬ݂ܶܐ ܢܰܦܝܠܶܐ ܘܰܐܕ ܕܘܟܳܬ݂ܶܐ ܕܗܰܘܷܢܘܰܐ ܚܰܪܒܶܐ ܣܝܡܝܠܶܗ ܕܘܟܳܬ݂ܶܐ ܕܝ ܥܝܶܫܶܐ ܕܰܐܕܝܰܘܡܰܐ ܒܪܝܬ݂ܐ ܟܘܠܰܗ ܟܳܡܷܔܓ݂ܳܠܐ ܐܰܥܠܰܝـܝܶܗ، ܘܥܰܠ‌ ܐܘ ܫܘܒܚܰܬ݂ܬ݂ܶܗ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܘ ܥܰܡܐ ܣܘܪܝܳـܝܐ ܐܝ ܗܰܝܡܳܢܘܬ݂ܰܝܕ݂ܶܗ ܕܒܷܡܫܝܚܐ ܛܪܶܠܰܗ ܢܰܩܩܰܐ ܚܪܶܬܐ ܕܟܳܬ݂ܰܘ، ܕܡܰܥܡܰܪ، ܕܳܥܰܪ، ܥܳܝܰܫ ܘܪܳܚܰܡ ܐܰܢ ܢܳܫܶܐ ܕܡܶܩܷܡ ܡܶܐ ܙܰܒܢܐ ܡܰܢܗܰܒܠܶܗ، ܢܚܷܪܠܶܗ ܘܩܛܝܠܶܗ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܐܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܡܘ ܝܰܘܡܐ ܕܡܰܩܒܶܠܶܗ ܐܝ ܡܫܝـܚܳـܝܘܬ݂ܐ ܗܘܠ ܠܰܐܕܝܰܘܡܰܐ ܒܝ ܕܘܟܬ݂ܐ ܕܟܳܥܳܝܰܫ ܬܰܚܬܶܗ ܕܘ ܕ݂ܷܠܷܡ ܝܐ. ܒܰܣ ܗܰܢܐ ܠܰܬܝܐ ܡܶܕܶܐ ܢܘܟ݂ܪܳܝܐ ܐܶܠܶܗ. ܥܰܠ ܕܷܡܫܝـܚܐ ܡܷܪܠܶܗ ܒܘ ܡܓܰܠܝܘܢ ܩܰܕܝܫܐ: ܐܘ ܚܰܐ ܕܳܐܒܰܥ ܕܗܳܘܶܐ ܐܘ ܬܰܠܡܝܕ݂ܰܝܕ݂ܝ ܟܳܠܳܙܰܡ ܛܳܥܰܢ ܐܘ ܨܠܝܒܰܝܕ݂ܶܗ ܘܳܐܬ݂ܶܐ ܒܷܬ݂ܪܝ. ܐܘ ܥܰܡܐ ܣܘܪܝܳـܝܐ ܝܰܘܡܐ ܠܐ ܡܷܦܬܰܟܰܪܠܶܗ ܘܡܷܪܠܶܗ: ܒܰܣܝܐ ܡܰܐ ܗܘܠ ܠܐܶܡܰܐ، ܗܰܘ ܟܳܟܳܬ݂ܰܘܢܐ، ܗܰܘ ܟܳܡܰܥܡܰܪܢܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܡܫܝـܚܐ، ܟ݂ܘܕ ܟܷܬܝܐ ܐܝܕ݂ܝܥܐ، ܠܐ ܡܳܠܰܦܠܶܠܰܢ ܛܥܳܢܐ ܕܘ ܨܷܠܰܐܚ ܘܠܐ ܡܳܠܰܦܠܶܠܰܢ ܕܷܡܚܰܪܒܝܢܰܐ ܡܩܰܒܷܠ ܕܢܳܫܶܐ، ܐܶܠܐ ܕܰܝـܝܡܰܐ ܟܳܡܰܘܨܶܐ ܕܪܷܚܡܝܢܰܐ ܚܕ݂ܳܕ݂ܶܐ ܘܠܟܘܠ ܢܳܫܐ. ܐܝܢܰܩܩܰܐ ܕܰܐܒܝܥܝ ܐܰܝ ܝܘܕ݂ܳܝܶܐ ܕܡܷܣܟܝ ܡܫܝـܚܐ، ܫܷܡܥܘܢ ܡܳܦܰܩܠܶܗ ܐܝ ܣܟܝܢܐ ܕܟܷܬܘܰܐ ܐܰܥܡܶܗ ܘܫܡܷܛܠܶܗ ܐܰܕ݂ܢܶܗ ܕܘ ܓܪܶܥܐ ܕܘ ܪܰܒܐ ܕܰܟ ܟܳܗܢܶܐ. ܐܶܠܐ ܡܫܝـܚܐ ܙܒܷܪܠܶܗ ܐܶܒܶܗ ܡܷܪܠܶܠܶܗ: ܫܷܡܥܘܢ، ܡܰܚܰܬ ܐܘ ܣܰܝܦܐ ܒܕܘܟܬ݂ܶܗ. ܟܘܠ ܕܡܳܚܶܐ ܒܘ ܣܰܝܦܐ، ܒܘ ܣܰܝܦܐ ܓܡܷܡܚܶܐ. ܒܕܘܟܬ݂ܐ ܚܪܶܬܐ ܡܷܪܠܶܗ ܡܫܝܚܐ: ܐܝܢܰܩܩܰܐ ܕܛܷܪܕ݂ܷܢܟ݂ܘ ܡܝ ܘܱܠܰܝܰܬ݂ܶܐ ܡܰܗܙܶܡܘ ܠܝ ܚܪܶܬܐ. ܒܷܫܪܳܠܐ ܟܳܐܡܰܪܢܰܢܟ݂ܘ ܠܷܓ ܡܟܰܡܠܝܬܘ ܐܰܘ ܘܱܠܰܝܰܬ ܕܐܝܣܪܳܐܝܶܠ ܗܘܠ ܕܐܳܬ݂ܶܐ ܐܰܒܪܶܗ ܕܘ ܢܳܫܐ. 
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܡܰܘܟ݂ܰܐ ܐܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܓ݂ܱܠܱܒܶܐ ܢܰܩܩܰܬ ܠܐ ܩܰܝܷܡ ܡܩܰܒܷܠ ܕܘ ܕܷܙ̰ܡܷܢ، ܐܝܕ݂ܰܐ ܗܰܘܝܠܶܗ ܐܝܡܟܰܐܢ ܘܡܰܗܙܰܡܠܶܗ ܠܕܘܟܬ݂ܐ ܚܪܶܬܐ ܗܘܠ ܕܗܰܘܝ ܫܰܝܢܐ ܢܰܩܩܰܐ ܚܪܶܬܐ ܕܰܥܷܪ ܠܘ ܐܰܬ݂ܪܰܝܕ݂ܶܗ. ܐܘ ܝܘܠܦܳܢܰܢܐ ܝܐ ܕܗܰܘܝ ܣܱܒܰܒ ܕܐܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܦܰܝܷܫ ܥܰܠ ܦܳܬ݂ܰܗ ܕܝ ܐܰܪܥܐ. ܕܠܐ ܡܘ ܝܘܠܦܳܢܰܢܐ ܐܝܕ݂ܰܐ ܕܢܳܚܰܬܘܰܐ ܡܩܰܒܷܠ ܕܘ ܕܷܙ̰ܡܷܢ ܠܝ ܣܰܚܰܐ ܕܘ ܚܰܪܒ ܒܰܠܟܝ ܐܰܕܝܰܘܡܰܐ ܠܐ ܦܳܝܰܫܘܰܐ ܘܠܐ ܚܰܐ ܣܘܪܝܳܝܐ ܒܷܒܪܝܬ݂ܐ. ܐܶܠܐ ܒܘ ܬܰܪܝܟ݂ ܟܷܬܘܰܐ ܓ݂ܱܠܱܒܶܐ ܥܰܡܶܐ ܒܷܒܪܝܬ݂ܐ ܕܐܰܕܝܰܘܡܰܐ ܠܐ ܦܰܝܷܫ ܢܳܫܶܐ ܡܷܢܢܶܗ ܒܰܣ ܒܰܦ݁ ܦ݁ܰܠܠܷܟܰܬ ܕܘ ܬܰܪܝܟ݂ ܟܳܡܰܚܟܶܐ ܐܰܥܠܰܝܝܶܗ. ܟܝܬ ܐܰܕܝܰܘܡܰܐ ܓ݂ܱܠܱܒܶܐ ܢܳܫܶܐ، ܓܰܒܶܐ، ܫܘܬܳܣܶܐ ܡܶܐ ܕܘ ܥܰܡܰܝܕ݂ܰܢ ܕܟܳܡܷܠܦܝ ܝܘܠܦܳܢܶܐ ܡܫܰܚܠܦܶܐ ܕܟܷܬܢܶܐ ܡܩܰܒܷܠ ܕܘ ܝܘܠܦܳܢܐ ܡܫܝـܚܳـܝܐ ܘܟܷܐܡܡܝ ܕܟܳܠܳܙܰܡ ܕܡܰܝܕܝܢܰܐ ܙܰܝܢܐ ܘܕܷܡܚܰܪܒܝܢܰܐ ܡܩܰܒܷܠ ܕܘ ܕܷܙ̰ܡܷܢ. ܐܘ ܝܘܠܦܳܢܰܢܐ ܠܰܬܝܐ ܡܰܩܷܒܠܐ ܒܘ ܡܓܰܠܝܘܢ ܘܡܩܰܒܷܠ ܕܘ ܝܘܠܦܳܢܐ ܕܷܡܫܝـܚܐ ܝܐ. ܐܰܒ ܒܰܒܳܢܶܐ ܘܐܰܔ ܔܷܕܕܰܝܕ݂ܰܢ ܕܟܷܬܘܰܠܠܶܗ ܬܘܟ݂ܠܳܢܐ ܥܰܠ ܡܫܝܚܐ ܕܢܳܛܰܪܠܷܢ ܘܢܛܝܪܝܠܶܗ ܗܘܠ ܠܐܰܕܝܰܘܡܰܐ. ܢܳܫܶܐ ܡܰܣ ܣܘܪܝܳـܝܶܐ ܠܰܝܒܶܗ ܕܐܳܡܰܪ ܘܕܷܡܦܰܫܰܩ ܐܰܝܕܰܪܒܐ ܘܡܷܢ ܫܷܟܷܠ ܩܰܕܝܪܝܢܰܐ ܕܦܰܝܫܝܢܰܐ ܣܰܐܓ݂ ܒܰܝܢ ܐܝ ܘܰܚܫܝܬܝـܝܰܬ݂ܶܗ، ܗܰܢܝ ܟܡܳܐ ܣܰܝܦܶܐ ܩܰܝܷܡ ܐܰܥܠܰܝܢܰܐ ܘܟܘܠ ܟܡܐ ܐܷܫܢܶܐ ܛܪܳܕ݂ܐ ܘܬܶܦܝܩܐ ܡܝ ܕܘܟܬ݂ܐ. ܒܘ ܙܳܝܘܕܐ ܐܝ ܘܰܚܫܝܬܝـܝܶܐ ܕܘ ܣܰܝܦܐ ܕܰܢ ܐܰܠܦܐ ܬܫܰܥܡܐ ܘܚܰܡܫܰܥܣܰܪ. ܐܶܠܐ ܒܰܣ ܐܝ ܗܰܝܡܳܢܘܬ݂ܐ ܕܒܷܡܫܝـܚܐ ܝܐ. ܐܰܚܢܰܐ ܣܬܶܐ ܟܳܠܳܙܰܡ ܐܝ ܗܰܝܡܳܢܘܬ݂ܰܝܕ݂ܰܢ ܕܢܷܛܪܝܢܰܠܰܗ ܘܠܳܐ ܐܷܙܙܰܢ ܒܷܬ݂ܪܶܗ ܕܰܝ ܝܘܠܦܳܢܶܐ ܡܫܰܚܷܠܦܶܐ ܘܕܷܡܗܰܝܡܢܝܢܰܐ ܒܷܡܫܝـܚܐ ܕܟܷܬܠܶܗ ܚܰܝܠܐ ܘܟܝܒܶܗ ܕܢܳܛܰܪܠܰܢ. ܟ݂ܘܕ ܟܷܬܝܐ ܟܬ݂ܝܘܐ ܒܘ ܡܰܙܡܘܪܐ ܕܟܳܐܡܰܪ: ܐܝܕ݂ܰܐ ܐܰܠܳܗܐ ܕܠܐ ܢܳܛܰܪ ܐܝ ܩܪܝܬ݂ܐ ܐܰܢ ܢܳܛܘܪܶܐ ܥܰܠ ܟ݂ܰܠܝܐ ܟܳܢܷܛܪܝ ܘܐܝܕ݂ܰܐ ܐܰܠܳܗܐ ܕܠܐ ܡܰܥܡܰܪ ܐܘ ܒܷܢܝܳܢܐ ܐܰܡ ܡܰܥܷܡܪܳܢܶܐ ܒܝ ܗܰܘܰܐ ܟܳܡܰܥܷܡܪܝ.
-
+</p>
+                <p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܡܠܦܢܐ ܐܰܝܗܰܐܢ ܓܘܪܩܰܐܢ
-
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>
@@ -129,12 +138,26 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Aydarbo fayišina hul l ucdo
-		  Ab babonayḏan w as sowayḏan mafëtte ġäläbe yawmoṯe zaḥme w qašye. Kul kmo ëšne hawi aclayye kafno, zalṭo, sayfo, ṭroḏe, qaṭle, tuqiḏo dak ktowe w tëḥriwo dab bote. E, u camayḏan mvayacle u cafro, ab bote w u mal. Elo xud komar Mšiḥo, lo mḥalaqqe aj jawhärayat dëṯṯe qum raġle dab broze w lo matrakke i haymonuṯo, i marduṯo w u lišono Suryoyo ḥatta u cafraṯṯe qadiri d masëlmilanyo. Inaqqa d koqorina u tarix di Cito w du camo Suryoyo w u mede d jari b riše du camo Suryoyo, tëḏmurto rabṯo yo d heš kocoyaš u camo Suryoyo b Beṯnahrin, ḥatta bë briṯo.  Elo mqabël d kul casquṯo u camo, i Cito, u lišono, u beṯgazo, w u tarix heš lo mayëṯ. Haṯe i haymonuṯo, u tuxlono w i ḥubo d këtwayle bë Mšiḥo ṭrela d fayšo i Cito w u camo cal i raġlo. Bëṯër maq qaṭle, mu ṭroḏo, mu tuqiḏo dak ktowe, mu tëdriyo dab bote w dac citoṯe w dayre, naqqa ḥreto dacër u camo macmarle ad dukoṯe nafile w ad dukoṯe d hawënwa ḥarbe simile dukoṯe di cyeše d adyawma briṯo kula komëjgolo aclayye, w cal u šubḥaṯṯe. 
-U camo Suryoyo i haymonuṯayḏe d bë Mšiḥo ṭrela naqqa ḥreto d koṯaw, d macmar, docar, coyaš w roḥam an noše d meqëm me zabno manhable, nḥërle w qṭile. 
-U camo Suryoyo mu yawmo d maqbele i Mšiḥoyuṯo hul l adyawma bi dukṯo d kocoyaš taḥte du ḏëlëm yo. Bas hano latyo mede nuxroyo ele. Cal dë Mšiḥo mërle bu Mgalyun Qadišo: “U ḥa d obac d howe u talmiḏayḏi kolozam ṭocan u ṣlibayḏe w oṯe bëṯri.” U camo Suryoyo yawmo lo mëftakarle w mërle: “Basyo ma hul lema, haw kokoṯawno, haw komacmarno.” 
-Mšiḥo, xud këtyo iḏico, lo molaflelan ṭcono du ṣëlaḥ w lo molaflelan dë mḥarbina mqabël d noše, elo dayima komawṣe d rëḥmina ḥḏoḏe w l kul nošo. Inaqqa d abici ay Yuḏoye d mëski Mšiḥo, Šëmcun mofaqle i skino d këtwa acme w šmëṭle aḏne du greco du rabo dak kohne. Elo Mšiḥo zbërle ebe mërlele: “Šëmcun, maḥat u sayfo b dukṯe. Kul d moḥe bu sayfo, bu sayfo gmëmḥe.” B dukṯo ḥreto mërle Mšiḥo: “Inaqqa d ṭërḏënxu mi wälayaṯe mahzemu li ḥreto. Bëšrolo komarnanxu lëg mkamlitu aw wälayat d Isroyel hul d oṯe abre du nošo.” 
+		  Ab babonayḏan w as sowayḏan mafëtte ġäläbe yawmoṯe zaḥme w qašye. Kul kmo ëšne hawi aclayye kafno, zalṭo, sayfo, ṭroḏe, qaṭle, tuqiḏo dak ktowe w tëḥriwo dab bote. E, u camayḏan mvayacle u cafro, ab bote w u mal. Elo xud komar Mšiḥo, lo mḥalaqqe aj jawhärayat dëṯṯe qum raġle dab broze w lo matrakke i haymonuṯo, i marduṯo w u lišono Suryoyo ḥatta u cafraṯṯe qadiri d masëlmilanyo. Inaqqa d koqorina u tarix di Cito w du camo Suryoyo w u mede d jari b riše du camo Suryoyo, tëḏmurto rabṯo yo d heš kocoyaš u camo Suryoyo b Beṯnahrin, ḥatta bë briṯo.  Elo mqabël d kul casquṯo u camo, i Cito, u lišono, u beṯgazo, w u tarix heš lo mayëṯ. Haṯe i haymonuṯo, u tuxlono w i ḥubo d këtwayle bë Mšiḥo ṭrela d fayšo i Cito w u camo cal i raġlo. Bëṯër maq qaṭle, mu ṭroḏo, mu tuqiḏo dak ktowe, mu tëdriyo dab bote w dac citoṯe w dayre, naqqa ḥreto dacër u camo macmarle ad dukoṯe nafile w ad dukoṯe d hawënwa ḥarbe simile dukoṯe di cyeše d adyawma briṯo kula komëjgolo aclayye, w cal u šubḥaṯṯe.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>		  
+U camo Suryoyo i haymonuṯayḏe d bë Mšiḥo ṭrela naqqa ḥreto d koṯaw, d macmar, docar, coyaš w roḥam an noše d meqëm me zabno manhable, nḥërle w qṭile.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/> 
+U camo Suryoyo mu yawmo d maqbele i Mšiḥoyuṯo hul l adyawma bi dukṯo d kocoyaš taḥte du ḏëlëm yo. Bas hano latyo mede nuxroyo ele. Cal dë Mšiḥo mërle bu Mgalyun Qadišo: “U ḥa d obac d howe u talmiḏayḏi kolozam ṭocan u ṣlibayḏe w oṯe bëṯri.” U camo Suryoyo yawmo lo mëftakarle w mërle: “Basyo ma hul lema, haw kokoṯawno, haw komacmarno.”
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/> 
+Mšiḥo, xud këtyo iḏico, lo molaflelan ṭcono du ṣëlaḥ w lo molaflelan dë mḥarbina mqabël d noše, elo dayima komawṣe d rëḥmina ḥḏoḏe w l kul nošo. Inaqqa d abici ay Yuḏoye d mëski Mšiḥo, Šëmcun mofaqle i skino d këtwa acme w šmëṭle aḏne du greco du rabo dak kohne. Elo Mšiḥo zbërle ebe mërlele: “Šëmcun, maḥat u sayfo b dukṯe. Kul d moḥe bu sayfo, bu sayfo gmëmḥe.” B dukṯo ḥreto mërle Mšiḥo: “Inaqqa d ṭërḏënxu mi wälayaṯe mahzemu li ḥreto. Bëšrolo komarnanxu lëg mkamlitu aw wälayat d Isroyel hul d oṯe abre du nošo.”
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/> 
 Mawxa u camo Suryoyo ġäläbe naqqat lo qayëm mqabël du dëžmën, iḏa hawile imkan w mahzamle l dukṯo ḥreto hul d hawi šayno naqqa ḥreto dacër lu aṯrayḏe. U yulfonano yo d hawi säbab d u camo Suryoyo fayëš cal foṯa di arco. Dlo mu yulfonano iḏa d noḥatwa mqabël du dëžmën li saḥa du ḥarb balki adyawma lo foyašwa w lo ḥa Suryoyo bë briṯo. Elo bu tarix këtwa ġäläbe came bë briṯo d adyawma lo fayëš noše mënne bas bap pallëkat du tarix komaḥke aclayye. Kit adyawma ġäläbe noše, gabe, šutose me du camayḏan d komëlfi yulfone mšaḥlfe d këtne mqabël du yulfono mšiḥoyo w këmmi d kolozam d maydina zayno w dë mḥarbina mqabël du dëžmën. U yulfonano latyo maqëblo bu Mgalyun w mqabël du yulfono dë Mšiḥo yo. Ab babone w aj jëddayḏan d këtwalle tuxlono cal Mšiḥo d noṭarlën w nṭirile hul l adyawma. Noše mas Suryoye laybe domar w dë mfašaq aydarbo w mën šëkël qadirina d fayšina saġ bayn i waḥšitiyaṯe, hani kmo sayfe qayëm aclayna w kul kmo ëšne ṭroḏo w tefiqo mi dukṯo. Bu zoyudo i waḥšitiye du Sayfo dan alfo tšacmo w ḥamšacsar. Elo bas i haymonuṯo d bë Mšiḥo yo. Aḥna ste kolozam i haymonuṯayḏan d nëṭrinala w lo ëzzan bëṯre day yulfone mšaḥëlfe w dë mhaymnina bë Mšiḥo d këtle ḥaylo w kibe d noṭarlan. Xud këtyo kṯiwo bu Mazmuro d komar: “Iḏa Aloho d lo noṭar i qriṯo an noṭure cal xalyo konëṭri w iḏa Aloho d lo macmar u bënyono am macëmrone bi hawa komacëmri.”
+</p>
+				<p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
 Malfono Ayhan Gürkan
         </p>
           <!-- Repeat the <p> element as needed -->

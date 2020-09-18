@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܥܱܙܝܙ ܐܰܝܕܝܢ – ܐܳܢܐ ܡܰܢ ܢܐ؟</foreign> /Cäziz Aydin - Ono man no?</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Cäziz Aydin 
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1501</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -118,7 +118,6 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Cäziz Aydin - Ono man no?
 		  Ono ëšmi Cäziz Aydin yo. U abro d Malke no u nëbġo d qašo Laḥdo u sobo. Mawladno bi qrito d Arkaḥ d këtyo ḥḏo maš šwac qëryawoṯe d Beṯriše d komiḏoco bu lešono camoyo i Rayite. Cumri ëštacsar ëšne yo, bdeli bu yulfonaydi du lešono Suryoyo bi madrašto di qriṯo w qreli bu maktab tërki hul laḥ ḥammëš ëšne qamoye disa bi qriṯo. Bëṯër at tlëṯ ëšne ḥrene di orta qreli bi qriṯo d Daline. Ono u nacimo d aḥunoni no. Këtli tre aḥunone w šeṯ ḥoṯoṯe. Ḥammëš ḥoṯoṯe mḥawle ne w ḥḏo heš kala bu bayto. Babi daworo yo w emi bu bayto kosaymo u šuġlo du bayto. Aḥunoni kofayši bu bayto komcawni babi bu säwal. Ono ste mcawanwaynanne bu šuġlo du bayto bas hani šawco yarḥe aṯino li dayro d Mor Gabriyel w kocoyašno w košoġalno eba. Kosoyamno i tëšmëšto du mšamšono. Bi dayro komšamašno an orḥe w as socure d koṯën li dayraṯe. Bi tëšmëštayḏi komyaqarno as socure d koṯën li dayro, komqadamnanne maye w muklo w medone ḥrene d kolozëm. Cam gabe du šuġlayḏi komdawamno u yulfonayḏi di lisa me larwal. Bu zabnayḏi u xalyo kokoṯawno w koqoreno bah hërgayḏi b caṣriye bëṯër me d kotaymo i tëšmëštayḏi. Ḥa mad dayroye, dayroyo Gabriyel, komcawanli ba hërgayḏi b ḥubo w basimuṯo. Ono b kul ḥubo komšamašno w me kule lebi kosoyamno i tëšmëštayḏi. I mdabronuṯo di dayro ste koboli u aġro di tëšmëštayḏi. Aloho noṭër w mastër i dayro brëxto w qadëštaṯe.
         </p>
           <!-- Repeat the <p> element as needed -->

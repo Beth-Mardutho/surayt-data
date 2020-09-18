@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܠܶܫܳܢܐ ܐܶܡܗܳܝܐ</foreign> /   Lešono ëmhoyo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Havo Piro
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1801</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,31 +110,63 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
         ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܩܘܡ ܐܘ ܡܰܘܬܐ ܝܐ. ܐܝ ܡܰܪܕܘܬ݂ܐ ܣܘܪܝܰܝܬܐ ܩܘܡ ܐܘ ܡܰܘܬܐ ܝܐ. ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܡܩܰܕܫܐ ܝܐ. ܐܘ ܠܶܫܳܢܐ ܟܳܐܒܶܐ ܡܟܳܢܐ ܚܰܐ ܕܡܰܚܘܶܐ ܐܰܪ ܪܷܓ݂ܫܰܝܕ݂ܶܗ: ܕܝ ܗܝـܝܘܬ݂ܐ، ܕܝ ܗܰܝܡܳܢܘܬ݂ܐ ܘܕܝ ܡܰܪܕܘܬ݂ܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܡܘܣܱܒܱܒܰܢܐ ܐܘܠܨܳܝܐ ܝܐ ܕܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܕܡܝܫܰܘܫܰܛ. ܡܶܩܷܡ ܚܰܐ ܡܳܠܰܦܘܰܐ ܐܘ ܠܶܫܳܢܐ ܒܘ ܦܶܡܐ ܐܰܘ ܒܘ ܒܰܝܬܐ ܕܰܒ ܒܰܒܳܢܶܐ. ܐܶܠܐ ܐܘ ܡܟܳܢܐ ܕܡܳܠܰܦ ܚܰܐ ܐܘ ܠܶܫܳܢܐ ܒܘ ܦܶܡܐ ܡܬܰܚܡܐ ܝܐ. ܟܘܠ ܢܳܫܐ ܐܰܝܢܰܐ ܕܟܷܬܠܶܗ ܠܗܝܩܘܬ݂ܐ ܠܰܙܷܡ ܕܗܳܘܶܠܶܗ ܡܟܳܢܐ ܕܝܳܠܰܦ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ، ܥܰܠ ܗܰܘܟ݂ܰܐ ܐܘܠܨܳܝܐ ܝܐ ܕܡܰܪܟܰܘ ܬܪܶܐ ܐܳܕ݂ܫܶܐ ܕܝ ܟܬ݂ܰܘܬܐ ‐ ܣܘܪܝܳܝܐ ܘܠܰܬܝܢܳܝܐ. ܐܘ ܠܶܫܳܢܐ ܘܐܝ ܣܶܦܪܳܝܘܬ݂ܐ ܣܰܓܝ ܡܰܣܝܪܶܐ ܢܶܐ ܒܷܚܕ݂ܳܕ݂ܶܐ ܘܣܰܓܝ ܡܰܣܝܪܶܐ ܢܶܐ ܒܝ ܡܰܪܕܘܬ݂ܐ ܘܒܝ ܗܝـܝܘܬ݂ܐ. ܐܘ ܠܶܫܳܢܐ ܟܝܒܶܗ ܛܳܥܷܢ ܐܝ ܡܰܪܕܘܬ݂ܐ ܘܟܝܒܶܗ ܐܳܒܶܐ ܚܰـܝܠܐ ܠܘ ܒܰܪܢܳܫܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܘܳܠܝܬ݂ܐ ܝܐ ܥܰܠ ܟܘܠ ܦܰܪܨܘܦܐ ܣܘܪܝܳܝܐ ܕܷܡܫܰܘܫܰܛ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ. ܟܘܠ ܠܶܫܳܢܐ ܟܷܬܠܶܗ ܐܘ ܚܰـܝܠܰܝܕ݂ܶܗ. ܟܘܠ ܠܶܫܳܢܐ ܟܷܬܠܶܗ ܕܝܠܳܝܘܬ݂ܐ. 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܟܷܬܠܶܗ ܛܝܡܐ ܡܰܟ݂ܬܰܒܙܰܒܢܳܝܐ. ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܟܷܬܠܶܗ ܘܰܪܝܕ݂ܶܐ ܥܰܡܘܩܶܐ، ܥܰܠ ܗܰܬ݂ܶܐ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܝܰܩܝܪܐ ܝܐ. ܟܘܠ ܦܰܪܨܘܦܐ ܣܘܪܝܳܝܐ ܠܰܙܷܡ ܡܷܔܓ݂ܰܠ، ܙܳܡܰܪ، ܡܨܰܠܶܐ ܘܫܰܪܟܐ ܒܘ ܠܶܫܳܢܰܝܕ݂ܶܗ. ܐܰܠ ܠܶܫܳܢܶܐ ܟܷܦ݁ܦ݁ܶܗ ܝܷܪܘܝ ܘܟܷܦ݁ܦ݁ܶܗ ܡܝܫܰܘܫܷܛܝ ܣܬܶܐ. ܠܰܫܰܢ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܕܡܝܫܰܘܫܰܛ، ܣܰܓܝ ܐܘܠܨܳܝܐ ܝܐ ܚܰܐ ܕܡܳܝܰܕ ܐܶܣܳܪܶܐ ܥܰܡ ܐܘ ܟܶܢܫܐ ܐܰܘ ܥܰܡ ܐܰܚ ܚܘܕ݂ܪܶܐ ܐܰܘ ܥܰܡ ܐܝ ܡܰܕܪܰܫܬܐ ܣܘܪܝܰܝܬܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܠܰܫܰܢ ܕܝܳܠܰܦ ܚܰܐ ܐܘ ܠܶܫܳܢܐ، ܚܰܐ ܟܳܐܒܰܥܠܶܗ ܡܰܘܗܰܒܬ݂ܐ ܕܝ ܪܘܚܐ، ܨܷܒܝܳܢܐ ܘܐܝ ܚܘܒܐ ܠܘ ܠܶܫܳܢܐ. 
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܐܘ ܦܰܪܨܘܦܐ ܕܐܳܒܰܥ ܝܳܠܰܦ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܟܳܐܒܰܥܠܶܗ ܓ݂ܱܠܱܒܶܐ ܡܟܳܢܶܐ ܕܝܳܠܷܦ. ܐܝ ܡܶܕܝܰܐ ܡܟܳܢܐ ܛܰܘܘܐ ܝܐ، ܚܰܐ ܕܷܡܫܰܘܫܰܛ ܐܘ ܠܶܫܳܢܐ. ܒܘ ܕܰܪܒܐ ܕܘ ܦܪܳܣܚܷܙܘܐ ܐܰܘ ܕܘ ܢܰܘܠܐ ܟܝܬܐ ܓ݂ܱܠܱܒܶܐ ܡܟܳܢܶܐ ܚܰܐ ܕܷܡܫܰܘܫܰܛ ܪܘܚܶܗ. ܒܘ ܢܰܘܠܐ ܟܝܬܐ ܣܬܶܐ ܬܰܚܪܰܙܝܳܬ݂ܶܐ ܚܰܐ ܕܩܳܕ݂ܰܪ ܝܳܠܰܦ ܐܘ ܠܶܫܳܢܐ. ܐܰܟ ܟܬ݂ܳܘܶܐ ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܶܐ ܢܶܐ ܠܰܫܰܢ ܐܘ ܝܘܠܦܳܢܐ ܣܘܪܝܳܝܐ. ܕܝܠܳܢܳܐܝܬ݂ ܐܰܟ ܟܬ݂ܳܘܶܐ ܕܰܛ ܛܠܳܝܶܐ ܐܘܠܨܳܝܶܐ ܢܶܐ ܠܰܛ ܛܠܳܝܶܐ، ܠܰܫܰܢ ܕܩܘܕܪܝ ܡܫܰܘܫܷܛܝ ܪܘܚܰـܝـܝܶܗ. ܐܶܠܐ ܐܘܠܨܰܝܬܷܪ ܡܶܐ ܟܘܠ ܡܶܕܶܐ ܐܰܒ ܒܰܒܳܢܶܐ ܕܡܷܔܓ݂ܳܠܝ ܥܰܡ ܐܰܢ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ ܡܘ ܝܰܘܡܐ ܩܰܡܳܝܐ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܝܐ. ܓ݂ܱܠܱܒܶܐ ܐܘܠܨܳܝܐ ܝܐ ܣܬܶܐ ܚܰܐ ܕܠܐ ܟ݂ܳܠܰܛ ܡܶܠܶܐ ܢܘܟ݂ܪܳܝܶܐ ܒܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ. ܥܰܠ‌ܕܐܝܢܰܩܩܰܐ ܕܟ݂ܘܠܛܝܢܰܐ ܬܘܪܟܳܝܐ، ܥܰܪܰܒܳܝܐ، ܐܰܠܡܰܢܳܝܐ، ܗܳܠܰܢܕܳܝܐ ܐܰܘ ܣܘܶܕܳܝܐ ܥܰܡ ܐܘ ܣܘܪܝܳܝܐ، ܓܷܕ ܐܳܬ݂ܶܐ ܝܰܘܡܐ ܐܰܣ ܣܘܪܝܳܝܶܐ ܕܠܐ ܦܷܗܡܝ ܦܰܝܷܫ ܥܰܠ ܚܕ݂ܳܕ݂ܶܐ ܥܰܠ ܕܟܘܠ ܚܰܐ ܓܷܕ ܡܷܬ݂ܚܰܫܷܚ ܒܰܡ ܡܶܠܶܐ ܢܘܟ݂ܪܳܝܶܐ ܕܝ ܕܘܟܬ݂ܰܝܕ݂ܶܗ ܒܕܘܟܬ݂ܰܗ ܕܝ ܡܷܠܬ݂ܐ ܣܘܪܝܰܝܬܐ.
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܣܰܓܝ ܐܘܠܨܳܝܐ ܝܐ، ܚܰܐ ܕܡܷܔܓ݂ܰܠ ܒܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܒܚܘܒܐ ܘܒܐܝܕ݂ܰܥܬ݂ܐ ܥܰܡ ܐܰܢ ܢܰܥܝܡܰܝܕ݂ܶܗ، ܠܰܫܰܢ ܐܰܛ ܛܠܳܝܶܐ ܕܗܳܘܰܠܠܶܗ ܡܟܳܢܐ ܛܰܘܘܐ ܕܝܷܠܦܝ ܐܘ ܠܶܫܳܢܐ ܣܘܪܝܳܝܐ ܘܕܩܘܕܪܝ ܡܝܫܰܘܫܷܛܝ ܐܶܒܶܗ.
 		</p>
           <!-- Repeat the <p> element as needed -->
       </div>
- Lešono ëmhoyo
- U lešono Suryoyo qum u mawto yo. I marduṯo Suryayto qum u mawto yo. U lešono Suryoyo mqadšo yo. U lešono kobe mkono ḥa d maḥwe ar rëġšayḏe: di hiyuṯo, di haymonuṯo w di marduṯo.
-Musäbäbano ulṣoyo yo d u lešono Suryoyo d mišawšaṭ. Meqëm ḥa molafwa u lešono bu femo aw bu bayto dab babone. Elo u mkono d molaf ḥa u lešono bu femo mtaḥmo yo. Kul nošo ayna d këtle lhiquṯo lazëm d howele mkono d yolaf u lešono Suryoyo, cal hawxa ulṣoyo yo d markaw tre oḏše di kṯawto - Suryoyo w Latinoyo. U lešono w i sefroyuṯo sagi masire ne bë ḥḏoḏe w sagi masire ne bi marduṯo w bi hiyuṯo. U lešono kibe ṭocën i marduṯo w kibe obe ḥaylo lu barnošo.
-Woliṯo yo cal kul farṣufo Suryoyo dë mšawšaṭ u lešono Suryoyo. Kul lešono këtle u ḥaylayḏe. Kul lešono këtle diloyuṯo. 
-U lešono Suryoyo këtle ṭimo maxtabzabnoyo. U lešono Suryoyo këtle wariḏe camuqe, cal haṯe u lešono Suryoyo yaqiro yo. Kul farṣufo Suryoyo lazëm mëjġal, zomar, mṣale w šarko bu lešonayḏe. Al lešone këppe yërwi w këppe mišawšëṭi ste. Lašan u lešono Suryoyo d mišawšaṭ, sagi ulṣoyo yo ḥa d moyad esore cam u kenšo aw cam aḥ ḥuḏre aw cam i madrašto Suryayto.
-Lašan d yolaf ḥa u lešono, ḥa kobacle mawhabṯo di ruḥo, ṣëbyono w i ḥubo lu lešono.
-U farṣufo d obac yolaf u lešono Suryoyo kobacle ġäläbe mkone d yolëf. I medya mkono ṭawwo yo, ḥa dë mšawšaṭ u lešono. Bu darbo du frosḥëzwo aw du nawlo kito ġäläbe mkone ḥa dë mšawšaṭ ruḥe. Bu nawlo kito ste taḥrazyoṯe ḥa d qoḏar yolaf u lešono. Ak kṯowe ġäläbe ulṣoye ne lašan u yulfono Suryoyo. Dilonoiṯ ak kṯowe daṭ ṭloye ulṣoye ne laṭ ṭloye, lašan d qudri mšawšëṭi ruḥayye. Elo ulṣaytër me kul mede ab babone d mëjġoli cam an nacimaṯṯe mu yawmo qamoyo u lešono Suryoyo yo. Ġäläbe ulṣoyo yo ste ḥa d lo xolaṭ mele nuxroye bu lešono Suryoyo. Cal d inaqqa d xulṭina Turkoyo, Caraboyo, Almanoyo, Holandoyo aw Swedoyo cam u Suryoyo, gëd oṯe yawmo as Suryoye d lo fëhmi fayëš cal ḥḏoḏe cal d kul ḥa gëd mëṯḥašëḥ bam mele nuxroye di dukṯayḏe b dukṯa di mëlṯo Suryayto. 
-Sagi ulṣoyo yo, ḥa d mëjġal bu lešono Suryoyo b ḥubo w b iḏacṯo cam an nacimayḏe, lašan aṭ ṭloye d howalle mkono ṭawwo d yëlfi u lešono Suryoyo w d qudri mišawšëṭi ebe.
-      <div type="transcription">
+	  
+	  <div type="transcription">
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
-          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->    
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 --> 
+ U lešono Suryoyo qum u mawto yo. I marduṯo Suryayto qum u mawto yo. U lešono Suryoyo mqadšo yo. U lešono kobe mkono ḥa d maḥwe ar rëġšayḏe: di hiyuṯo, di haymonuṯo w di marduṯo.
+ </p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+Musäbäbano ulṣoyo yo d u lešono Suryoyo d mišawšaṭ. Meqëm ḥa molafwa u lešono bu femo aw bu bayto dab babone. Elo u mkono d molaf ḥa u lešono bu femo mtaḥmo yo. Kul nošo ayna d këtle lhiquṯo lazëm d howele mkono d yolaf u lešono Suryoyo, cal hawxa ulṣoyo yo d markaw tre oḏše di kṯawto - Suryoyo w Latinoyo. U lešono w i sefroyuṯo sagi masire ne bë ḥḏoḏe w sagi masire ne bi marduṯo w bi hiyuṯo. U lešono kibe ṭocën i marduṯo w kibe obe ḥaylo lu barnošo.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Woliṯo yo cal kul farṣufo Suryoyo dë mšawšaṭ u lešono Suryoyo. Kul lešono këtle u ḥaylayḏe. Kul lešono këtle diloyuṯo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+U lešono Suryoyo këtle ṭimo maxtabzabnoyo. U lešono Suryoyo këtle wariḏe camuqe, cal haṯe u lešono Suryoyo yaqiro yo. Kul farṣufo Suryoyo lazëm mëjġal, zomar, mṣale w šarko bu lešonayḏe. Al lešone këppe yërwi w këppe mišawšëṭi ste. Lašan u lešono Suryoyo d mišawšaṭ, sagi ulṣoyo yo ḥa d moyad esore cam u kenšo aw cam aḥ ḥuḏre aw cam i madrašto Suryayto.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+Lašan d yolaf ḥa u lešono, ḥa kobacle mawhabṯo di ruḥo, ṣëbyono w i ḥubo lu lešono.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+U farṣufo d obac yolaf u lešono Suryoyo kobacle ġäläbe mkone d yolëf. I medya mkono ṭawwo yo, ḥa dë mšawšaṭ u lešono. Bu darbo du frosḥëzwo aw du nawlo kito ġäläbe mkone ḥa dë mšawšaṭ ruḥe. Bu nawlo kito ste taḥrazyoṯe ḥa d qoḏar yolaf u lešono. Ak kṯowe ġäläbe ulṣoye ne lašan u yulfono Suryoyo. Dilonoiṯ ak kṯowe daṭ ṭloye ulṣoye ne laṭ ṭloye, lašan d qudri mšawšëṭi ruḥayye. Elo ulṣaytër me kul mede ab babone d mëjġoli cam an nacimaṯṯe mu yawmo qamoyo u lešono Suryoyo yo. Ġäläbe ulṣoyo yo ste ḥa d lo xolaṭ mele nuxroye bu lešono Suryoyo. Cal d inaqqa d xulṭina Turkoyo, Caraboyo, Almanoyo, Holandoyo aw Swedoyo cam u Suryoyo, gëd oṯe yawmo as Suryoye d lo fëhmi fayëš cal ḥḏoḏe cal d kul ḥa gëd mëṯḥašëḥ bam mele nuxroye di dukṯayḏe b dukṯa di mëlṯo Suryayto. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+Sagi ulṣoyo yo, ḥa d mëjġal bu lešono Suryoyo b ḥubo w b iḏacṯo cam an nacimayḏe, lašan aṭ ṭloye d howalle mkono ṭawwo d yëlfi u lešono Suryoyo w d qudri mišawšëṭi ebe.  
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>

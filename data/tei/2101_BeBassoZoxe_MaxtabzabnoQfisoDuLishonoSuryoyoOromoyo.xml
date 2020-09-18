@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܡܰܟ݂ܬܰܒܙܰܒܢܐ ܩܦܝܣܐ ܕܘ ܠܝܫܳܢܐ ܣܘܪܝܳܝܐ ܐܳܪܳܡܳܝܐ</foreign> /   Maxtabzabno qfiso du lišono Suryoyo-Oromoyo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Zoxe d Be Baššo
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/2101</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,64 +110,87 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
         ܒܰܝܢ ܕܰܠ ܠܝܫܳܢܶܐ ܕܷܒܪܝܬ݂ܐ، ܟܝܒܶܗ ܚܰܐ ܦܳܪܰܫ ܐܝܩܰܪܝܳܬ݂ܶܐ ܦܪܝܫܶܐ. ܐܝ ܐܝܩܰܪܬ݂ܐ ܕܰܠ ܠܝܫܳܢܶܐ ܕܟܷܬܝܳܐ ܦܪܷܣܬܐ ܙܷܕ ܡܶܐ ܟܘܠܠܶܗ ܒܷܒܪܝܬ݂ܐ ܐܝ ܐܝܩܰܪܬ݂ܐ ܕܟܷܐܡܡܝܠܰܗ ܗܷܢܕܘ-ܐܘܪܝܦܰܝܬܐ ܝܐ (Indo-european ܒܘ ܐܷܢܓܠܝܫܳܝܐ). ܐܘ ܗܷܢܕܘܳܝܐ (ܣܰܢܣܟܪܝܬ)، ܐܘ ܦܷܪܣܳܝܐ، ܐܘ ܟܘܪܕܳܝܐ، ܐܘ ܐܰܪܡܢܳܝܐ، ܐܘ ܝܰܘܢܳܝܐ، ܐܘ ܠܰܛܝܢܳܝܐ، ܐܘ ܦܪܰܢܣܳܝܐ، ܐܘ ܐܷܢܓܠܝܫܳܝܐ، ܐܘ ܐܰܠܡܰܢܳܝܐ، ܐܘ ܗܳܠܰܢܕܳܝܐ، ܐܘ ܣܘܶܕܳܝܐ ܘܓ݂ܶܝܪ ܠܝܫܳܢܶܐ ܕܟܳܫܷܒܗܷܢܢܶܗ ܟܳܡܷܚܫܳܘܝ ܡܝ ܐܝܩܰܪܬ݂ܰܬ݂ܶܐ ܗܷܢܕܘ-ܐܘܪܝܦܰܝܬܐ. ܐܘ ܠܝܫܳܢܐ ܣܘܪܝܳܝܐ (ܟܳܡܝܬܰܘܡܰܪܠܶܗ ܐܳܪܳܡܳܝܐ ܣܬܶܐ) ܗܝـܝܶܐ ܡܶܐ ܐܝܩܰܪܬ݂ܐ ܚܪܶܬܐ ܝܐ، ܟܳܡܷܚܫܰܘ ܠܝܫܳܢܐ ܫܝܡܳܝܐ (Semitic language) ܡܝܕ݂ܶܗ ܕܟܷܬܠܶܗ ܐܰܣܝܪܘܬ݂ܐ ܡܰܟ݂ܬܰܒܙܰܒܢܰܝܬܐ ܥܰܡ ܐܰܠ ܠܝܫܳܢܶܐ ܫܝܡܳܝܶܐ ܚܪܶܢܶܐ ܕܟܷܬܢܶܐ ܐܘ ܥܷܒܪܳܝܐ، ܐܘ ܦܘܢܝܩܳܝܐ، ܐܘ ܥܰܪܰܒܳܝܐ، ܐܘ ܐܰܟܟܰܕܳܝܐ (ܒܰܬ ܬܪܶܐ ܠܷܥܙܰܝܕ݂ܶܗ ܒܷܒܠܳܝܐ ܘܳܐܬ݂ܘܪܳܝܐ)، ܐܘ ܚܰܒܰܫܳܝܐ ܘܓ݂ܶܝܪ ܠܝܫܳܢܶܐ ܕܠܰܬܢܶܐ ܓ݂ܱܠܱܒܶܐ ܡܫܰܡܗܶܐ.
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܟܷܬܠܶܗ ܡܰܟ݂ܬܰܒܙܰܒܢܐ ܥܰܬܝܩܐ. ܐܰܟ ܟܬ݂ܰܘܝܳܬ݂ܶܐ ܥܰܬܝܩܶܐ ܕܟܷܬܠܰܢ ܡܝܢܶܗ ܟܬ݂ܝܘܝ ܡܶܩܷܡ ܒܷܬܠܳܬ݂ܐ ܐܰܠܦܐ (3000) ܐܷܫܢܶܐ. ܐܰܟ ܟܬ݂ܰܘܝܳܬ݂ܰܢܝ، ܟܬ݂ܝܘܷܢܢܶܗ ܐܰܡ ܡܰܠܟܶܐ ܐܳܪܳܡܳܝܶܐ : ܚܰܐ ܡܷܢܢܶܗ ܙܱܟܝܪ (ܐܰܘ ܙܰܟܟܘܪ)، ܐܘ ܡܰܠܟܐ ܕܚܱܡܰܐ ܘܰܐ ܠܰܦ ܐܰܬ ܬܡܳܢܶܡܳܐ (800) ܡܶܩܷܡ ܡܶܐ ܡܫܝܚܐ. ܐܘ ܠܝܫܳܢܐ ܕܘ ܙܰܒܢܰܘܐ (ܡܘ ܕܳܪܐ ܕܰܥ ܥܰܣܪܐ ܗܘܠ ܠܘ ܕܳܪܐ ܕܰܫ ܫܰܘܥܐ) ܟܳܡܝܬܰܘܡܰܪܠܶܗ ܒܘ ܝܘܠܦܳܢܐ ܐܳܪܳܡܳܝܐ ܥܰܬܝܩܐ (Old Aramaic). 
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.3" corresp="test.latn.3"/>
 ܗܶܕܝ، ܡܶܐ ܕܰܐܡ ܡܰܠܷܟܘܳܬ݂ܶܐ ܐܳܪܳܡܳܝܶܐ ܒܠܝܥܝ ܒܝ ܐܝܡܦ݁ܰܪܰܛܳܪܝـܝܶܐ ܚܰܬ݂ܬܐ ܕܰܢ ܐܳܬ݂ܘܪܳܝܶܐ (Neo-Assyrian Empire)، ܦܪܝܤ ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܒܒܶܝܬ݂ܢܰܗܪܝܢ ܟܘܠܰܗ. ܟܝܬܐ ܣܱܒܰܒܶܐ ܡܫܰܚܷܠܦܶܐ ܒܰܤ ܐܘ ܡܘܗܝܡ ܕܟܘܠܠܶܗ ܟܷܐܡܡܝ ܐܝ ܟܬ݂ܰܘܬܰܝܕ݂ܶܗ ܟ݂ܰܝܷܦܬܷܪ ܘܰܐ ܡܝ ܟܬ݂ܰܘܬܐ ܨܶܨܳܢܰܝܬܐ (ܐܝ ܟܬ݂ܰܘܬܐ ܕܰܒ ܒܰܣܡܳܪܶܐ : cuneiform script). ܟܳܡܳܛܝܢܰܐ ܐܘܥܕܐ ܠܘ ܐܳܪܳܡܳܝܐ ܪܘܫܡܳܝܐ. ܡܶܐ ܕܐܰܦ ܦܷܪܣܳܝܶܐ ܡܳܕ݂ܳܝܶܐ ܒܝ ܡܥܰܘܱܢܰܐ ܕܰܒ ܒܷܒܠܳܝܶܐ ܡܦܰܝܬܰܚܚܶܗ ܐܳܬ݂ܘܪ ܐܰܘܟܝܬ݂ ܢܝܢܘܶܐ ܒܰܫ ܫܶܬ݂ܡܳܐ ܘܬܪܰܥܣܰܪ (612) ܡܶܩܷܡ ܡܶܐ ܡܫܝܚܐ، ܡܰܩܒܰܠܠܶܗ ܕܦܳܝܰܫ ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܒܝ ܕܘܟܬ݂ܐ ܘܣܷܡܡܶܗ ܠܝܫܳܢܐ ܪܘܫܡܳܝܐ ܠܝ ܐܝܡܦ݁ܰܪܰܛܳܪܝـܝܰܬ݂ܬ݂ܶܗ، ܘܱܠܰܘ ܠܰܬܘܰܐ ܐܘ ܠܝܫܳܢܐ ܕܪܘܚܰܝـܝܶܗ. ܡܘ ܙܰܒܢܰܘܐ ܦܪܝܤ ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܗܶܫ ܙܷܕܬܷܪ ܘܦܰܝܷܫ ܟܬ݂ܰܘܝܳܬ݂ܶܐ ܐܳܪܳܡܳܝܶܐ ܒܕܘܟܳܬ݂ܶܐ ܡܫܰܚܷܠܦܶܐ، ܡܰܬ݂ܠܳܐ : ܒܡܷܨܷܪ ܚܙܶܐ ܦ݁ܰܦ݁ܝܪܘܤ ܕܝ ܬܰܫܥܝܬ݂ܐ ܕܚܝܩܰܪ ܐܘ ܚܰܟܝܡܐ ܕܷܟܬ݂ܝܘ ܒܘ ܕܳܪܐ ܕܰܚ ܚܰܡܫܐ، ܒܘ ܙܰܒܢܐ ܕܝ ܡܰܠܟܘܬ݂ܐ ܕܕܰܪܝـܝܘܫ ܐܘ ܦܷܪܣܳܝܐ. ܣܰܗܡܶܐ ܡܰܟ ܟܬ݂ܳܘܶܐ ܕܕܳܢܝܐܶܝܠ ܘܥܰܙܪܳܐ ܟܬ݂ܝܘܝ ܒܠܝܫܳܢܐ ܕܟܷܐܡܡܝܢܰܠܶܗ ܐܰܕܝܰܘܡܰܐ ܐܳܪܳܡܳܝܐ ܕܘ ܟܬ݂ܳܘܐ ܩܰܕܝܫܐ (Biblical Aramaic).
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.4" corresp="test.latn.4"/>
 ܒܘ ܕܳܪܐ ܕܰܢ ܐܰܪܒܥܐ، ܐܝܢܰܩܩܰܐ ܕܷܡܦܰܝܬܰܚܠܶܗ ܣܟܰܢܕܰܪ ܐܘ ܪܰܒܐ ܠܘ ܡܰܕܷܢܚܐ، ܦܪܷܣܠܶܗ ܐܰܥܡܶܗ ܐܘ ܠܝܫܳܢܐ ܝܰܘܢܳܝܐ ܟ݂ܷܕ ܠܝܫܳܢܐ ܕܡܰܪܕܘܬ݂ܐ ܘܕܝܘܠܦܳܢܐ ܒܱܠܶܐ ܠܐ ܡܰܠܚܰܩܠܶܗ ܠܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܘܠܰܘ ܘܱܠܰܝܰܬ ܢܰܥܝܡܶܐ. ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܢܰܚܷܬܘܰܐ ܡܘ ܕܰܪܓ݂ܐ ܕܠܝܫܳܢܐ ܕܐܝܦ݁ܰܪܰܛܳܪܝـܝܶܐ ܠܰܐܢ ܕܠܝܫܳܢܐ ܕܰܒ ܒܱܠܰܕܶܐ ܢܰܥܝܡܶܐ. ܒܷܬ݂ܷܪ ܡܘ ܡܰܘܬܐ ܕܷܣܟܰܢܕܰܪ ܐܘ ܪܰܒܐ ܒܰܬ ܬܠܰܬ݂ܡܳܐ ܘܬܠܰܬ݂ ܘܥܷܣܪܝ (323) ܡܶܩܷܡ ܡܶܐ ܡܫܝܚܐ ܦܠܝܓ݂ܐ ܐܝ ܐܝܦ݁ܰܪܰܛܳܪܝـܝܰـܝܕ݂ܶܗ ܠܡܰܠܷܟܘܳܬ݂ܶܐ ܦܪܝܫܶܐ. ܐܘ ܠܝܫܳܢܐ ܐܳܪܳܡܳܝܐ ܕܗܰܘ ܦܰܝܷܫܘܰܝܠܶܗ ܐܰܣܝܪܘܬ݂ܐ ܒܰܝܢ ܕܰܠ ܠܷܥܙܰܝܕ݂ܶܗ، ܒܕܶܠܶܗ ܕܡܷܦܪܰܫ، ܟܝܒܰܢ ܕܷܐܡܡܝܢܰܐ، ܠܠܝܫܳܢܶܐ ܡܫܰܚܷܠܦܶܐ : ܡܰܛܝܢܰܐ ܗܶܕܝ ܗܶܕܝ ܠܘ ܐܳܪܳܡܳܝܐ ܡܷܨܥܳܝܐ (Middle Aramaic). ܐܘ ܐܳܪܳܡܳܝܶܐ ܡܷܨܥܳܝܐ ܟܳܡܫܰܪܶܐ ܒܘ ܕܳܪܐ ܕܰܬ ܬܪܶܐ ܕܡܶܩܷܡ ܡܶܐ ܡܫܝܚܐ ܘܟܷܐܙܙܶܗ ܗܘܠ ܠܘ ܕܳܪܐ ܕܰܬ ܬܠܳܬ݂ܐ ܕܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝܚܐ. ܢܰܚܝܬܝ ܠܝ ܟܬ݂ܰܘܬܐ ܟܡܐ ܠܷܥܙܶܐ، ܒܰܝܢܳܬ݂ܰܝܝܶܗ ܟܝܬ: ܐܘ ܢܰܒܰܛܳܝܐ (Nabataean Aramaic)، ܐܘ ܬܷܕ݂ܡܘܪܳܝܐ (Palmyrenean Aramaic) ܘܐܘ ܚܰܛܪܳܝܐ (Hatrean Aramaic).
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.5" corresp="test.latn.5"/>
 ܒܷܬ݂ܷܪ ܡܘ ܕܳܪܐ ܕܰܬ ܬܪܶܐ ܕܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝܚܐ ܟܳܡܳܛܝܢܰܐ ܠܘ ܐܳܪܳܡܳܝܐ ܡܘܰܟ݂ܪܐ (Late Aramaic). ܐܘ ܐܳܪܳܡܳܝܐ ܕܷܦܠܶܫܬ (ܦܱܠܰܣܛܝܢ) ܐܰܘ ܣܘܪܝܳܝܐ ܦܠܷܫܬܳܝܐ (Palestinian Aramaic  ܐܰܘ  Palestinian Syriac) ܐܝܕ݂ܝܥܐ ܝܐ ܡܶܐ ܟܬ݂ܰܘܝܳܬ݂ܶܐ ܝܘܕ݂ܳܝܶܐ ܘܡܫܝܚܳܝܶܐ ܘܒܰܝܢܳܬ݂ܰܝـܝܶܗ ܟܝܬ ܡܓܰܠܝܘܢܶܐ ܕܡܝܬܷܣܬܰܥܡܷܠܝܘܰܐ ܒܝ ܥܝܬܐ ܣܘܪܝـܰܝܬܐ ܡܰܠܟܰܝܬܐ. ܡܫܝܚܐ ܟܳܡܰܚܘܶܐ ܕܷܔܓ݂ܝܠ ܒܠܝܫܳܢܐ ܐܰܘ ܠܷܥܙܐ ܕܟܳܡܝܕ݂ܰܥ ܒܘ ܐܷܫܡܐ ܕܐܳܪܳܡܳܝܐ ܓ݂ܠܝܠܳܝܐ (Galilean Aramaic). ܐܶܠܐ ܠܰܘ ܦܰܝܷܫܠܰܢ ܟܬ݂ܰܘܝܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ ܒܘ ܠܷܥܙܰܢܐ ܕܷܐܕ݂ܥܝܢܰܐ ܛܰܘܘܐ ܐܰܝܕܰܪܒܐ ܘܰܐ ܠܝܫܳܢܶܗ ܕܷܡܫܝܚܐ. ܟܝܬ ܐܘ ܐܳܪܳܡܳܝܐ ܫܷܡܪܳܝܐ (Samaritan Aramaic)، ܡܰܢܳܐ ܣܬܶܐ ܠܰܘ ܦܰܝܷܫܠܰܢ ܐܰܬ݂ܷܪ ܓ݂ܱܠܱܒܶܐ. ܐܰܝ ܝܘܕ݂ܳܝܶܐ ܣܦܰܪܕܳܝܶܐ ܡܷܣܬܰܥܡܷܠܝܘܰܐ ܐܘ ܐܳܪܳܡܳܝܐ ܒܷܒܠܳܝܐ (Jewish Babylonian Aramaic) ܠܘ ܬܰܪܓܘܡ ܝܰܥܢܝ ܠܘ ܫܰܪܚ ܕܝ ܬܰܘܪܰܐ. ܟܝܬ ܠܝܫܳܢܐ ܕܟܳܡܝܬܰܘܡܰܪܠܶܗ ܐܳܪܳܡܳܝܐ ܡܰܢܕܥܳܝܐ ܐܰܘ ܡܰܢܕܳܝܐ (Mandean Aramaic)، ܦܰܝܷܫܠܰܢ ܟܡܐ ܟܬ݂ܳܘܶܐ ܐܶܒܶܗ ܘܒܰܤ. ܗܰܢܳܐ ܡܝܬܷܣܬܰܥܡܰܠܘܰܐ ܡܶܐ ܢܳܫܶܐ ܕܐܷܙܙܷܢܘܰܐ ܒܷܬ݂ܪܶܗ ܕܝܘܠܦܳܢܐ ܕܟܷܐܡܡܝܠܶܗ ܓ݂ܢܳܣܝܤ، ܓ݂ܢܳܣܛܝܩܶܐ ܘܰܝܢܶܐ.
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.6" corresp="test.latn.6"/>
 ܘܱܠܰܘ ܐܝ ܟܬ݂ܰܘܬܐ ܥܰܬܷܩܬܐ ܕܟܷܬܠܰܢ ܐܶܒܶܗ ܡܝ ܫܰܬܐ ܕܰܫ ܫܶܬ݂ (6) ܕܒܷܬ݂ܷܪ ܡܶܐ ܡܫܝܚܐ ܝܐ، ܟܳܡܷܚܫܰܘ ܐܘ ܐܳܪܳܡܳܝܐ ܐܘܪܗܳܝܐ (Edessene Aramaic) ܒܘ ܛܰܒܳܩܰܢܐ ܕܘ ܐܳܪܳܡܳܝܐ ܡܘܰܟ݂ܪܳܐ (Late Aramaic) ܡܝܕ݂ܶܗ ܕܐܰܓ݂ܠܰܒ ܕܰܐܟ ܟܬ݂ܰܘܝܳܬ݂ܰܝܕ݂ܶܗ ܡܶܐ ܒܷܬ݂ܷܪ ܡܘ ܕܳܪܐ ܕܰܬ ܬܠܳܬܐ ܢܶܐ. ܗܰܢܳܐ، ܐܘ ܠܷܥܙܐ ܐܳܪܳܡܳܝܐ ܕܝ ܘܱܠܰܝܶܐ ܕܐܘܪܗܳܝ ܘܰܐ. ܟܷܐܡܡܝܢܰܠܶܗ ܐܰܕܝܰܘܡܰܐ ܐܘ ܣܘܪܝܳܝܐ ܟܬ݂ܳܒܳܢܳܝܐ (Syriac). ܐܘ ܠܷܥܙܰܢܐ ܦܪܝܤ ܓ݂ܱܠܱܒܶܐ ܥܰܡ ܐܘ ܦܪܳܣܐ ܕܝ ܗܰܝܡܳܢܘܬ݂ܐ ܡܫܺܝܚܰܝܬܐ ܘܗܰܘܝ ܠܝܫܳܢܐ ܕܝ ܡܰܪܕܘܬ݂ܐ، ܕܘ ܝܘܠܦܳܢܐ، ܕܝ ܐܳܡܘܪܘܬ݂ܐ ܘܕܟܘܠ ܡܶܕܶܐ ܟܬ݂ܝܘܐ. ܗܝـܝܶܐ ܗܰܘܝ ܐܘ ܠܝܫܳܢܐ ܪܘܫܡܳܝܐ ܕܝ ܥܝܬܐ ܣܘܪܝܰـܝܬܐ. ܥܰܡ ܐܘ ܦܠܳܓ݂ܐ ܕܝ ܥܝܬܐ، ܗܝـܝܶܐ ܣܬܶܐ ܦܠܝܓ݂ ܠܷܬܪܶܐ ܢܘܪܒܶܐ: ܐܘ ܣܘܪܝܳܝܐ ܡܰܥܷܪܒܳܝܐ (West Syriac) ܘܐܘ ܣܘܪܝܳܝܐ ܡܰܕܷܢܚܳܝܐ (East Syriac). ܐܘ ܓܘܫܡܐ ܕܘ ܠܝܫܳܢܐ ܥܰܝܢܝ ܝܐ ܒܰܤ ܟܝܬ ܦܘܪܫܳܢܐ ܒܘ ܪܷܬ݂ܡܐ ܕܰܟ݂ ܟ݂ܰܒܪܶܐ ܒܰܝܢ ܠܰܬ ܬܪܶܐ. ܡܰܬ݂ܠܐ: ܒܘ ܡܰܥܷܪܒܳܝܐ ܚܰܐ ܟܳܐܡܰܪ ܫܠܳܡܐ ܘܒܘ ܡܰܕܷܢܚܳܝܐ ܫܠܰܡܰܐ، ܒܷܦܬܳܚܶܐ ܝܰܪܝܟ݂ܶܐ. ܡܝ ܢܰܩܠܰܐ ܕܐܰܥ ܥܰܪܰܒܳܝܶܐ ܡܦܰܝܬܰܚܚܶܗ ܐܘ ܡܰܕܷܢܚܳܐ ܡܷܨܥܳܝܐ، ܐܷܫܡܐ ܒܐܷܫܡܐ ܐܰܢ ܢܳܫܶܐ ܡܰܩܒܰܠܠܶܗ ܐܘ ܥܰܪܰܒܳܝܐ ܘܓ݂ܱܠܱܒܶܐ ܛܪܰܠܠܶܗ ܡܘ ܣܘܪܝܳܝܐ.
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.7" corresp="test.latn.7"/>
 ܗܘܠ ܐܘܥܕܐ ܐܘ ܐܳܪܳܡܳܝܐ ܐܘܪܗܳܝܐ (Edessene Aramaic) ܝܰܥܢܝ ܐܘ ܣܘܪܝܳܝܐ ܟܬ݂ܳܒܳܢܳܝܐ (Syriac) ܟܳܡܝܬܷܣܬܰܥܡܰܠ ܒܝ ܥܝܬܐ (ܥܰܡ ܓܰܒܶܗ ܕܘ ܥܰܪܰܒܳܝܐ). ܗܰܠܒܰܬ ܗܰܘܝ ܫܘܫܳܛܐ ܐܶܒܶܗ، ܠܰܘ ܦܰܝܷܫ ܟܷܕ ܐܘ ܝܰܘܡܐ ܩܰܡܳܝܐ. ܐܘ ܬܘܪܳܨܡܰܡܠܰܝܕ݂ܶܗ ܡܚܰܠܰܦ ܐܷܫܡܐ، ܟ݂ܠܝܩܝ ܟ݂ܰܒܪܶܐ ܚܰܬ݂ܶܐ ܘܡܝܕܝ ܟ݂ܰܒܪܶܐ ܡܶܐ ܠܝܫܳܢܶܐ ܚܪܶܢܶܐ. ܐܘ ܣܘܪܝܳܝܐ ܕܡܳܪܝ ܐܰܦܪܝܡ ܠܰܬܝܐ ܬܰܐܡ ܟ݂ܰܐܢ ܕܡܳܪܝ ܕܝܳܘܢܳܘܣܝܘܤ ܐܘ ܬܷܠܡܰܚܪܳܝܐ ܘܠܐ ܟ݂ܰܐܢ ܕܘ ܒܰܪ ܥܷܒܪܳܝܐ ܘܕܝܕ݂ܶܗ ܣܬܶܐ ܠܰܬܝܐ ܟ݂ܷܕ ܐܘ ܣܘܪܝܳܝܐ ܕܚܰܢܢܰܐ ܕܳܠܰܒܰܢܝ! ܥܰܡ ܚܒܳܠ، ܒܷܬ݂ܷܪ ܡܰܕ ܕܳܪܶܐ ܕܰܬ ܬܪܰܥܣܰܪ ܘܕܰܬ ܬܠܳܬ݂ܰܥܣܰܪ، ܐܘ ܙܰܒܢܐ ܕܰܬ ܬܠܳܬ݂ܐ ܟܰܬ݂ܳܘܶܐ ܣܘܪܝܳܝܶܐ ܪܰܒܶܐ ܕܟܷܬܢܶܐ ܐܘ ܒܰܪ ܨܰܠܝܒܝ(†1171) ، ܡܳܪܝ ܡܝܟ݂ܳܐܶܝܠ ܐܘ ܪܰܒܐ(†1199) ، ܘܐܘ ܒܰܪ ܥܷܒܪܳܝܐ (†1286)، ܡܝ ܣܷܒܒܶܐ ܕܘ ܗܔܳܡܐ ܩܰܫܝܐ ܕܰܡ ܡܳܓ݂ܳܠܳܝܶܐ، ܟܳܚܳܙܝܢܰܐ ܕܐܝ ܥܷܬܡܰܐ ܫܪܶܠܰܗ ܥܰܠ ܐܝ ܣܷܦܪܳܝܘܬ݂ܐ ܣܘܪܝܰـܝܬܐ ܘܗܶܕܝ ܗܶܕܝ ܐܘ ܠܝܫܳܢܐ ܟܳܡܝܣܰܟܰܪ ܘܟܳܡܝܒ݂ܰܝܰܥ.  ܒܷܬ݂ܷܪ ܡܰܕ ܕܳܪܰܢܝ ܐܰܥ ܥܰܬܘܡܶܐ ܢܰܦܷܩ ܠܘ ܠܝܫܳܢܐ ܣܘܪܝܳـܝܐ ܟܬ݂ܳܒܳܢܳܝܐ ܟܰܬ݂ܳܘܶܐ ܚܰܬ݂ܶܐ ܘܟܰܫܝܪܶܐ، ܒܰܝܢܳܬ݂ܰܝـܝܶܗ: ܚܰܣܝܳܐ ܕܰܟ ܟܰܠܕܳܝܶܐ ܕܐܘܪܡܝܰܐ ܬܘܡܰܐ ܐܰܘܕܳܘ (†1917)، ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܰܣ ܣܘܪܝܳܝܶܐ ܩܰܬ݂ܳܠܝܩܳܝܶܐ ܐܰܦܪܰܐܡ ܪܰܚܡܰܐܢܝ(†1929) ، ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܰܤ ܣܘܪܝܳܝܶܐ ܐܳܪܬ݂ܳܕܘܟܣܳܝܶܐ ܐܰܦܪܶܝܡ ܒܰܪܨܰܘܡ(†1957) ، ܚܰܣܝܳܐ ܕܰܣ ܣܘܪܝܳܝܶܐ ܐܳܪܬ݂ܳܕܘܟܣܳܝܶܐ ܒܡܷܪܕܶܐ ܚܰܢܢܰܐ ܕܳܠܰܒܰܢܝ (†1969)، ܘܥܷܠܡܳܝܶܐ ܣܬܶܐ ܟܷܕ ܢܰܥܘܡ ܦܰܝܷܩ (†1930).
-
-
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.8" corresp="test.latn.8"/>
 ܡܰܛܝܢܰܐ ܐܘܥܕܐ ܠܘ ܙܰܒܢܐ ܕܟܳܥܰܝܫܝܢܰܐ ܐܶܒܶܗ. ܛܳܪܝܢܰܐ ܠܟ݂ܰܨܪܰܐ ܐܘ ܠܝܫܳܢܐ ܣܘܪܝܳܝܐ ܟܬ݂ܳܒܳܢܳܝܐ ܕܦܰܝܷܫ ܠܝܫܳܢܐ ܕܰܝ ܝܰܕܘܥܬ݂ܳܢܶܐ ܘܡܰܦܷܬܠܝܢܰܐ ܦܳܬ݂ܰܢ ܠܰܠ ܠܷܥܙܶܐ ܕܐܰܢ ܢܳܫܶܐ ܥܰܕܝ ܟܳܡܷܔܓ݂ܳܠܷܢܢܶܗ. ܐܝ ܓ݂ܷܠܒܰܝـܝـܝܶܐ ܕܰܢ ܢܳܫܶܐ ܕܟܳܡܷܔܓ݂ܳܠܝ ܠܷܥܙܶܐ ܐܳܪܳܡܳܝܶܐ ܐܰܕܝܰܘܡܰܐ ܡܫܝܚܳܝܶܐ ܢܶܐ، ܐܶܠܐ ܗܶܫ ܟܝܬ ܩܰܠܝܠܘܳܬ݂ܶܐ ܕܝܘܕ݂ܳܝܶܐ ܘܕܡܰܢܕܥܳܝܶܐ ܘܚܰܬܬܰܐ ܕܛܰܝܶܐ ܣܬܶܐ ܕܟܳܡܷܔܓ݂ܳܠܷܢܢܶܗ! ܐܰܓ݂ܠܰܒ ܕܰܝ ܝܘܕ݂ܳܝܶܐ ܐܰܙܙܷܢ ܠܐܝܣܪܳܐܶܝܠ، ܝܰܠܝܦܝ ܐܘ ܥܷܒܪܳܝܐ ܘܠܚܷܢ ܘܩܫܝܥܝ ܐܰܠ ܠܷܥܙܰܬ݂ܬ݂ܶܗ. ܐܰܡ ܡܰܢܕܥܳܝܶܐ ܗܰܘܝ ܪܕ݂ܘܦܝܐ ܓ݂ܱܠܱܒܶܐ ܐܰܥܠܰܝـܝܶܗ ܘܐܰܓ݂ܠܰܒ ܕܷܬ݂ܬ݂ܶܗ ܐܘܥܕܐ ܡܒܰܪܒܷܙܶܐ ܢܶܐ ܒܝ ܓܳܠܘܬ݂ܐ. ܐܳܬ݂ܝܢܰܐ ܐܘܥܕܐ ܠܰܠ ܠܷܥܙܶܐ ܕܰܡ ܡܫܝܚܳܝܐ. ܟܝܒܰܢ ܦܷܠܓ݂ܝܢܰܢܢܶܗ ܠܷܬܠܳܬ݂ܐ ܦܰܠܩܶܐ: ܡܰܥܷܪܒܳܝܶܐ، ܡܷܨܥܳܝܶܐ ܘܡܰܕܷܢܚܳܝܶܐ. ܐܰܡ ܡܰܥܷܪܒܳܝܶܐ ܓ݂ܱܠܱܒܶܐ ܢܳܩܘܨܶܐ ܢܶܐ، ܦܰܝـܝܫܝ ܒܷܬܠܷܬ݂ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܣܘܪܝـܝܰܐ: ܡܰܥܠܘܠܰܐ، ܒܰܟ݂ܥܰܐ ܘܔܘܒܥܰܕܕܝܢ. ܐܝ ܩܪܝܬ݂ܐ ܩܰܡܰܝܬܐ ܥܰܡܷܪܬܐ ܝܐ ܡܰܡ ܡܫܝܚܳܝܶܐ ܘܰܐܬ ܬܰܪܬܶܐ ܚܪܶܢܶܐ ܥܰܡܝܪܶܐ ܢܶܐ ܡܰܛ ܛܰܝܶܐ. ܐܰܡ ܡܷܨܥܳܝܶܐ (ܗܰܢܝ ܣܬܶܐ ܟܳܡܝܕ݂ܳܥܝ ܒܰܝܢ ܕܘ ܥܰܡܐ ܒܘ ܐܷܫܡܐ ܕܣܘܪܝܳـܝܶܐ ܡܰܥܷܪܒܳܝܶܐ) ܟܳܡܷܔܓ݂ܳܠܝ ܒܘ ܣܘܪܝܳـܝܐ ܛܘܪܳܝܐ ܕܟܳܡܝܬܰܘܡܰܪܠܶܗ ܣܬܶܐ ܣܘܪܰܝܬ. ܟܷܬܘܰܐ ܠܷܥܙܐ ܚܪܶܢܐ ܩܰܪܝܘܐ ܠܳܐܡܝܕ݂ (ܕܝܰܐܪܒܱܟܷܪ) ܩܫܝܥ ܡܝ ܢܰܩܠܰܐ ܕܷܡܚܰܣܶܐ ܐܘ ܡܷܔܓ݂ܰܠܝܳܢܰܝܕ݂ܶܗ ܐܘ ܚܰܪܳܝܐ، ܗܰܢܐ ܡܝܬܰܘܡܰܪܘܰܝܠܶܗ ܡܠܰܚܣܐ. ܐܰܠ ܠܷܥܙܶܐ ܡܰܕܷܢܚܳܝܶܐ ܟܳܡܝܬܰܘܡܰܪܪܶܗ ܣܘܪܷܬ ܐܰܘ ܣܘܪܷܬ݂. ܗܰܢܝ ܟܳܡܝܬܰܔܷܓ݂ܠܝ ܐܰܓ݂ܠܰܒ ܒܘ ܥܷܪܰܐܩ.
-
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.9" corresp="test.latn.9"/>
 ܡܶܐ ܣܱܒܰܒܶܐ ܡܫܰܚܷܠܦܶܐ، ܡܒܰܪܒܷܙܝ ܐܰܣ ܣܘܪܝܳܝܶܐ ܒܰܢ ܐܰܪܒܰܥ ܦܷܢܝܳܬ݂ܶܐ ܕܷܒܪܝܬ݂ܐ ܘܐܰܥܡܰܝـܝܶܗ ܐܘ ܠܝܫܳܢܰܬ݂ܬ݂ܶܗ. ܟܝܬ ܡܷܔܓ݂ܰܠܝܳܢܶܐ ܕܘ ܛܘܪܳܝܐ ܒܣܳܕܶܬܰܐܠܝܰܐ ܒܘ ܣܘܶܕ ܓ݂ܱܠܱܒܶܐ ܙܷܕܬܷܪ ܡܰܢ ܕܟܝܬ ܒܘ ܛܘܪܳܐ. ܡܶܐ ܕܐܰܡ ܡܷܔܓ݂ܰܠܝܳܢܶܐ ܟܳܡܝܒܰܪܒܷܙܝ، ܐܘ ܠܝܫܳܢܐ ܣܬܶܐ ܟܳܡܰܕ݂ܥܰܦ. ܐܘ ܛܘܪܳܝܐ ܟܝܒܰܢ ܕܦܷܠܓ݂ܝܢܰܠܶܗ ܠܷܬܪܶܐ ܠܷܥܙܶܐ ܬܰܚܬܳܝܶܐ (subdialects): ܐܘ ܠܷܥܙܐ ܕܡܷܕ݂ܝܰܕ݂ ܕܗܰܘܝ ܐܰܥܠܶܗ ܡܰܥܷܒܕ݂ܳܢܘܬ݂ܐ ܡܘ ܥܱܪܱܒܝ ܘܐܘ ܠܷܥܙܐ ܕܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܕܗܰܘܝ ܐܰܥܠܶܗ ܡܰܥܷܒܕ݂ܳܢܘܬ݂ܐ ܡܘ ܟܘܪܡܰܐܢܔܝ. ܐܰܛ ܛܘܪܥܰܒܕܝܢܳܝܶܐ ܕܰܐܙܙܷܢ ܠܣܘܪܝـܝܰܐ ܒܷܬ݂ܷܪ ܡܘ ܣܰܝܦܐ ܕܰܢ ܐܰܠܦܐ ܘܬܫܰܥܡܐ ܘܚܰܡܫܰܥܣܰܪ (1915)، ܟ݂ܠܷܛܛܶܗ ܐܰܬ ܬܪܶܐ ܠܷܥܙܰܢܝ ܒܷܚܕ݂ܳܕ݂ܶܐ ܘܡܰܥܒܰܪܪܶܗ ܟ݂ܰܒܪܶܐ ܥܰܪܰܒܳܝܶܐ ܓ݂ܱܠܱܒܶܐ ܠܘ ܛܘܪܳܝܐ. ܗܰܢܝ ܕܦܰܝـܝܫܝ ܡܰܥܒܰܪܪܶܗ ܟ݂ܰܒܪܶܐ ܬܘܪܟܳܝܶܐ. ܡܝ ܣܷܒܒܰܬ݂ܶܐ ܢܰܩܠܰܘܳܬ݂ܶܐ ܟܳܘܶܐ ܠܳܡܷܣܬܰܟܠܳܢܽܘܬ݂ܐ ܒܰܝܢ ܕܰܛ ܛܘܪܥܰܒܕܝܢܳܝܶܐ ܕܣܘܪܝـܝܰܐ ܘܕܬܷܪܟܝـܝܰܐ. ܐܘܥܕܐ ܕܓ݂ܱܠܱܒܶܐ ܐܰܬ݂ܷܢ ܠܰܐܘܪܘܦ݁ܰܐ ܘܠܕܘܟܳܬ݂ܶܐ ܚܪܶܢܶܐ، ܟܳܡܝܬܰܥܒܰܪ ܟ݂ܰܒܪܶܐ ܡܰܠ ܠܝܫܳܢܶܐ ܕܝ ܕܘܟܬ݂ܐ ܠܘ ܛܘܪܳܝܐ. ܐܘ ܒܷܪܒܳܙܰܢܐ ܟܝܒܶܗ ܕܗܳܘܶܐ ܥܷܠܬ݂ܳܐ ܠܘ ܩܫܳܥܐ ܕܘ ܠܝܫܳܢܐ. ܡܰܘܟ݂ܰܐ ܡܚܰܕ݂ܪܐ ܐܝ ܬܰܪܡܝܬ݂ܰܬ݂ܶܐ ܕܳܐܪܳܡܳܝܐ ܒܘ ܢܰܘܠܐ (Aramaic Online Project) ܕܣܷܢܕܐ ܐܰܡ ܡܷܔܓ݂ܰܠܝܳܢܶܐ ܕܟܳܚܳܙܷܢ ܪܘܚܰܝـܝܶܗ ܒܝ ܥܰܣܩܘܬ݂ܐ ܡܝܕ݂ܶܗ ܕܠܰܬܬܶܗ ܐܷܡܟܰܢܰܬ ܕܝܷܠܦܝ ܐܘ ܠܝܫܳܢܐ ܕܰܒ ܒܰܒܶܐ ܘܔܷܕܕܳܢܰܬ݂ܬ݂ܶܗ.
-
-
-
-
-
+</p>
+				<p xml:lang="tru">
+                    <anchor xml:id="test.syr.10" corresp="test.latn.10"/>
 ܙܳܟ݂ܶܐ ܕܒܶܐ ܒܰܫܫܳܐ (ܢܝܩܘܠܰܐܘܤ ܐܰܛܰܫ) ܡܶܐ ܒܰܠܫ̰ܝܩܰܐ (ܡܰܣܬܷܪ ܕܠܝܫܳܢܶܐ ܡܰܕܷܢܚܳܝܶܐ ܒܘ ܒܶܝܬ݂ ܨܰܘܒܐ ܩܰܬ݂ܳܠܝܩܳܝܐ ܕܠܘܒ݂ܰܐܢ ܐܺܝ ܚܰܬ݂ܬܐ)
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>
-Maxtabzabno qfiso du lišono Suryoyo-Oromoyo
-Bayn dal lišone dë briṯo, kibe ḥa foraš iqaryoṯe friše. I iqarṯo dal lišone d këtyo frësto zëd me kulle bë briṯo i iqarṯo d këmmila Hëndu-Urifayto yo (Indo-european bu Ënglišoyo). U Hëndwoyo (Sanskrit), u Fërsoyo, u Kurdoyo, u Armnoyo, u Yawnoyo, u Laṭinoyo, u Fransoyo, u Ënglišoyo, u Almanoyo, u Holandoyo, u Swedoyo w ġer lišone d košëbhënne komëḥšowi mi iqarṯaṯe Hëndu-Urifayto. U lišono Suryoyo (komitawmarle Oromoyo ste) hiye me iqarṯo ḥreto yo, komëḥšaw lišono Šimoyo (Semitic language) miḏe d këtle asiruṯo maxtabzabnayto cam al lišone šimoye ḥrene d këtne u Cëbroyo, u Funiqoyo, u Caraboyo, u Akkadoyo (bat tre lëczayḏe Bëbloyo w Oṯuroyo), u Ḥabašoyo w ġer lišone d latne ġäläbe mšamhe. 
-U lišono Oromoyo këtle maxtabzabno catiqo. Ak kṯawyoṯe catiqe d këtlan mine kṯiwi meqëm bë tloṯo alfo (3000) ëšne. Ak kṯawyoṯani, kṯiwënne am malke Oromoye : ḥa mënne ëšme Zäkir (aw Zakkur), u malko d Ḥäma wa laf at tmonemo (800) meqëm me Mšiḥo. U lišono du zabnawo (mu doro dac casro hul lu doro daš šawco) komitawmarle bu yulfono Oromoyo Catiqo (Old Aramaic). 
-Hedi, me d am malëkwote Oromoye blici bi Imparaṭoriye Ḥaṯto dan Oṯuroye (Neo-Assyrian Empire), fris u lišono Oromoyo b Beṯ-Nahrin kula. Kito säbabe mšaḥëlfe bas u muhim d kulle këmmi i kṯawtayḏe xayëftër wa mi kṯawto ṣeṣonayto (i kṯawto dab basmore : cuneiform script). Komoṭina ucdo lu Oromoyo Rušmoyo (Official Aramaic). Me d af Fërsoye Moḏoye bi mcawäna dab Bëbloye mfaytaḥḥe Oṯur awkiṯ Ninwe baš šeṯmo w tracsar (612) meqëm me Mšiḥo, maqballe d foyaš u lišono Oromoyo bi dukṯo w sëmme lišono rušmoyo li imparaṭoriyaṯṯe, wälaw latwa u lišono d ruḥayye. Mu zabnawo fris u lišono Oromoyo heš zëdtër w fayëš kṯawyoṯe Oromoye b dukoṯe mšaḥëlfe, maṯlo : b Mëṣër ḥze papirus di tašciṯo d Ḥiqar u ḥakimo dë kṯiw bu doro daḥ ḥamšo, bu zabno di malkuṯo d Dariyuš u Fërsoyo. Sahme mak kṯowe d Doniyel w Cazro kṯiwi b lišono d këmminale adyawma Oromoyo du Kṯowo Qadišo (Biblical Aramaic) 
-Bu doro dan arbco, inaqqa dë mfaytaḥle Skandar u Rabo lu madënḥo, frësle acme u lišono Yawnoyo xëd lišono d marduṯo w d yulfono bäle lo malḥaqle laq qëryawoṯe w law wälayat nacime. U lišono Oromoyo naḥëtwa mu darġo d lišono d imparaṭoriye lan d lišono dab bälade nacime. Bëṯër mu mawto dë Skandar u Rabo bat tlaṯmo w tlaṯ w cësri (323) meqëm me Mšiḥo fliġo i imparaṭoriyayḏe l malëkwoṯe friše. U lišono Oromoyo d haw fayëšwayle asiruṯo bayn dal leczayḏe, bdele d mëfraš, kiban d ëmmina, l lišone mšaḥëlfe : maṭina hedi hedi lu Oromoyo Mëṣcoyo (Middle Aramaic). U Oromoyo Mëṣcoyo komšare bu doro dat tre d meqëm me Mšiḥo w këzze hul lu doro dat tloṯo d bëṯër me Mšiḥo. Naḥiti li kṯawto kmo lëcze, baynoṯayye kit : u Nabaṭoyo (Nabataean Aramaic),u Tëḏmuroyo (Palmyrenean Aramaic) w u Ḥaṭroyo (Hatrean Aramaic). 
-Bëṯër mu doro dat tre d bëṯër me Mšiḥo komoṭina lu Oromoyo Mwaxro (Late Aramaic). U Oromoyo dë Flešt (Fälasṭin) aw Suryoyo Flëštoyo (Palestinian Aramaic aw Palestinian Syriac) iḏico yo me kṯawyoṯe Yuḏoye w Mšiḥoye w baynoṯayye kit mgalyune d mitëstacmëliwa bi Cito Suryayto Malkayto. Mšiḥo komaḥwe dë jġil b lišono aw lëczo d komiḏac bu ëšmo d Oromoyo Ġliloyo (Galilean Aramaic). Elo law fayëšlan kṯawyoṯe ġäläbe bu lëczano d ëḏcina ṭawwo aydarbo wa lišone dë Mšiḥo. Kit u Oromoyo Šëmroyo (Samaritan Aramaic), mano ste law fayëšlan aṯër ġäläbe. Ay Yuḏoye Sfardoye mëstacmëliwa u Oromoyo Bëbloyo (Jewish Babylonian Aramaic) lu targum yacni lu šarḥ di Tawra. Kit lišono d komitawmarle Oromoyo Mandcoyo aw Mandoyo (Mandean Aramaic), fayëšlan kmo kṯowe ebe w bas. Hano mitëstacmalwa me noše d ëzzënwa bëṯre d yulfono d këmmi le Ġnosis, Ġnosṭiqe wayne. 
-Wälaw i kṯawto catëqto d këtlan ebe mi šato daš šeṯ (6) d bëṯër me Mšiḥo yo, komëḥšaw u Oromoyo Urhoyo (Edessene Aramaic) bu ṭaboqano du Oromoyo Mwaxro (Late Aramaic) miḏe d aġlab d ak kṯawyoṯayḏe me bëṯër mu doro dat tloṯo ne. Hano, u lëczo Oromoyo di wälaye d Urhoy wa. Këmminale adyawma u Suryoyo Kṯobonoyo (Syriac). U lëczano fris ġäläbe cam u froso di haymonuṯo Mšiḥayto w hawi lišono di marduṯo, du yulfono, di omuruṯo w d kul mede kṯiwo. Hiye hawi u lišono rušmoyo di Cito Suryayto. Cam u floġo di Cito, hiye ste fliġ lë tre nurbe : u Suryoyo Macërboyo (West Syriac) w u Suryoyo Madënḥoyo (East Syriac). U gušmo du lišono cayni yo bas kit furšono bu rëṯmo dax xabre bayn lat tre. Maṯlo : bu Macërboyo ḥa komar “šlomo” w bu Madënḥoyo “šlama”, bë ftoḥe yarixe. Mi naqla d ac Caraboye mfaytaḥḥe u Madënḥo Mëscoyo, ëšmo b ëšmo an noše maqballe u Caraboyo w ġäläbe ṭralle mu Suryoyo. 
-Hul ucdo u Oromoyo Urhoyo (Edessene Aramaic) yacni u Suryoyo Kṯobonoyo komitëstacmal bi Cito (cam gabe du Caraboyo). Halbat hawi šušoṭo ebe, law fayëš xëd u yawmo qamoyo. U turoṣmamlayḏe mḥalaf ëšmo, xliqi xabre ḥaṯe w midi xabre me lišone ḥrene. U Suryoyo d Mor Afrem latyo tam xan d Mor Dyonosiyus u Tëlmaḥroyo w lo xan du Bar Cëbroyo w diḏe ste latyo xëd u Suryoyo d Ḥanna Dolabani ! Cam ḥbol, bëṯër mad dore dat tracsar w dat tloṯacsar, u zabno dat tloṯo kaṯowe Suryoye rabe d këtne u Bar Ṣalibi (†1171), Mor Mixoyel u Rabo (†1199) w u Bar Cëbroyo (†1286), mi sëbbe du hjomo qašyo dam Moġoloye, koḥozina d i cëtma šrela cal i Sëfroyuṯo Suryayto w hedi hedi u lišono komisakar w komivayac. Bëṯër mad dorani ac catume nafëq lu lišono Suryoyo Kṯobonoyo kaṯowe ḥaṯe w kašire, baynoṯayye : ḥasyo dak Kaldoye d Urmya Tuma Audo (†1917), faṭëryarxo das Suryoye Qaṯoliqoye Afram Raḥmani (†1929), faṭëryarxo das Suryoye Orṯoduksoye Afrem Barṣawm (†1957), ḥasyo das Suryoye Orṯoduksoye b Mërde Ḥanna Dolabani (†1969) w cëlmoye ste xëd Nacum Fayëq (†1930). 
-Maṭina ucdo lu zabno d kocayšina ebe. Ṭorina l xaṣra u lišono Suryoyo Kṯobonoyo d fayëš lišono day yaducṯone w mafëtlina foṯan lal lëcze d an noše cadi komëjġolënne. I ġëlbayiye dan noše d komëjġoli lëcze Oromoye adyawma Mšiḥoye ne, elo heš kit qalilwoṯe d Yuḏoye w d Mandcoye w ḥatta d Ṭaye ste d komëjġolënne ! Aġlab day Yuḏoye azzën l Isroyel, yalifi u Cëbroyo w lḥën w qšici al lëczaṯṯe. Am Mandcoye hawi rḏufyo ġäläbe aclayye w aġlab dëṯṯe ucdo mbarbëze ne bi goluṯo. Oṯina ucdo lal lëcze dam Mšiḥoye. Kiban fëlġinanne lë tloṯo falqe : macërboye, mëṣcoye w madënḥoye. Am macërboye ġäläbe noquṣe ne, fayiši bë tlëṯ qëryawoṯe d Suriya : Maclula, Baxca w Jubcaddin. I qriṯo qamayto camërto yo mam Mšiḥoye w at tarte ḥrene camire ne maṭ Ṭaye. Am mëṣcoye (hani ste komiḏoci bayn du camo bu ëšmo d Suryoye Macërboye) komëjġoli bu Suryoyo Ṭuroyo d komitawmarle ste Surayt. Këtwa lëczo ḥreno qariwo l Omiḏ (Dyarbäkër) qšic mi naqla dë mḥase u mëjġalyonayḏe u ḥaroyo, hano mitawmarwayle Mlaḥso. Al lëcze madënḥoye komitawmarre Surët aw Surëṯ. Hani komitajëġli aġlab bu Cëraq. 
-Me säbabe mšaḥëlfe, mbarbëzi as Suryoye ban arbac fënyoṯe dë briṯo w acmayye u lišonaṯṯe. Kit mëjġalyone du Ṭuroyo b Södertälje bu Swed ġäläbe zëdtër man d kit bu Ṭuro. Me d am mëjġalyone komibarbëzi, u lišono ste komaḏcaf. U Ṭuroyo kiban fëlġinale lë tre lëcze taḥtoye (subdialects) : u lëczo d Mëḏyaḏ d hawi acle macëbḏonuṯo mu Cäräbi w u lëczo daq qëryawoṯe d hawi acle macëbḏonuṯo mu Kurmanji. Aṭ Ṭurcabdinoye d azzën l Suriya bëṯër mu Sayfo dan alfo w tšacmo w ḥamšacsar (1915), xlëṭṭe at tre lëczani bë ḥḏoḏe w macbarre xabre Caraboye ġäläbe lu Ṭuroyo. Hani d fayiši macbarre xabre Tërkoye. Mi sëbbaṯe naqlawoṯe kowe lomëstaklonuṯo bayn daṭ Turcabdinoye d Suriya w d Tërkiya. Ucdo d ġäläbe aṯën l Awrupa w l dukoṯe ḥrene, komitacbar xabre mal lišone di dukṯo lu Ṭuroyo. U bërbozano kibe d howe cëlṯo lu qšoco du lišono. Mawxa mḥaḏro i tarmiṯaṯe d “Aramaic Online Project” (Tarmiṯo d Oromoyo bu nawlo) d sëndo am mëjġalyone d koḥozën ruḥayye bi casquṯo miḏe d latte ëmkanat d yëlfi u lišono dab babe w jëddonaṯṯe. 
-
-Zoxe d Be Baššo (Nicolas Atas) me Balčiqa (Mastër d lišone madënḥoye bu Beṯ Ṣawbo Qaṯoliqoyo d Luvan-i-Ḥaṯto)
-
-      <div type="transcription">
+	  
+	  <div type="transcription">
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
-          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->    
+          <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->  
+Bayn dal lišone dë briṯo, kibe ḥa foraš iqaryoṯe friše. I iqarṯo dal lišone d këtyo frësto zëd me kulle bë briṯo i iqarṯo d këmmila Hëndu-Urifayto yo (Indo-european bu Ënglišoyo). U Hëndwoyo (Sanskrit), u Fërsoyo, u Kurdoyo, u Armnoyo, u Yawnoyo, u Laṭinoyo, u Fransoyo, u Ënglišoyo, u Almanoyo, u Holandoyo, u Swedoyo w ġer lišone d košëbhënne komëḥšowi mi iqarṯaṯe Hëndu-Urifayto. U lišono Suryoyo (komitawmarle Oromoyo ste) hiye me iqarṯo ḥreto yo, komëḥšaw lišono Šimoyo (Semitic language) miḏe d këtle asiruṯo maxtabzabnayto cam al lišone šimoye ḥrene d këtne u Cëbroyo, u Funiqoyo, u Caraboyo, u Akkadoyo (bat tre lëczayḏe Bëbloyo w Oṯuroyo), u Ḥabašoyo w ġer lišone d latne ġäläbe mšamhe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
+U lišono Oromoyo këtle maxtabzabno catiqo. Ak kṯawyoṯe catiqe d këtlan mine kṯiwi meqëm bë tloṯo alfo (3000) ëšne. Ak kṯawyoṯani, kṯiwënne am malke Oromoye : ḥa mënne ëšme Zäkir (aw Zakkur), u malko d Ḥäma wa laf at tmonemo (800) meqëm me Mšiḥo. U lišono du zabnawo (mu doro dac casro hul lu doro daš šawco) komitawmarle bu yulfono Oromoyo Catiqo (Old Aramaic). 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.3" corresp="test.syr.3"/>
+Hedi, me d am malëkwote Oromoye blici bi Imparaṭoriye Ḥaṯto dan Oṯuroye (Neo-Assyrian Empire), fris u lišono Oromoyo b Beṯ-Nahrin kula. Kito säbabe mšaḥëlfe bas u muhim d kulle këmmi i kṯawtayḏe xayëftër wa mi kṯawto ṣeṣonayto (i kṯawto dab basmore : cuneiform script). Komoṭina ucdo lu Oromoyo Rušmoyo (Official Aramaic). Me d af Fërsoye Moḏoye bi mcawäna dab Bëbloye mfaytaḥḥe Oṯur awkiṯ Ninwe baš šeṯmo w tracsar (612) meqëm me Mšiḥo, maqballe d foyaš u lišono Oromoyo bi dukṯo w sëmme lišono rušmoyo li imparaṭoriyaṯṯe, wälaw latwa u lišono d ruḥayye. Mu zabnawo fris u lišono Oromoyo heš zëdtër w fayëš kṯawyoṯe Oromoye b dukoṯe mšaḥëlfe, maṯlo : b Mëṣër ḥze papirus di tašciṯo d Ḥiqar u ḥakimo dë kṯiw bu doro daḥ ḥamšo, bu zabno di malkuṯo d Dariyuš u Fërsoyo. Sahme mak kṯowe d Doniyel w Cazro kṯiwi b lišono d këmminale adyawma Oromoyo du Kṯowo Qadišo (Biblical Aramaic) 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.4" corresp="test.syr.4"/>
+Bu doro dan arbco, inaqqa dë mfaytaḥle Skandar u Rabo lu madënḥo, frësle acme u lišono Yawnoyo xëd lišono d marduṯo w d yulfono bäle lo malḥaqle laq qëryawoṯe w law wälayat nacime. U lišono Oromoyo naḥëtwa mu darġo d lišono d imparaṭoriye lan d lišono dab bälade nacime. Bëṯër mu mawto dë Skandar u Rabo bat tlaṯmo w tlaṯ w cësri (323) meqëm me Mšiḥo fliġo i imparaṭoriyayḏe l malëkwoṯe friše. U lišono Oromoyo d haw fayëšwayle asiruṯo bayn dal leczayḏe, bdele d mëfraš, kiban d ëmmina, l lišone mšaḥëlfe : maṭina hedi hedi lu Oromoyo Mëṣcoyo (Middle Aramaic). U Oromoyo Mëṣcoyo komšare bu doro dat tre d meqëm me Mšiḥo w këzze hul lu doro dat tloṯo d bëṯër me Mšiḥo. Naḥiti li kṯawto kmo lëcze, baynoṯayye kit : u Nabaṭoyo (Nabataean Aramaic),u Tëḏmuroyo (Palmyrenean Aramaic) w u Ḥaṭroyo (Hatrean Aramaic). 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.5" corresp="test.syr.5"/>
+Bëṯër mu doro dat tre d bëṯër me Mšiḥo komoṭina lu Oromoyo Mwaxro (Late Aramaic). U Oromoyo dë Flešt (Fälasṭin) aw Suryoyo Flëštoyo (Palestinian Aramaic aw Palestinian Syriac) iḏico yo me kṯawyoṯe Yuḏoye w Mšiḥoye w baynoṯayye kit mgalyune d mitëstacmëliwa bi Cito Suryayto Malkayto. Mšiḥo komaḥwe dë jġil b lišono aw lëczo d komiḏac bu ëšmo d Oromoyo Ġliloyo (Galilean Aramaic). Elo law fayëšlan kṯawyoṯe ġäläbe bu lëczano d ëḏcina ṭawwo aydarbo wa lišone dë Mšiḥo. Kit u Oromoyo Šëmroyo (Samaritan Aramaic), mano ste law fayëšlan aṯër ġäläbe. Ay Yuḏoye Sfardoye mëstacmëliwa u Oromoyo Bëbloyo (Jewish Babylonian Aramaic) lu targum yacni lu šarḥ di Tawra. Kit lišono d komitawmarle Oromoyo Mandcoyo aw Mandoyo (Mandean Aramaic), fayëšlan kmo kṯowe ebe w bas. Hano mitëstacmalwa me noše d ëzzënwa bëṯre d yulfono d këmmi le Ġnosis, Ġnosṭiqe wayne. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.6" corresp="test.syr.6"/>
+Wälaw i kṯawto catëqto d këtlan ebe mi šato daš šeṯ (6) d bëṯër me Mšiḥo yo, komëḥšaw u Oromoyo Urhoyo (Edessene Aramaic) bu ṭaboqano du Oromoyo Mwaxro (Late Aramaic) miḏe d aġlab d ak kṯawyoṯayḏe me bëṯër mu doro dat tloṯo ne. Hano, u lëczo Oromoyo di wälaye d Urhoy wa. Këmminale adyawma u Suryoyo Kṯobonoyo (Syriac). U lëczano fris ġäläbe cam u froso di haymonuṯo Mšiḥayto w hawi lišono di marduṯo, du yulfono, di omuruṯo w d kul mede kṯiwo. Hiye hawi u lišono rušmoyo di Cito Suryayto. Cam u floġo di Cito, hiye ste fliġ lë tre nurbe : u Suryoyo Macërboyo (West Syriac) w u Suryoyo Madënḥoyo (East Syriac). U gušmo du lišono cayni yo bas kit furšono bu rëṯmo dax xabre bayn lat tre. Maṯlo : bu Macërboyo ḥa komar “šlomo” w bu Madënḥoyo “šlama”, bë ftoḥe yarixe. Mi naqla d ac Caraboye mfaytaḥḥe u Madënḥo Mëscoyo, ëšmo b ëšmo an noše maqballe u Caraboyo w ġäläbe ṭralle mu Suryoyo. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.7" corresp="test.syr.7"/>
+Hul ucdo u Oromoyo Urhoyo (Edessene Aramaic) yacni u Suryoyo Kṯobonoyo komitëstacmal bi Cito (cam gabe du Caraboyo). Halbat hawi šušoṭo ebe, law fayëš xëd u yawmo qamoyo. U turoṣmamlayḏe mḥalaf ëšmo, xliqi xabre ḥaṯe w midi xabre me lišone ḥrene. U Suryoyo d Mor Afrem latyo tam xan d Mor Dyonosiyus u Tëlmaḥroyo w lo xan du Bar Cëbroyo w diḏe ste latyo xëd u Suryoyo d Ḥanna Dolabani ! Cam ḥbol, bëṯër mad dore dat tracsar w dat tloṯacsar, u zabno dat tloṯo kaṯowe Suryoye rabe d këtne u Bar Ṣalibi (†1171), Mor Mixoyel u Rabo (†1199) w u Bar Cëbroyo (†1286), mi sëbbe du hjomo qašyo dam Moġoloye, koḥozina d i cëtma šrela cal i Sëfroyuṯo Suryayto w hedi hedi u lišono komisakar w komivayac. Bëṯër mad dorani ac catume nafëq lu lišono Suryoyo Kṯobonoyo kaṯowe ḥaṯe w kašire, baynoṯayye : ḥasyo dak Kaldoye d Urmya Tuma Audo (†1917), faṭëryarxo das Suryoye Qaṯoliqoye Afram Raḥmani (†1929), faṭëryarxo das Suryoye Orṯoduksoye Afrem Barṣawm (†1957), ḥasyo das Suryoye Orṯoduksoye b Mërde Ḥanna Dolabani (†1969) w cëlmoye ste xëd Nacum Fayëq (†1930). 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.8" corresp="test.syr.8"/>
+Maṭina ucdo lu zabno d kocayšina ebe. Ṭorina l xaṣra u lišono Suryoyo Kṯobonoyo d fayëš lišono day yaducṯone w mafëtlina foṯan lal lëcze d an noše cadi komëjġolënne. I ġëlbayiye dan noše d komëjġoli lëcze Oromoye adyawma Mšiḥoye ne, elo heš kit qalilwoṯe d Yuḏoye w d Mandcoye w ḥatta d Ṭaye ste d komëjġolënne ! Aġlab day Yuḏoye azzën l Isroyel, yalifi u Cëbroyo w lḥën w qšici al lëczaṯṯe. Am Mandcoye hawi rḏufyo ġäläbe aclayye w aġlab dëṯṯe ucdo mbarbëze ne bi goluṯo. Oṯina ucdo lal lëcze dam Mšiḥoye. Kiban fëlġinanne lë tloṯo falqe : macërboye, mëṣcoye w madënḥoye. Am macërboye ġäläbe noquṣe ne, fayiši bë tlëṯ qëryawoṯe d Suriya : Maclula, Baxca w Jubcaddin. I qriṯo qamayto camërto yo mam Mšiḥoye w at tarte ḥrene camire ne maṭ Ṭaye. Am mëṣcoye (hani ste komiḏoci bayn du camo bu ëšmo d Suryoye Macërboye) komëjġoli bu Suryoyo Ṭuroyo d komitawmarle ste Surayt. Këtwa lëczo ḥreno qariwo l Omiḏ (Dyarbäkër) qšic mi naqla dë mḥase u mëjġalyonayḏe u ḥaroyo, hano mitawmarwayle Mlaḥso. Al lëcze madënḥoye komitawmarre Surët aw Surëṯ. Hani komitajëġli aġlab bu Cëraq. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.9" corresp="test.syr.9"/>
+Me säbabe mšaḥëlfe, mbarbëzi as Suryoye ban arbac fënyoṯe dë briṯo w acmayye u lišonaṯṯe. Kit mëjġalyone du Ṭuroyo b Södertälje bu Swed ġäläbe zëdtër man d kit bu Ṭuro. Me d am mëjġalyone komibarbëzi, u lišono ste komaḏcaf. U Ṭuroyo kiban fëlġinale lë tre lëcze taḥtoye (subdialects) : u lëczo d Mëḏyaḏ d hawi acle macëbḏonuṯo mu Cäräbi w u lëczo daq qëryawoṯe d hawi acle macëbḏonuṯo mu Kurmanji. Aṭ Ṭurcabdinoye d azzën l Suriya bëṯër mu Sayfo dan alfo w tšacmo w ḥamšacsar (1915), xlëṭṭe at tre lëczani bë ḥḏoḏe w macbarre xabre Caraboye ġäläbe lu Ṭuroyo. Hani d fayiši macbarre xabre Tërkoye. Mi sëbbaṯe naqlawoṯe kowe lomëstaklonuṯo bayn daṭ Turcabdinoye d Suriya w d Tërkiya. Ucdo d ġäläbe aṯën l Awrupa w l dukoṯe ḥrene, komitacbar xabre mal lišone di dukṯo lu Ṭuroyo. U bërbozano kibe d howe cëlṯo lu qšoco du lišono. Mawxa mḥaḏro i tarmiṯaṯe d “Aramaic Online Project” (Tarmiṯo d Oromoyo bu nawlo) d sëndo am mëjġalyone d koḥozën ruḥayye bi casquṯo miḏe d latte ëmkanat d yëlfi u lišono dab babe w jëddonaṯṯe. 
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.10" corresp="test.syr.10"/>
+Zoxe d Be Baššo (Nicolas Atas) me Balčiqa (Mastër d lišone madënḥoye bu Beṯ Ṣawbo Qaṯoliqoyo d Luvan-i-Ḥaṯto)  
         </p>
           <!-- Repeat the <p> element as needed -->
       </div>

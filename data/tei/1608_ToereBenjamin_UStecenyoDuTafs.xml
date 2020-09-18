@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܘ ܫܬܶܥܷܢܝܐ ܕܘ ܛܰܦܫ</foreign> /  U štecënyo du ṭafš</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Benjamin Töre
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1608</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -110,7 +110,9 @@
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
 ܐܰܫ ܫܬܶܥܷܢܝܶܐ ܕܡܷܫܬܰܥܝܘܰܝܢܰܢܢܶܗ ܡܶܩܷܡ ܒܰܩ ܩܷܪܝܰܘܳܬ݂ܶܐ ܟܷܬܘܰܐ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ ܡܫܰܚܷܠܦܶܐ ܒܰܝܢܰܬ݂ܬ݂ܶܗ. ܚܰܐ ܡܰܢܢܶܗ ܐܘ ܛܰܦܫ ܘܰܐ. ܥܰܠ ܕܐܘ ܫܬܶܥܷܢܝܰܢܐ ܟܷܬܘܰܝܠܶܗ ܬܰܗܠܝܟܰܐ ܕܚܰܐ ܡܰܟܘ ܪܘܚܶܗ ܐܶܒܶܗ. ܐܘ ܛܰܦܫ ܗܰܘܟ݂ܰܐ ܡܷܫܬܰܥܝܘܰܝܢܰܠܶܗ: ܠܰܝܡܝܘܰܝܢܰܐ ܐܰܥ ܥܠܰܝܡܶܐ ܕܝ ܩܪܝܬ݂ܐ ܟܘܠܠܶܗ ܒܕܘܟܬ݂ܐ ܕܐܷܡܡܝܘܰܝܠܰܗ ܐܝ ܫܝـܚܰܐ. ܐܝ ܫܝـܚܰܐ ܥܰܠ ܦܶܡܶܗ ܕܘ ܫܰܠܘܐ، ܨܰܚܰܐ ܕܝ ܛܷܒܒܶܐ ܘܰܐ. ܚܶܕ݂ܳܪܰܗ ܟܘܠܶܗ ܡܰܠܝܐ ܫܶܢܰܘܳܬ݂ܶܐ ܪܰܒܶܐ ܕܷܡܣܰܘܝܶܐ ܢܶܐ ܥܰܡ ܐܝ ܐܰܪܥܐ. ܟܘܠ ܚܰܐ ܡܝܢܰܢ ܡܳܝܰܕܘܰܝܠܶܗ ܚܕ݂ܐ ܟܶܦܐ ܪܰܒܬ݂ܐ ܕܗܘܝܐ ܓܘܪܳܒ݂ܰܪ ܕܚܰܐ ܩܳܕܷܪ ܕܡܳܚܶܠܰܗ ܒܷܚܕ݂ܐ ܐܝܕ݂ܐ. ܗܳܘܝܘܰܝܢܰܐ ܒܘ ܫܬܶܥܷܢܝܰܢܐ ܥܠܰܝܡܶܐ ܘܥܠܰܝܡܳܬ݂ܶܐ ܟ݂ܠܝܛܶܐ ܘܡܚܰܠܩܝܘܰܝܢܰܐ ܦܷ݁ܫܟܶܐ ܒܰܝܢܳܬ݂ܰܢ ܡܰܢ ܓܷܕ ܗܳܘܶܐ ܐܘ ܛܰܦܫ. ܐܘ ܚܰܐ ܕܗܳܘܶܘܰܐ ܐܘ ܛܰܦܫ ܡܳܝܰܕܘܰܐ ܟܶܦܐ ܢܰܥܷܡܬܐ ܘܡܰܚܰܬܘܰܝܠܰܗ ܥܰܠ ܦܰܠܓܶܗ ܕܝ ܫܶܢܐ. ܐܰܚ ܚܰܘܪܳܢܰܝܕ݂ܶܗ ܐܰܚ ܚܪܶܢܶܐ ܗܳܘܷܢܘܰܐ ܓܘܪܳܒ݂ܰܪ ܚܶܕ݂ܷܪ ܐܝ ܫܶܢܰܬ݂ܶܐ ܘܪܘܚܩܝܘܰܐ ܡܝ ܟܶܦܐ ܕܘ ܛܰܦܫ. ܒܳܕܶܘܰܐ ܐܘ ܩܰܡܳܝܐ ܕܡܳܚܶܐ ܐܝ ܟܶܦܐ ܕܝܕ݂ܶܗ ܒܘ ܛܰܦܫ. ܒܘ ܫܷܟܠܰܢܐ ܡܕܰܘܰܡܘܰܐ ܐܘ ܕܰܘܪܐ. ܐܝܢܰܩܠܰܐ ܕܐܝ ܟܶܦܐ ܕܘ ܛܰܦܫ ܕܡܷܬܘܳܪܳܘܰܐ ܡܰܚܰܬܘܰܐ ܚܪܶܬܐ ܒܕܘܟܬ݂ܰܗ. ܐܝܢܰܩܠܰܐ ܕܚܰܐ ܡܰܡ ܡܰܚܳـܝܶܐ ܕܡܳܚܶܐ ܐܝ ܟܶܦܰܝܕ݂ܶܗ ܒܘ ܛܰܦܫ ܕܠܐ ܩܰܝܬ݂ܐ ܐܶܒܶܗ، ܗܝـܝܶܐ ܗܳܘܶܘܰܐ ܛܰܦܫ ܘܗܰܢܐ ܕܟܷܬܘܰܐ ܐܘ ܛܰܦܫ ܫܳܦܰܥܘܰܐ ܠܕܘܟܬ݂ܶܗ ܕܘ ܚܰܘܪܐ. ܒܘ ܫܷܟܠܰܢܐ ܡܕܰܘܰܡܘܰܐ ܐܘ ܫܬܶܥܷܢܝܐ.
-
+</p>
+<p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>
 ܐܝܢܰܩܠܰܐ ܕܡܳܚܷܢܘܰܐ ܐܝ ܟܶܦܐ ܒܘ ܛܰܦܫ ܟܘܠ ܚܰܐ ܐܳܡܰܪܘܰܐ ܟܳܕܳܝܰܩܢܐ ܦܱܠܰܐܢ ܘܐܳܡܰܪܘܰܐ ܐܷܫܡܶܗ ܕܚܰܐ ܕܠܐ ܪܳܚܰܡܘܰܝܠܶܗ. ܢܰܩܠܰܘܳܬ݂ܶܐ ܓ݂ܱܠܱܒܶܐ ܐܝܢܰܩܠܰܐ ܕܡܷܫܬܰܥܝܘܰܝܢܰܐ ܐܘ ܫܬܶܥܷܢܝܰܢܐ ܐܰܟ ܟܶܦܶܐ ܛܰܝܪܝܘܰܐ ܡܝ ܫܶܢܐ ܘܡܰܟܝܘܝܘܰܐ ܗܰܢܝ ܕܘ ܡܩܰܒܷܠ. ܢܰܩܠܰܐ ܚܕ݂ܐ ܐܝܢܰܩܠܰܐ ܕܷܡܚܰܠܠܶܗ ܐܝ ܟܶܦܐ ܒܘ ܛܰܦܫ ܩܰܝـܝܬ݂ܐ ܚـܝܨܐ ܒܝ ܫܶܢܐ ܛܰܝـܝܪܐ ܘܡܚܰـܝܨܶܠܰܗ ܒܰܝܢ ܥܰܝܢܶܗ ܕܚܰܐ ܚܰܘܪܐ ܡܘ ܡܩܰܒܷܠ ܘܡܰܟܘܘܰܝܠܰܗ ܓ݂ܱܠܱܒܶܐ. ܒܷܬ݂ܷܪ ܡܘ ܝܰܘܡܰܘܐ ܢܰܩܷܨ ܐܘ ܫܬܶܥܷܢܝܐ ܕܘ ܛܰܦܫ. ܐܰܕܝܰܘܡܰܐ ܡܣܰܟܷܪ، ܐܰܙܙܶܝܐ. ܠܰܬܠܰܢ ܥܠܰܝܡܶܐ ܕܟܳܡܷܫܬܰܥܷܠܠܶܗ. ܟ݂ܨܰܪܰܐ ܝܐ ܐܶܠܰܢ ܠܘ ܥܰܡܐ ܣܘܪܝܳܝܐ ܕܷܡܣܰܟܰܪܠܰܢ ܚܰܐ ܫܬܶܥܷܢܝܐ ܡܶܐ ܕܝܕ݂ܰܢ ܐܶܠܐ ܛܰܘܘܐ ܝܐ ܣܬܶܐ ܕܒܰܣ ܟܳܡܰܟܝܘܝ ܚܕ݂ܳܕ݂ܶܐ ܒܰܟ ܟܶܦܶܐ.
 	 </p>
           <!-- Repeat the <p> element as needed -->
@@ -120,8 +122,10 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-           U štecënyo du ṭafš
-		   Aš štecënye d mëštaciwaynanne meqëm baq qëryawoṯe këtwa ġäläbe medone mšaḥëlfe baynaṯṯe. Ḥa manne u ṭafš wa. Cal d u štecënyano këtwayle tahlika d ḥa maku ruḥe ebe. U ṭafš hawxa mëštaciwaynale: laymiwayna ac clayme di qriṯo kulle b dukṯo d ëmmiwayla i šiḥa. I šiḥa cal feme du šalwo, ṣaḥa di ṭëbbe wa. Ḥeḏora kule malyo šenawoṯe rabe dë msawye ne cam i arco. Kul ḥa minan moyadwayle ḥḏo kefo rabṯo d huyo gurovar d ḥa qodër d moḥela bë ḥḏo iḏo. Howiwayna bu štecënyano clayme w claymoṯe xliṭe w mḥalqiwayna pëške baynoṯan man gëd towe u ṭafš. U ḥa d howewa u ṭafš moyadwa kefo nacëmto w maḥatwayla cal falge di šeno. Aḥ ḥawronayḏe aḥ ḥrene howënwa gurovar ḥeḏër i šenaṯe w ruḥqiwa mi kefo du ṭafš. Bodewa u qamoyo d moḥe i kefo diḏe bu ṭafš. Bu šëklano mdawamwa u dawro. Inaqla d i kefo du ṭafš d mëtworowa maḥatwa ḥreto b dukṯa. Inaqla d ḥa mam maḥoye d moḥe i kefayḏe bu ṭafš d lo qayṯo ebe, hiye howewa ṭafš w hano d këtwa u ṭafš šofacwa l dukṯe du ḥawro. Bu šëklano mdawamwa u štecënyo.
+		  Aš štecënye d mëštaciwaynanne meqëm baq qëryawoṯe këtwa ġäläbe medone mšaḥëlfe baynaṯṯe. Ḥa manne u ṭafš wa. Cal d u štecënyano këtwayle tahlika d ḥa maku ruḥe ebe. U ṭafš hawxa mëštaciwaynale: laymiwayna ac clayme di qriṯo kulle b dukṯo d ëmmiwayla i šiḥa. I šiḥa cal feme du šalwo, ṣaḥa di ṭëbbe wa. Ḥeḏora kule malyo šenawoṯe rabe dë msawye ne cam i arco. Kul ḥa minan moyadwayle ḥḏo kefo rabṯo d huyo gurovar d ḥa qodër d moḥela bë ḥḏo iḏo. Howiwayna bu štecënyano clayme w claymoṯe xliṭe w mḥalqiwayna pëške baynoṯan man gëd towe u ṭafš. U ḥa d howewa u ṭafš moyadwa kefo nacëmto w maḥatwayla cal falge di šeno. Aḥ ḥawronayḏe aḥ ḥrene howënwa gurovar ḥeḏër i šenaṯe w ruḥqiwa mi kefo du ṭafš. Bodewa u qamoyo d moḥe i kefo diḏe bu ṭafš. Bu šëklano mdawamwa u dawro. Inaqla d i kefo du ṭafš d mëtworowa maḥatwa ḥreto b dukṯa. Inaqla d ḥa mam maḥoye d moḥe i kefayḏe bu ṭafš d lo qayṯo ebe, hiye howewa ṭafš w hano d këtwa u ṭafš šofacwa l dukṯe du ḥawro. Bu šëklano mdawamwa u štecënyo.
+</p>
+                <p xml:lang="en">
+                    <anchor xml:id="test.latn.2" corresp="test.syr.2"/>
 Inaqla d moḥënwa i kefo bu ṭafš kul ḥa omarwa kodoyaqno fälan w omarwa ëšme d ḥa d lo roḥamwayle. Naqlawoṯe ġäläbe inaqla d mëštaciwayna u štecënyano ak kefe ṭayriwa mi šeno w makiwiwa hani du mqabël. Naqla ḥḏo inaqla dë mḥalle i kefo bu ṭafš qayiṯo ḥiṣo bi šeno, ṭayiro w mḥayṣela bayn cayne d ḥa ḥawro mu mqabël w makuwayla ġäläbe. Bëṯër mu yawmawo naqëṣ u štecënyo du ṭafš. Adyawma msakër, azzeyo. Latlan clayme d komëštacëlle. Xṣara yo elan lu camo Suryoyo dë msakarlan ḥa štecënyo me diḏan elo ṭawwo yo ste d bas komakiwi ḥḏoḏe bak kefe.
         </p>
           <!-- Repeat the <p> element as needed -->

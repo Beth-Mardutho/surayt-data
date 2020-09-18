@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܥܱܙܝܙ ܐܰܝܕܝܢ - ܐܝ ܕܱܒܰܪܰܐ ܕܝ ܐܝܩܰܪܬ݂ܐ</foreign> /Cäziz Aydin - I däbara di iqarṯo</title>
-        <title level="s">Surayt Corpus</title>
+        <title level="s">Šlomo Surayt Corpus</title>
         <author>
           <!-- Insert name of author of this text -->Cäziz Aydin 
         </author>
@@ -45,7 +45,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Surayt Corpus</authority>
+        <authority>Šlomo Surayt Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1502</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
@@ -118,7 +118,6 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->
-          Cäziz Aydin - I däbara di iqarṯo
 		  I iqarṯo komidabro mu mede d koṯela mu säwal, mak karme w man arcote. Këtlan mo riše d ceze w casro riše d tawroṯe w csar rënjikat w casro arwone. Këtlan tre sësye d kodawrina ak karme w an arcoṯayḏan appe. Këtlan ste arbco ḥmore lu ṭacno. U šuġlo du bayto yaquro yo. Aḥunoni w babi w emi w ḥoti i nacëmto kosaymile. Aḥunoni at tre këzzën bu dawro qum u säwal kul yawmo. Komcawni ḥḏoḏe bu šuġlo du bayto ste. Ac ceze w at tawroṯe kobëllan ḥalwo. Kosaymina mu ḥalwo gweto w qaṭiro. Aġlab mi däbara du bayto këṯyo mu ḥeworo w mu säwal. Elo këtlan karme ste w manne ste koṯelan clalto. Mac cënwe dak karme kosaymina ḥamro w debës w coliqe w ḥalile w bastiq w kosaymna apšoṯe. Ban arcoṯe kozërcina score, kušne, ṭlawḥe w ḥëmṣe w kosaymina hën manne warze w kuxlina boṣine, cënjurkat, fuje w žäbaš manne. Sniquṯo lu basro w lab bece latlan. I sniquṯo du basro komidabro mu säwal w dab bece mag gyoṯe d komërwinanne bi dërto du bayto. Hawxa kokëmlo i däbara du bayto.
         </p>
           <!-- Repeat the <p> element as needed -->
