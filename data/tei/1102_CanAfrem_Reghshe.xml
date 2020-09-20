@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܐܰܚ ܚܰܡܫܐ ܪܷܓ݂ܫܶܐ ܕܘ ܒܰܪܢܳܫܐ</foreign> / <!-- Insert transliterated title -->Aḥ ḥamšo rëġše du barnošo</title>
-                <title level="s">Surayt Corpus</title>
+                <title level="s">Šlomo Surayt Corpus</title>
                 <author>Afrem Can</author>
                 <sponsor>Erasmus+ Programme of the European Union</sponsor>
                 <sponsor>Freie Universität Berlin</sponsor>
@@ -36,7 +36,7 @@
 						Beth Mardutho: The Syriac Institute
 					</placeName>
                 </distributor>
-                <authority>Surayt Corpus</authority>
+                <authority>Šlomo Surayt Corpus</authority>
                 <idno type="URI">https://surayt.bethmardutho.org/1102</idno><!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
                 <availability><!-- Are these texts Open Access? If so, you can just leave this section as is -->
                     <p/>
