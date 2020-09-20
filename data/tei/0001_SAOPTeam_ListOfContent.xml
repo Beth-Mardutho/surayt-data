@@ -20,8 +20,7 @@
 
 		<editor role="editor">
           <name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name>
-        </editor>   
-
+        </editor>
         <!-- Repeat editor role for each individual editor -->
 
         <respStmt>
