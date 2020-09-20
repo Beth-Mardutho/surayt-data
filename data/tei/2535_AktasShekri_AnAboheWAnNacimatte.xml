@@ -5,9 +5,7 @@
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܰܢ ܐܰܒܳܗܶܐ ܘܐܰܢ ܢܰܥܝܡܰܬ݂ܬ݂ܶܗ</foreign> / An abohe w an nacimaṯṯe</title>
         <title level="s">Šlomo Surayt Corpus</title>
-        <author>
-          <!-- Insert name of author of this text -->Šëkri Aqtaš 
-        </author>
+        <author><name><forename>Šëkri</forename><surname>Aqtaš</surname></name></author>
         <sponsor>Freie Universität Berlin</sponsor>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <sponsor>Stockholm University</sponsor>
@@ -18,9 +16,7 @@
         <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
         <funder>Freie Universität Berlin</funder>
 
-        <editor role="editor">
-          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
-        </editor>
+        <editor role="editor"><name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name></editor>
         <!-- Repeat editor role for each individual editor -->
 
         <respStmt>
