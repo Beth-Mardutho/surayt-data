@@ -18,9 +18,7 @@
         <funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
         <funder>Freie Universität Berlin</funder>
 
-        <editor role="editor">
-          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
-        </editor>
+        <editor role="editor"><name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name></editor>
         <!-- Repeat editor role for each individual editor -->
 
         <respStmt>
