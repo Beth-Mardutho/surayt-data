@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܘ ܕܰܝܘܳܢܐ ܕܥܰܠ ܐܝ ܓܳܪܐ</foreign> /  U daywono d cal i goro</title>
-        <title level="s">Šlomo Surayt Corpus</title>
+        <title level="s">Šlomo Surayt - Corpus</title>
         <author><name><forename>Benjamin</forename><surname>Toere</surname></name></author>
         <sponsor>Freie Universität Berlin</sponsor>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -41,7 +41,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Šlomo Surayt Corpus</authority>
+        <authority>Šlomo Surayt - Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1626</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
