@@ -7,7 +7,8 @@
         <title level="s">Šlomo Surayt Corpus</title>
         <author>
 		<name><forename>Havo</forename><surname>Piro</surname></name>
-		</author>
+          <!-- Insert name of author of this text -->
+        </author>
         <sponsor>Freie Universität Berlin</sponsor>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <sponsor>Stockholm University</sponsor>
@@ -43,7 +44,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Šlomo Surayt Corpus</authority>
+        <authority>Šlomo Surayt - Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1801</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
