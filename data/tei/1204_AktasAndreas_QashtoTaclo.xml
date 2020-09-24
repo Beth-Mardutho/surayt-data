@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="en"><foreign xml:lang="tru"><!-- Insert Syriac title -->ܬܰܫܥܝܬ݂ܐ ܕܝ ܩܰܫܬܐ ܘܕܘ ܬܰܥܠܐ</foreign> / <!-- Insert transliterated title -->Tašciṯo di qašto w du taclo</title>
-                <title level="s">Šlomo Surayt Corpus</title>
-                <author>Andreas Aktas</author>
+                <title level="s">Šlomo Surayt - Corpus</title>
+                <author><name><forename>Andreas</forename><surname>Aktas</surname></name></author>
                 <sponsor>Freie Universität Berlin</sponsor>
                 <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
                 <sponsor>Stockholm University</sponsor>
@@ -15,7 +15,9 @@
 				<funder>Erasmus+ Programme of the European Union (Project Number 2017-1-DE01-KA203-003573)</funder>
                 <funder>Freie Universität Berlin</funder>
 
-                <editor role="editor"><!-- Insert name of editor -->Prof. Dr. Shabo Talay</editor>
+                <editor role="editor">
+          <name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name>
+        </editor>
                 <!-- Repeat editor role for each individual editor -->
                 
                 <respStmt>
@@ -37,7 +39,7 @@
 						Beth Mardutho: The Syriac Institute
 					</placeName>
                 </distributor>
-                <authority>Šlomo Surayt Corpus</authority>
+                <authority>Šlomo Surayt - Corpus</authority>
                 <idno type="URI">https://surayt.bethmardutho.org/1204</idno><!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
                 <availability><!-- Are these texts Open Access? If so, you can just leave this section as is -->
                     <p/>

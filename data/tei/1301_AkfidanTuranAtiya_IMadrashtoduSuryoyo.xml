@@ -4,10 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en"><foreign xml:lang="tru">ܐܝ ܡܰܕܪܰܫܬܐ ܕܘ ܣܘܪܝܳـܝܐ </foreign> / I Madrašto du Suryoyo </title>
-        <title level="s">Šlomo Surayt Corpus</title>
-        <author>
-          <!-- Insert name of author of this text -->Atiya Akfidan Turan
-        </author>
+        <title level="s">Šlomo Surayt - Corpus</title>
+		<author><name><forename>Atiya</forename><surname>Akfidan Turan</surname></name></author>
         <sponsor>Freie Universität Berlin</sponsor>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <sponsor>Stockholm University</sponsor>
@@ -19,7 +17,7 @@
         <funder>Freie Universität Berlin</funder>
 
         <editor role="editor">
-          <!-- Insert name of editor -->Prof. Dr. Shabo Talay
+          <name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name>
         </editor>
         <!-- Repeat editor role for each individual editor -->
 
@@ -45,7 +43,7 @@
             Beth Mardutho: The Syriac Institute
           </placeName>
         </distributor>
-        <authority>Šlomo Surayt Corpus</authority>
+        <authority>Šlomo Surayt - Corpus</authority>
         <idno type="URI">https://surayt.bethmardutho.org/1301</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
