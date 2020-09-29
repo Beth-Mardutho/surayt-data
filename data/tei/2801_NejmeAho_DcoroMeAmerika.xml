@@ -22,8 +22,7 @@
         <respStmt>
           <resp>TEI XML encoding by</resp>
           <name>
-            <!-- Insert the name of the person responsible for this conversion -->Nicolas Atas
-          </name>
+            <!-- Insert the name of the person responsible for this conversion -->Nicolas Atas</name>
         </respStmt>
         <respStmt>
           <resp>Edited by</resp>
