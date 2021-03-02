@@ -42,7 +42,7 @@
           </placeName>
         </distributor>
         <authority>Šlomo Surayt - Corpus</authority>
-        <idno type="URI">https://surayt.bethmardutho.org/2101</idno>
+        <idno type="URI">https://surayt.bethmardutho.org/2102</idno>
         <!-- This is where you assign a URI number (repalce the #) - each XML file needs a unique number -->
         <availability>
           <!-- Are these texts Open Access? If so, you can just leave this section as is -->
