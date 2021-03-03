@@ -105,30 +105,30 @@
           <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
           <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
-ܡܘ ܢܘܣܟ݂ܐ ܕܰܡ 167 ܕܘ ܒ݂ܰܬܝܟܰܐܢ، ܕܝ ܕܰܦܐ ܕܰܡ 178-179
+<p>ܡܘ ܢܘܣܟ݂ܐ ܕܰܡ 167 ܕܘ ܒ݂ܰܬܝܟܰܐܢ، ܕܝ ܕܰܦܐ ܕܰܡ 178-179
 
-ܒܝ ܫܰܬܐ ܕܰܢ 1785 (= 1473-74) ܚܰܪܝܘܐ ܐܝ ܥܝܬܐ ܪܰܒܬ݂ܐ ܕܒܷܣܣܳܪܝܢܐ ܐܝ ܩܪܝܬ݂ܐ ܘܢܰܦܝܠܐ ܟܘܠܰܗ. 
-ܒܝ ܫܰܬܰܬ݂ܶܐ ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܟܘܠܠܶܗ ܘܡܫܰܕܰܪܪܶܗ ܬܪܶܐ ܩܰܫܶܐ ܠܡܰܪܕܶܐ [ܕܟܘܪܟ݂ܝ] ܥܰܠ ܐܰܪܕܝܟ݂ܠܶܐ (ܡܘܗܰܢܕܝܣ) ܕܡܰܥܰܡܪܝ ܐܝ ܥܝܬܐ. ܡܰܛܷܷܢ ܓܰܒ ܦܰܛܷܪܝܰܟ݂ܐ ܟ݂ܰܠܰܦ ܘܛܠܷܒܒܶܗ ܡܝܢܶܗ ܬܪܶܐ ܐܰܪܕܝܟ݂ܠܶܐ ܘܡܫܰܕܰܪܠܰܠܠܶܗ. ܡܫܰܕܰܪܠܶܗ ܐܰܥܡܰܝܝܶܗ ܐܘ ܐܰܒܪܐ ܕܝ ܚܳܬ݂ܰܝܕ݂ܶܗ ܐܘ ܡܰܦܷܪܝܳܢܐ ܒܰܣܝܠܝܘܤ ܥܱܙܝܙ. ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܗܰܘܷܢܢܶܗ ܡܳܪܐ ܓ݂ܱܠܱܒܶܐ ܘܐܰܢ ܐܰܒܢܰܬ݂ܬ݂ܶܗ ܘܰܐܢ ܢܝܫܰܬ݂ܬ݂ܶܗ ܣܬܶܐ. 
+</p><p>ܒܝ ܫܰܬܐ ܕܰܢ 1785 (= 1473-74) ܚܰܪܝܘܐ ܐܝ ܥܝܬܐ ܪܰܒܬ݂ܐ ܕܒܷܣܣܳܪܝܢܐ ܐܝ ܩܪܝܬ݂ܐ ܘܢܰܦܝܠܐ ܟܘܠܰܗ. 
+</p><p>ܒܝ ܫܰܬܰܬ݂ܶܐ ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܟܘܠܠܶܗ ܘܡܫܰܕܰܪܪܶܗ ܬܪܶܐ ܩܰܫܶܐ ܠܡܰܪܕܶܐ [ܕܟܘܪܟ݂ܝ] ܥܰܠ ܐܰܪܕܝܟ݂ܠܶܐ (ܡܘܗܰܢܕܝܣ) ܕܡܰܥܰܡܪܝ ܐܝ ܥܝܬܐ. ܡܰܛܷܷܢ ܓܰܒ ܦܰܛܷܪܝܰܟ݂ܐ ܟ݂ܰܠܰܦ ܘܛܠܷܒܒܶܗ ܡܝܢܶܗ ܬܪܶܐ ܐܰܪܕܝܟ݂ܠܶܐ ܘܡܫܰܕܰܪܠܰܠܠܶܗ. ܡܫܰܕܰܪܠܶܗ ܐܰܥܡܰܝܝܶܗ ܐܘ ܐܰܒܪܐ ܕܝ ܚܳܬ݂ܰܝܕ݂ܶܗ ܐܘ ܡܰܦܷܪܝܳܢܐ ܒܰܣܝܠܝܘܤ ܥܱܙܝܙ. ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܗܰܘܷܢܢܶܗ ܡܳܪܐ ܓ݂ܱܠܱܒܶܐ ܘܐܰܢ ܐܰܒܢܰܬ݂ܬ݂ܶܗ ܘܰܐܢ ܢܝܫܰܬ݂ܬ݂ܶܗ ܣܬܶܐ. 
 
-ܐܰܬ݂ܝ ܐܘ ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܛܘܪܥܰܒܕܝܢ، ܥܱܙܝܙ ܒܰܪ ܣܳܒܬܐ (ܐܘ ܐܰܒܪܐ ܕܝ ܣܰܘܬܐ)، ܘܟܘܠܠܶܗ ܐܰܚ ܚܰܣܝܶܐ ܕܝ ܡܰܢܛܷܩܰܐ ܐܰܥܡܶܗ ܘܣܳܠܰܩܘܰܐ ܐܘ ܒܷܢܝܳܢܐ ܝܰܘܡܐ ܒܘ ܝܰܘܡܐ.
-ܐܝܢܰܩܠܰܐ ܕܷܒܕܰܠܠܶܗ ܒܝ ܥܡܰܪܰܐ ܒܦܰܠܓܶܗ ܕܘ ܝܰܪܚܐ ܕܢܝܣܷܢ ܘܰܐ ܘܡܟܰܡܰܠܠܶܗ ܘ ܡܰܚܰܬܬܶܗ ܐܘ ܩܛܳܪܐ ܬܪܶܐ ܘܥܷܣܪܝ ܒܷܚܙܝܪܷܢ.
+</p><p>ܐܰܬ݂ܝ ܐܘ ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܛܘܪܥܰܒܕܝܢ، ܥܱܙܝܙ ܒܰܪ ܣܳܒܬܐ (ܐܘ ܐܰܒܪܐ ܕܝ ܣܰܘܬܐ)، ܘܟܘܠܠܶܗ ܐܰܚ ܚܰܣܝܶܐ ܕܝ ܡܰܢܛܷܩܰܐ ܐܰܥܡܶܗ ܘܣܳܠܰܩܘܰܐ ܐܘ ܒܷܢܝܳܢܐ ܝܰܘܡܐ ܒܘ ܝܰܘܡܐ.
+</p><p>ܐܝܢܰܩܠܰܐ ܕܷܒܕܰܠܠܶܗ ܒܝ ܥܡܰܪܰܐ ܒܦܰܠܓܶܗ ܕܘ ܝܰܪܚܐ ܕܢܝܣܷܢ ܘܰܐ ܘܡܟܰܡܰܠܠܶܗ ܘ ܡܰܚܰܬܬܶܗ ܐܘ ܩܛܳܪܐ ܬܪܶܐ ܘܥܷܣܪܝ ܒܷܚܙܝܪܷܢ.
 
-ܥܰܠ ܕܐܷܫܡܐ ܠܐ ܣܷܡܡܶܗ ܕܷܩܩܰܐ، ܝܰܥܢܝ ܗܰܘܝ ܥܟܣܝܝܶܐ ܒܰܝܢ ܠܰܡ ܡܘܗܰܢܕܝܣܝܢ ܘܠܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܥܰܠ ܐܘ ܩܰܠܷܒ ܕܰܩ ܩܰܝܣܶܐ ܕܬܰܚܬ ܐܘ ܩܛܳܪܐ، ܐܝܢܰܩܠܰܐ ܕܷܡܟܰܡܰܠܠܶܗ ܐܘ ܩܛܳܪܐ، ܬܘܝܪܝ ܐܰܩ ܩܰܝܣܶܐ ܬܰܚܬܶܗ ܘܢܰܦܷܠ ܐܘ ܩܛܳܪܐ. ܩܛܝܠܝ ܚܰܡܫܰܥܣܰܪ ܓܰܘܪܶܐ، ܬܪܶܐ ܕܰܝܪܳܝܶܐ ܘܚܰܐ ܩܰܫܐ ܥܰܠ ܕܠܐ ܣܷܡܡܶܗ ܕܷܩܩܰܐ ܕܣܷܢܕܝ ܐܘ ܩܰܠܷܒ ܕܘ ܩܛܳܪܐ ܘܠܐ ܡܰܚܰܬܬܰܠܠܶܗ ܥܰܡܘܕ݂ܶܐ ܬܰܚܬܶܗ ܕܣܷܢܕܝܠܶܗ، ܗܝܙ ܘܢܰܦܷܠ.
+</p><p>ܥܰܠ ܕܐܷܫܡܐ ܠܐ ܣܷܡܡܶܗ ܕܷܩܩܰܐ، ܝܰܥܢܝ ܗܰܘܝ ܥܟܣܝܝܶܐ ܒܰܝܢ ܠܰܡ ܡܘܗܰܢܕܝܣܝܢ ܘܠܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܥܰܠ ܐܘ ܩܰܠܷܒ ܕܰܩ ܩܰܝܣܶܐ ܕܬܰܚܬ ܐܘ ܩܛܳܪܐ، ܐܝܢܰܩܠܰܐ ܕܷܡܟܰܡܰܠܠܶܗ ܐܘ ܩܛܳܪܐ، ܬܘܝܪܝ ܐܰܩ ܩܰܝܣܶܐ ܬܰܚܬܶܗ ܘܢܰܦܷܠ ܐܘ ܩܛܳܪܐ. ܩܛܝܠܝ ܚܰܡܫܰܥܣܰܪ ܓܰܘܪܶܐ، ܬܪܶܐ ܕܰܝܪܳܝܶܐ ܘܚܰܐ ܩܰܫܐ ܥܰܠ ܕܠܐ ܣܷܡܡܶܗ ܕܷܩܩܰܐ ܕܣܷܢܕܝ ܐܘ ܩܰܠܷܒ ܕܘ ܩܛܳܪܐ ܘܠܐ ܡܰܚܰܬܬܰܠܠܶܗ ܥܰܡܘܕ݂ܶܐ ܬܰܚܬܶܗ ܕܣܷܢܕܝܠܶܗ، ܗܝܙ ܘܢܰܦܷܠ.
 
-ܒܢܰܩܠܰܐ ܚܙܶܠܰܢ ܕܷܨܠܝܚ ܐܘ ܫܘܪܐ ܕܒܰܝܢ ܠܘ ܗܰܝܟܠܐ ܠܘ ܡܰܕ݂ܷܒܚܐ ܘܟܰܠܷܢ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܒܘ ܫܘܪܐ. [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ (ܨܰܢܕܘܩܐ) ܪܰܒܐ ܕܝ ܟܶܦܐ ܕܘ ܫܝܫܐ ܚܶܘܳܪܐ [ܡܰܥܕܰܢ ܕܟܳܫܳܒܰܗ ܠܘ ܡܰܪܡܰܪ] ܘܟܰܠܶܗ ܡܰܚܬܐ ܐܶܒܶܗ ܐܘ ܦܰܓ݂ܪܐ ܕܡܳܪܝ ܕܳܕܐ ܘܐܝ ܔܷܡܔܷܡܰܝܕ݂ܶܗ ܕܠܐ ܟܶܣܳܝܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܰܝܝܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܘܐܘ ܦܰܓ݂ܪܐ ܕܡܳܪܝ ܕܳܕܐ.» [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ ܚܪܶܢܐ ܢܰܥܝܡܐ ܕܝ ܟܶܦܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܕܡܳܪܝ ܐܳܣܝܐ» ܘܰܐܡ ܡܢܰܘܳܬ݂ܶܐ ܐܶܒܶܗ [ܘܰܝܢܶܐ]. [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ ܚܪܶܢܐ ܕܘ ܩܰܝܣܐ ܟܳܡܐ ܘܐܶܒܶܗ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܕܡܳܪܝ ܐܰܚܐ».
-
-
-ܒܷܬ݂ܷܪ ܡܝ ܚܷܙܢܝܬܝܝܶܐ ܕܷܠܘܝܫܝܘܰܐ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܒܘ ܩܰܛܠܐ ܕܗܰܢܷܟ ܕܘ ܚܪܳܘܐ ܕܝ ܥܝܬܐ، ܗܰܘܝ ܐܰܠܠܶܗ ܣܱܗܰܠܰܐ ܓ݂ܱܠܱܒܶܐ ܒܝ ܚܙܰܝܬܐ ܕܰܡ ܡܢܰܘܳܬ݂ܶܐ، ܡܝܕ݂ܶܗ ܕܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܕܟܷܬܘܰܐ ܓܰܒܰܢ ܘܠܐ ܚܕ݂ܐ ܡܰܡ ܡܢܰܘܳܬ݂ܰܢܝ ܘܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܐܝ ܩܷܨܨܰܐ ܕܘ ܩܰܕܝܫܐ ܡܳܪܝ ܕܳܕܐ ܒܶܐ ܡܷܢ ܝܐ. ܚܷܫܘܝܘܰܝܢܐ ܕܟܷܬܘܰܐ ܚܰܐ ܡܰܬ ܬܰܠܡܝܕ݂ܶܐ ܕܡܳܪܝ ܐܰܘܓܝܢ. ܗܘܠ ܕܐܰܙܙܰܢ ܡܫܰܝܶܠܰܢ ܐܷܫܡܐ ܐܷܫܡܐ ܘܕܰܝܪܳܝܶܐ ܢܷܣܛܘܪܢܳܝܶܐ ܡܰܘܕ݂ܰܥܥܰܠܠܰܢ ܕܒܝ ܡܰܢܛܷܩܰܐ ܕܬܰܒܪܝܙ ܟܷܬܠܶܗ ܕܰܝܪܐ ܘܟܝܬ ܐܝ ܩܷܨܨܰܝܕ݂ܶܗ ܐܶܒܰܗ.
+</p><p>ܒܢܰܩܠܰܐ ܚܙܶܠܰܢ ܕܷܨܠܝܚ ܐܘ ܫܘܪܐ ܕܒܰܝܢ ܠܘ ܗܰܝܟܠܐ ܠܘ ܡܰܕ݂ܷܒܚܐ ܘܟܰܠܷܢ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܕܰܩ ܩܰܕܝܫܶܐ ܒܘ ܫܘܪܐ. [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ (ܨܰܢܕܘܩܐ) ܪܰܒܐ ܕܝ ܟܶܦܐ ܕܘ ܫܝܫܐ ܚܶܘܳܪܐ [ܡܰܥܕܰܢ ܕܟܳܫܳܒܰܗ ܠܘ ܡܰܪܡܰܪ] ܘܟܰܠܶܗ ܡܰܚܬܐ ܐܶܒܶܗ ܐܘ ܦܰܓ݂ܪܐ ܕܡܳܪܝ ܕܳܕܐ ܘܐܝ ܔܷܡܔܷܡܰܝܕ݂ܶܗ ܕܠܐ ܟܶܣܳܝܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܰܝܝܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܘܐܘ ܦܰܓ݂ܪܐ ܕܡܳܪܝ ܕܳܕܐ.» [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ ܚܪܶܢܐ ܢܰܥܝܡܐ ܕܝ ܟܶܦܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܕܡܳܪܝ ܐܳܣܝܐ» ܘܰܐܡ ܡܢܰܘܳܬ݂ܶܐ ܐܶܒܶܗ [ܘܰܝܢܶܐ]. [ܟܷܬܘܰܐ] ܓܠܘܣܩܡܐ ܚܪܶܢܐ ܕܘ ܩܰܝܣܐ ܟܳܡܐ ܘܐܶܒܶܗ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܘܟܬ݂ܰܘܬܐ ܐܰܥܠܶܗ: «ܗܰܢܐ ܝܐ ܐܘ ܓܠܘܣܩܡܐ ܕܡܳܪܝ ܐܰܚܐ».
 
 
-ܩܰܝܷܡ ܚܰܐ ܕܰܝܪܳܝܐ ܡܶܐ ܕܝܕ݂ܰܢ، ܐܝܢܰܩܠܰܐ ܕܫܰܡܷܥ ܗܰܬ݂ܶܐ، ܐܷܫܡܶܗ ܪܰܒܰܢ ܓܰܒܪܐܶܝܠ ܡܶܐ ܐܷܣܦܷܣ، ܠܝ ܓ݂ܝܪܰܐ ܡܷܕܠܰܗ ܘܐܙܙܶܗ ܠܣܝܕܘܣ، ܩܪܝܬ݂ܐ ܕܰܢ ܢܷܣܛܘܪܢܳܝܶܐ، ܕܒܝ ܡܰܢܛܷܩܰܐ ܕܬܰܒܪܝܙ، ܠܝ ܕܰܝܪܐ ܕܡܳܪܝ ܕܳܕܐ. ܣܷܡܠܶܗ ܪܘܚܶܗ ܥܰܒܳܕܐ ܡܝ ܥܝܬܐ ܕܝ ܘܱܠܰܝܶܐ ܕܷܢܨܝܘܷܢ ܘܙܒܷܛܛܰܠܠܶܗ ܩܱܕܷܪ. ܒܫܰܒܬ݂ܐ ܕܝܰܘܡܳܬ݂ܐ ܟܬ݂ܘܠܶܗ ܘܡܰܡܛܶܠܶܠܰܢ ܐܝ ܩܷܨܨܰܐ ܕܘ ܩܰܕܝܫܐ ܡܳܪܝ ܕܳܕܐ. ܛܠܝܒܳܘܰܝܠܶܗ ܡܘ ܣܰܥܳܪ ܕܬܰܡܐ ܕܩܳܪܶܠܰܗ. ܐܝܢܰܩܠܰܐ ܕܗܘܠܶܠܶܗ ܐܘ ܟܬ݂ܳܘܐ ܪܰܒܐ ܕܰܩ ܩܷܨܨܰܬ ܕܟܷܬܘܰܐ ܐܶܒܶܗ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ، ܣܝܡܳܠܶܗ ܩܳܦ݁ܝܰܐ ܒܝ ܐܝܕ݂ܐ ܘܡܰܡܛܶܠܶܠܰܢ ܝܐ. 
+</p><p>ܒܷܬ݂ܷܪ ܡܝ ܚܷܙܢܝܬܝܝܶܐ ܕܷܠܘܝܫܝܘܰܐ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܒܘ ܩܰܛܠܐ ܕܗܰܢܷܟ ܕܘ ܚܪܳܘܐ ܕܝ ܥܝܬܐ، ܗܰܘܝ ܐܰܠܠܶܗ ܣܱܗܰܠܰܐ ܓ݂ܱܠܱܒܶܐ ܒܝ ܚܙܰܝܬܐ ܕܰܡ ܡܢܰܘܳܬ݂ܶܐ، ܡܝܕ݂ܶܗ ܕܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܕܟܷܬܘܰܐ ܓܰܒܰܢ ܘܠܐ ܚܕ݂ܐ ܡܰܡ ܡܢܰܘܳܬ݂ܰܢܝ ܘܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܐܝ ܩܷܨܨܰܐ ܕܘ ܩܰܕܝܫܐ ܡܳܪܝ ܕܳܕܐ ܒܶܐ ܡܷܢ ܝܐ. ܚܷܫܘܝܘܰܝܢܐ ܕܟܷܬܘܰܐ ܚܰܐ ܡܰܬ ܬܰܠܡܝܕ݂ܶܐ ܕܡܳܪܝ ܐܰܘܓܝܢ. ܗܘܠ ܕܐܰܙܙܰܢ ܡܫܰܝܶܠܰܢ ܐܷܫܡܐ ܐܷܫܡܐ ܘܕܰܝܪܳܝܶܐ ܢܷܣܛܘܪܢܳܝܶܐ ܡܰܘܕ݂ܰܥܥܰܠܠܰܢ ܕܒܝ ܡܰܢܛܷܩܰܐ ܕܬܰܒܪܝܙ ܟܷܬܠܶܗ ܕܰܝܪܐ ܘܟܝܬ ܐܝ ܩܷܨܨܰܝܕ݂ܶܗ ܐܶܒܰܗ.
 
 
-ܚܙܶܠܰܢ ܐܶܒܰܗ ܬܷܚܟܝܝܐ ܒܰܣܝܡܐ ܘܓ݂ܱܠܱܒܶܐ ܓ݂ܱܠܱܒܶܐ ܥܔܘܒܰܬܰܬ. ܩܰܫܐ ܐܝܫܷܥ ܐܘ ܕܰܝܪܝܐ، ܐܘ ܐܰܒܪܐ ܕܩܰܫܐ ܐܶܫܰܥܝܐ ܣܷܡܠܶܗ ܡܝ ܩܷܨܨܰܐ ܛܷܟܣܐ، ܣܷܕ݂ܪܶܐ، ܚܘܣܳܝܶܐ، ܡܝܡܪܶܐ ܘܨܠܰܘܳܬ݂ܶܐ، ܡܝܕ݂ܶܗ ܕܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܡܷܢ ܝܐ ܐܘ ܕܘܒܳܪܰܝܕ݂ܶܗ.
+</p><p>ܩܰܝܷܡ ܚܰܐ ܕܰܝܪܳܝܐ ܡܶܐ ܕܝܕ݂ܰܢ، ܐܝܢܰܩܠܰܐ ܕܫܰܡܷܥ ܗܰܬ݂ܶܐ، ܐܷܫܡܶܗ ܪܰܒܰܢ ܓܰܒܪܐܶܝܠ ܡܶܐ ܐܷܣܦܷܣ، ܠܝ ܓ݂ܝܪܰܐ ܡܷܕܠܰܗ ܘܐܙܙܶܗ ܠܣܝܕܘܣ، ܩܪܝܬ݂ܐ ܕܰܢ ܢܷܣܛܘܪܢܳܝܶܐ، ܕܒܝ ܡܰܢܛܷܩܰܐ ܕܬܰܒܪܝܙ، ܠܝ ܕܰܝܪܐ ܕܡܳܪܝ ܕܳܕܐ. ܣܷܡܠܶܗ ܪܘܚܶܗ ܥܰܒܳܕܐ ܡܝ ܥܝܬܐ ܕܝ ܘܱܠܰܝܶܐ ܕܷܢܨܝܘܷܢ ܘܙܒܷܛܛܰܠܠܶܗ ܩܱܕܷܪ. ܒܫܰܒܬ݂ܐ ܕܝܰܘܡܳܬ݂ܐ ܟܬ݂ܘܠܶܗ ܘܡܰܡܛܶܠܶܠܰܢ ܐܝ ܩܷܨܨܰܐ ܕܘ ܩܰܕܝܫܐ ܡܳܪܝ ܕܳܕܐ. ܛܠܝܒܳܘܰܝܠܶܗ ܡܘ ܣܰܥܳܪ ܕܬܰܡܐ ܕܩܳܪܶܠܰܗ. ܐܝܢܰܩܠܰܐ ܕܗܘܠܶܠܶܗ ܐܘ ܟܬ݂ܳܘܐ ܪܰܒܐ ܕܰܩ ܩܷܨܨܰܬ ܕܟܷܬܘܰܐ ܐܶܒܶܗ ܓ݂ܱܠܱܒܶܐ ܡܶܕܳܢܶܐ، ܣܝܡܳܠܶܗ ܩܳܦ݁ܝܰܐ ܒܝ ܐܝܕ݂ܐ ܘܡܰܡܛܶܠܶܠܰܢ ܝܐ. 
 
-ܒܷܬ݂ܷܪܟܶܐ ܡܰܥܡܰܪܠܰܢ ܐܘ ܫܘܪܐ ܕܒܰܝܢ ܐܘ ܡܰܕ݂ܷܒܚܐ ܠܘ ܗܰܝܟܠܐ ܘܡܰܚܰܬܠܰܢ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܒܘ ܫܘܪܐ ܐܰܝܟܐ ܕܟܷܬܘܰܝܢܶܐ، ܔܓ݂ܶܝܪ ܡܝ ܔܷܡܔܷܡܶܐ ܕܡܳܪܝ ܕܳܕܐ ܕܡܰܚܬܳܠܰܢ ܒܷܓܠܘܣܩܡܐ ܕܘ ܣܶܡܐ ܕܟܷܬܘܰܝܠܰܗ. ܕܡܳܪܝ ܐܰܚܐ ܘܰܐܚ ܚܪܶܢܶܐ [ܡܰܚܬܝܠܰܢ ܒܷܓܠܘܣܩܡܐ] ܕܝ ܟܶܦܐ ܘܡܰܢܷܚܬܝܠܰܢ ܒܘ ܫܘܪܐ ܘܬܠܰܠܠܰܢ ܣܬܶܐ ܒܘ ܓܰܒܐ ܥܶܠܳܝܐ ܕܷܡܩܰܒܷܠ ܕܝ ܓܘܕܐ ܥܶܠܰܝܬܐ. 
 
-ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܡܟܰܡܰܠܠܶܗ ܘܡܟ݂ܰܡܰܠܠܶܗ ܐܘ ܡܰܕ݂ܷܒܚܐ ܘܐܘ ܗܰܝܟܠܐ ܒܟܘܠܠܶܗ ܐܰܡ ܡܶܕܳܢܶܐ ܕܠܳܙܰܡܘܰܐ ܘܣܷܡܡܶܗ ܒܘ ܡܰܕ݂ܷܒܚܐ ܩܘܒܐ ܕܰܩ ܩܰܝܣܶܐ ܝܰܥܢܝ ܩܕ݂ܘܫܩܘܕ݂ܫܝܢ ܓܰܘܳܝܐ ܒܐܝܕ݂ܶܗ ܕܩܰܫܐ ܐܰܕܰܝ ܐܘ ܢܰܓܳܪܐ، ܐܘ ܐܰܒܪܐ ܕܐܶܫܰܥܝܐ. 
+</p><p>ܚܙܶܠܰܢ ܐܶܒܰܗ ܬܷܚܟܝܝܐ ܒܰܣܝܡܐ ܘܓ݂ܱܠܱܒܶܐ ܓ݂ܱܠܱܒܶܐ ܥܔܘܒܰܬܰܬ. ܩܰܫܐ ܐܝܫܷܥ ܐܘ ܕܰܝܪܝܐ، ܐܘ ܐܰܒܪܐ ܕܩܰܫܐ ܐܶܫܰܥܝܐ ܣܷܡܠܶܗ ܡܝ ܩܷܨܨܰܐ ܛܷܟܣܐ، ܣܷܕ݂ܪܶܐ، ܚܘܣܳܝܶܐ، ܡܝܡܪܶܐ ܘܨܠܰܘܳܬ݂ܶܐ، ܡܝܕ݂ܶܗ ܕܠܷܐܕ݂ܥܝܘܰܝܢܰܐ ܡܷܢ ܝܐ ܐܘ ܕܘܒܳܪܰܝܕ݂ܶܗ.
+
+</p><p>ܒܷܬ݂ܷܪܟܶܐ ܡܰܥܡܰܪܠܰܢ ܐܘ ܫܘܪܐ ܕܒܰܝܢ ܐܘ ܡܰܕ݂ܷܒܚܐ ܠܘ ܗܰܝܟܠܐ ܘܡܰܚܰܬܠܰܢ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܒܘ ܫܘܪܐ ܐܰܝܟܐ ܕܟܷܬܘܰܝܢܶܐ، ܔܓ݂ܶܝܪ ܡܝ ܔܷܡܔܷܡܶܐ ܕܡܳܪܝ ܕܳܕܐ ܕܡܰܚܬܳܠܰܢ ܒܷܓܠܘܣܩܡܐ ܕܘ ܣܶܡܐ ܕܟܷܬܘܰܝܠܰܗ. ܕܡܳܪܝ ܐܰܚܐ ܘܰܐܚ ܚܪܶܢܶܐ [ܡܰܚܬܝܠܰܢ ܒܷܓܠܘܣܩܡܐ] ܕܝ ܟܶܦܐ ܘܡܰܢܷܚܬܝܠܰܢ ܒܘ ܫܘܪܐ ܘܬܠܰܠܠܰܢ ܣܬܶܐ ܒܘ ܓܰܒܐ ܥܶܠܳܝܐ ܕܷܡܩܰܒܷܠ ܕܝ ܓܘܕܐ ܥܶܠܰܝܬܐ. 
+
+<p>ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܡܟܰܡܰܠܠܶܗ ܘܡܟ݂ܰܡܰܠܠܶܗ ܐܘ ܡܰܕ݂ܷܒܚܐ ܘܐܘ ܗܰܝܟܠܐ ܒܟܘܠܠܶܗ ܐܰܡ ܡܶܕܳܢܶܐ ܕܠܳܙܰܡܘܰܐ ܘܣܷܡܡܶܗ ܒܘ ܡܰܕ݂ܷܒܚܐ ܩܘܒܐ ܕܰܩ ܩܰܝܣܶܐ ܝܰܥܢܝ ܩܕ݂ܘܫܩܘܕ݂ܫܝܢ ܓܰܘܳܝܐ ܒܐܝܕ݂ܶܗ ܕܩܰܫܐ ܐܰܕܰܝ ܐܘ ܢܰܓܳܪܐ، ܐܘ ܐܰܒܪܐ ܕܐܶܫܰܥܝܐ. 
 
 </p>
       </div>
@@ -137,18 +137,18 @@
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->  
-Mu nusxo dam 167 du Vatikan, bi dafo dam 178-179:
-Bi šato dan 1785 (= 1473-74) ḥariwo i cito rabṯo d Bëssorino i qriṯo w nafilo kula. 
-Bi šataṯe qayimi an noše di qriṯo kulle w mšadarre tre qaše l Marde [d kurxi] cal ardixle (muhandis) d macamri i cito. Maṭën gab Faṭëryarxo Xälaf w ṭlëbbe mine tre ardixle w mšadarlalle. Mšadarle acmayye u abro di ḥoṯayḏe u Mafëryono Basilius Cäziz. An noše di qriṯo hawënne moro ġäläbe w an abnaṯṯe w an nišaṯṯe ste.
-Aṯi u Faṭëryarxo d Ṭurcabdin, Cäziz bar Sobto (u abro di sawto), w kulle aḥ ḥasye di manṭëqa acme w solaqwa u bënyono yawmo bu yawmo.
-Inaqla dë bdalle bi cmara b falge du yarḥo d nisën wa w mkamalle i cmara kula w maḥatte u qṭoro 22 bë ḥzirën. 
-Cal d ëšmo lo sëmme dëqqa, yacni hawi caksiye bayn lam muhandisin w lan noše di qriṯo cal u qalëb daq qayse d taḥt u qṭoro, inaqla dë mkamalle u qṭoro, twiri aq qayse taḥte w nafël u qṭoro. Qṭili ḥamšacsar gawre, tre dayroye w ḥa qašo cal d lo sëmme dëqqa d sëndi u qalëb du qṭoro w lo maḥattalle camuḏe taḥte d sëndile, hiz w nafël. 
-B naqla ḥzelan dë ṣliḥ u šuro d bayn lu hayklo lu maḏëbḥo w kalën am mnawoṯe daq qadiše bu šuro. [Këtwa] Glusqmo (Ṣanduqo) rabo di kefo du šišo ḥeworo [macdan d košobah lu marmar] w kale maḥto ebe u faġro d Mor Dodo w i jëmjëmayḏe dlo kesoyo w kṯawto aclayye: “Hano yo u glusqmo w u faġro d Mor Dodo.” [Këtwa] glusqmo ḥreno nacimo di kefo w kṯawto acle: “Hano yo u glusqmo d Mor Osyo” w am mnawoṯe ebe [wayne]. [Këtwa] glusqmo ḥreno du qayso komo w ebe am mnawoṯe w kṯawto acle: “Hano yo u glusqmo d mor Aḥo”. 
-Bëṯër mi ḥëznitiye dë lwišiwa an noše di qriṯo bu qaṭlo d hanëk du ḥrowo di cito, hawi alle sähala ġäläbe bi ḥzayto dam mnawoṯe, miḏe d lëḏciwayna d këtwa gaban w lo ḥḏo mam mnawoṯani w lëḏciwayna i qëṣṣa du qadišo Mor Dodo be mën yo. Ḥëšwiwayna d këtwa ḥa mat talmiḏe d mor Awgin. Hul d azzan mšayelan ëšmo ëšmo w dayroye Nësturnoye mawḏaccallan d bi manṭëqa d Tabriz këtle dayro w kit i qëṣṣayḏe eba. 
-Qayëm ḥa dayroyo me diḏan, inaqla d šamëc haṯe, ëšme raban Gabriel me Ësfës, li ġira mëdla w azze l Sidus, qriṯo dan Nësṭurnoye, d bi manṭëqa d Tabriz, li dayro d mor Dodo. Sëmle ruḥe cabodo mi cito di wälaye dë Nṣiwën w zbëṭṭalle qadër. B šabṯo d yawmoṯo kṯule w mamṭelelan i qëṣṣa du qadišo mor Dodo. Ṭlibowayle mu sacor d tamo d qorela. Inaqla d hulele u kṯowo rabo daq qëṣṣat d këtwa ebe ġäläbe medone, simole qopya bi iḏo w mamṭelelan yo. 
-Ḥzelan eba tëḥkiyo basimo w ġäläbe ġäläbe cjubatat. Qašo Išëc u dayroyo, u abro d qašo Ešacyo sëmle mi qëṣṣa ṭëkso, sëḏre, ḥusoye, mimre w ṣlawoṯe, miḏe d lëḏciwayna mën yo u duborayḏe. 
-Bëṯërke macmarlan u šuro d bayn u maḏëbḥo lu hayklo w maḥatlan am mnawoṯe bu šuro ayko d këtwayne, jġer mi jëmjëme d Mor Dodo d maḥtolan bë glusqmo du semo d këtwayla. D mor Aḥo w aḥ ḥrene [maḥtilan bë glusqmo] di kefo w manëḥtilan bu šuro w tlallan ste bu gabo celoyo dë mqabël di gudo celayto. 
-Qayimi an noše di qriṯo mkamalle w mxamalle u maḏëbḥo w u hayklo b kulle am medone d lozamwa w sëmme bu maḏëbḥo qubo daq qayse yacni qḏušquḏšin gawoyo b iḏe d qašo Aday u nagoro, u abro d Ešacyo. 
+<p>Mu nusxo dam 167 du Vatikan, bi dafo dam 178-179:</p>
+<p>Bi šato dan 1785 (= 1473-74) ḥariwo i cito rabṯo d Bëssorino i qriṯo w nafilo kula. 
+</p><p>Bi šataṯe qayimi an noše di qriṯo kulle w mšadarre tre qaše l Marde [d kurxi] cal ardixle (muhandis) d macamri i cito. Maṭën gab Faṭëryarxo Xälaf w ṭlëbbe mine tre ardixle w mšadarlalle. Mšadarle acmayye u abro di ḥoṯayḏe u Mafëryono Basilius Cäziz. An noše di qriṯo hawënne moro ġäläbe w an abnaṯṯe w an nišaṯṯe ste.
+</p><p>Aṯi u Faṭëryarxo d Ṭurcabdin, Cäziz bar Sobto (u abro di sawto), w kulle aḥ ḥasye di manṭëqa acme w solaqwa u bënyono yawmo bu yawmo.
+</p><p>Inaqla dë bdalle bi cmara b falge du yarḥo d nisën wa w mkamalle i cmara kula w maḥatte u qṭoro 22 bë ḥzirën. 
+</p><p>Cal d ëšmo lo sëmme dëqqa, yacni hawi caksiye bayn lam muhandisin w lan noše di qriṯo cal u qalëb daq qayse d taḥt u qṭoro, inaqla dë mkamalle u qṭoro, twiri aq qayse taḥte w nafël u qṭoro. Qṭili ḥamšacsar gawre, tre dayroye w ḥa qašo cal d lo sëmme dëqqa d sëndi u qalëb du qṭoro w lo maḥattalle camuḏe taḥte d sëndile, hiz w nafël. 
+</p><p>B naqla ḥzelan dë ṣliḥ u šuro d bayn lu hayklo lu maḏëbḥo w kalën am mnawoṯe daq qadiše bu šuro. [Këtwa] Glusqmo (Ṣanduqo) rabo di kefo du šišo ḥeworo [macdan d košobah lu marmar] w kale maḥto ebe u faġro d Mor Dodo w i jëmjëmayḏe dlo kesoyo w kṯawto aclayye: “Hano yo u glusqmo w u faġro d Mor Dodo.” [Këtwa] glusqmo ḥreno nacimo di kefo w kṯawto acle: “Hano yo u glusqmo d Mor Osyo” w am mnawoṯe ebe [wayne]. [Këtwa] glusqmo ḥreno du qayso komo w ebe am mnawoṯe w kṯawto acle: “Hano yo u glusqmo d mor Aḥo”. 
+</p><p>Bëṯër mi ḥëznitiye dë lwišiwa an noše di qriṯo bu qaṭlo d hanëk du ḥrowo di cito, hawi alle sähala ġäläbe bi ḥzayto dam mnawoṯe, miḏe d lëḏciwayna d këtwa gaban w lo ḥḏo mam mnawoṯani w lëḏciwayna i qëṣṣa du qadišo Mor Dodo be mën yo. Ḥëšwiwayna d këtwa ḥa mat talmiḏe d mor Awgin. Hul d azzan mšayelan ëšmo ëšmo w dayroye Nësturnoye mawḏaccallan d bi manṭëqa d Tabriz këtle dayro w kit i qëṣṣayḏe eba. 
+</p><p>Qayëm ḥa dayroyo me diḏan, inaqla d šamëc haṯe, ëšme raban Gabriel me Ësfës, li ġira mëdla w azze l Sidus, qriṯo dan Nësṭurnoye, d bi manṭëqa d Tabriz, li dayro d mor Dodo. Sëmle ruḥe cabodo mi cito di wälaye dë Nṣiwën w zbëṭṭalle qadër. B šabṯo d yawmoṯo kṯule w mamṭelelan i qëṣṣa du qadišo mor Dodo. Ṭlibowayle mu sacor d tamo d qorela. Inaqla d hulele u kṯowo rabo daq qëṣṣat d këtwa ebe ġäläbe medone, simole qopya bi iḏo w mamṭelelan yo. 
+</p><p>Ḥzelan eba tëḥkiyo basimo w ġäläbe ġäläbe cjubatat. Qašo Išëc u dayroyo, u abro d qašo Ešacyo sëmle mi qëṣṣa ṭëkso, sëḏre, ḥusoye, mimre w ṣlawoṯe, miḏe d lëḏciwayna mën yo u duborayḏe. 
+</p><p>Bëṯërke macmarlan u šuro d bayn u maḏëbḥo lu hayklo w maḥatlan am mnawoṯe bu šuro ayko d këtwayne, jġer mi jëmjëme d Mor Dodo d maḥtolan bë glusqmo du semo d këtwayla. D mor Aḥo w aḥ ḥrene [maḥtilan bë glusqmo] di kefo w manëḥtilan bu šuro w tlallan ste bu gabo celoyo dë mqabël di gudo celayto. 
+</p><p>Qayimi an noše di qriṯo mkamalle w mxamalle u maḏëbḥo w u hayklo b kulle am medone d lozamwa w sëmme bu maḏëbḥo qubo daq qayse yacni qḏušquḏšin gawoyo b iḏe d qašo Aday u nagoro, u abro d Ešacyo. 
 
 </p>
       </div>
