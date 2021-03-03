@@ -107,7 +107,8 @@
           <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
 <p>ܡܘ ܢܘܣܟ݂ܐ ܕܰܡ 167 ܕܘ ܒ݂ܰܬܝܟܰܐܢ، ܕܝ ܕܰܦܐ ܕܰܡ 178-179
 
-</p><p>ܒܝ ܫܰܬܐ ܕܰܢ 1785 (= 1473-74) ܚܰܪܝܘܐ ܐܝ ܥܝܬܐ ܪܰܒܬ݂ܐ ܕܒܷܣܣܳܪܝܢܐ ܐܝ ܩܪܝܬ݂ܐ ܘܢܰܦܝܠܐ ܟܘܠܰܗ. 
+</p><p xml:lang="tru">
+          <anchor xml:id="test.syr.2" corresp="test.latn.2"/>ܒܝ ܫܰܬܐ ܕܰܢ 1785 (= 1473-74) ܚܰܪܝܘܐ ܐܝ ܥܝܬܐ ܪܰܒܬ݂ܐ ܕܒܷܣܣܳܪܝܢܐ ܐܝ ܩܪܝܬ݂ܐ ܘܢܰܦܝܠܐ ܟܘܠܰܗ. 
 </p><p>ܒܝ ܫܰܬܰܬ݂ܶܐ ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܟܘܠܠܶܗ ܘܡܫܰܕܰܪܪܶܗ ܬܪܶܐ ܩܰܫܶܐ ܠܡܰܪܕܶܐ [ܕܟܘܪܟ݂ܝ] ܥܰܠ ܐܰܪܕܝܟ݂ܠܶܐ (ܡܘܗܰܢܕܝܣ) ܕܡܰܥܰܡܪܝ ܐܝ ܥܝܬܐ. ܡܰܛܷܷܢ ܓܰܒ ܦܰܛܷܪܝܰܟ݂ܐ ܟ݂ܰܠܰܦ ܘܛܠܷܒܒܶܗ ܡܝܢܶܗ ܬܪܶܐ ܐܰܪܕܝܟ݂ܠܶܐ ܘܡܫܰܕܰܪܠܰܠܠܶܗ. ܡܫܰܕܰܪܠܶܗ ܐܰܥܡܰܝܝܶܗ ܐܘ ܐܰܒܪܐ ܕܝ ܚܳܬ݂ܰܝܕ݂ܶܗ ܐܘ ܡܰܦܷܪܝܳܢܐ ܒܰܣܝܠܝܘܤ ܥܱܙܝܙ. ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܗܰܘܷܢܢܶܗ ܡܳܪܐ ܓ݂ܱܠܱܒܶܐ ܘܐܰܢ ܐܰܒܢܰܬ݂ܬ݂ܶܗ ܘܰܐܢ ܢܝܫܰܬ݂ܬ݂ܶܗ ܣܬܶܐ. 
 
 </p><p>ܐܰܬ݂ܝ ܐܘ ܦܰܛܷܪܝܰܪܟ݂ܐ ܕܛܘܪܥܰܒܕܝܢ، ܥܱܙܝܙ ܒܰܪ ܣܳܒܬܐ (ܐܘ ܐܰܒܪܐ ܕܝ ܣܰܘܬܐ)، ܘܟܘܠܠܶܗ ܐܰܚ ܚܰܣܝܶܐ ܕܝ ܡܰܢܛܷܩܰܐ ܐܰܥܡܶܗ ܘܣܳܠܰܩܘܰܐ ܐܘ ܒܷܢܝܳܢܐ ܝܰܘܡܐ ܒܘ ܝܰܘܡܐ.
@@ -138,7 +139,8 @@
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->  
 <p>Mu nusxo dam 167 du Vatikan, bi dafo dam 178-179:</p>
-<p>Bi šato dan 1785 (= 1473-74) ḥariwo i cito rabṯo d Bëssorino i qriṯo w nafilo kula. 
+<p xml:lang="en">
+          <anchor xml:id="test.latn.2" corresp="test.syr.2"/>Bi šato dan 1785 (= 1473-74) ḥariwo i cito rabṯo d Bëssorino i qriṯo w nafilo kula. 
 </p><p>Bi šataṯe qayimi an noše di qriṯo kulle w mšadarre tre qaše l Marde [d kurxi] cal ardixle (muhandis) d macamri i cito. Maṭën gab Faṭëryarxo Xälaf w ṭlëbbe mine tre ardixle w mšadarlalle. Mšadarle acmayye u abro di ḥoṯayḏe u Mafëryono Basilius Cäziz. An noše di qriṯo hawënne moro ġäläbe w an abnaṯṯe w an nišaṯṯe ste.
 </p><p>Aṯi u Faṭëryarxo d Ṭurcabdin, Cäziz bar Sobto (u abro di sawto), w kulle aḥ ḥasye di manṭëqa acme w solaqwa u bënyono yawmo bu yawmo.
 </p><p>Inaqla dë bdalle bi cmara b falge du yarḥo d nisën wa w mkamalle i cmara kula w maḥatte u qṭoro 22 bë ḥzirën. 
