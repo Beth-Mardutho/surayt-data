@@ -102,10 +102,8 @@
       <div type="surayt">
         <p xml:lang="tru">
           <anchor xml:id="test.syr.1" corresp="test.latn.1"/>
-          <!-- The xml:id and corresp id system is how you can align paragraphs. The "xml:id" declares an identity for this paragraph, and the corresp links it to another paragraph that has a declared name elsewhere -->
-          <!-- So, we need a system in place that can easily be reproduced to label paragraphs -->
-          <!-- I might recommend something like this: filename.text.1 where you replace "filename" with whatever you're calling the file, text represents the surayt text (as opposed to transcription below) and then the paragraphs are numbered sequentially -->
-<p>ܡܘ ܢܘܣܟ݂ܐ ܕܰܡ 167 ܕܘ ܒ݂ܰܬܝܟܰܐܢ، ܕܝ ܕܰܦܐ ܕܰܡ 178-179
+		  
+ܡܘ ܢܘܣܟ݂ܐ ܕܰܡ 167 ܕܘ ܒ݂ܰܬܝܟܰܐܢ، ܕܝ ܕܰܦܐ ܕܰܡ 178-179
 
 </p><p xml:lang="tru">
           <anchor xml:id="test.syr.2" corresp="test.latn.2"/>ܒܝ ܫܰܬܐ ܕܰܢ 1785 (= 1473-74) ܚܰܪܝܘܐ ܐܝ ܥܝܬܐ ܪܰܒܬ݂ܐ ܕܒܷܣܣܳܪܝܢܐ ܐܝ ܩܪܝܬ݂ܐ ܘܢܰܦܝܠܐ ܟܘܠܰܗ. </p>
@@ -129,17 +127,15 @@
 
 </p><p>ܒܷܬ݂ܷܪܟܶܐ ܡܰܥܡܰܪܠܰܢ ܐܘ ܫܘܪܐ ܕܒܰܝܢ ܐܘ ܡܰܕ݂ܷܒܚܐ ܠܘ ܗܰܝܟܠܐ ܘܡܰܚܰܬܠܰܢ ܐܰܡ ܡܢܰܘܳܬ݂ܶܐ ܒܘ ܫܘܪܐ ܐܰܝܟܐ ܕܟܷܬܘܰܝܢܶܐ، ܔܓ݂ܶܝܪ ܡܝ ܔܷܡܔܷܡܶܐ ܕܡܳܪܝ ܕܳܕܐ ܕܡܰܚܬܳܠܰܢ ܒܷܓܠܘܣܩܡܐ ܕܘ ܣܶܡܐ ܕܟܷܬܘܰܝܠܰܗ. ܕܡܳܪܝ ܐܰܚܐ ܘܰܐܚ ܚܪܶܢܶܐ [ܡܰܚܬܝܠܰܢ ܒܷܓܠܘܣܩܡܐ] ܕܝ ܟܶܦܐ ܘܡܰܢܷܚܬܝܠܰܢ ܒܘ ܫܘܪܐ ܘܬܠܰܠܠܰܢ ܣܬܶܐ ܒܘ ܓܰܒܐ ܥܶܠܳܝܐ ܕܷܡܩܰܒܷܠ ܕܝ ܓܘܕܐ ܥܶܠܰܝܬܐ. 
 
-<p>ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܡܟܰܡܰܠܠܶܗ ܘܡܟ݂ܰܡܰܠܠܶܗ ܐܘ ܡܰܕ݂ܷܒܚܐ ܘܐܘ ܗܰܝܟܠܐ ܒܟܘܠܠܶܗ ܐܰܡ ܡܶܕܳܢܶܐ ܕܠܳܙܰܡܘܰܐ ܘܣܷܡܡܶܗ ܒܘ ܡܰܕ݂ܷܒܚܐ ܩܘܒܐ ܕܰܩ ܩܰܝܣܶܐ ܝܰܥܢܝ ܩܕ݂ܘܫܩܘܕ݂ܫܝܢ ܓܰܘܳܝܐ ܒܐܝܕ݂ܶܗ ܕܩܰܫܐ ܐܰܕܰܝ ܐܘ ܢܰܓܳܪܐ، ܐܘ ܐܰܒܪܐ ܕܐܶܫܰܥܝܐ. 
-
+<p>ܩܰܝܝܡܝ ܐܰܢ ܢܳܫܶܐ ܕܝ ܩܪܝܬ݂ܐ ܡܟܰܡܰܠܠܶܗ ܘܡܟ݂ܰܡܰܠܠܶܗ ܐܘ ܡܰܕ݂ܷܒܚܐ ܘܐܘ ܗܰܝܟܠܐ ܒܟܘܠܠܶܗ ܐܰܡ ܡܶܕܳܢܶܐ ܕܠܳܙܰܡܘܰܐ ܘܣܷܡܡܶܗ ܒܘ ܡܰܕ݂ܷܒܚܐ ܩܘܒܐ ܕܰܩ ܩܰܝܣܶܐ ܝܰܥܢܝ ܩܕ݂ܘܫܩܘܕ݂ܫܝܢ ܓܰܘܳܝܐ ܒܐܝܕ݂ܶܗ ܕܩܰܫܐ ܐܰܕܰܝ ܐܘ ܢܰܓܳܪܐ، ܐܘ ܐܰܒܪܐ ܕܐܶܫܰܥܝܐ. </p>
 </p>
-      </div>
-	  
+	  </div>
 	  <div type="transcription">
         <p xml:lang="en">
           <anchor xml:id="test.latn.1" corresp="test.syr.1"/>
           <!-- For the xml:id in this div, you would want to change the system so that it says filename.trans.1 -->  
 <p>Mu nusxo dam 167 du Vatikan, bi dafo dam 178-179:</p>
-<p xml:lang="en">
+<p xml:lang="en"></p>
           <anchor xml:id="test.latn.2" corresp="test.syr.2"/>Bi šato dan 1785 (= 1473-74) ḥariwo i cito rabṯo d Bëssorino i qriṯo w nafilo kula. </p>
 
 <p>Bi šataṯe qayimi an noše di qriṯo kulle w mšadarre tre qaše l Marde [d kurxi] cal ardixle (muhandis) d macamri i cito. Maṭën gab Faṭëryarxo Xälaf w ṭlëbbe mine tre ardixle w mšadarlalle. Mšadarle acmayye u abro di ḥoṯayḏe u Mafëryono Basilius Cäziz. An noše di qriṯo hawënne moro ġäläbe w an abnaṯṯe w an nišaṯṯe ste.
