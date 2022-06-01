@@ -14,7 +14,7 @@
                 <sponsor>Midyat Süryani Kültür Dernegi</sponsor>
                 <funder/><!-- You can list funders seperate from sponsors -->
 
-                <<editor role="editor">
+                <editor role="editor">
           <name><roleName>Prof. Dr.</roleName><forename>Shabo</forename><surname>Talay</surname></name>
         </editor>
                 <!-- Repeat editor role for each individual editor -->
